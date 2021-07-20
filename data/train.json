@@ -1,0 +1,550 @@
+{
+	"version": "v2.0",
+	"data": [
+		{
+			"title": "sge",
+			"paragraphs": [
+				{
+					"qas": [
+						{
+							"question": "reserves?",
+							"id": "1lydgsgvpll",
+							"answers": [
+								{
+									"text": "068",
+									"answer_start": 12
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "total?",
+							"id": "6pudnt",
+							"answers": [
+								{
+									"text": "695",
+									"answer_start": 24
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "reserves : 068 total : 695 "
+				},
+				{
+					"qas": [
+						{
+							"question": "total?",
+							"id": "3lmxebw",
+							"answers": [
+								{
+									"text": "7089",
+									"answer_start": 9
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "reserves?",
+							"id": "3mvn",
+							"answers": [
+								{
+									"text": "98419",
+									"answer_start": 25
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "total : 7089 reserves : 98419 "
+				},
+				{
+					"qas": [
+						{
+							"question": "reserves?",
+							"id": "1fomz",
+							"answers": [
+								{
+									"text": "38",
+									"answer_start": 12
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "total?",
+							"id": "7idp",
+							"answers": [
+								{
+									"text": "15089",
+									"answer_start": 23
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "reserves : 38 total : 15089 "
+				},
+				{
+					"qas": [
+						{
+							"question": "total?",
+							"id": "1bmzdbon",
+							"answers": [
+								{
+									"text": "0",
+									"answer_start": 9
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "reserves?",
+							"id": "7gujmithhd",
+							"answers": [
+								{
+									"text": "1188603",
+									"answer_start": 22
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "total : 0 reserves : 1188603 "
+				},
+				{
+					"qas": [
+						{
+							"question": "reserves?",
+							"id": "7cacvuw",
+							"answers": [
+								{
+									"text": "9",
+									"answer_start": 12
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "total?",
+							"id": "1hontuxc",
+							"answers": [
+								{
+									"text": "1",
+									"answer_start": 22
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "reserves : 9 total : 1 "
+				},
+				{
+					"qas": [
+						{
+							"question": "reserves?",
+							"id": "8skaj",
+							"answers": [
+								{
+									"text": "0",
+									"answer_start": 12
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "total?",
+							"id": "0jlx",
+							"answers": [
+								{
+									"text": "9",
+									"answer_start": 22
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "reserves : 0 total : 9 "
+				},
+				{
+					"qas": [
+						{
+							"question": "reserves?",
+							"id": "1koh",
+							"answers": [
+								{
+									"text": "93240001",
+									"answer_start": 12
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "total?",
+							"id": "4nawvxkgku",
+							"answers": [
+								{
+									"text": "9863918",
+									"answer_start": 29
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "reserves : 93240001 total : 9863918 "
+				},
+				{
+					"qas": [
+						{
+							"question": "total?",
+							"id": "5xdmavhmyy",
+							"answers": [
+								{
+									"text": "24",
+									"answer_start": 9
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "reserves?",
+							"id": "4wvcjj",
+							"answers": [
+								{
+									"text": "6631",
+									"answer_start": 23
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "total : 24 reserves : 6631 "
+				},
+				{
+					"qas": [
+						{
+							"question": "total?",
+							"id": "3slxvvomxil",
+							"answers": [
+								{
+									"text": "52601151",
+									"answer_start": 9
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "reserves?",
+							"id": "4cl",
+							"answers": [
+								{
+									"text": "15",
+									"answer_start": 29
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "total : 52601151 reserves : 15 "
+				},
+				{
+					"qas": [
+						{
+							"question": "reserves?",
+							"id": "5cujprtc",
+							"answers": [
+								{
+									"text": "305157",
+									"answer_start": 12
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "total?",
+							"id": "8k",
+							"answers": [
+								{
+									"text": "75325440",
+									"answer_start": 27
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "reserves : 305157 total : 75325440 "
+				},
+				{
+					"qas": [
+						{
+							"question": "total?",
+							"id": "2tkpoolmrmk",
+							"answers": [
+								{
+									"text": "32",
+									"answer_start": 18
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "reserves?",
+							"id": "6b",
+							"answers": [
+								{
+									"text": "0342338395",
+									"answer_start": 21
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "total reserves : 32 0342338395 "
+				},
+				{
+					"qas": [
+						{
+							"question": "total?",
+							"id": "4pt",
+							"answers": [
+								{
+									"text": "114610831",
+									"answer_start": 18
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "reserves?",
+							"id": "7qdzxx",
+							"answers": [
+								{
+									"text": "455492",
+									"answer_start": 28
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "total reserves : 114610831 455492 "
+				},
+				{
+					"qas": [
+						{
+							"question": "total?",
+							"id": "6jy",
+							"answers": [
+								{
+									"text": "26369",
+									"answer_start": 18
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "reserves?",
+							"id": "3f",
+							"answers": [
+								{
+									"text": "2",
+									"answer_start": 24
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "total reserves : 26369 2 "
+				},
+				{
+					"qas": [
+						{
+							"question": "total?",
+							"id": "0gldzpy",
+							"answers": [
+								{
+									"text": "087145019",
+									"answer_start": 18
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "reserves?",
+							"id": "6uxfxzh",
+							"answers": [
+								{
+									"text": "323252664",
+									"answer_start": 28
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "total reserves : 087145019 323252664 "
+				},
+				{
+					"qas": [
+						{
+							"question": "total?",
+							"id": "5kkgzbps",
+							"answers": [
+								{
+									"text": "4645047915",
+									"answer_start": 18
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "reserves?",
+							"id": "6fdi",
+							"answers": [
+								{
+									"text": "6915",
+									"answer_start": 29
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "total reserves : 4645047915 6915 "
+				},
+				{
+					"qas": [
+						{
+							"question": "reserves?",
+							"id": "7qt",
+							"answers": [
+								{
+									"text": "6955",
+									"answer_start": 18
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "total?",
+							"id": "9ejdct",
+							"answers": [
+								{
+									"text": "3979247392",
+									"answer_start": 23
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "reserves total : 6955 3979247392 "
+				},
+				{
+					"qas": [
+						{
+							"question": "reserves?",
+							"id": "0ayrlikbk",
+							"answers": [
+								{
+									"text": "3593",
+									"answer_start": 18
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "total?",
+							"id": "6xaclrjuqy",
+							"answers": [
+								{
+									"text": "01805314",
+									"answer_start": 23
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "reserves total : 3593 01805314 "
+				},
+				{
+					"qas": [
+						{
+							"question": "reserves?",
+							"id": "2aclugdhbr",
+							"answers": [
+								{
+									"text": "970477",
+									"answer_start": 18
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "total?",
+							"id": "8pnvwtfpww",
+							"answers": [
+								{
+									"text": "6356148",
+									"answer_start": 25
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "reserves total : 970477 6356148 "
+				},
+				{
+					"qas": [
+						{
+							"question": "reserves?",
+							"id": "9uuymcak",
+							"answers": [
+								{
+									"text": "961456",
+									"answer_start": 18
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "total?",
+							"id": "3bkujt",
+							"answers": [
+								{
+									"text": "5267",
+									"answer_start": 25
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "reserves total : 961456 5267 "
+				},
+				{
+					"qas": [
+						{
+							"question": "reserves?",
+							"id": "6oat",
+							"answers": [
+								{
+									"text": "148888",
+									"answer_start": 18
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "total?",
+							"id": "1bdlcqbcc",
+							"answers": [
+								{
+									"text": "6437426271",
+									"answer_start": 25
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "reserves total : 148888 6437426271 "
+				}
+			]
+		}
+	]
+}

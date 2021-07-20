@@ -1,0 +1,152 @@
+{
+	"version": "v2.0",
+	"data": [
+		{
+			"title": "rnzgfp",
+			"paragraphs": [
+				{
+					"qas": [
+						{
+							"question": "Claims Paid FT?",
+							"id": "9sdexdk",
+							"answers": [
+								{
+									"text": "91605",
+									"answer_start": 19
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "Claims Paid TP?",
+							"id": "3u",
+							"answers": [
+								{
+									"text": "25801",
+									"answer_start": 30
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "Claims Paid AD?",
+							"id": "4irv",
+							"answers": [
+								{
+									"text": "0017",
+									"answer_start": 41
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "Claims Outstanding FT?",
+							"id": "3mpdkxglbn",
+							"answers": [
+								{
+									"text": "805",
+									"answer_start": 73
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "Claims Outstanding TP?",
+							"id": "2weybefs",
+							"answers": [
+								{
+									"text": "6886239773",
+									"answer_start": 82
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "Claims Outstanding AD?",
+							"id": "7cswcgwntv",
+							"answers": [
+								{
+									"text": "5756",
+									"answer_start": 98
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "Claims Paid  FT : 91605 TP : 25801 AD : 0017 ! Claims Outstanding  FT : 805 TP : 6886239773 AD : 5756 ! "
+				},
+				{
+					"qas": [
+						{
+							"question": "Claims Paid FT?",
+							"id": "3vgtwfjoek",
+							"answers": [
+								{
+									"text": "6593",
+									"answer_start": 19
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "Claims Paid TP?",
+							"id": "4z",
+							"answers": [
+								{
+									"text": "6555",
+									"answer_start": 29
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "Claims Paid AD?",
+							"id": "6ita",
+							"answers": [
+								{
+									"text": "51",
+									"answer_start": 39
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "Claims Outstanding FT?",
+							"id": "1nwbcblui",
+							"answers": [
+								{
+									"text": "77",
+									"answer_start": 69
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "Claims Outstanding TP?",
+							"id": "6ratfczwdw",
+							"answers": [
+								{
+									"text": "0267902021",
+									"answer_start": 77
+								}
+							],
+							"is_impossible": "false"
+						},
+						{
+							"question": "Claims Outstanding AD?",
+							"id": "7cglanaior",
+							"answers": [
+								{
+									"text": "974193084",
+									"answer_start": 93
+								}
+							],
+							"is_impossible": "false"
+						}
+					],
+					"context": "Claims Paid  FT : 6593 TP : 6555 AD : 51 ! Claims Outstanding  FT : 77 TP : 0267902021 AD : 974193084 ! "
+				}
+			]
+		}
+	]
+}
