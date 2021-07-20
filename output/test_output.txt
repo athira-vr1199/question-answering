@@ -1,0 +1,56 @@
+Context: total reserves : 1999 200 !
+Question: total?
+Answer: 1999
+
+Context: reserves total : 10 9956422 !
+Question: reserves?
+Answer: 10
+
+Context: total reserves : 45127 0 !
+Question: reserves?
+Answer: 0
+
+Context: reserves total : 0 10 !
+Question: total?
+Answer: 10
+
+Context: reserves total : 6 0 !
+Question: reserves?
+Answer: 6
+
+Context: reserves total : 60 !
+Question: reserves total?
+Answer: 60
+
+Context: reserves : 874 ! total : 9562 !
+Question: total?
+Answer: 9562
+
+Context: reserves : 74 ! total : 62 !
+Question: reserves?
+Answer: 74
+
+Context: total amount : 1999 89 ! country : India !
+Question: amount?
+Answer: 89
+
+Context: total amount : 1999 89 ! country : India !
+Question: total?
+Answer: 1999
+
+Context: total amount : 1999 89  ! country : India !
+Question: country?
+Answer: india
+
+Context: total amount : 1999 ! country : India !
+Question: total amount?
+Answer: 1999
+
+Context: Name:Athira amount:2000 ! date place : 07/06/2021 Kerala ! 
+Question: date?
+Answer: 07/06/2021
+
+Context: Name:Athira amount:2000 ! place date: Kerala  07/06/2021 !
+Question: date?
+Answer: 07/06/2021
+

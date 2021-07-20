@@ -1,0 +1,2403 @@
+Context: claims paid  HK : 342 YW : 816712 AB : 4132356440 ! claims outstanding  HK : 801145 YW : 46 AB : 546958 ! 
+Question: claims paid HK?
+Answer: 342
+
+Context: claims paid  HK : 342 YW : 816712 AB : 4132356440 ! claims outstanding  HK : 801145 YW : 46 AB : 546958 ! 
+Question: claims paid YW?
+Answer: 816712
+
+Context: claims paid  HK : 342 YW : 816712 AB : 4132356440 ! claims outstanding  HK : 801145 YW : 46 AB : 546958 ! 
+Question: claims paid AB?
+Answer: empty - Wrong answer
+
+Context: claims paid  HK : 342 YW : 816712 AB : 4132356440 ! claims outstanding  HK : 801145 YW : 46 AB : 546958 ! 
+Question: claims outstanding HK?
+Answer: 801145
+
+Context: claims paid  HK : 342 YW : 816712 AB : 4132356440 ! claims outstanding  HK : 801145 YW : 46 AB : 546958 ! 
+Question: claims outstanding YW?
+Answer: 46
+
+Context: claims paid  HK : 342 YW : 816712 AB : 4132356440 ! claims outstanding  HK : 801145 YW : 46 AB : 546958 ! 
+Question: claims outstanding AB?
+Answer: 546958
+
+Context: claims paid  AB : 5306496870 HK : 7266363 YW : 38 ! claims outstanding  AB : 3 HK : 02580976 YW : 688293 ! 
+Question: claims paid AB?
+Answer: 5306496870
+
+Context: claims paid  AB : 5306496870 HK : 7266363 YW : 38 ! claims outstanding  AB : 3 HK : 02580976 YW : 688293 ! 
+Question: claims paid HK?
+Answer: 7266363
+
+Context: claims paid  AB : 5306496870 HK : 7266363 YW : 38 ! claims outstanding  AB : 3 HK : 02580976 YW : 688293 ! 
+Question: claims paid YW?
+Answer: 38
+
+Context: claims paid  AB : 5306496870 HK : 7266363 YW : 38 ! claims outstanding  AB : 3 HK : 02580976 YW : 688293 ! 
+Question: claims outstanding AB?
+Answer: 3
+
+Context: claims paid  AB : 5306496870 HK : 7266363 YW : 38 ! claims outstanding  AB : 3 HK : 02580976 YW : 688293 ! 
+Question: claims outstanding HK?
+Answer: 3 - Wrong answer
+
+Context: claims paid  AB : 5306496870 HK : 7266363 YW : 38 ! claims outstanding  AB : 3 HK : 02580976 YW : 688293 ! 
+Question: claims outstanding YW?
+Answer: empty - Wrong answer
+
+Context: claims paid  HK : 7068741158 YW : 6304 AB : 262 ! claims outstanding  HK : 641519119 YW : 38071345 AB : 6667909 ! 
+Question: claims paid HK?
+Answer: 7068741158 yw : 6304 ab : 262 - Wrong answer
+
+Context: claims paid  HK : 7068741158 YW : 6304 AB : 262 ! claims outstanding  HK : 641519119 YW : 38071345 AB : 6667909 ! 
+Question: claims paid YW?
+Answer: 262 - Wrong answer
+
+Context: claims paid  HK : 7068741158 YW : 6304 AB : 262 ! claims outstanding  HK : 641519119 YW : 38071345 AB : 6667909 ! 
+Question: claims paid AB?
+Answer: 262
+
+Context: claims paid  HK : 7068741158 YW : 6304 AB : 262 ! claims outstanding  HK : 641519119 YW : 38071345 AB : 6667909 ! 
+Question: claims outstanding HK?
+Answer: 641519119
+
+Context: claims paid  HK : 7068741158 YW : 6304 AB : 262 ! claims outstanding  HK : 641519119 YW : 38071345 AB : 6667909 ! 
+Question: claims outstanding YW?
+Answer: empty - Wrong answer
+
+Context: claims paid  HK : 7068741158 YW : 6304 AB : 262 ! claims outstanding  HK : 641519119 YW : 38071345 AB : 6667909 ! 
+Question: claims outstanding AB?
+Answer: 6667909
+
+Context: claims paid  YW : 5220 HK : 12153184 AB : 7896 ! claims outstanding  YW : 9 HK : 0868975 AB : 5305347 ! 
+Question: claims paid YW?
+Answer: empty - Wrong answer
+
+Context: claims paid  YW : 5220 HK : 12153184 AB : 7896 ! claims outstanding  YW : 9 HK : 0868975 AB : 5305347 ! 
+Question: claims paid HK?
+Answer: 12153184
+
+Context: claims paid  YW : 5220 HK : 12153184 AB : 7896 ! claims outstanding  YW : 9 HK : 0868975 AB : 5305347 ! 
+Question: claims paid AB?
+Answer: empty - Wrong answer
+
+Context: claims paid  YW : 5220 HK : 12153184 AB : 7896 ! claims outstanding  YW : 9 HK : 0868975 AB : 5305347 ! 
+Question: claims outstanding YW?
+Answer: 0868975 - Wrong answer
+
+Context: claims paid  YW : 5220 HK : 12153184 AB : 7896 ! claims outstanding  YW : 9 HK : 0868975 AB : 5305347 ! 
+Question: claims outstanding HK?
+Answer: 0868975
+
+Context: claims paid  YW : 5220 HK : 12153184 AB : 7896 ! claims outstanding  YW : 9 HK : 0868975 AB : 5305347 ! 
+Question: claims outstanding AB?
+Answer: 5305347
+
+Context: claims paid  HK : 8076 AB : 1288482 YW : 9969248571 ! claims outstanding  HK : 7 AB : 98053959 YW : 09089 ! 
+Question: claims paid HK?
+Answer: 8076
+
+Context: claims paid  HK : 8076 AB : 1288482 YW : 9969248571 ! claims outstanding  HK : 7 AB : 98053959 YW : 09089 ! 
+Question: claims paid AB?
+Answer: 1288482
+
+Context: claims paid  HK : 8076 AB : 1288482 YW : 9969248571 ! claims outstanding  HK : 7 AB : 98053959 YW : 09089 ! 
+Question: claims paid YW?
+Answer: 9969248571
+
+Context: claims paid  HK : 8076 AB : 1288482 YW : 9969248571 ! claims outstanding  HK : 7 AB : 98053959 YW : 09089 ! 
+Question: claims outstanding HK?
+Answer: 7
+
+Context: claims paid  HK : 8076 AB : 1288482 YW : 9969248571 ! claims outstanding  HK : 7 AB : 98053959 YW : 09089 ! 
+Question: claims outstanding AB?
+Answer: empty - Wrong answer
+
+Context: claims paid  HK : 8076 AB : 1288482 YW : 9969248571 ! claims outstanding  HK : 7 AB : 98053959 YW : 09089 ! 
+Question: claims outstanding YW?
+Answer: 09089
+
+Context: claims paid  YW : 636722832 AB : 7720437376 HK : 089707122 ! claims outstanding  YW : 6247515993 AB : 22873462 HK : 2 ! 
+Question: claims paid YW?
+Answer: 089707122 - Wrong answer
+
+Context: claims paid  YW : 636722832 AB : 7720437376 HK : 089707122 ! claims outstanding  YW : 6247515993 AB : 22873462 HK : 2 ! 
+Question: claims paid AB?
+Answer: 7720437376 hk : 089707122 - Wrong answer
+
+Context: claims paid  YW : 636722832 AB : 7720437376 HK : 089707122 ! claims outstanding  YW : 6247515993 AB : 22873462 HK : 2 ! 
+Question: claims paid HK?
+Answer: 089707122
+
+Context: claims paid  YW : 636722832 AB : 7720437376 HK : 089707122 ! claims outstanding  YW : 6247515993 AB : 22873462 HK : 2 ! 
+Question: claims outstanding YW?
+Answer: empty - Wrong answer
+
+Context: claims paid  YW : 636722832 AB : 7720437376 HK : 089707122 ! claims outstanding  YW : 6247515993 AB : 22873462 HK : 2 ! 
+Question: claims outstanding AB?
+Answer: 22873462 hk : 2 - Wrong answer
+
+Context: claims paid  YW : 636722832 AB : 7720437376 HK : 089707122 ! claims outstanding  YW : 6247515993 AB : 22873462 HK : 2 ! 
+Question: claims outstanding HK?
+Answer: 2
+
+Context: claims paid  YW : 2 HK : 2 AB : 455263 ! claims outstanding  YW : 2424288 HK : 761316037 AB : 0137 ! 
+Question: claims paid YW?
+Answer: 2 hk : 2 - Wrong answer
+
+Context: claims paid  YW : 2 HK : 2 AB : 455263 ! claims outstanding  YW : 2424288 HK : 761316037 AB : 0137 ! 
+Question: claims paid HK?
+Answer: 2
+
+Context: claims paid  YW : 2 HK : 2 AB : 455263 ! claims outstanding  YW : 2424288 HK : 761316037 AB : 0137 ! 
+Question: claims paid AB?
+Answer: 455263
+
+Context: claims paid  YW : 2 HK : 2 AB : 455263 ! claims outstanding  YW : 2424288 HK : 761316037 AB : 0137 ! 
+Question: claims outstanding YW?
+Answer: 2424288
+
+Context: claims paid  YW : 2 HK : 2 AB : 455263 ! claims outstanding  YW : 2424288 HK : 761316037 AB : 0137 ! 
+Question: claims outstanding HK?
+Answer: 761316037
+
+Context: claims paid  YW : 2 HK : 2 AB : 455263 ! claims outstanding  YW : 2424288 HK : 761316037 AB : 0137 ! 
+Question: claims outstanding AB?
+Answer: 455263 - Wrong answer
+
+Context: claims paid  YW : 7085220616 AB : 199252 HK : 0516743741 ! claims outstanding  YW : 22261047 AB : 946 HK : 451299 ! 
+Question: claims paid YW?
+Answer: 0516743741 - Wrong answer
+
+Context: claims paid  YW : 7085220616 AB : 199252 HK : 0516743741 ! claims outstanding  YW : 22261047 AB : 946 HK : 451299 ! 
+Question: claims paid AB?
+Answer: 0516743741 - Wrong answer
+
+Context: claims paid  YW : 7085220616 AB : 199252 HK : 0516743741 ! claims outstanding  YW : 22261047 AB : 946 HK : 451299 ! 
+Question: claims paid HK?
+Answer: 0516743741
+
+Context: claims paid  YW : 7085220616 AB : 199252 HK : 0516743741 ! claims outstanding  YW : 22261047 AB : 946 HK : 451299 ! 
+Question: claims outstanding YW?
+Answer: empty - Wrong answer
+
+Context: claims paid  YW : 7085220616 AB : 199252 HK : 0516743741 ! claims outstanding  YW : 22261047 AB : 946 HK : 451299 ! 
+Question: claims outstanding AB?
+Answer: empty - Wrong answer
+
+Context: claims paid  YW : 7085220616 AB : 199252 HK : 0516743741 ! claims outstanding  YW : 22261047 AB : 946 HK : 451299 ! 
+Question: claims outstanding HK?
+Answer: 451299
+
+Context: claims paid  HK : 725142 AB : 14973 YW : 1006 ! claims outstanding  HK : 37384485 AB : 504 YW : 80327 ! 
+Question: claims paid HK?
+Answer: 725142
+
+Context: claims paid  HK : 725142 AB : 14973 YW : 1006 ! claims outstanding  HK : 37384485 AB : 504 YW : 80327 ! 
+Question: claims paid AB?
+Answer: 14973
+
+Context: claims paid  HK : 725142 AB : 14973 YW : 1006 ! claims outstanding  HK : 37384485 AB : 504 YW : 80327 ! 
+Question: claims paid YW?
+Answer: 1006
+
+Context: claims paid  HK : 725142 AB : 14973 YW : 1006 ! claims outstanding  HK : 37384485 AB : 504 YW : 80327 ! 
+Question: claims outstanding HK?
+Answer: 37384485
+
+Context: claims paid  HK : 725142 AB : 14973 YW : 1006 ! claims outstanding  HK : 37384485 AB : 504 YW : 80327 ! 
+Question: claims outstanding AB?
+Answer: 504
+
+Context: claims paid  HK : 725142 AB : 14973 YW : 1006 ! claims outstanding  HK : 37384485 AB : 504 YW : 80327 ! 
+Question: claims outstanding YW?
+Answer: 80327
+
+Context: claims paid  HK : 245252358 AB : 44266 YW : 0263625390 ! claims outstanding  HK : 8547710076 AB : 3 YW : 604811 ! 
+Question: claims paid HK?
+Answer: 245252358
+
+Context: claims paid  HK : 245252358 AB : 44266 YW : 0263625390 ! claims outstanding  HK : 8547710076 AB : 3 YW : 604811 ! 
+Question: claims paid AB?
+Answer: 44266
+
+Context: claims paid  HK : 245252358 AB : 44266 YW : 0263625390 ! claims outstanding  HK : 8547710076 AB : 3 YW : 604811 ! 
+Question: claims paid YW?
+Answer: 0263625390
+
+Context: claims paid  HK : 245252358 AB : 44266 YW : 0263625390 ! claims outstanding  HK : 8547710076 AB : 3 YW : 604811 ! 
+Question: claims outstanding HK?
+Answer: 8547710076 ab : 3 - Wrong answer
+
+Context: claims paid  HK : 245252358 AB : 44266 YW : 0263625390 ! claims outstanding  HK : 8547710076 AB : 3 YW : 604811 ! 
+Question: claims outstanding AB?
+Answer: 3
+
+Context: claims paid  HK : 245252358 AB : 44266 YW : 0263625390 ! claims outstanding  HK : 8547710076 AB : 3 YW : 604811 ! 
+Question: claims outstanding YW?
+Answer: empty - Wrong answer
+
+Context: claims paid  YW : 220 HK : 426 AB : 60 ! claims outstanding  YW : 7750 HK : 26 AB : 9584994 ! 
+Question: claims paid YW?
+Answer: 220
+
+Context: claims paid  YW : 220 HK : 426 AB : 60 ! claims outstanding  YW : 7750 HK : 26 AB : 9584994 ! 
+Question: claims paid HK?
+Answer: 426
+
+Context: claims paid  YW : 220 HK : 426 AB : 60 ! claims outstanding  YW : 7750 HK : 26 AB : 9584994 ! 
+Question: claims paid AB?
+Answer: 60
+
+Context: claims paid  YW : 220 HK : 426 AB : 60 ! claims outstanding  YW : 7750 HK : 26 AB : 9584994 ! 
+Question: claims outstanding YW?
+Answer: 7750
+
+Context: claims paid  YW : 220 HK : 426 AB : 60 ! claims outstanding  YW : 7750 HK : 26 AB : 9584994 ! 
+Question: claims outstanding HK?
+Answer: 26
+
+Context: claims paid  YW : 220 HK : 426 AB : 60 ! claims outstanding  YW : 7750 HK : 26 AB : 9584994 ! 
+Question: claims outstanding AB?
+Answer: 9584994
+
+Context: claims paid  YW : 06622 AB : 396381 HK : 0 ! claims outstanding  YW : 8865002 AB : 652522764 HK : 222 ! 
+Question: claims paid YW?
+Answer: 0 - Wrong answer
+
+Context: claims paid  YW : 06622 AB : 396381 HK : 0 ! claims outstanding  YW : 8865002 AB : 652522764 HK : 222 ! 
+Question: claims paid AB?
+Answer: 396381
+
+Context: claims paid  YW : 06622 AB : 396381 HK : 0 ! claims outstanding  YW : 8865002 AB : 652522764 HK : 222 ! 
+Question: claims paid HK?
+Answer: 0
+
+Context: claims paid  YW : 06622 AB : 396381 HK : 0 ! claims outstanding  YW : 8865002 AB : 652522764 HK : 222 ! 
+Question: claims outstanding YW?
+Answer: empty - Wrong answer
+
+Context: claims paid  YW : 06622 AB : 396381 HK : 0 ! claims outstanding  YW : 8865002 AB : 652522764 HK : 222 ! 
+Question: claims outstanding AB?
+Answer: empty - Wrong answer
+
+Context: claims paid  YW : 06622 AB : 396381 HK : 0 ! claims outstanding  YW : 8865002 AB : 652522764 HK : 222 ! 
+Question: claims outstanding HK?
+Answer: 222
+
+Context: claims paid  HK : 7584633 AB : 3082788662 YW : 46558 ! claims outstanding  HK : 5 AB : 6 YW : 88 ! 
+Question: claims paid HK?
+Answer: 7584633
+
+Context: claims paid  HK : 7584633 AB : 3082788662 YW : 46558 ! claims outstanding  HK : 5 AB : 6 YW : 88 ! 
+Question: claims paid AB?
+Answer: 3082788662
+
+Context: claims paid  HK : 7584633 AB : 3082788662 YW : 46558 ! claims outstanding  HK : 5 AB : 6 YW : 88 ! 
+Question: claims paid YW?
+Answer: 46558
+
+Context: claims paid  HK : 7584633 AB : 3082788662 YW : 46558 ! claims outstanding  HK : 5 AB : 6 YW : 88 ! 
+Question: claims outstanding HK?
+Answer: 5
+
+Context: claims paid  HK : 7584633 AB : 3082788662 YW : 46558 ! claims outstanding  HK : 5 AB : 6 YW : 88 ! 
+Question: claims outstanding AB?
+Answer: 6
+
+Context: claims paid  HK : 7584633 AB : 3082788662 YW : 46558 ! claims outstanding  HK : 5 AB : 6 YW : 88 ! 
+Question: claims outstanding YW?
+Answer: 88
+
+Context: claims paid  HK : 5863535143 AB : 532729745 YW : 470 ! claims outstanding  HK : 7037254 AB : 555 YW : 35974 ! 
+Question: claims paid HK?
+Answer: 5863535143
+
+Context: claims paid  HK : 5863535143 AB : 532729745 YW : 470 ! claims outstanding  HK : 7037254 AB : 555 YW : 35974 ! 
+Question: claims paid AB?
+Answer: 532729745
+
+Context: claims paid  HK : 5863535143 AB : 532729745 YW : 470 ! claims outstanding  HK : 7037254 AB : 555 YW : 35974 ! 
+Question: claims paid YW?
+Answer: 470
+
+Context: claims paid  HK : 5863535143 AB : 532729745 YW : 470 ! claims outstanding  HK : 7037254 AB : 555 YW : 35974 ! 
+Question: claims outstanding HK?
+Answer: 7037254
+
+Context: claims paid  HK : 5863535143 AB : 532729745 YW : 470 ! claims outstanding  HK : 7037254 AB : 555 YW : 35974 ! 
+Question: claims outstanding AB?
+Answer: 555
+
+Context: claims paid  HK : 5863535143 AB : 532729745 YW : 470 ! claims outstanding  HK : 7037254 AB : 555 YW : 35974 ! 
+Question: claims outstanding YW?
+Answer: 35974
+
+Context: claims paid  AB : 12732 YW : 2578 HK : 8 ! claims outstanding  AB : 08740 YW : 41 HK : 3928797 ! 
+Question: claims paid AB?
+Answer: 12732
+
+Context: claims paid  AB : 12732 YW : 2578 HK : 8 ! claims outstanding  AB : 08740 YW : 41 HK : 3928797 ! 
+Question: claims paid YW?
+Answer: 2578
+
+Context: claims paid  AB : 12732 YW : 2578 HK : 8 ! claims outstanding  AB : 08740 YW : 41 HK : 3928797 ! 
+Question: claims paid HK?
+Answer: 8
+
+Context: claims paid  AB : 12732 YW : 2578 HK : 8 ! claims outstanding  AB : 08740 YW : 41 HK : 3928797 ! 
+Question: claims outstanding AB?
+Answer: 08740
+
+Context: claims paid  AB : 12732 YW : 2578 HK : 8 ! claims outstanding  AB : 08740 YW : 41 HK : 3928797 ! 
+Question: claims outstanding YW?
+Answer: 41
+
+Context: claims paid  AB : 12732 YW : 2578 HK : 8 ! claims outstanding  AB : 08740 YW : 41 HK : 3928797 ! 
+Question: claims outstanding HK?
+Answer: 3928797
+
+Context: claims paid  HK : 14587 AB : 312 YW : 9216765 ! claims outstanding  HK : 525523691 AB : 1 YW : 18344043 ! 
+Question: claims paid HK?
+Answer: 14587
+
+Context: claims paid  HK : 14587 AB : 312 YW : 9216765 ! claims outstanding  HK : 525523691 AB : 1 YW : 18344043 ! 
+Question: claims paid AB?
+Answer: 312
+
+Context: claims paid  HK : 14587 AB : 312 YW : 9216765 ! claims outstanding  HK : 525523691 AB : 1 YW : 18344043 ! 
+Question: claims paid YW?
+Answer: 9216765
+
+Context: claims paid  HK : 14587 AB : 312 YW : 9216765 ! claims outstanding  HK : 525523691 AB : 1 YW : 18344043 ! 
+Question: claims outstanding HK?
+Answer: 525523691
+
+Context: claims paid  HK : 14587 AB : 312 YW : 9216765 ! claims outstanding  HK : 525523691 AB : 1 YW : 18344043 ! 
+Question: claims outstanding AB?
+Answer: 1
+
+Context: claims paid  HK : 14587 AB : 312 YW : 9216765 ! claims outstanding  HK : 525523691 AB : 1 YW : 18344043 ! 
+Question: claims outstanding YW?
+Answer: 18344043
+
+Context: claims paid  YW : 8923502 AB : 1 HK : 168599 ! claims outstanding  YW : 52 AB : 926203620 HK : 5 ! 
+Question: claims paid YW?
+Answer: 8923502
+
+Context: claims paid  YW : 8923502 AB : 1 HK : 168599 ! claims outstanding  YW : 52 AB : 926203620 HK : 5 ! 
+Question: claims paid AB?
+Answer: 1
+
+Context: claims paid  YW : 8923502 AB : 1 HK : 168599 ! claims outstanding  YW : 52 AB : 926203620 HK : 5 ! 
+Question: claims paid HK?
+Answer: 168599
+
+Context: claims paid  YW : 8923502 AB : 1 HK : 168599 ! claims outstanding  YW : 52 AB : 926203620 HK : 5 ! 
+Question: claims outstanding YW?
+Answer: 52
+
+Context: claims paid  YW : 8923502 AB : 1 HK : 168599 ! claims outstanding  YW : 52 AB : 926203620 HK : 5 ! 
+Question: claims outstanding AB?
+Answer: 926203620
+
+Context: claims paid  YW : 8923502 AB : 1 HK : 168599 ! claims outstanding  YW : 52 AB : 926203620 HK : 5 ! 
+Question: claims outstanding HK?
+Answer: 5
+
+Context: claims paid  YW : 0174 HK : 132752059 AB : 6446188 ! claims outstanding  YW : 52608810 HK : 88020 AB : 7191418 ! 
+Question: claims paid YW?
+Answer: 6446188 - Wrong answer
+
+Context: claims paid  YW : 0174 HK : 132752059 AB : 6446188 ! claims outstanding  YW : 52608810 HK : 88020 AB : 7191418 ! 
+Question: claims paid HK?
+Answer: 132752059
+
+Context: claims paid  YW : 0174 HK : 132752059 AB : 6446188 ! claims outstanding  YW : 52608810 HK : 88020 AB : 7191418 ! 
+Question: claims paid AB?
+Answer: 6446188
+
+Context: claims paid  YW : 0174 HK : 132752059 AB : 6446188 ! claims outstanding  YW : 52608810 HK : 88020 AB : 7191418 ! 
+Question: claims outstanding YW?
+Answer: empty - Wrong answer
+
+Context: claims paid  YW : 0174 HK : 132752059 AB : 6446188 ! claims outstanding  YW : 52608810 HK : 88020 AB : 7191418 ! 
+Question: claims outstanding HK?
+Answer: 88020
+
+Context: claims paid  YW : 0174 HK : 132752059 AB : 6446188 ! claims outstanding  YW : 52608810 HK : 88020 AB : 7191418 ! 
+Question: claims outstanding AB?
+Answer: 7191418
+
+Context: claims paid  AB : 385 HK : 058463 YW : 697100 ! claims outstanding  AB : 26538013 HK : 7424 YW : 53294 ! 
+Question: claims paid AB?
+Answer: 385
+
+Context: claims paid  AB : 385 HK : 058463 YW : 697100 ! claims outstanding  AB : 26538013 HK : 7424 YW : 53294 ! 
+Question: claims paid HK?
+Answer: 058463
+
+Context: claims paid  AB : 385 HK : 058463 YW : 697100 ! claims outstanding  AB : 26538013 HK : 7424 YW : 53294 ! 
+Question: claims paid YW?
+Answer: empty - Wrong answer
+
+Context: claims paid  AB : 385 HK : 058463 YW : 697100 ! claims outstanding  AB : 26538013 HK : 7424 YW : 53294 ! 
+Question: claims outstanding AB?
+Answer: 26538013
+
+Context: claims paid  AB : 385 HK : 058463 YW : 697100 ! claims outstanding  AB : 26538013 HK : 7424 YW : 53294 ! 
+Question: claims outstanding HK?
+Answer: empty - Wrong answer
+
+Context: claims paid  AB : 385 HK : 058463 YW : 697100 ! claims outstanding  AB : 26538013 HK : 7424 YW : 53294 ! 
+Question: claims outstanding YW?
+Answer: 53294
+
+Context: claims paid  YW : 2 AB : 587549620 HK : 54 ! claims outstanding  YW : 5 AB : 4707 HK : 50 ! 
+Question: claims paid YW?
+Answer: 2
+
+Context: claims paid  YW : 2 AB : 587549620 HK : 54 ! claims outstanding  YW : 5 AB : 4707 HK : 50 ! 
+Question: claims paid AB?
+Answer: 587549620
+
+Context: claims paid  YW : 2 AB : 587549620 HK : 54 ! claims outstanding  YW : 5 AB : 4707 HK : 50 ! 
+Question: claims paid HK?
+Answer: 54
+
+Context: claims paid  YW : 2 AB : 587549620 HK : 54 ! claims outstanding  YW : 5 AB : 4707 HK : 50 ! 
+Question: claims outstanding YW?
+Answer: 5
+
+Context: claims paid  YW : 2 AB : 587549620 HK : 54 ! claims outstanding  YW : 5 AB : 4707 HK : 50 ! 
+Question: claims outstanding AB?
+Answer: 4707
+
+Context: claims paid  YW : 2 AB : 587549620 HK : 54 ! claims outstanding  YW : 5 AB : 4707 HK : 50 ! 
+Question: claims outstanding HK?
+Answer: 50
+
+Context: claims paid  AB : 607 YW : 806809936 HK : 8 ! claims outstanding  AB : 337157 YW : 90046 HK : 775 ! 
+Question: claims paid AB?
+Answer: 607 yw : 806809936 hk : 8 - Wrong answer
+
+Context: claims paid  AB : 607 YW : 806809936 HK : 8 ! claims outstanding  AB : 337157 YW : 90046 HK : 775 ! 
+Question: claims paid YW?
+Answer: 8 - Wrong answer
+
+Context: claims paid  AB : 607 YW : 806809936 HK : 8 ! claims outstanding  AB : 337157 YW : 90046 HK : 775 ! 
+Question: claims paid HK?
+Answer: 8
+
+Context: claims paid  AB : 607 YW : 806809936 HK : 8 ! claims outstanding  AB : 337157 YW : 90046 HK : 775 ! 
+Question: claims outstanding AB?
+Answer: 337157
+
+Context: claims paid  AB : 607 YW : 806809936 HK : 8 ! claims outstanding  AB : 337157 YW : 90046 HK : 775 ! 
+Question: claims outstanding YW?
+Answer: 806809936 hk : 8 - Wrong answer
+
+Context: claims paid  AB : 607 YW : 806809936 HK : 8 ! claims outstanding  AB : 337157 YW : 90046 HK : 775 ! 
+Question: claims outstanding HK?
+Answer: 775
+
+Context: claims paid  YW : 655431866 HK : 3 AB : 3870341 ! claims outstanding  YW : 52 HK : 7002 AB : 089692 ! 
+Question: claims paid YW?
+Answer: 3 - Wrong answer
+
+Context: claims paid  YW : 655431866 HK : 3 AB : 3870341 ! claims outstanding  YW : 52 HK : 7002 AB : 089692 ! 
+Question: claims paid HK?
+Answer: 3
+
+Context: claims paid  YW : 655431866 HK : 3 AB : 3870341 ! claims outstanding  YW : 52 HK : 7002 AB : 089692 ! 
+Question: claims paid AB?
+Answer: 3870341
+
+Context: claims paid  YW : 655431866 HK : 3 AB : 3870341 ! claims outstanding  YW : 52 HK : 7002 AB : 089692 ! 
+Question: claims outstanding YW?
+Answer: empty - Wrong answer
+
+Context: claims paid  YW : 655431866 HK : 3 AB : 3870341 ! claims outstanding  YW : 52 HK : 7002 AB : 089692 ! 
+Question: claims outstanding HK?
+Answer: 7002
+
+Context: claims paid  YW : 655431866 HK : 3 AB : 3870341 ! claims outstanding  YW : 52 HK : 7002 AB : 089692 ! 
+Question: claims outstanding AB?
+Answer: 089692
+
+Context: claims paid  YW : 02 HK : 1 AB : 651483 ! claims outstanding  YW : 95086 HK : 003114494 AB : 9461186 ! 
+Question: claims paid YW?
+Answer: 02
+
+Context: claims paid  YW : 02 HK : 1 AB : 651483 ! claims outstanding  YW : 95086 HK : 003114494 AB : 9461186 ! 
+Question: claims paid HK?
+Answer: 1
+
+Context: claims paid  YW : 02 HK : 1 AB : 651483 ! claims outstanding  YW : 95086 HK : 003114494 AB : 9461186 ! 
+Question: claims paid AB?
+Answer: 651483
+
+Context: claims paid  YW : 02 HK : 1 AB : 651483 ! claims outstanding  YW : 95086 HK : 003114494 AB : 9461186 ! 
+Question: claims outstanding YW?
+Answer: 95086
+
+Context: claims paid  YW : 02 HK : 1 AB : 651483 ! claims outstanding  YW : 95086 HK : 003114494 AB : 9461186 ! 
+Question: claims outstanding HK?
+Answer: 003114494
+
+Context: claims paid  YW : 02 HK : 1 AB : 651483 ! claims outstanding  YW : 95086 HK : 003114494 AB : 9461186 ! 
+Question: claims outstanding AB?
+Answer: 9461186
+
+Context: claims paid  AB : 363322521 HK : 1011321 YW : 344 ! claims outstanding  AB : 4 HK : 79590 YW : 086303 ! 
+Question: claims paid AB?
+Answer: 363322521
+
+Context: claims paid  AB : 363322521 HK : 1011321 YW : 344 ! claims outstanding  AB : 4 HK : 79590 YW : 086303 ! 
+Question: claims paid HK?
+Answer: 1011321
+
+Context: claims paid  AB : 363322521 HK : 1011321 YW : 344 ! claims outstanding  AB : 4 HK : 79590 YW : 086303 ! 
+Question: claims paid YW?
+Answer: 344
+
+Context: claims paid  AB : 363322521 HK : 1011321 YW : 344 ! claims outstanding  AB : 4 HK : 79590 YW : 086303 ! 
+Question: claims outstanding AB?
+Answer: 4
+
+Context: claims paid  AB : 363322521 HK : 1011321 YW : 344 ! claims outstanding  AB : 4 HK : 79590 YW : 086303 ! 
+Question: claims outstanding HK?
+Answer: empty - Wrong answer
+
+Context: claims paid  AB : 363322521 HK : 1011321 YW : 344 ! claims outstanding  AB : 4 HK : 79590 YW : 086303 ! 
+Question: claims outstanding YW?
+Answer: empty - Wrong answer
+
+Context: claims paid  AB : 11832 HK : 3746 YW : 22493 ! claims outstanding  AB : 424679248 HK : 854687 YW : 83887 ! 
+Question: claims paid AB?
+Answer: 11832
+
+Context: claims paid  AB : 11832 HK : 3746 YW : 22493 ! claims outstanding  AB : 424679248 HK : 854687 YW : 83887 ! 
+Question: claims paid HK?
+Answer: 3746
+
+Context: claims paid  AB : 11832 HK : 3746 YW : 22493 ! claims outstanding  AB : 424679248 HK : 854687 YW : 83887 ! 
+Question: claims paid YW?
+Answer: 22493
+
+Context: claims paid  AB : 11832 HK : 3746 YW : 22493 ! claims outstanding  AB : 424679248 HK : 854687 YW : 83887 ! 
+Question: claims outstanding AB?
+Answer: 424679248
+
+Context: claims paid  AB : 11832 HK : 3746 YW : 22493 ! claims outstanding  AB : 424679248 HK : 854687 YW : 83887 ! 
+Question: claims outstanding HK?
+Answer: empty - Wrong answer
+
+Context: claims paid  AB : 11832 HK : 3746 YW : 22493 ! claims outstanding  AB : 424679248 HK : 854687 YW : 83887 ! 
+Question: claims outstanding YW?
+Answer: 83887
+
+Context: claims paid  AB : 25815 HK : 0669405 YW : 4 ! claims outstanding  AB : 765579324 HK : 1 YW : 9774144 ! 
+Question: claims paid AB?
+Answer: 25815
+
+Context: claims paid  AB : 25815 HK : 0669405 YW : 4 ! claims outstanding  AB : 765579324 HK : 1 YW : 9774144 ! 
+Question: claims paid HK?
+Answer: 0669405
+
+Context: claims paid  AB : 25815 HK : 0669405 YW : 4 ! claims outstanding  AB : 765579324 HK : 1 YW : 9774144 ! 
+Question: claims paid YW?
+Answer: 4
+
+Context: claims paid  AB : 25815 HK : 0669405 YW : 4 ! claims outstanding  AB : 765579324 HK : 1 YW : 9774144 ! 
+Question: claims outstanding AB?
+Answer: 765579324 hk : 1 - Wrong answer
+
+Context: claims paid  AB : 25815 HK : 0669405 YW : 4 ! claims outstanding  AB : 765579324 HK : 1 YW : 9774144 ! 
+Question: claims outstanding HK?
+Answer: 1
+
+Context: claims paid  AB : 25815 HK : 0669405 YW : 4 ! claims outstanding  AB : 765579324 HK : 1 YW : 9774144 ! 
+Question: claims outstanding YW?
+Answer: 1 - Wrong answer
+
+Context: claims paid  HK : 36790 AB : 788 YW : 3401348225 ! claims outstanding  HK : 74634187 AB : 810187 YW : 804802 ! 
+Question: claims paid HK?
+Answer: 36790
+
+Context: claims paid  HK : 36790 AB : 788 YW : 3401348225 ! claims outstanding  HK : 74634187 AB : 810187 YW : 804802 ! 
+Question: claims paid AB?
+Answer: 788
+
+Context: claims paid  HK : 36790 AB : 788 YW : 3401348225 ! claims outstanding  HK : 74634187 AB : 810187 YW : 804802 ! 
+Question: claims paid YW?
+Answer: 3401348225
+
+Context: claims paid  HK : 36790 AB : 788 YW : 3401348225 ! claims outstanding  HK : 74634187 AB : 810187 YW : 804802 ! 
+Question: claims outstanding HK?
+Answer: 74634187
+
+Context: claims paid  HK : 36790 AB : 788 YW : 3401348225 ! claims outstanding  HK : 74634187 AB : 810187 YW : 804802 ! 
+Question: claims outstanding AB?
+Answer: empty - Wrong answer
+
+Context: claims paid  HK : 36790 AB : 788 YW : 3401348225 ! claims outstanding  HK : 74634187 AB : 810187 YW : 804802 ! 
+Question: claims outstanding YW?
+Answer: 804802
+
+Context: claims paid  AB : 278615 HK : 650905266 YW : 051 ! claims outstanding  AB : 875698 HK : 117073 YW : 30 ! 
+Question: claims paid AB?
+Answer: 278615
+
+Context: claims paid  AB : 278615 HK : 650905266 YW : 051 ! claims outstanding  AB : 875698 HK : 117073 YW : 30 ! 
+Question: claims paid HK?
+Answer: 650905266
+
+Context: claims paid  AB : 278615 HK : 650905266 YW : 051 ! claims outstanding  AB : 875698 HK : 117073 YW : 30 ! 
+Question: claims paid YW?
+Answer: 051
+
+Context: claims paid  AB : 278615 HK : 650905266 YW : 051 ! claims outstanding  AB : 875698 HK : 117073 YW : 30 ! 
+Question: claims outstanding AB?
+Answer: 875698
+
+Context: claims paid  AB : 278615 HK : 650905266 YW : 051 ! claims outstanding  AB : 875698 HK : 117073 YW : 30 ! 
+Question: claims outstanding HK?
+Answer: empty - Wrong answer
+
+Context: claims paid  AB : 278615 HK : 650905266 YW : 051 ! claims outstanding  AB : 875698 HK : 117073 YW : 30 ! 
+Question: claims outstanding YW?
+Answer: 30
+
+Context: claims paid  HK : 405937 YW : 5330 AB : 8520345 ! claims outstanding  HK : 031 YW : 134 AB : 16 ! 
+Question: claims paid HK?
+Answer: 405937
+
+Context: claims paid  HK : 405937 YW : 5330 AB : 8520345 ! claims outstanding  HK : 031 YW : 134 AB : 16 ! 
+Question: claims paid YW?
+Answer: 5330
+
+Context: claims paid  HK : 405937 YW : 5330 AB : 8520345 ! claims outstanding  HK : 031 YW : 134 AB : 16 ! 
+Question: claims paid AB?
+Answer: 8520345
+
+Context: claims paid  HK : 405937 YW : 5330 AB : 8520345 ! claims outstanding  HK : 031 YW : 134 AB : 16 ! 
+Question: claims outstanding HK?
+Answer: 031
+
+Context: claims paid  HK : 405937 YW : 5330 AB : 8520345 ! claims outstanding  HK : 031 YW : 134 AB : 16 ! 
+Question: claims outstanding YW?
+Answer: 5330 - Wrong answer
+
+Context: claims paid  HK : 405937 YW : 5330 AB : 8520345 ! claims outstanding  HK : 031 YW : 134 AB : 16 ! 
+Question: claims outstanding AB?
+Answer: 16
+
+Context: claims paid  AB : 407449 YW : 68647 HK : 9370 ! claims outstanding  AB : 9 YW : 042421 HK : 6325995 ! 
+Question: claims paid AB?
+Answer: 407449
+
+Context: claims paid  AB : 407449 YW : 68647 HK : 9370 ! claims outstanding  AB : 9 YW : 042421 HK : 6325995 ! 
+Question: claims paid YW?
+Answer: empty - Wrong answer
+
+Context: claims paid  AB : 407449 YW : 68647 HK : 9370 ! claims outstanding  AB : 9 YW : 042421 HK : 6325995 ! 
+Question: claims paid HK?
+Answer: 9370
+
+Context: claims paid  AB : 407449 YW : 68647 HK : 9370 ! claims outstanding  AB : 9 YW : 042421 HK : 6325995 ! 
+Question: claims outstanding AB?
+Answer: 9
+
+Context: claims paid  AB : 407449 YW : 68647 HK : 9370 ! claims outstanding  AB : 9 YW : 042421 HK : 6325995 ! 
+Question: claims outstanding YW?
+Answer: 9 - Wrong answer
+
+Context: claims paid  AB : 407449 YW : 68647 HK : 9370 ! claims outstanding  AB : 9 YW : 042421 HK : 6325995 ! 
+Question: claims outstanding HK?
+Answer: 6325995
+
+Context: claims paid  YW : 8 AB : 020480475 HK : 4866733 ! claims outstanding  YW : 4 AB : 6992 HK : 8198103 ! 
+Question: claims paid YW?
+Answer: 8
+
+Context: claims paid  YW : 8 AB : 020480475 HK : 4866733 ! claims outstanding  YW : 4 AB : 6992 HK : 8198103 ! 
+Question: claims paid AB?
+Answer: 020480475
+
+Context: claims paid  YW : 8 AB : 020480475 HK : 4866733 ! claims outstanding  YW : 4 AB : 6992 HK : 8198103 ! 
+Question: claims paid HK?
+Answer: 4866733
+
+Context: claims paid  YW : 8 AB : 020480475 HK : 4866733 ! claims outstanding  YW : 4 AB : 6992 HK : 8198103 ! 
+Question: claims outstanding YW?
+Answer: 8 - Wrong answer
+
+Context: claims paid  YW : 8 AB : 020480475 HK : 4866733 ! claims outstanding  YW : 4 AB : 6992 HK : 8198103 ! 
+Question: claims outstanding AB?
+Answer: 6992
+
+Context: claims paid  YW : 8 AB : 020480475 HK : 4866733 ! claims outstanding  YW : 4 AB : 6992 HK : 8198103 ! 
+Question: claims outstanding HK?
+Answer: empty - Wrong answer
+
+Context: claims paid  HK : 7384440662 YW : 8948 AB : 9121 ! claims outstanding  HK : 82213249 YW : 02 AB : 2 ! 
+Question: claims paid HK?
+Answer: 7384440662
+
+Context: claims paid  HK : 7384440662 YW : 8948 AB : 9121 ! claims outstanding  HK : 82213249 YW : 02 AB : 2 ! 
+Question: claims paid YW?
+Answer: empty - Wrong answer
+
+Context: claims paid  HK : 7384440662 YW : 8948 AB : 9121 ! claims outstanding  HK : 82213249 YW : 02 AB : 2 ! 
+Question: claims paid AB?
+Answer: 9121
+
+Context: claims paid  HK : 7384440662 YW : 8948 AB : 9121 ! claims outstanding  HK : 82213249 YW : 02 AB : 2 ! 
+Question: claims outstanding HK?
+Answer: 82213249
+
+Context: claims paid  HK : 7384440662 YW : 8948 AB : 9121 ! claims outstanding  HK : 82213249 YW : 02 AB : 2 ! 
+Question: claims outstanding YW?
+Answer: 02
+
+Context: claims paid  HK : 7384440662 YW : 8948 AB : 9121 ! claims outstanding  HK : 82213249 YW : 02 AB : 2 ! 
+Question: claims outstanding AB?
+Answer: 2
+
+Context: claims paid  HK : 55567731 AB : 78644 YW : 79 ! claims outstanding  HK : 26 AB : 9 YW : 6 ! 
+Question: claims paid HK?
+Answer: 55567731
+
+Context: claims paid  HK : 55567731 AB : 78644 YW : 79 ! claims outstanding  HK : 26 AB : 9 YW : 6 ! 
+Question: claims paid AB?
+Answer: 78644
+
+Context: claims paid  HK : 55567731 AB : 78644 YW : 79 ! claims outstanding  HK : 26 AB : 9 YW : 6 ! 
+Question: claims paid YW?
+Answer: 79
+
+Context: claims paid  HK : 55567731 AB : 78644 YW : 79 ! claims outstanding  HK : 26 AB : 9 YW : 6 ! 
+Question: claims outstanding HK?
+Answer: 26
+
+Context: claims paid  HK : 55567731 AB : 78644 YW : 79 ! claims outstanding  HK : 26 AB : 9 YW : 6 ! 
+Question: claims outstanding AB?
+Answer: 9
+
+Context: claims paid  HK : 55567731 AB : 78644 YW : 79 ! claims outstanding  HK : 26 AB : 9 YW : 6 ! 
+Question: claims outstanding YW?
+Answer: 6
+
+Context: claims paid  TK : 1190905 MK : 071 HQ : 1683260684 ! claims outstanding  TK : 9 MK : 498954111 HQ : 3 ! 
+Question: claims paid TK?
+Answer: 1190905
+
+Context: claims paid  TK : 1190905 MK : 071 HQ : 1683260684 ! claims outstanding  TK : 9 MK : 498954111 HQ : 3 ! 
+Question: claims paid MK?
+Answer: 071
+
+Context: claims paid  TK : 1190905 MK : 071 HQ : 1683260684 ! claims outstanding  TK : 9 MK : 498954111 HQ : 3 ! 
+Question: claims paid HQ?
+Answer: 1683260684
+
+Context: claims paid  TK : 1190905 MK : 071 HQ : 1683260684 ! claims outstanding  TK : 9 MK : 498954111 HQ : 3 ! 
+Question: claims outstanding TK?
+Answer: 9
+
+Context: claims paid  TK : 1190905 MK : 071 HQ : 1683260684 ! claims outstanding  TK : 9 MK : 498954111 HQ : 3 ! 
+Question: claims outstanding MK?
+Answer: empty - Wrong answer
+
+Context: claims paid  TK : 1190905 MK : 071 HQ : 1683260684 ! claims outstanding  TK : 9 MK : 498954111 HQ : 3 ! 
+Question: claims outstanding HQ?
+Answer: empty - Wrong answer
+
+Context: claims paid  TK : 6279 MK : 6050892626 HQ : 445 ! claims outstanding  TK : 3329 MK : 48078162 HQ : 855 ! 
+Question: claims paid TK?
+Answer: 6279
+
+Context: claims paid  TK : 6279 MK : 6050892626 HQ : 445 ! claims outstanding  TK : 3329 MK : 48078162 HQ : 855 ! 
+Question: claims paid MK?
+Answer: 6050892626 hq : 445 - Wrong answer
+
+Context: claims paid  TK : 6279 MK : 6050892626 HQ : 445 ! claims outstanding  TK : 3329 MK : 48078162 HQ : 855 ! 
+Question: claims paid HQ?
+Answer: 445
+
+Context: claims paid  TK : 6279 MK : 6050892626 HQ : 445 ! claims outstanding  TK : 3329 MK : 48078162 HQ : 855 ! 
+Question: claims outstanding TK?
+Answer: empty - Wrong answer
+
+Context: claims paid  TK : 6279 MK : 6050892626 HQ : 445 ! claims outstanding  TK : 3329 MK : 48078162 HQ : 855 ! 
+Question: claims outstanding MK?
+Answer: 48078162
+
+Context: claims paid  TK : 6279 MK : 6050892626 HQ : 445 ! claims outstanding  TK : 3329 MK : 48078162 HQ : 855 ! 
+Question: claims outstanding HQ?
+Answer: empty - Wrong answer
+
+Context: claims paid  TK : 579942282 MK : 58629 HQ : 862085 ! claims outstanding  TK : 923 MK : 651 HQ : 7291 ! 
+Question: claims paid TK?
+Answer: 579942282
+
+Context: claims paid  TK : 579942282 MK : 58629 HQ : 862085 ! claims outstanding  TK : 923 MK : 651 HQ : 7291 ! 
+Question: claims paid MK?
+Answer: 58629
+
+Context: claims paid  TK : 579942282 MK : 58629 HQ : 862085 ! claims outstanding  TK : 923 MK : 651 HQ : 7291 ! 
+Question: claims paid HQ?
+Answer: 862085
+
+Context: claims paid  TK : 579942282 MK : 58629 HQ : 862085 ! claims outstanding  TK : 923 MK : 651 HQ : 7291 ! 
+Question: claims outstanding TK?
+Answer: empty - Wrong answer
+
+Context: claims paid  TK : 579942282 MK : 58629 HQ : 862085 ! claims outstanding  TK : 923 MK : 651 HQ : 7291 ! 
+Question: claims outstanding MK?
+Answer: 651
+
+Context: claims paid  TK : 579942282 MK : 58629 HQ : 862085 ! claims outstanding  TK : 923 MK : 651 HQ : 7291 ! 
+Question: claims outstanding HQ?
+Answer: empty - Wrong answer
+
+Context: claims paid  MK : 78 TK : 4 HQ : 9 ! claims outstanding  MK : 76 TK : 2 HQ : 63993 ! 
+Question: claims paid MK?
+Answer: 78
+
+Context: claims paid  MK : 78 TK : 4 HQ : 9 ! claims outstanding  MK : 76 TK : 2 HQ : 63993 ! 
+Question: claims paid TK?
+Answer: 4
+
+Context: claims paid  MK : 78 TK : 4 HQ : 9 ! claims outstanding  MK : 76 TK : 2 HQ : 63993 ! 
+Question: claims paid HQ?
+Answer: 9
+
+Context: claims paid  MK : 78 TK : 4 HQ : 9 ! claims outstanding  MK : 76 TK : 2 HQ : 63993 ! 
+Question: claims outstanding MK?
+Answer: 76
+
+Context: claims paid  MK : 78 TK : 4 HQ : 9 ! claims outstanding  MK : 76 TK : 2 HQ : 63993 ! 
+Question: claims outstanding TK?
+Answer: 2
+
+Context: claims paid  MK : 78 TK : 4 HQ : 9 ! claims outstanding  MK : 76 TK : 2 HQ : 63993 ! 
+Question: claims outstanding HQ?
+Answer: 9 - Wrong answer
+
+Context: claims paid  TK : 16604 MK : 18987 HQ : 0 ! claims outstanding  TK : 173 MK : 0 HQ : 08905710 ! 
+Question: claims paid TK?
+Answer: 16604
+
+Context: claims paid  TK : 16604 MK : 18987 HQ : 0 ! claims outstanding  TK : 173 MK : 0 HQ : 08905710 ! 
+Question: claims paid MK?
+Answer: 18987
+
+Context: claims paid  TK : 16604 MK : 18987 HQ : 0 ! claims outstanding  TK : 173 MK : 0 HQ : 08905710 ! 
+Question: claims paid HQ?
+Answer: 0
+
+Context: claims paid  TK : 16604 MK : 18987 HQ : 0 ! claims outstanding  TK : 173 MK : 0 HQ : 08905710 ! 
+Question: claims outstanding TK?
+Answer: 173
+
+Context: claims paid  TK : 16604 MK : 18987 HQ : 0 ! claims outstanding  TK : 173 MK : 0 HQ : 08905710 ! 
+Question: claims outstanding MK?
+Answer: 0
+
+Context: claims paid  TK : 16604 MK : 18987 HQ : 0 ! claims outstanding  TK : 173 MK : 0 HQ : 08905710 ! 
+Question: claims outstanding HQ?
+Answer: 0 - Wrong answer
+
+Context: claims paid  MK : 69 HQ : 216653 TK : 7 ! claims outstanding  MK : 6374 HQ : 1736 TK : 914944 ! 
+Question: claims paid MK?
+Answer: 69
+
+Context: claims paid  MK : 69 HQ : 216653 TK : 7 ! claims outstanding  MK : 6374 HQ : 1736 TK : 914944 ! 
+Question: claims paid HQ?
+Answer: empty - Wrong answer
+
+Context: claims paid  MK : 69 HQ : 216653 TK : 7 ! claims outstanding  MK : 6374 HQ : 1736 TK : 914944 ! 
+Question: claims paid TK?
+Answer: 7
+
+Context: claims paid  MK : 69 HQ : 216653 TK : 7 ! claims outstanding  MK : 6374 HQ : 1736 TK : 914944 ! 
+Question: claims outstanding MK?
+Answer: 6374
+
+Context: claims paid  MK : 69 HQ : 216653 TK : 7 ! claims outstanding  MK : 6374 HQ : 1736 TK : 914944 ! 
+Question: claims outstanding HQ?
+Answer: 1736
+
+Context: claims paid  MK : 69 HQ : 216653 TK : 7 ! claims outstanding  MK : 6374 HQ : 1736 TK : 914944 ! 
+Question: claims outstanding TK?
+Answer: empty - Wrong answer
+
+Context: claims paid  MK : 6473 HQ : 5862322 TK : 259 ! claims outstanding  MK : 77900730 HQ : 8 TK : 8 ! 
+Question: claims paid MK?
+Answer: 6473
+
+Context: claims paid  MK : 6473 HQ : 5862322 TK : 259 ! claims outstanding  MK : 77900730 HQ : 8 TK : 8 ! 
+Question: claims paid HQ?
+Answer: 5862322
+
+Context: claims paid  MK : 6473 HQ : 5862322 TK : 259 ! claims outstanding  MK : 77900730 HQ : 8 TK : 8 ! 
+Question: claims paid TK?
+Answer: 259
+
+Context: claims paid  MK : 6473 HQ : 5862322 TK : 259 ! claims outstanding  MK : 77900730 HQ : 8 TK : 8 ! 
+Question: claims outstanding MK?
+Answer: 77900730
+
+Context: claims paid  MK : 6473 HQ : 5862322 TK : 259 ! claims outstanding  MK : 77900730 HQ : 8 TK : 8 ! 
+Question: claims outstanding HQ?
+Answer: 8
+
+Context: claims paid  MK : 6473 HQ : 5862322 TK : 259 ! claims outstanding  MK : 77900730 HQ : 8 TK : 8 ! 
+Question: claims outstanding TK?
+Answer: 8
+
+Context: claims paid  HQ : 1598 TK : 34 MK : 2452754 ! claims outstanding  HQ : 283674180 TK : 3210077859 MK : 541842818 ! 
+Question: claims paid HQ?
+Answer: 1598
+
+Context: claims paid  HQ : 1598 TK : 34 MK : 2452754 ! claims outstanding  HQ : 283674180 TK : 3210077859 MK : 541842818 ! 
+Question: claims paid TK?
+Answer: 34
+
+Context: claims paid  HQ : 1598 TK : 34 MK : 2452754 ! claims outstanding  HQ : 283674180 TK : 3210077859 MK : 541842818 ! 
+Question: claims paid MK?
+Answer: 2452754
+
+Context: claims paid  HQ : 1598 TK : 34 MK : 2452754 ! claims outstanding  HQ : 283674180 TK : 3210077859 MK : 541842818 ! 
+Question: claims outstanding HQ?
+Answer: 283674180
+
+Context: claims paid  HQ : 1598 TK : 34 MK : 2452754 ! claims outstanding  HQ : 283674180 TK : 3210077859 MK : 541842818 ! 
+Question: claims outstanding TK?
+Answer: 283674180 - Wrong answer
+
+Context: claims paid  HQ : 1598 TK : 34 MK : 2452754 ! claims outstanding  HQ : 283674180 TK : 3210077859 MK : 541842818 ! 
+Question: claims outstanding MK?
+Answer: 283674180 - Wrong answer
+
+Context: claims paid  MK : 09048195 TK : 36482578 HQ : 61 ! claims outstanding  MK : 2815709 TK : 26980108 HQ : 7 ! 
+Question: claims paid MK?
+Answer: 61 - Wrong answer
+
+Context: claims paid  MK : 09048195 TK : 36482578 HQ : 61 ! claims outstanding  MK : 2815709 TK : 26980108 HQ : 7 ! 
+Question: claims paid TK?
+Answer: 36482578
+
+Context: claims paid  MK : 09048195 TK : 36482578 HQ : 61 ! claims outstanding  MK : 2815709 TK : 26980108 HQ : 7 ! 
+Question: claims paid HQ?
+Answer: 61
+
+Context: claims paid  MK : 09048195 TK : 36482578 HQ : 61 ! claims outstanding  MK : 2815709 TK : 26980108 HQ : 7 ! 
+Question: claims outstanding MK?
+Answer: 2815709
+
+Context: claims paid  MK : 09048195 TK : 36482578 HQ : 61 ! claims outstanding  MK : 2815709 TK : 26980108 HQ : 7 ! 
+Question: claims outstanding TK?
+Answer: 26980108
+
+Context: claims paid  MK : 09048195 TK : 36482578 HQ : 61 ! claims outstanding  MK : 2815709 TK : 26980108 HQ : 7 ! 
+Question: claims outstanding HQ?
+Answer: 7
+
+Context: claims paid  MK : 4 TK : 1329682 HQ : 6645 ! claims outstanding  MK : 91258750 TK : 2 HQ : 1931871 ! 
+Question: claims paid MK?
+Answer: 4
+
+Context: claims paid  MK : 4 TK : 1329682 HQ : 6645 ! claims outstanding  MK : 91258750 TK : 2 HQ : 1931871 ! 
+Question: claims paid TK?
+Answer: 1329682
+
+Context: claims paid  MK : 4 TK : 1329682 HQ : 6645 ! claims outstanding  MK : 91258750 TK : 2 HQ : 1931871 ! 
+Question: claims paid HQ?
+Answer: 6645
+
+Context: claims paid  MK : 4 TK : 1329682 HQ : 6645 ! claims outstanding  MK : 91258750 TK : 2 HQ : 1931871 ! 
+Question: claims outstanding MK?
+Answer: 91258750
+
+Context: claims paid  MK : 4 TK : 1329682 HQ : 6645 ! claims outstanding  MK : 91258750 TK : 2 HQ : 1931871 ! 
+Question: claims outstanding TK?
+Answer: 2
+
+Context: claims paid  MK : 4 TK : 1329682 HQ : 6645 ! claims outstanding  MK : 91258750 TK : 2 HQ : 1931871 ! 
+Question: claims outstanding HQ?
+Answer: 91258750 - Wrong answer
+
+Context: claims paid  TK : 1293 MK : 49 HQ : 58408062 ! claims outstanding  TK : 298137 MK : 85 HQ : 57196643 ! 
+Question: claims paid TK?
+Answer: 1293
+
+Context: claims paid  TK : 1293 MK : 49 HQ : 58408062 ! claims outstanding  TK : 298137 MK : 85 HQ : 57196643 ! 
+Question: claims paid MK?
+Answer: 49
+
+Context: claims paid  TK : 1293 MK : 49 HQ : 58408062 ! claims outstanding  TK : 298137 MK : 85 HQ : 57196643 ! 
+Question: claims paid HQ?
+Answer: 49 - Wrong answer
+
+Context: claims paid  TK : 1293 MK : 49 HQ : 58408062 ! claims outstanding  TK : 298137 MK : 85 HQ : 57196643 ! 
+Question: claims outstanding TK?
+Answer: 298137
+
+Context: claims paid  TK : 1293 MK : 49 HQ : 58408062 ! claims outstanding  TK : 298137 MK : 85 HQ : 57196643 ! 
+Question: claims outstanding MK?
+Answer: 85
+
+Context: claims paid  TK : 1293 MK : 49 HQ : 58408062 ! claims outstanding  TK : 298137 MK : 85 HQ : 57196643 ! 
+Question: claims outstanding HQ?
+Answer: empty - Wrong answer
+
+Context: claims paid  HQ : 79 MK : 834 TK : 46650134 ! claims outstanding  HQ : 90704736 MK : 7728822 TK : 7 ! 
+Question: claims paid HQ?
+Answer: 79
+
+Context: claims paid  HQ : 79 MK : 834 TK : 46650134 ! claims outstanding  HQ : 90704736 MK : 7728822 TK : 7 ! 
+Question: claims paid MK?
+Answer: 834
+
+Context: claims paid  HQ : 79 MK : 834 TK : 46650134 ! claims outstanding  HQ : 90704736 MK : 7728822 TK : 7 ! 
+Question: claims paid TK?
+Answer: 46650134
+
+Context: claims paid  HQ : 79 MK : 834 TK : 46650134 ! claims outstanding  HQ : 90704736 MK : 7728822 TK : 7 ! 
+Question: claims outstanding HQ?
+Answer: 90704736
+
+Context: claims paid  HQ : 79 MK : 834 TK : 46650134 ! claims outstanding  HQ : 90704736 MK : 7728822 TK : 7 ! 
+Question: claims outstanding MK?
+Answer: 7728822
+
+Context: claims paid  HQ : 79 MK : 834 TK : 46650134 ! claims outstanding  HQ : 90704736 MK : 7728822 TK : 7 ! 
+Question: claims outstanding TK?
+Answer: 7
+
+Context: claims paid  MK : 8670 TK : 0856919780 HQ : 874 ! claims outstanding  MK : 4866241 TK : 20585 HQ : 66543 ! 
+Question: claims paid MK?
+Answer: empty - Wrong answer
+
+Context: claims paid  MK : 8670 TK : 0856919780 HQ : 874 ! claims outstanding  MK : 4866241 TK : 20585 HQ : 66543 ! 
+Question: claims paid TK?
+Answer: 0856919780
+
+Context: claims paid  MK : 8670 TK : 0856919780 HQ : 874 ! claims outstanding  MK : 4866241 TK : 20585 HQ : 66543 ! 
+Question: claims paid HQ?
+Answer: 874
+
+Context: claims paid  MK : 8670 TK : 0856919780 HQ : 874 ! claims outstanding  MK : 4866241 TK : 20585 HQ : 66543 ! 
+Question: claims outstanding MK?
+Answer: 4866241
+
+Context: claims paid  MK : 8670 TK : 0856919780 HQ : 874 ! claims outstanding  MK : 4866241 TK : 20585 HQ : 66543 ! 
+Question: claims outstanding TK?
+Answer: 20585
+
+Context: claims paid  MK : 8670 TK : 0856919780 HQ : 874 ! claims outstanding  MK : 4866241 TK : 20585 HQ : 66543 ! 
+Question: claims outstanding HQ?
+Answer: empty - Wrong answer
+
+Context: claims paid  HQ : 10653180 MK : 013 TK : 2 ! claims outstanding  HQ : 59 MK : 85 TK : 2553666 ! 
+Question: claims paid HQ?
+Answer: 10653180
+
+Context: claims paid  HQ : 10653180 MK : 013 TK : 2 ! claims outstanding  HQ : 59 MK : 85 TK : 2553666 ! 
+Question: claims paid MK?
+Answer: 013
+
+Context: claims paid  HQ : 10653180 MK : 013 TK : 2 ! claims outstanding  HQ : 59 MK : 85 TK : 2553666 ! 
+Question: claims paid TK?
+Answer: 2
+
+Context: claims paid  HQ : 10653180 MK : 013 TK : 2 ! claims outstanding  HQ : 59 MK : 85 TK : 2553666 ! 
+Question: claims outstanding HQ?
+Answer: 59
+
+Context: claims paid  HQ : 10653180 MK : 013 TK : 2 ! claims outstanding  HQ : 59 MK : 85 TK : 2553666 ! 
+Question: claims outstanding MK?
+Answer: 85
+
+Context: claims paid  HQ : 10653180 MK : 013 TK : 2 ! claims outstanding  HQ : 59 MK : 85 TK : 2553666 ! 
+Question: claims outstanding TK?
+Answer: empty - Wrong answer
+
+Context: claims paid  HQ : 65493 MK : 3202 TK : 004531 ! claims outstanding  HQ : 2559686904 MK : 6956 TK : 8134730115 ! 
+Question: claims paid HQ?
+Answer: 3202 - Wrong answer
+
+Context: claims paid  HQ : 65493 MK : 3202 TK : 004531 ! claims outstanding  HQ : 2559686904 MK : 6956 TK : 8134730115 ! 
+Question: claims paid MK?
+Answer: 3202
+
+Context: claims paid  HQ : 65493 MK : 3202 TK : 004531 ! claims outstanding  HQ : 2559686904 MK : 6956 TK : 8134730115 ! 
+Question: claims paid TK?
+Answer: 004531
+
+Context: claims paid  HQ : 65493 MK : 3202 TK : 004531 ! claims outstanding  HQ : 2559686904 MK : 6956 TK : 8134730115 ! 
+Question: claims outstanding HQ?
+Answer: 2559686904
+
+Context: claims paid  HQ : 65493 MK : 3202 TK : 004531 ! claims outstanding  HQ : 2559686904 MK : 6956 TK : 8134730115 ! 
+Question: claims outstanding MK?
+Answer: 6956
+
+Context: claims paid  HQ : 65493 MK : 3202 TK : 004531 ! claims outstanding  HQ : 2559686904 MK : 6956 TK : 8134730115 ! 
+Question: claims outstanding TK?
+Answer: 8134730115
+
+Context: claims paid  MK : 5559216 HQ : 4 TK : 71128 ! claims outstanding  MK : 797074 HQ : 21496 TK : 55 ! 
+Question: claims paid MK?
+Answer: 5559216 hq : 4 - Wrong answer
+
+Context: claims paid  MK : 5559216 HQ : 4 TK : 71128 ! claims outstanding  MK : 797074 HQ : 21496 TK : 55 ! 
+Question: claims paid HQ?
+Answer: 4
+
+Context: claims paid  MK : 5559216 HQ : 4 TK : 71128 ! claims outstanding  MK : 797074 HQ : 21496 TK : 55 ! 
+Question: claims paid TK?
+Answer: 71128
+
+Context: claims paid  MK : 5559216 HQ : 4 TK : 71128 ! claims outstanding  MK : 797074 HQ : 21496 TK : 55 ! 
+Question: claims outstanding MK?
+Answer: 797074
+
+Context: claims paid  MK : 5559216 HQ : 4 TK : 71128 ! claims outstanding  MK : 797074 HQ : 21496 TK : 55 ! 
+Question: claims outstanding HQ?
+Answer: 797074 - Wrong answer
+
+Context: claims paid  MK : 5559216 HQ : 4 TK : 71128 ! claims outstanding  MK : 797074 HQ : 21496 TK : 55 ! 
+Question: claims outstanding TK?
+Answer: 55
+
+Context: claims paid  TK : 3543 MK : 031377 HQ : 390662 ! claims outstanding  TK : 52134609 MK : 8 HQ : 5355643843 ! 
+Question: claims paid TK?
+Answer: 3543
+
+Context: claims paid  TK : 3543 MK : 031377 HQ : 390662 ! claims outstanding  TK : 52134609 MK : 8 HQ : 5355643843 ! 
+Question: claims paid MK?
+Answer: 031377 hq : 390662 - Wrong answer
+
+Context: claims paid  TK : 3543 MK : 031377 HQ : 390662 ! claims outstanding  TK : 52134609 MK : 8 HQ : 5355643843 ! 
+Question: claims paid HQ?
+Answer: 390662
+
+Context: claims paid  TK : 3543 MK : 031377 HQ : 390662 ! claims outstanding  TK : 52134609 MK : 8 HQ : 5355643843 ! 
+Question: claims outstanding TK?
+Answer: 8 - Wrong answer
+
+Context: claims paid  TK : 3543 MK : 031377 HQ : 390662 ! claims outstanding  TK : 52134609 MK : 8 HQ : 5355643843 ! 
+Question: claims outstanding MK?
+Answer: 8
+
+Context: claims paid  TK : 3543 MK : 031377 HQ : 390662 ! claims outstanding  TK : 52134609 MK : 8 HQ : 5355643843 ! 
+Question: claims outstanding HQ?
+Answer: 8 - Wrong answer
+
+Context: claims paid  MK : 9311279 HQ : 271383452 TK : 26818 ! claims outstanding  MK : 204 HQ : 872859 TK : 125768860 ! 
+Question: claims paid MK?
+Answer: 9311279
+
+Context: claims paid  MK : 9311279 HQ : 271383452 TK : 26818 ! claims outstanding  MK : 204 HQ : 872859 TK : 125768860 ! 
+Question: claims paid HQ?
+Answer: 9311279 - Wrong answer
+
+Context: claims paid  MK : 9311279 HQ : 271383452 TK : 26818 ! claims outstanding  MK : 204 HQ : 872859 TK : 125768860 ! 
+Question: claims paid TK?
+Answer: 26818
+
+Context: claims paid  MK : 9311279 HQ : 271383452 TK : 26818 ! claims outstanding  MK : 204 HQ : 872859 TK : 125768860 ! 
+Question: claims outstanding MK?
+Answer: 204
+
+Context: claims paid  MK : 9311279 HQ : 271383452 TK : 26818 ! claims outstanding  MK : 204 HQ : 872859 TK : 125768860 ! 
+Question: claims outstanding HQ?
+Answer: 204 - Wrong answer
+
+Context: claims paid  MK : 9311279 HQ : 271383452 TK : 26818 ! claims outstanding  MK : 204 HQ : 872859 TK : 125768860 ! 
+Question: claims outstanding TK?
+Answer: 125768860
+
+Context: claims paid  HQ : 74 TK : 2 MK : 5969444 ! claims outstanding  HQ : 78 TK : 06304567 MK : 08755183 ! 
+Question: claims paid HQ?
+Answer: 74
+
+Context: claims paid  HQ : 74 TK : 2 MK : 5969444 ! claims outstanding  HQ : 78 TK : 06304567 MK : 08755183 ! 
+Question: claims paid TK?
+Answer: 2
+
+Context: claims paid  HQ : 74 TK : 2 MK : 5969444 ! claims outstanding  HQ : 78 TK : 06304567 MK : 08755183 ! 
+Question: claims paid MK?
+Answer: 74 - Wrong answer
+
+Context: claims paid  HQ : 74 TK : 2 MK : 5969444 ! claims outstanding  HQ : 78 TK : 06304567 MK : 08755183 ! 
+Question: claims outstanding HQ?
+Answer: 78
+
+Context: claims paid  HQ : 74 TK : 2 MK : 5969444 ! claims outstanding  HQ : 78 TK : 06304567 MK : 08755183 ! 
+Question: claims outstanding TK?
+Answer: 06304567
+
+Context: claims paid  HQ : 74 TK : 2 MK : 5969444 ! claims outstanding  HQ : 78 TK : 06304567 MK : 08755183 ! 
+Question: claims outstanding MK?
+Answer: 78 - Wrong answer
+
+Context: claims paid  TK : 5858811207 MK : 1 HQ : 0897534544 ! claims outstanding  TK : 0778426174 MK : 85 HQ : 48 ! 
+Question: claims paid TK?
+Answer: 5858811207
+
+Context: claims paid  TK : 5858811207 MK : 1 HQ : 0897534544 ! claims outstanding  TK : 0778426174 MK : 85 HQ : 48 ! 
+Question: claims paid MK?
+Answer: 1
+
+Context: claims paid  TK : 5858811207 MK : 1 HQ : 0897534544 ! claims outstanding  TK : 0778426174 MK : 85 HQ : 48 ! 
+Question: claims paid HQ?
+Answer: empty - Wrong answer
+
+Context: claims paid  TK : 5858811207 MK : 1 HQ : 0897534544 ! claims outstanding  TK : 0778426174 MK : 85 HQ : 48 ! 
+Question: claims outstanding TK?
+Answer: empty - Wrong answer
+
+Context: claims paid  TK : 5858811207 MK : 1 HQ : 0897534544 ! claims outstanding  TK : 0778426174 MK : 85 HQ : 48 ! 
+Question: claims outstanding MK?
+Answer: 85
+
+Context: claims paid  TK : 5858811207 MK : 1 HQ : 0897534544 ! claims outstanding  TK : 0778426174 MK : 85 HQ : 48 ! 
+Question: claims outstanding HQ?
+Answer: 48
+
+Context: claims paid  MK : 01531623 TK : 35882806 HQ : 1572 ! claims outstanding  MK : 625204561 TK : 1 HQ : 88 ! 
+Question: claims paid MK?
+Answer: 1572 - Wrong answer
+
+Context: claims paid  MK : 01531623 TK : 35882806 HQ : 1572 ! claims outstanding  MK : 625204561 TK : 1 HQ : 88 ! 
+Question: claims paid TK?
+Answer: 35882806
+
+Context: claims paid  MK : 01531623 TK : 35882806 HQ : 1572 ! claims outstanding  MK : 625204561 TK : 1 HQ : 88 ! 
+Question: claims paid HQ?
+Answer: 1572
+
+Context: claims paid  MK : 01531623 TK : 35882806 HQ : 1572 ! claims outstanding  MK : 625204561 TK : 1 HQ : 88 ! 
+Question: claims outstanding MK?
+Answer: 625204561
+
+Context: claims paid  MK : 01531623 TK : 35882806 HQ : 1572 ! claims outstanding  MK : 625204561 TK : 1 HQ : 88 ! 
+Question: claims outstanding TK?
+Answer: 1
+
+Context: claims paid  MK : 01531623 TK : 35882806 HQ : 1572 ! claims outstanding  MK : 625204561 TK : 1 HQ : 88 ! 
+Question: claims outstanding HQ?
+Answer: empty - Wrong answer
+
+Context: claims paid  TK : 47384478 HQ : 684322566 MK : 2410373 ! claims outstanding  TK : 2609308 HQ : 669592 MK : 45958310 ! 
+Question: claims paid TK?
+Answer: 2410373 - Wrong answer
+
+Context: claims paid  TK : 47384478 HQ : 684322566 MK : 2410373 ! claims outstanding  TK : 2609308 HQ : 669592 MK : 45958310 ! 
+Question: claims paid HQ?
+Answer: 684322566 mk : 2410373 - Wrong answer
+
+Context: claims paid  TK : 47384478 HQ : 684322566 MK : 2410373 ! claims outstanding  TK : 2609308 HQ : 669592 MK : 45958310 ! 
+Question: claims paid MK?
+Answer: 2410373
+
+Context: claims paid  TK : 47384478 HQ : 684322566 MK : 2410373 ! claims outstanding  TK : 2609308 HQ : 669592 MK : 45958310 ! 
+Question: claims outstanding TK?
+Answer: empty - Wrong answer
+
+Context: claims paid  TK : 47384478 HQ : 684322566 MK : 2410373 ! claims outstanding  TK : 2609308 HQ : 669592 MK : 45958310 ! 
+Question: claims outstanding HQ?
+Answer: 45958310 - Wrong answer
+
+Context: claims paid  TK : 47384478 HQ : 684322566 MK : 2410373 ! claims outstanding  TK : 2609308 HQ : 669592 MK : 45958310 ! 
+Question: claims outstanding MK?
+Answer: 45958310
+
+Context: claims paid  MK : 21 TK : 5 HQ : 978136 ! claims outstanding  MK : 10 TK : 1399900846 HQ : 2879726 ! 
+Question: claims paid MK?
+Answer: 21
+
+Context: claims paid  MK : 21 TK : 5 HQ : 978136 ! claims outstanding  MK : 10 TK : 1399900846 HQ : 2879726 ! 
+Question: claims paid TK?
+Answer: 5
+
+Context: claims paid  MK : 21 TK : 5 HQ : 978136 ! claims outstanding  MK : 10 TK : 1399900846 HQ : 2879726 ! 
+Question: claims paid HQ?
+Answer: 978136
+
+Context: claims paid  MK : 21 TK : 5 HQ : 978136 ! claims outstanding  MK : 10 TK : 1399900846 HQ : 2879726 ! 
+Question: claims outstanding MK?
+Answer: 10
+
+Context: claims paid  MK : 21 TK : 5 HQ : 978136 ! claims outstanding  MK : 10 TK : 1399900846 HQ : 2879726 ! 
+Question: claims outstanding TK?
+Answer: empty - Wrong answer
+
+Context: claims paid  MK : 21 TK : 5 HQ : 978136 ! claims outstanding  MK : 10 TK : 1399900846 HQ : 2879726 ! 
+Question: claims outstanding HQ?
+Answer: 10 - Wrong answer
+
+Context: claims paid  MK : 40497 TK : 923052 HQ : 6862364 ! claims outstanding  MK : 161487 TK : 57 HQ : 364825 ! 
+Question: claims paid MK?
+Answer: 40497
+
+Context: claims paid  MK : 40497 TK : 923052 HQ : 6862364 ! claims outstanding  MK : 161487 TK : 57 HQ : 364825 ! 
+Question: claims paid TK?
+Answer: 923052
+
+Context: claims paid  MK : 40497 TK : 923052 HQ : 6862364 ! claims outstanding  MK : 161487 TK : 57 HQ : 364825 ! 
+Question: claims paid HQ?
+Answer: empty - Wrong answer
+
+Context: claims paid  MK : 40497 TK : 923052 HQ : 6862364 ! claims outstanding  MK : 161487 TK : 57 HQ : 364825 ! 
+Question: claims outstanding MK?
+Answer: 161487
+
+Context: claims paid  MK : 40497 TK : 923052 HQ : 6862364 ! claims outstanding  MK : 161487 TK : 57 HQ : 364825 ! 
+Question: claims outstanding TK?
+Answer: 57
+
+Context: claims paid  MK : 40497 TK : 923052 HQ : 6862364 ! claims outstanding  MK : 161487 TK : 57 HQ : 364825 ! 
+Question: claims outstanding HQ?
+Answer: empty - Wrong answer
+
+Context: claims paid  TK : 4176470662 MK : 082636 HQ : 761 ! claims outstanding  TK : 8526273 MK : 9641 HQ : 0714486797 ! 
+Question: claims paid TK?
+Answer: 4176470662 mk : 082636 hq : 761 - Wrong answer
+
+Context: claims paid  TK : 4176470662 MK : 082636 HQ : 761 ! claims outstanding  TK : 8526273 MK : 9641 HQ : 0714486797 ! 
+Question: claims paid MK?
+Answer: 761 - Wrong answer
+
+Context: claims paid  TK : 4176470662 MK : 082636 HQ : 761 ! claims outstanding  TK : 8526273 MK : 9641 HQ : 0714486797 ! 
+Question: claims paid HQ?
+Answer: 761
+
+Context: claims paid  TK : 4176470662 MK : 082636 HQ : 761 ! claims outstanding  TK : 8526273 MK : 9641 HQ : 0714486797 ! 
+Question: claims outstanding TK?
+Answer: empty - Wrong answer
+
+Context: claims paid  TK : 4176470662 MK : 082636 HQ : 761 ! claims outstanding  TK : 8526273 MK : 9641 HQ : 0714486797 ! 
+Question: claims outstanding MK?
+Answer: 9641
+
+Context: claims paid  TK : 4176470662 MK : 082636 HQ : 761 ! claims outstanding  TK : 8526273 MK : 9641 HQ : 0714486797 ! 
+Question: claims outstanding HQ?
+Answer: 0714486797
+
+Context: claims paid  TK : 4927107 HQ : 3781845 MK : 42111 ! claims outstanding  TK : 6849 HQ : 0511 MK : 1027 ! 
+Question: claims paid TK?
+Answer: 42111 - Wrong answer
+
+Context: claims paid  TK : 4927107 HQ : 3781845 MK : 42111 ! claims outstanding  TK : 6849 HQ : 0511 MK : 1027 ! 
+Question: claims paid HQ?
+Answer: 3781845
+
+Context: claims paid  TK : 4927107 HQ : 3781845 MK : 42111 ! claims outstanding  TK : 6849 HQ : 0511 MK : 1027 ! 
+Question: claims paid MK?
+Answer: 42111
+
+Context: claims paid  TK : 4927107 HQ : 3781845 MK : 42111 ! claims outstanding  TK : 6849 HQ : 0511 MK : 1027 ! 
+Question: claims outstanding TK?
+Answer: empty - Wrong answer
+
+Context: claims paid  TK : 4927107 HQ : 3781845 MK : 42111 ! claims outstanding  TK : 6849 HQ : 0511 MK : 1027 ! 
+Question: claims outstanding HQ?
+Answer: empty - Wrong answer
+
+Context: claims paid  TK : 4927107 HQ : 3781845 MK : 42111 ! claims outstanding  TK : 6849 HQ : 0511 MK : 1027 ! 
+Question: claims outstanding MK?
+Answer: empty - Wrong answer
+
+Context: claims paid  HQ : 332380 MK : 602884 TK : 9 ! claims outstanding  HQ : 49363 MK : 73 TK : 316192281 ! 
+Question: claims paid HQ?
+Answer: 332380
+
+Context: claims paid  HQ : 332380 MK : 602884 TK : 9 ! claims outstanding  HQ : 49363 MK : 73 TK : 316192281 ! 
+Question: claims paid MK?
+Answer: 602884
+
+Context: claims paid  HQ : 332380 MK : 602884 TK : 9 ! claims outstanding  HQ : 49363 MK : 73 TK : 316192281 ! 
+Question: claims paid TK?
+Answer: 9
+
+Context: claims paid  HQ : 332380 MK : 602884 TK : 9 ! claims outstanding  HQ : 49363 MK : 73 TK : 316192281 ! 
+Question: claims outstanding HQ?
+Answer: 49363
+
+Context: claims paid  HQ : 332380 MK : 602884 TK : 9 ! claims outstanding  HQ : 49363 MK : 73 TK : 316192281 ! 
+Question: claims outstanding MK?
+Answer: 73
+
+Context: claims paid  HQ : 332380 MK : 602884 TK : 9 ! claims outstanding  HQ : 49363 MK : 73 TK : 316192281 ! 
+Question: claims outstanding TK?
+Answer: 316192281
+
+Context: claims paid  MK : 3033976469 TK : 3422422126 HQ : 1380038055 ! claims outstanding  MK : 2178 TK : 12833 HQ : 44164 ! 
+Question: claims paid MK?
+Answer: 1380038055 - Wrong answer
+
+Context: claims paid  MK : 3033976469 TK : 3422422126 HQ : 1380038055 ! claims outstanding  MK : 2178 TK : 12833 HQ : 44164 ! 
+Question: claims paid TK?
+Answer: 1380038055 - Wrong answer
+
+Context: claims paid  MK : 3033976469 TK : 3422422126 HQ : 1380038055 ! claims outstanding  MK : 2178 TK : 12833 HQ : 44164 ! 
+Question: claims paid HQ?
+Answer: 1380038055
+
+Context: claims paid  MK : 3033976469 TK : 3422422126 HQ : 1380038055 ! claims outstanding  MK : 2178 TK : 12833 HQ : 44164 ! 
+Question: claims outstanding MK?
+Answer: 2178
+
+Context: claims paid  MK : 3033976469 TK : 3422422126 HQ : 1380038055 ! claims outstanding  MK : 2178 TK : 12833 HQ : 44164 ! 
+Question: claims outstanding TK?
+Answer: 1380038055 ! claims outstanding mk : 2178 tk : 12833 - Wrong answer
+
+Context: claims paid  MK : 3033976469 TK : 3422422126 HQ : 1380038055 ! claims outstanding  MK : 2178 TK : 12833 HQ : 44164 ! 
+Question: claims outstanding HQ?
+Answer: 1380038055 ! claims outstanding mk : 2178 - Wrong answer
+
+Context: claims paid  TK : 16201 HQ : 2509478 MK : 9 ! claims outstanding  TK : 210840 HQ : 689326 MK : 584036 ! 
+Question: claims paid TK?
+Answer: 16201 hq : 2509478 mk : 9 - Wrong answer
+
+Context: claims paid  TK : 16201 HQ : 2509478 MK : 9 ! claims outstanding  TK : 210840 HQ : 689326 MK : 584036 ! 
+Question: claims paid HQ?
+Answer: 9 - Wrong answer
+
+Context: claims paid  TK : 16201 HQ : 2509478 MK : 9 ! claims outstanding  TK : 210840 HQ : 689326 MK : 584036 ! 
+Question: claims paid MK?
+Answer: 9
+
+Context: claims paid  TK : 16201 HQ : 2509478 MK : 9 ! claims outstanding  TK : 210840 HQ : 689326 MK : 584036 ! 
+Question: claims outstanding TK?
+Answer: 210840
+
+Context: claims paid  TK : 16201 HQ : 2509478 MK : 9 ! claims outstanding  TK : 210840 HQ : 689326 MK : 584036 ! 
+Question: claims outstanding HQ?
+Answer: 9 - Wrong answer
+
+Context: claims paid  TK : 16201 HQ : 2509478 MK : 9 ! claims outstanding  TK : 210840 HQ : 689326 MK : 584036 ! 
+Question: claims outstanding MK?
+Answer: 9 - Wrong answer
+
+Context: claims paid  HQ : 81369 TK : 4758589 MK : 660740335 ! claims outstanding  HQ : 8216990924 TK : 8643938356 MK : 46343115 ! 
+Question: claims paid HQ?
+Answer: 660740335 - Wrong answer
+
+Context: claims paid  HQ : 81369 TK : 4758589 MK : 660740335 ! claims outstanding  HQ : 8216990924 TK : 8643938356 MK : 46343115 ! 
+Question: claims paid TK?
+Answer: 4758589
+
+Context: claims paid  HQ : 81369 TK : 4758589 MK : 660740335 ! claims outstanding  HQ : 8216990924 TK : 8643938356 MK : 46343115 ! 
+Question: claims paid MK?
+Answer: 660740335
+
+Context: claims paid  HQ : 81369 TK : 4758589 MK : 660740335 ! claims outstanding  HQ : 8216990924 TK : 8643938356 MK : 46343115 ! 
+Question: claims outstanding HQ?
+Answer: empty - Wrong answer
+
+Context: claims paid  HQ : 81369 TK : 4758589 MK : 660740335 ! claims outstanding  HQ : 8216990924 TK : 8643938356 MK : 46343115 ! 
+Question: claims outstanding TK?
+Answer: 8643938356
+
+Context: claims paid  HQ : 81369 TK : 4758589 MK : 660740335 ! claims outstanding  HQ : 8216990924 TK : 8643938356 MK : 46343115 ! 
+Question: claims outstanding MK?
+Answer: 46343115
+
+Context: claims paid  HQ : 625707762 MK : 108 TK : 83 ! claims outstanding  HQ : 74 MK : 0 TK : 251231 ! 
+Question: claims paid HQ?
+Answer: 108 - Wrong answer
+
+Context: claims paid  HQ : 625707762 MK : 108 TK : 83 ! claims outstanding  HQ : 74 MK : 0 TK : 251231 ! 
+Question: claims paid MK?
+Answer: 108
+
+Context: claims paid  HQ : 625707762 MK : 108 TK : 83 ! claims outstanding  HQ : 74 MK : 0 TK : 251231 ! 
+Question: claims paid TK?
+Answer: 83
+
+Context: claims paid  HQ : 625707762 MK : 108 TK : 83 ! claims outstanding  HQ : 74 MK : 0 TK : 251231 ! 
+Question: claims outstanding HQ?
+Answer: 74
+
+Context: claims paid  HQ : 625707762 MK : 108 TK : 83 ! claims outstanding  HQ : 74 MK : 0 TK : 251231 ! 
+Question: claims outstanding MK?
+Answer: 0
+
+Context: claims paid  HQ : 625707762 MK : 108 TK : 83 ! claims outstanding  HQ : 74 MK : 0 TK : 251231 ! 
+Question: claims outstanding TK?
+Answer: empty - Wrong answer
+
+Context: claims paid  MK : 0830225 TK : 2920 HQ : 5014 ! claims outstanding  MK : 637760654 TK : 73514835 HQ : 786308 ! 
+Question: claims paid MK?
+Answer: 0830225
+
+Context: claims paid  MK : 0830225 TK : 2920 HQ : 5014 ! claims outstanding  MK : 637760654 TK : 73514835 HQ : 786308 ! 
+Question: claims paid TK?
+Answer: 2920
+
+Context: claims paid  MK : 0830225 TK : 2920 HQ : 5014 ! claims outstanding  MK : 637760654 TK : 73514835 HQ : 786308 ! 
+Question: claims paid HQ?
+Answer: 5014
+
+Context: claims paid  MK : 0830225 TK : 2920 HQ : 5014 ! claims outstanding  MK : 637760654 TK : 73514835 HQ : 786308 ! 
+Question: claims outstanding MK?
+Answer: 637760654
+
+Context: claims paid  MK : 0830225 TK : 2920 HQ : 5014 ! claims outstanding  MK : 637760654 TK : 73514835 HQ : 786308 ! 
+Question: claims outstanding TK?
+Answer: 637760654 - Wrong answer
+
+Context: claims paid  MK : 0830225 TK : 2920 HQ : 5014 ! claims outstanding  MK : 637760654 TK : 73514835 HQ : 786308 ! 
+Question: claims outstanding HQ?
+Answer: 637760654 - Wrong answer
+
+Context: claims paid  HQ : 69891828 MK : 2647 TK : 771004319 ! claims outstanding  HQ : 56244551 MK : 67266 TK : 65 ! 
+Question: claims paid HQ?
+Answer: 69891828
+
+Context: claims paid  HQ : 69891828 MK : 2647 TK : 771004319 ! claims outstanding  HQ : 56244551 MK : 67266 TK : 65 ! 
+Question: claims paid MK?
+Answer: 2647
+
+Context: claims paid  HQ : 69891828 MK : 2647 TK : 771004319 ! claims outstanding  HQ : 56244551 MK : 67266 TK : 65 ! 
+Question: claims paid TK?
+Answer: 771004319
+
+Context: claims paid  HQ : 69891828 MK : 2647 TK : 771004319 ! claims outstanding  HQ : 56244551 MK : 67266 TK : 65 ! 
+Question: claims outstanding HQ?
+Answer: empty - Wrong answer
+
+Context: claims paid  HQ : 69891828 MK : 2647 TK : 771004319 ! claims outstanding  HQ : 56244551 MK : 67266 TK : 65 ! 
+Question: claims outstanding MK?
+Answer: 67266
+
+Context: claims paid  HQ : 69891828 MK : 2647 TK : 771004319 ! claims outstanding  HQ : 56244551 MK : 67266 TK : 65 ! 
+Question: claims outstanding TK?
+Answer: 65
+
+Context: claims paid  CH : 403926 AG : 615981 ZA : 588906 ! claims outstanding  CH : 991774 AG : 03041760 ZA : 4714 ! 
+Question: claims paid CH?
+Answer: 403926
+
+Context: claims paid  CH : 403926 AG : 615981 ZA : 588906 ! claims outstanding  CH : 991774 AG : 03041760 ZA : 4714 ! 
+Question: claims paid AG?
+Answer: 615981
+
+Context: claims paid  CH : 403926 AG : 615981 ZA : 588906 ! claims outstanding  CH : 991774 AG : 03041760 ZA : 4714 ! 
+Question: claims paid ZA?
+Answer: empty - Wrong answer
+
+Context: claims paid  CH : 403926 AG : 615981 ZA : 588906 ! claims outstanding  CH : 991774 AG : 03041760 ZA : 4714 ! 
+Question: claims outstanding CH?
+Answer: 991774
+
+Context: claims paid  CH : 403926 AG : 615981 ZA : 588906 ! claims outstanding  CH : 991774 AG : 03041760 ZA : 4714 ! 
+Question: claims outstanding AG?
+Answer: 991774 - Wrong answer
+
+Context: claims paid  CH : 403926 AG : 615981 ZA : 588906 ! claims outstanding  CH : 991774 AG : 03041760 ZA : 4714 ! 
+Question: claims outstanding ZA?
+Answer: 991774 - Wrong answer
+
+Context: claims paid  AG : 35153968 ZA : 092762957 CH : 06 ! claims outstanding  AG : 3583587 ZA : 252589 CH : 86 ! 
+Question: claims paid AG?
+Answer: 35153968 za : 092762957 ch : 06 - Wrong answer
+
+Context: claims paid  AG : 35153968 ZA : 092762957 CH : 06 ! claims outstanding  AG : 3583587 ZA : 252589 CH : 86 ! 
+Question: claims paid ZA?
+Answer: 092762957
+
+Context: claims paid  AG : 35153968 ZA : 092762957 CH : 06 ! claims outstanding  AG : 3583587 ZA : 252589 CH : 86 ! 
+Question: claims paid CH?
+Answer: 06
+
+Context: claims paid  AG : 35153968 ZA : 092762957 CH : 06 ! claims outstanding  AG : 3583587 ZA : 252589 CH : 86 ! 
+Question: claims outstanding AG?
+Answer: 3583587
+
+Context: claims paid  AG : 35153968 ZA : 092762957 CH : 06 ! claims outstanding  AG : 3583587 ZA : 252589 CH : 86 ! 
+Question: claims outstanding ZA?
+Answer: 252589
+
+Context: claims paid  AG : 35153968 ZA : 092762957 CH : 06 ! claims outstanding  AG : 3583587 ZA : 252589 CH : 86 ! 
+Question: claims outstanding CH?
+Answer: 86
+
+Context: claims paid  ZA : 53852 CH : 28 AG : 33 ! claims outstanding  ZA : 584 CH : 5240493230 AG : 194664131 ! 
+Question: claims paid ZA?
+Answer: 53852
+
+Context: claims paid  ZA : 53852 CH : 28 AG : 33 ! claims outstanding  ZA : 584 CH : 5240493230 AG : 194664131 ! 
+Question: claims paid CH?
+Answer: 28
+
+Context: claims paid  ZA : 53852 CH : 28 AG : 33 ! claims outstanding  ZA : 584 CH : 5240493230 AG : 194664131 ! 
+Question: claims paid AG?
+Answer: 33
+
+Context: claims paid  ZA : 53852 CH : 28 AG : 33 ! claims outstanding  ZA : 584 CH : 5240493230 AG : 194664131 ! 
+Question: claims outstanding ZA?
+Answer: 584
+
+Context: claims paid  ZA : 53852 CH : 28 AG : 33 ! claims outstanding  ZA : 584 CH : 5240493230 AG : 194664131 ! 
+Question: claims outstanding CH?
+Answer: 5240493230
+
+Context: claims paid  ZA : 53852 CH : 28 AG : 33 ! claims outstanding  ZA : 584 CH : 5240493230 AG : 194664131 ! 
+Question: claims outstanding AG?
+Answer: 5240493230 - Wrong answer
+
+Context: claims paid  AG : 1181786455 ZA : 3 CH : 32 ! claims outstanding  AG : 8 ZA : 5155420558 CH : 106384923 ! 
+Question: claims paid AG?
+Answer: 32 - Wrong answer
+
+Context: claims paid  AG : 1181786455 ZA : 3 CH : 32 ! claims outstanding  AG : 8 ZA : 5155420558 CH : 106384923 ! 
+Question: claims paid ZA?
+Answer: 3
+
+Context: claims paid  AG : 1181786455 ZA : 3 CH : 32 ! claims outstanding  AG : 8 ZA : 5155420558 CH : 106384923 ! 
+Question: claims paid CH?
+Answer: 32
+
+Context: claims paid  AG : 1181786455 ZA : 3 CH : 32 ! claims outstanding  AG : 8 ZA : 5155420558 CH : 106384923 ! 
+Question: claims outstanding AG?
+Answer: 8
+
+Context: claims paid  AG : 1181786455 ZA : 3 CH : 32 ! claims outstanding  AG : 8 ZA : 5155420558 CH : 106384923 ! 
+Question: claims outstanding ZA?
+Answer: 5155420558
+
+Context: claims paid  AG : 1181786455 ZA : 3 CH : 32 ! claims outstanding  AG : 8 ZA : 5155420558 CH : 106384923 ! 
+Question: claims outstanding CH?
+Answer: empty - Wrong answer
+
+Context: claims paid  AG : 442868 CH : 59915 ZA : 1421 ! claims outstanding  AG : 571153267 CH : 65 ZA : 260286557 ! 
+Question: claims paid AG?
+Answer: 442868
+
+Context: claims paid  AG : 442868 CH : 59915 ZA : 1421 ! claims outstanding  AG : 571153267 CH : 65 ZA : 260286557 ! 
+Question: claims paid CH?
+Answer: 59915
+
+Context: claims paid  AG : 442868 CH : 59915 ZA : 1421 ! claims outstanding  AG : 571153267 CH : 65 ZA : 260286557 ! 
+Question: claims paid ZA?
+Answer: 1421
+
+Context: claims paid  AG : 442868 CH : 59915 ZA : 1421 ! claims outstanding  AG : 571153267 CH : 65 ZA : 260286557 ! 
+Question: claims outstanding AG?
+Answer: 571153267
+
+Context: claims paid  AG : 442868 CH : 59915 ZA : 1421 ! claims outstanding  AG : 571153267 CH : 65 ZA : 260286557 ! 
+Question: claims outstanding CH?
+Answer: 65
+
+Context: claims paid  AG : 442868 CH : 59915 ZA : 1421 ! claims outstanding  AG : 571153267 CH : 65 ZA : 260286557 ! 
+Question: claims outstanding ZA?
+Answer: 260286557
+
+Context: claims paid  AG : 88 ZA : 9239 CH : 51717437 ! claims outstanding  AG : 5 ZA : 5608068 CH : 7 ! 
+Question: claims paid AG?
+Answer: 88
+
+Context: claims paid  AG : 88 ZA : 9239 CH : 51717437 ! claims outstanding  AG : 5 ZA : 5608068 CH : 7 ! 
+Question: claims paid ZA?
+Answer: 9239
+
+Context: claims paid  AG : 88 ZA : 9239 CH : 51717437 ! claims outstanding  AG : 5 ZA : 5608068 CH : 7 ! 
+Question: claims paid CH?
+Answer: 51717437
+
+Context: claims paid  AG : 88 ZA : 9239 CH : 51717437 ! claims outstanding  AG : 5 ZA : 5608068 CH : 7 ! 
+Question: claims outstanding AG?
+Answer: 5
+
+Context: claims paid  AG : 88 ZA : 9239 CH : 51717437 ! claims outstanding  AG : 5 ZA : 5608068 CH : 7 ! 
+Question: claims outstanding ZA?
+Answer: 5608068
+
+Context: claims paid  AG : 88 ZA : 9239 CH : 51717437 ! claims outstanding  AG : 5 ZA : 5608068 CH : 7 ! 
+Question: claims outstanding CH?
+Answer: 7
+
+Context: claims paid  CH : 589 ZA : 005 AG : 330332 ! claims outstanding  CH : 70089 ZA : 60 AG : 44625388 ! 
+Question: claims paid CH?
+Answer: 589
+
+Context: claims paid  CH : 589 ZA : 005 AG : 330332 ! claims outstanding  CH : 70089 ZA : 60 AG : 44625388 ! 
+Question: claims paid ZA?
+Answer: 005
+
+Context: claims paid  CH : 589 ZA : 005 AG : 330332 ! claims outstanding  CH : 70089 ZA : 60 AG : 44625388 ! 
+Question: claims paid AG?
+Answer: 330332
+
+Context: claims paid  CH : 589 ZA : 005 AG : 330332 ! claims outstanding  CH : 70089 ZA : 60 AG : 44625388 ! 
+Question: claims outstanding CH?
+Answer: 70089
+
+Context: claims paid  CH : 589 ZA : 005 AG : 330332 ! claims outstanding  CH : 70089 ZA : 60 AG : 44625388 ! 
+Question: claims outstanding ZA?
+Answer: 60
+
+Context: claims paid  CH : 589 ZA : 005 AG : 330332 ! claims outstanding  CH : 70089 ZA : 60 AG : 44625388 ! 
+Question: claims outstanding AG?
+Answer: 70089 - Wrong answer
+
+Context: claims paid  AG : 16952 ZA : 757 CH : 6402 ! claims outstanding  AG : 89314 ZA : 8855088267 CH : 1919090 ! 
+Question: claims paid AG?
+Answer: 16952
+
+Context: claims paid  AG : 16952 ZA : 757 CH : 6402 ! claims outstanding  AG : 89314 ZA : 8855088267 CH : 1919090 ! 
+Question: claims paid ZA?
+Answer: 757
+
+Context: claims paid  AG : 16952 ZA : 757 CH : 6402 ! claims outstanding  AG : 89314 ZA : 8855088267 CH : 1919090 ! 
+Question: claims paid CH?
+Answer: 6402
+
+Context: claims paid  AG : 16952 ZA : 757 CH : 6402 ! claims outstanding  AG : 89314 ZA : 8855088267 CH : 1919090 ! 
+Question: claims outstanding AG?
+Answer: 89314
+
+Context: claims paid  AG : 16952 ZA : 757 CH : 6402 ! claims outstanding  AG : 89314 ZA : 8855088267 CH : 1919090 ! 
+Question: claims outstanding ZA?
+Answer: 8855088267
+
+Context: claims paid  AG : 16952 ZA : 757 CH : 6402 ! claims outstanding  AG : 89314 ZA : 8855088267 CH : 1919090 ! 
+Question: claims outstanding CH?
+Answer: empty - Wrong answer
+
+Context: claims paid  ZA : 4189 AG : 681138432 CH : 2837976 ! claims outstanding  ZA : 922 AG : 91790103 CH : 1390 ! 
+Question: claims paid ZA?
+Answer: 4189
+
+Context: claims paid  ZA : 4189 AG : 681138432 CH : 2837976 ! claims outstanding  ZA : 922 AG : 91790103 CH : 1390 ! 
+Question: claims paid AG?
+Answer: 681138432 ch : 2837976 - Wrong answer
+
+Context: claims paid  ZA : 4189 AG : 681138432 CH : 2837976 ! claims outstanding  ZA : 922 AG : 91790103 CH : 1390 ! 
+Question: claims paid CH?
+Answer: 2837976
+
+Context: claims paid  ZA : 4189 AG : 681138432 CH : 2837976 ! claims outstanding  ZA : 922 AG : 91790103 CH : 1390 ! 
+Question: claims outstanding ZA?
+Answer: 922
+
+Context: claims paid  ZA : 4189 AG : 681138432 CH : 2837976 ! claims outstanding  ZA : 922 AG : 91790103 CH : 1390 ! 
+Question: claims outstanding AG?
+Answer: 91790103
+
+Context: claims paid  ZA : 4189 AG : 681138432 CH : 2837976 ! claims outstanding  ZA : 922 AG : 91790103 CH : 1390 ! 
+Question: claims outstanding CH?
+Answer: empty - Wrong answer
+
+Context: claims paid  AG : 446236 ZA : 670 CH : 7969436345 ! claims outstanding  AG : 0078 ZA : 271832762 CH : 4518633881 ! 
+Question: claims paid AG?
+Answer: 7969436345 - Wrong answer
+
+Context: claims paid  AG : 446236 ZA : 670 CH : 7969436345 ! claims outstanding  AG : 0078 ZA : 271832762 CH : 4518633881 ! 
+Question: claims paid ZA?
+Answer: 670
+
+Context: claims paid  AG : 446236 ZA : 670 CH : 7969436345 ! claims outstanding  AG : 0078 ZA : 271832762 CH : 4518633881 ! 
+Question: claims paid CH?
+Answer: 7969436345
+
+Context: claims paid  AG : 446236 ZA : 670 CH : 7969436345 ! claims outstanding  AG : 0078 ZA : 271832762 CH : 4518633881 ! 
+Question: claims outstanding AG?
+Answer: 0078
+
+Context: claims paid  AG : 446236 ZA : 670 CH : 7969436345 ! claims outstanding  AG : 0078 ZA : 271832762 CH : 4518633881 ! 
+Question: claims outstanding ZA?
+Answer: 271832762
+
+Context: claims paid  AG : 446236 ZA : 670 CH : 7969436345 ! claims outstanding  AG : 0078 ZA : 271832762 CH : 4518633881 ! 
+Question: claims outstanding CH?
+Answer: empty - Wrong answer
+
+Context: claims paid  AG : 9 ZA : 491 CH : 0053756354 ! claims outstanding  AG : 46781 ZA : 546156 CH : 6649369134 ! 
+Question: claims paid AG?
+Answer: 9
+
+Context: claims paid  AG : 9 ZA : 491 CH : 0053756354 ! claims outstanding  AG : 46781 ZA : 546156 CH : 6649369134 ! 
+Question: claims paid ZA?
+Answer: 491
+
+Context: claims paid  AG : 9 ZA : 491 CH : 0053756354 ! claims outstanding  AG : 46781 ZA : 546156 CH : 6649369134 ! 
+Question: claims paid CH?
+Answer: 0053756354
+
+Context: claims paid  AG : 9 ZA : 491 CH : 0053756354 ! claims outstanding  AG : 46781 ZA : 546156 CH : 6649369134 ! 
+Question: claims outstanding AG?
+Answer: 46781
+
+Context: claims paid  AG : 9 ZA : 491 CH : 0053756354 ! claims outstanding  AG : 46781 ZA : 546156 CH : 6649369134 ! 
+Question: claims outstanding ZA?
+Answer: 546156
+
+Context: claims paid  AG : 9 ZA : 491 CH : 0053756354 ! claims outstanding  AG : 46781 ZA : 546156 CH : 6649369134 ! 
+Question: claims outstanding CH?
+Answer: empty - Wrong answer
+
+Context: claims paid  CH : 4327686 AG : 592 ZA : 57 ! claims outstanding  CH : 9313853 AG : 8105208571 ZA : 1904 ! 
+Question: claims paid CH?
+Answer: 4327686
+
+Context: claims paid  CH : 4327686 AG : 592 ZA : 57 ! claims outstanding  CH : 9313853 AG : 8105208571 ZA : 1904 ! 
+Question: claims paid AG?
+Answer: 592
+
+Context: claims paid  CH : 4327686 AG : 592 ZA : 57 ! claims outstanding  CH : 9313853 AG : 8105208571 ZA : 1904 ! 
+Question: claims paid ZA?
+Answer: 57
+
+Context: claims paid  CH : 4327686 AG : 592 ZA : 57 ! claims outstanding  CH : 9313853 AG : 8105208571 ZA : 1904 ! 
+Question: claims outstanding CH?
+Answer: 9313853
+
+Context: claims paid  CH : 4327686 AG : 592 ZA : 57 ! claims outstanding  CH : 9313853 AG : 8105208571 ZA : 1904 ! 
+Question: claims outstanding AG?
+Answer: 9313853 - Wrong answer
+
+Context: claims paid  CH : 4327686 AG : 592 ZA : 57 ! claims outstanding  CH : 9313853 AG : 8105208571 ZA : 1904 ! 
+Question: claims outstanding ZA?
+Answer: 1904
+
+Context: claims paid  AG : 4058 CH : 4145 ZA : 2686 ! claims outstanding  AG : 335331439 CH : 7 ZA : 2 ! 
+Question: claims paid AG?
+Answer: 4058
+
+Context: claims paid  AG : 4058 CH : 4145 ZA : 2686 ! claims outstanding  AG : 335331439 CH : 7 ZA : 2 ! 
+Question: claims paid CH?
+Answer: 4145
+
+Context: claims paid  AG : 4058 CH : 4145 ZA : 2686 ! claims outstanding  AG : 335331439 CH : 7 ZA : 2 ! 
+Question: claims paid ZA?
+Answer: 2686
+
+Context: claims paid  AG : 4058 CH : 4145 ZA : 2686 ! claims outstanding  AG : 335331439 CH : 7 ZA : 2 ! 
+Question: claims outstanding AG?
+Answer: 335331439
+
+Context: claims paid  AG : 4058 CH : 4145 ZA : 2686 ! claims outstanding  AG : 335331439 CH : 7 ZA : 2 ! 
+Question: claims outstanding CH?
+Answer: 7
+
+Context: claims paid  AG : 4058 CH : 4145 ZA : 2686 ! claims outstanding  AG : 335331439 CH : 7 ZA : 2 ! 
+Question: claims outstanding ZA?
+Answer: 2
+
+Context: claims paid  CH : 662585509 ZA : 47 AG : 3847096273 ! claims outstanding  CH : 110037 ZA : 261591700 AG : 6 ! 
+Question: claims paid CH?
+Answer: 662585509
+
+Context: claims paid  CH : 662585509 ZA : 47 AG : 3847096273 ! claims outstanding  CH : 110037 ZA : 261591700 AG : 6 ! 
+Question: claims paid ZA?
+Answer: 47
+
+Context: claims paid  CH : 662585509 ZA : 47 AG : 3847096273 ! claims outstanding  CH : 110037 ZA : 261591700 AG : 6 ! 
+Question: claims paid AG?
+Answer: 3847096273
+
+Context: claims paid  CH : 662585509 ZA : 47 AG : 3847096273 ! claims outstanding  CH : 110037 ZA : 261591700 AG : 6 ! 
+Question: claims outstanding CH?
+Answer: empty - Wrong answer
+
+Context: claims paid  CH : 662585509 ZA : 47 AG : 3847096273 ! claims outstanding  CH : 110037 ZA : 261591700 AG : 6 ! 
+Question: claims outstanding ZA?
+Answer: 261591700
+
+Context: claims paid  CH : 662585509 ZA : 47 AG : 3847096273 ! claims outstanding  CH : 110037 ZA : 261591700 AG : 6 ! 
+Question: claims outstanding AG?
+Answer: 6
+
+Context: claims paid  ZA : 6320476039 AG : 7731013 CH : 34264 ! claims outstanding  ZA : 54 AG : 0262273 CH : 20552231 ! 
+Question: claims paid ZA?
+Answer: 34264 - Wrong answer
+
+Context: claims paid  ZA : 6320476039 AG : 7731013 CH : 34264 ! claims outstanding  ZA : 54 AG : 0262273 CH : 20552231 ! 
+Question: claims paid AG?
+Answer: 34264 - Wrong answer
+
+Context: claims paid  ZA : 6320476039 AG : 7731013 CH : 34264 ! claims outstanding  ZA : 54 AG : 0262273 CH : 20552231 ! 
+Question: claims paid CH?
+Answer: 34264
+
+Context: claims paid  ZA : 6320476039 AG : 7731013 CH : 34264 ! claims outstanding  ZA : 54 AG : 0262273 CH : 20552231 ! 
+Question: claims outstanding ZA?
+Answer: 54
+
+Context: claims paid  ZA : 6320476039 AG : 7731013 CH : 34264 ! claims outstanding  ZA : 54 AG : 0262273 CH : 20552231 ! 
+Question: claims outstanding AG?
+Answer: 20552231 - Wrong answer
+
+Context: claims paid  ZA : 6320476039 AG : 7731013 CH : 34264 ! claims outstanding  ZA : 54 AG : 0262273 CH : 20552231 ! 
+Question: claims outstanding CH?
+Answer: 20552231
+
+Context: claims paid  CH : 675325411 ZA : 0 AG : 9995147992 ! claims outstanding  CH : 2837124 ZA : 61 AG : 5 ! 
+Question: claims paid CH?
+Answer: 675325411
+
+Context: claims paid  CH : 675325411 ZA : 0 AG : 9995147992 ! claims outstanding  CH : 2837124 ZA : 61 AG : 5 ! 
+Question: claims paid ZA?
+Answer: 0
+
+Context: claims paid  CH : 675325411 ZA : 0 AG : 9995147992 ! claims outstanding  CH : 2837124 ZA : 61 AG : 5 ! 
+Question: claims paid AG?
+Answer: 9995147992
+
+Context: claims paid  CH : 675325411 ZA : 0 AG : 9995147992 ! claims outstanding  CH : 2837124 ZA : 61 AG : 5 ! 
+Question: claims outstanding CH?
+Answer: 2837124
+
+Context: claims paid  CH : 675325411 ZA : 0 AG : 9995147992 ! claims outstanding  CH : 2837124 ZA : 61 AG : 5 ! 
+Question: claims outstanding ZA?
+Answer: 61
+
+Context: claims paid  CH : 675325411 ZA : 0 AG : 9995147992 ! claims outstanding  CH : 2837124 ZA : 61 AG : 5 ! 
+Question: claims outstanding AG?
+Answer: 5
+
+Context: claims paid  ZA : 0170898428 AG : 9121274318 CH : 4514 ! claims outstanding  ZA : 9786170 AG : 01566 CH : 07673 ! 
+Question: claims paid ZA?
+Answer: 4514 - Wrong answer
+
+Context: claims paid  ZA : 0170898428 AG : 9121274318 CH : 4514 ! claims outstanding  ZA : 9786170 AG : 01566 CH : 07673 ! 
+Question: claims paid AG?
+Answer: 4514 - Wrong answer
+
+Context: claims paid  ZA : 0170898428 AG : 9121274318 CH : 4514 ! claims outstanding  ZA : 9786170 AG : 01566 CH : 07673 ! 
+Question: claims paid CH?
+Answer: 4514
+
+Context: claims paid  ZA : 0170898428 AG : 9121274318 CH : 4514 ! claims outstanding  ZA : 9786170 AG : 01566 CH : 07673 ! 
+Question: claims outstanding ZA?
+Answer: 9786170
+
+Context: claims paid  ZA : 0170898428 AG : 9121274318 CH : 4514 ! claims outstanding  ZA : 9786170 AG : 01566 CH : 07673 ! 
+Question: claims outstanding AG?
+Answer: empty - Wrong answer
+
+Context: claims paid  ZA : 0170898428 AG : 9121274318 CH : 4514 ! claims outstanding  ZA : 9786170 AG : 01566 CH : 07673 ! 
+Question: claims outstanding CH?
+Answer: 07673
+
+Context: claims paid  ZA : 35237478 CH : 30 AG : 8 ! claims outstanding  ZA : 073811465 CH : 941 AG : 4213973290 ! 
+Question: claims paid ZA?
+Answer: 35237478
+
+Context: claims paid  ZA : 35237478 CH : 30 AG : 8 ! claims outstanding  ZA : 073811465 CH : 941 AG : 4213973290 ! 
+Question: claims paid CH?
+Answer: 30
+
+Context: claims paid  ZA : 35237478 CH : 30 AG : 8 ! claims outstanding  ZA : 073811465 CH : 941 AG : 4213973290 ! 
+Question: claims paid AG?
+Answer: 8
+
+Context: claims paid  ZA : 35237478 CH : 30 AG : 8 ! claims outstanding  ZA : 073811465 CH : 941 AG : 4213973290 ! 
+Question: claims outstanding ZA?
+Answer: 073811465
+
+Context: claims paid  ZA : 35237478 CH : 30 AG : 8 ! claims outstanding  ZA : 073811465 CH : 941 AG : 4213973290 ! 
+Question: claims outstanding CH?
+Answer: 941
+
+Context: claims paid  ZA : 35237478 CH : 30 AG : 8 ! claims outstanding  ZA : 073811465 CH : 941 AG : 4213973290 ! 
+Question: claims outstanding AG?
+Answer: empty - Wrong answer
+
+Context: claims paid  CH : 87 ZA : 350343 AG : 14648 ! claims outstanding  CH : 8647 ZA : 48896423 AG : 4777250 ! 
+Question: claims paid CH?
+Answer: 87
+
+Context: claims paid  CH : 87 ZA : 350343 AG : 14648 ! claims outstanding  CH : 8647 ZA : 48896423 AG : 4777250 ! 
+Question: claims paid ZA?
+Answer: 350343
+
+Context: claims paid  CH : 87 ZA : 350343 AG : 14648 ! claims outstanding  CH : 8647 ZA : 48896423 AG : 4777250 ! 
+Question: claims paid AG?
+Answer: empty - Wrong answer
+
+Context: claims paid  CH : 87 ZA : 350343 AG : 14648 ! claims outstanding  CH : 8647 ZA : 48896423 AG : 4777250 ! 
+Question: claims outstanding CH?
+Answer: 8647
+
+Context: claims paid  CH : 87 ZA : 350343 AG : 14648 ! claims outstanding  CH : 8647 ZA : 48896423 AG : 4777250 ! 
+Question: claims outstanding ZA?
+Answer: 48896423
+
+Context: claims paid  CH : 87 ZA : 350343 AG : 14648 ! claims outstanding  CH : 8647 ZA : 48896423 AG : 4777250 ! 
+Question: claims outstanding AG?
+Answer: 8647 - Wrong answer
+
+Context: claims paid  CH : 25 ZA : 8 AG : 1 ! claims outstanding  CH : 8 ZA : 6 AG : 434146648 ! 
+Question: claims paid CH?
+Answer: 25
+
+Context: claims paid  CH : 25 ZA : 8 AG : 1 ! claims outstanding  CH : 8 ZA : 6 AG : 434146648 ! 
+Question: claims paid ZA?
+Answer: 8
+
+Context: claims paid  CH : 25 ZA : 8 AG : 1 ! claims outstanding  CH : 8 ZA : 6 AG : 434146648 ! 
+Question: claims paid AG?
+Answer: 1
+
+Context: claims paid  CH : 25 ZA : 8 AG : 1 ! claims outstanding  CH : 8 ZA : 6 AG : 434146648 ! 
+Question: claims outstanding CH?
+Answer: 8
+
+Context: claims paid  CH : 25 ZA : 8 AG : 1 ! claims outstanding  CH : 8 ZA : 6 AG : 434146648 ! 
+Question: claims outstanding ZA?
+Answer: 6
+
+Context: claims paid  CH : 25 ZA : 8 AG : 1 ! claims outstanding  CH : 8 ZA : 6 AG : 434146648 ! 
+Question: claims outstanding AG?
+Answer: 434146648
+
+Context: claims paid  AG : 5829451 ZA : 87 CH : 561007 ! claims outstanding  AG : 9793527 ZA : 37788 CH : 15513300 ! 
+Question: claims paid AG?
+Answer: 5829451
+
+Context: claims paid  AG : 5829451 ZA : 87 CH : 561007 ! claims outstanding  AG : 9793527 ZA : 37788 CH : 15513300 ! 
+Question: claims paid ZA?
+Answer: 87
+
+Context: claims paid  AG : 5829451 ZA : 87 CH : 561007 ! claims outstanding  AG : 9793527 ZA : 37788 CH : 15513300 ! 
+Question: claims paid CH?
+Answer: 561007
+
+Context: claims paid  AG : 5829451 ZA : 87 CH : 561007 ! claims outstanding  AG : 9793527 ZA : 37788 CH : 15513300 ! 
+Question: claims outstanding AG?
+Answer: 9793527
+
+Context: claims paid  AG : 5829451 ZA : 87 CH : 561007 ! claims outstanding  AG : 9793527 ZA : 37788 CH : 15513300 ! 
+Question: claims outstanding ZA?
+Answer: 37788
+
+Context: claims paid  AG : 5829451 ZA : 87 CH : 561007 ! claims outstanding  AG : 9793527 ZA : 37788 CH : 15513300 ! 
+Question: claims outstanding CH?
+Answer: empty - Wrong answer
+
+Context: claims paid  ZA : 75231 AG : 600 CH : 9 ! claims outstanding  ZA : 296586 AG : 01 CH : 90972 ! 
+Question: claims paid ZA?
+Answer: 75231
+
+Context: claims paid  ZA : 75231 AG : 600 CH : 9 ! claims outstanding  ZA : 296586 AG : 01 CH : 90972 ! 
+Question: claims paid AG?
+Answer: 600
+
+Context: claims paid  ZA : 75231 AG : 600 CH : 9 ! claims outstanding  ZA : 296586 AG : 01 CH : 90972 ! 
+Question: claims paid CH?
+Answer: 9
+
+Context: claims paid  ZA : 75231 AG : 600 CH : 9 ! claims outstanding  ZA : 296586 AG : 01 CH : 90972 ! 
+Question: claims outstanding ZA?
+Answer: 296586
+
+Context: claims paid  ZA : 75231 AG : 600 CH : 9 ! claims outstanding  ZA : 296586 AG : 01 CH : 90972 ! 
+Question: claims outstanding AG?
+Answer: 01
+
+Context: claims paid  ZA : 75231 AG : 600 CH : 9 ! claims outstanding  ZA : 296586 AG : 01 CH : 90972 ! 
+Question: claims outstanding CH?
+Answer: empty - Wrong answer
+
+Context: claims paid  CH : 80 AG : 4 ZA : 340 ! claims outstanding  CH : 8438257 AG : 256182100 ZA : 458 ! 
+Question: claims paid CH?
+Answer: 80
+
+Context: claims paid  CH : 80 AG : 4 ZA : 340 ! claims outstanding  CH : 8438257 AG : 256182100 ZA : 458 ! 
+Question: claims paid AG?
+Answer: 4
+
+Context: claims paid  CH : 80 AG : 4 ZA : 340 ! claims outstanding  CH : 8438257 AG : 256182100 ZA : 458 ! 
+Question: claims paid ZA?
+Answer: 340
+
+Context: claims paid  CH : 80 AG : 4 ZA : 340 ! claims outstanding  CH : 8438257 AG : 256182100 ZA : 458 ! 
+Question: claims outstanding CH?
+Answer: 8438257
+
+Context: claims paid  CH : 80 AG : 4 ZA : 340 ! claims outstanding  CH : 8438257 AG : 256182100 ZA : 458 ! 
+Question: claims outstanding AG?
+Answer: 256182100
+
+Context: claims paid  CH : 80 AG : 4 ZA : 340 ! claims outstanding  CH : 8438257 AG : 256182100 ZA : 458 ! 
+Question: claims outstanding ZA?
+Answer: 340 - Wrong answer
+
+Context: claims paid  ZA : 8177507305 AG : 40905 CH : 106811660 ! claims outstanding  ZA : 0954 AG : 9482279572 CH : 531 ! 
+Question: claims paid ZA?
+Answer: 8177507305
+
+Context: claims paid  ZA : 8177507305 AG : 40905 CH : 106811660 ! claims outstanding  ZA : 0954 AG : 9482279572 CH : 531 ! 
+Question: claims paid AG?
+Answer: 106811660 - Wrong answer
+
+Context: claims paid  ZA : 8177507305 AG : 40905 CH : 106811660 ! claims outstanding  ZA : 0954 AG : 9482279572 CH : 531 ! 
+Question: claims paid CH?
+Answer: 106811660
+
+Context: claims paid  ZA : 8177507305 AG : 40905 CH : 106811660 ! claims outstanding  ZA : 0954 AG : 9482279572 CH : 531 ! 
+Question: claims outstanding ZA?
+Answer: 0954
+
+Context: claims paid  ZA : 8177507305 AG : 40905 CH : 106811660 ! claims outstanding  ZA : 0954 AG : 9482279572 CH : 531 ! 
+Question: claims outstanding AG?
+Answer: empty - Wrong answer
+
+Context: claims paid  ZA : 8177507305 AG : 40905 CH : 106811660 ! claims outstanding  ZA : 0954 AG : 9482279572 CH : 531 ! 
+Question: claims outstanding CH?
+Answer: 531
+
+Context: claims paid  ZA : 8122971856 AG : 423 CH : 11793937 ! claims outstanding  ZA : 677 AG : 1690780 CH : 5826 ! 
+Question: claims paid ZA?
+Answer: 8122971856
+
+Context: claims paid  ZA : 8122971856 AG : 423 CH : 11793937 ! claims outstanding  ZA : 677 AG : 1690780 CH : 5826 ! 
+Question: claims paid AG?
+Answer: 423
+
+Context: claims paid  ZA : 8122971856 AG : 423 CH : 11793937 ! claims outstanding  ZA : 677 AG : 1690780 CH : 5826 ! 
+Question: claims paid CH?
+Answer: 11793937
+
+Context: claims paid  ZA : 8122971856 AG : 423 CH : 11793937 ! claims outstanding  ZA : 677 AG : 1690780 CH : 5826 ! 
+Question: claims outstanding ZA?
+Answer: 677
+
+Context: claims paid  ZA : 8122971856 AG : 423 CH : 11793937 ! claims outstanding  ZA : 677 AG : 1690780 CH : 5826 ! 
+Question: claims outstanding AG?
+Answer: empty - Wrong answer
+
+Context: claims paid  ZA : 8122971856 AG : 423 CH : 11793937 ! claims outstanding  ZA : 677 AG : 1690780 CH : 5826 ! 
+Question: claims outstanding CH?
+Answer: empty - Wrong answer
+
+Context: claims paid  ZA : 5496 CH : 63472 AG : 5554887 ! claims outstanding  ZA : 73 CH : 553371 AG : 3067635 ! 
+Question: claims paid ZA?
+Answer: 5496
+
+Context: claims paid  ZA : 5496 CH : 63472 AG : 5554887 ! claims outstanding  ZA : 73 CH : 553371 AG : 3067635 ! 
+Question: claims paid CH?
+Answer: 63472
+
+Context: claims paid  ZA : 5496 CH : 63472 AG : 5554887 ! claims outstanding  ZA : 73 CH : 553371 AG : 3067635 ! 
+Question: claims paid AG?
+Answer: empty - Wrong answer
+
+Context: claims paid  ZA : 5496 CH : 63472 AG : 5554887 ! claims outstanding  ZA : 73 CH : 553371 AG : 3067635 ! 
+Question: claims outstanding ZA?
+Answer: 73
+
+Context: claims paid  ZA : 5496 CH : 63472 AG : 5554887 ! claims outstanding  ZA : 73 CH : 553371 AG : 3067635 ! 
+Question: claims outstanding CH?
+Answer: 73 - Wrong answer
+
+Context: claims paid  ZA : 5496 CH : 63472 AG : 5554887 ! claims outstanding  ZA : 73 CH : 553371 AG : 3067635 ! 
+Question: claims outstanding AG?
+Answer: empty - Wrong answer
+
+Context: claims paid  CH : 0616 ZA : 031108 AG : 839285 ! claims outstanding  CH : 52 ZA : 0166341 AG : 6 ! 
+Question: claims paid CH?
+Answer: 0616
+
+Context: claims paid  CH : 0616 ZA : 031108 AG : 839285 ! claims outstanding  CH : 52 ZA : 0166341 AG : 6 ! 
+Question: claims paid ZA?
+Answer: 031108
+
+Context: claims paid  CH : 0616 ZA : 031108 AG : 839285 ! claims outstanding  CH : 52 ZA : 0166341 AG : 6 ! 
+Question: claims paid AG?
+Answer: empty - Wrong answer
+
+Context: claims paid  CH : 0616 ZA : 031108 AG : 839285 ! claims outstanding  CH : 52 ZA : 0166341 AG : 6 ! 
+Question: claims outstanding CH?
+Answer: 52
+
+Context: claims paid  CH : 0616 ZA : 031108 AG : 839285 ! claims outstanding  CH : 52 ZA : 0166341 AG : 6 ! 
+Question: claims outstanding ZA?
+Answer: empty - Wrong answer
+
+Context: claims paid  CH : 0616 ZA : 031108 AG : 839285 ! claims outstanding  CH : 52 ZA : 0166341 AG : 6 ! 
+Question: claims outstanding AG?
+Answer: 52 - Wrong answer
+
+Context: claims paid  ZA : 47 CH : 8 AG : 7689 ! claims outstanding  ZA : 993218376 CH : 4614299309 AG : 0560563538 ! 
+Question: claims paid ZA?
+Answer: 8 - Wrong answer
+
+Context: claims paid  ZA : 47 CH : 8 AG : 7689 ! claims outstanding  ZA : 993218376 CH : 4614299309 AG : 0560563538 ! 
+Question: claims paid CH?
+Answer: 8
+
+Context: claims paid  ZA : 47 CH : 8 AG : 7689 ! claims outstanding  ZA : 993218376 CH : 4614299309 AG : 0560563538 ! 
+Question: claims paid AG?
+Answer: 8 - Wrong answer
+
+Context: claims paid  ZA : 47 CH : 8 AG : 7689 ! claims outstanding  ZA : 993218376 CH : 4614299309 AG : 0560563538 ! 
+Question: claims outstanding ZA?
+Answer: 4614299309 - Wrong answer
+
+Context: claims paid  ZA : 47 CH : 8 AG : 7689 ! claims outstanding  ZA : 993218376 CH : 4614299309 AG : 0560563538 ! 
+Question: claims outstanding CH?
+Answer: 4614299309
+
+Context: claims paid  ZA : 47 CH : 8 AG : 7689 ! claims outstanding  ZA : 993218376 CH : 4614299309 AG : 0560563538 ! 
+Question: claims outstanding AG?
+Answer: 4614299309 - Wrong answer
+
+Context: claims paid  AG : 178080812 CH : 14165387 ZA : 563035750 ! claims outstanding  AG : 901446 CH : 6 ZA : 798 ! 
+Question: claims paid AG?
+Answer: 178080812
+
+Context: claims paid  AG : 178080812 CH : 14165387 ZA : 563035750 ! claims outstanding  AG : 901446 CH : 6 ZA : 798 ! 
+Question: claims paid CH?
+Answer: 14165387
+
+Context: claims paid  AG : 178080812 CH : 14165387 ZA : 563035750 ! claims outstanding  AG : 901446 CH : 6 ZA : 798 ! 
+Question: claims paid ZA?
+Answer: 563035750
+
+Context: claims paid  AG : 178080812 CH : 14165387 ZA : 563035750 ! claims outstanding  AG : 901446 CH : 6 ZA : 798 ! 
+Question: claims outstanding AG?
+Answer: 6 - Wrong answer
+
+Context: claims paid  AG : 178080812 CH : 14165387 ZA : 563035750 ! claims outstanding  AG : 901446 CH : 6 ZA : 798 ! 
+Question: claims outstanding CH?
+Answer: 6
+
+Context: claims paid  AG : 178080812 CH : 14165387 ZA : 563035750 ! claims outstanding  AG : 901446 CH : 6 ZA : 798 ! 
+Question: claims outstanding ZA?
+Answer: 798
+
+Context: claims paid  ZA : 566128 AG : 17085584 CH : 72986773 ! claims outstanding  ZA : 9031039 AG : 6623450699 CH : 832066 ! 
+Question: claims paid ZA?
+Answer: 566128
+
+Context: claims paid  ZA : 566128 AG : 17085584 CH : 72986773 ! claims outstanding  ZA : 9031039 AG : 6623450699 CH : 832066 ! 
+Question: claims paid AG?
+Answer: 17085584
+
+Context: claims paid  ZA : 566128 AG : 17085584 CH : 72986773 ! claims outstanding  ZA : 9031039 AG : 6623450699 CH : 832066 ! 
+Question: claims paid CH?
+Answer: 72986773
+
+Context: claims paid  ZA : 566128 AG : 17085584 CH : 72986773 ! claims outstanding  ZA : 9031039 AG : 6623450699 CH : 832066 ! 
+Question: claims outstanding ZA?
+Answer: 9031039
+
+Context: claims paid  ZA : 566128 AG : 17085584 CH : 72986773 ! claims outstanding  ZA : 9031039 AG : 6623450699 CH : 832066 ! 
+Question: claims outstanding AG?
+Answer: empty - Wrong answer
+
+Context: claims paid  ZA : 566128 AG : 17085584 CH : 72986773 ! claims outstanding  ZA : 9031039 AG : 6623450699 CH : 832066 ! 
+Question: claims outstanding CH?
+Answer: 832066
+
+Context: claims paid  CH : 7 ZA : 065376 AG : 25901 ! claims outstanding  CH : 578440550 ZA : 654163131 AG : 381292651 ! 
+Question: claims paid CH?
+Answer: 7
+
+Context: claims paid  CH : 7 ZA : 065376 AG : 25901 ! claims outstanding  CH : 578440550 ZA : 654163131 AG : 381292651 ! 
+Question: claims paid ZA?
+Answer: 7 - Wrong answer
+
+Context: claims paid  CH : 7 ZA : 065376 AG : 25901 ! claims outstanding  CH : 578440550 ZA : 654163131 AG : 381292651 ! 
+Question: claims paid AG?
+Answer: 7 - Wrong answer
+
+Context: claims paid  CH : 7 ZA : 065376 AG : 25901 ! claims outstanding  CH : 578440550 ZA : 654163131 AG : 381292651 ! 
+Question: claims outstanding CH?
+Answer: 578440550
+
+Context: claims paid  CH : 7 ZA : 065376 AG : 25901 ! claims outstanding  CH : 578440550 ZA : 654163131 AG : 381292651 ! 
+Question: claims outstanding ZA?
+Answer: 578440550 - Wrong answer
+
+Context: claims paid  CH : 7 ZA : 065376 AG : 25901 ! claims outstanding  CH : 578440550 ZA : 654163131 AG : 381292651 ! 
+Question: claims outstanding AG?
+Answer: 578440550 - Wrong answer
+
+Context: claims paid  ZA : 404 AG : 63 CH : 3724769 ! claims outstanding  ZA : 1127 AG : 6926751 CH : 8528381458 ! 
+Question: claims paid ZA?
+Answer: 404
+
+Context: claims paid  ZA : 404 AG : 63 CH : 3724769 ! claims outstanding  ZA : 1127 AG : 6926751 CH : 8528381458 ! 
+Question: claims paid AG?
+Answer: 63
+
+Context: claims paid  ZA : 404 AG : 63 CH : 3724769 ! claims outstanding  ZA : 1127 AG : 6926751 CH : 8528381458 ! 
+Question: claims paid CH?
+Answer: empty - Wrong answer
+
+Context: claims paid  ZA : 404 AG : 63 CH : 3724769 ! claims outstanding  ZA : 1127 AG : 6926751 CH : 8528381458 ! 
+Question: claims outstanding ZA?
+Answer: 1127
+
+Context: claims paid  ZA : 404 AG : 63 CH : 3724769 ! claims outstanding  ZA : 1127 AG : 6926751 CH : 8528381458 ! 
+Question: claims outstanding AG?
+Answer: 6926751
+
+Context: claims paid  ZA : 404 AG : 63 CH : 3724769 ! claims outstanding  ZA : 1127 AG : 6926751 CH : 8528381458 ! 
+Question: claims outstanding CH?
+Answer: 8528381458
+
+Context: claims paid  AG : 751113893 CH : 2836 ZA : 147 ! claims outstanding  AG : 25103553 CH : 6118763760 ZA : 59 ! 
+Question: claims paid AG?
+Answer: 751113893
+
+Context: claims paid  AG : 751113893 CH : 2836 ZA : 147 ! claims outstanding  AG : 25103553 CH : 6118763760 ZA : 59 ! 
+Question: claims paid CH?
+Answer: 2836
+
+Context: claims paid  AG : 751113893 CH : 2836 ZA : 147 ! claims outstanding  AG : 25103553 CH : 6118763760 ZA : 59 ! 
+Question: claims paid ZA?
+Answer: 147
+
+Context: claims paid  AG : 751113893 CH : 2836 ZA : 147 ! claims outstanding  AG : 25103553 CH : 6118763760 ZA : 59 ! 
+Question: claims outstanding AG?
+Answer: 25103553
+
+Context: claims paid  AG : 751113893 CH : 2836 ZA : 147 ! claims outstanding  AG : 25103553 CH : 6118763760 ZA : 59 ! 
+Question: claims outstanding CH?
+Answer: empty - Wrong answer
+
+Context: claims paid  AG : 751113893 CH : 2836 ZA : 147 ! claims outstanding  AG : 25103553 CH : 6118763760 ZA : 59 ! 
+Question: claims outstanding ZA?
+Answer: 59
+
+Context: claims paid  AG : 3 CH : 359807 ZA : 7 ! claims outstanding  AG : 8 CH : 124463 ZA : 024877 ! 
+Question: claims paid AG?
+Answer: 3
+
+Context: claims paid  AG : 3 CH : 359807 ZA : 7 ! claims outstanding  AG : 8 CH : 124463 ZA : 024877 ! 
+Question: claims paid CH?
+Answer: 359807
+
+Context: claims paid  AG : 3 CH : 359807 ZA : 7 ! claims outstanding  AG : 8 CH : 124463 ZA : 024877 ! 
+Question: claims paid ZA?
+Answer: 7
+
+Context: claims paid  AG : 3 CH : 359807 ZA : 7 ! claims outstanding  AG : 8 CH : 124463 ZA : 024877 ! 
+Question: claims outstanding AG?
+Answer: 8
+
+Context: claims paid  AG : 3 CH : 359807 ZA : 7 ! claims outstanding  AG : 8 CH : 124463 ZA : 024877 ! 
+Question: claims outstanding CH?
+Answer: 124463
+
+Context: claims paid  AG : 3 CH : 359807 ZA : 7 ! claims outstanding  AG : 8 CH : 124463 ZA : 024877 ! 
+Question: claims outstanding ZA?
+Answer: 024877
+
+----------------------------------------------------------------------------------------------
+
+ f1 score: 74.31944444444444

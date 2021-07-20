@@ -1,0 +1,2403 @@
+Context: claims paid  FT : 780908 AD : 6027966093 TP : 256654297 ! claims outstanding  FT : 89308900 AD : 340627284 TP : 422097762 ! 
+Question: claims paid FT?
+Answer: 780908
+
+Context: claims paid  FT : 780908 AD : 6027966093 TP : 256654297 ! claims outstanding  FT : 89308900 AD : 340627284 TP : 422097762 ! 
+Question: claims paid AD?
+Answer: 6027966093
+
+Context: claims paid  FT : 780908 AD : 6027966093 TP : 256654297 ! claims outstanding  FT : 89308900 AD : 340627284 TP : 422097762 ! 
+Question: claims paid TP?
+Answer: 256654297
+
+Context: claims paid  FT : 780908 AD : 6027966093 TP : 256654297 ! claims outstanding  FT : 89308900 AD : 340627284 TP : 422097762 ! 
+Question: claims outstanding FT?
+Answer: 89308900
+
+Context: claims paid  FT : 780908 AD : 6027966093 TP : 256654297 ! claims outstanding  FT : 89308900 AD : 340627284 TP : 422097762 ! 
+Question: claims outstanding AD?
+Answer: 340627284
+
+Context: claims paid  FT : 780908 AD : 6027966093 TP : 256654297 ! claims outstanding  FT : 89308900 AD : 340627284 TP : 422097762 ! 
+Question: claims outstanding TP?
+Answer: 422097762
+
+Context: claims paid  TP : 994 AD : 2 FT : 3333504 ! claims outstanding  TP : 17658179 AD : 824779 FT : 3505 ! 
+Question: claims paid TP?
+Answer: 994
+
+Context: claims paid  TP : 994 AD : 2 FT : 3333504 ! claims outstanding  TP : 17658179 AD : 824779 FT : 3505 ! 
+Question: claims paid AD?
+Answer: 2
+
+Context: claims paid  TP : 994 AD : 2 FT : 3333504 ! claims outstanding  TP : 17658179 AD : 824779 FT : 3505 ! 
+Question: claims paid FT?
+Answer: 3333504
+
+Context: claims paid  TP : 994 AD : 2 FT : 3333504 ! claims outstanding  TP : 17658179 AD : 824779 FT : 3505 ! 
+Question: claims outstanding TP?
+Answer: 17658179
+
+Context: claims paid  TP : 994 AD : 2 FT : 3333504 ! claims outstanding  TP : 17658179 AD : 824779 FT : 3505 ! 
+Question: claims outstanding AD?
+Answer: 824779
+
+Context: claims paid  TP : 994 AD : 2 FT : 3333504 ! claims outstanding  TP : 17658179 AD : 824779 FT : 3505 ! 
+Question: claims outstanding FT?
+Answer: 3505
+
+Context: claims paid  FT : 00404216 AD : 577 TP : 3875529 ! claims outstanding  FT : 3603158 AD : 6 TP : 30432 ! 
+Question: claims paid FT?
+Answer: 00404216
+
+Context: claims paid  FT : 00404216 AD : 577 TP : 3875529 ! claims outstanding  FT : 3603158 AD : 6 TP : 30432 ! 
+Question: claims paid AD?
+Answer: 577
+
+Context: claims paid  FT : 00404216 AD : 577 TP : 3875529 ! claims outstanding  FT : 3603158 AD : 6 TP : 30432 ! 
+Question: claims paid TP?
+Answer: 3875529
+
+Context: claims paid  FT : 00404216 AD : 577 TP : 3875529 ! claims outstanding  FT : 3603158 AD : 6 TP : 30432 ! 
+Question: claims outstanding FT?
+Answer: 3603158
+
+Context: claims paid  FT : 00404216 AD : 577 TP : 3875529 ! claims outstanding  FT : 3603158 AD : 6 TP : 30432 ! 
+Question: claims outstanding AD?
+Answer: 6
+
+Context: claims paid  FT : 00404216 AD : 577 TP : 3875529 ! claims outstanding  FT : 3603158 AD : 6 TP : 30432 ! 
+Question: claims outstanding TP?
+Answer: 30432
+
+Context: claims paid  AD : 9888247227 FT : 46995 TP : 971 ! claims outstanding  AD : 35 FT : 215 TP : 3823 ! 
+Question: claims paid AD?
+Answer: 9888247227
+
+Context: claims paid  AD : 9888247227 FT : 46995 TP : 971 ! claims outstanding  AD : 35 FT : 215 TP : 3823 ! 
+Question: claims paid FT?
+Answer: 46995
+
+Context: claims paid  AD : 9888247227 FT : 46995 TP : 971 ! claims outstanding  AD : 35 FT : 215 TP : 3823 ! 
+Question: claims paid TP?
+Answer: 971
+
+Context: claims paid  AD : 9888247227 FT : 46995 TP : 971 ! claims outstanding  AD : 35 FT : 215 TP : 3823 ! 
+Question: claims outstanding AD?
+Answer: 35
+
+Context: claims paid  AD : 9888247227 FT : 46995 TP : 971 ! claims outstanding  AD : 35 FT : 215 TP : 3823 ! 
+Question: claims outstanding FT?
+Answer: 215
+
+Context: claims paid  AD : 9888247227 FT : 46995 TP : 971 ! claims outstanding  AD : 35 FT : 215 TP : 3823 ! 
+Question: claims outstanding TP?
+Answer: 3823
+
+Context: claims paid  FT : 16072704 AD : 3330 TP : 93 ! claims outstanding  FT : 30 AD : 5825559 TP : 3540 ! 
+Question: claims paid FT?
+Answer: 16072704
+
+Context: claims paid  FT : 16072704 AD : 3330 TP : 93 ! claims outstanding  FT : 30 AD : 5825559 TP : 3540 ! 
+Question: claims paid AD?
+Answer: 3330
+
+Context: claims paid  FT : 16072704 AD : 3330 TP : 93 ! claims outstanding  FT : 30 AD : 5825559 TP : 3540 ! 
+Question: claims paid TP?
+Answer: 93
+
+Context: claims paid  FT : 16072704 AD : 3330 TP : 93 ! claims outstanding  FT : 30 AD : 5825559 TP : 3540 ! 
+Question: claims outstanding FT?
+Answer: 30
+
+Context: claims paid  FT : 16072704 AD : 3330 TP : 93 ! claims outstanding  FT : 30 AD : 5825559 TP : 3540 ! 
+Question: claims outstanding AD?
+Answer: 5825559
+
+Context: claims paid  FT : 16072704 AD : 3330 TP : 93 ! claims outstanding  FT : 30 AD : 5825559 TP : 3540 ! 
+Question: claims outstanding TP?
+Answer: 3540
+
+Context: claims paid  TP : 5877943 AD : 1661080612 FT : 19 ! claims outstanding  TP : 62504 AD : 8712 FT : 62037 ! 
+Question: claims paid TP?
+Answer: 5877943
+
+Context: claims paid  TP : 5877943 AD : 1661080612 FT : 19 ! claims outstanding  TP : 62504 AD : 8712 FT : 62037 ! 
+Question: claims paid AD?
+Answer: 1661080612
+
+Context: claims paid  TP : 5877943 AD : 1661080612 FT : 19 ! claims outstanding  TP : 62504 AD : 8712 FT : 62037 ! 
+Question: claims paid FT?
+Answer: 19
+
+Context: claims paid  TP : 5877943 AD : 1661080612 FT : 19 ! claims outstanding  TP : 62504 AD : 8712 FT : 62037 ! 
+Question: claims outstanding TP?
+Answer: 62504
+
+Context: claims paid  TP : 5877943 AD : 1661080612 FT : 19 ! claims outstanding  TP : 62504 AD : 8712 FT : 62037 ! 
+Question: claims outstanding AD?
+Answer: 8712
+
+Context: claims paid  TP : 5877943 AD : 1661080612 FT : 19 ! claims outstanding  TP : 62504 AD : 8712 FT : 62037 ! 
+Question: claims outstanding FT?
+Answer: 62037
+
+Context: claims paid  FT : 4114768 AD : 84987720 TP : 114955924 ! claims outstanding  FT : 6557 AD : 4954435777 TP : 668759458 ! 
+Question: claims paid FT?
+Answer: 4114768
+
+Context: claims paid  FT : 4114768 AD : 84987720 TP : 114955924 ! claims outstanding  FT : 6557 AD : 4954435777 TP : 668759458 ! 
+Question: claims paid AD?
+Answer: 84987720
+
+Context: claims paid  FT : 4114768 AD : 84987720 TP : 114955924 ! claims outstanding  FT : 6557 AD : 4954435777 TP : 668759458 ! 
+Question: claims paid TP?
+Answer: 114955924
+
+Context: claims paid  FT : 4114768 AD : 84987720 TP : 114955924 ! claims outstanding  FT : 6557 AD : 4954435777 TP : 668759458 ! 
+Question: claims outstanding FT?
+Answer: 6557
+
+Context: claims paid  FT : 4114768 AD : 84987720 TP : 114955924 ! claims outstanding  FT : 6557 AD : 4954435777 TP : 668759458 ! 
+Question: claims outstanding AD?
+Answer: 4954435777
+
+Context: claims paid  FT : 4114768 AD : 84987720 TP : 114955924 ! claims outstanding  FT : 6557 AD : 4954435777 TP : 668759458 ! 
+Question: claims outstanding TP?
+Answer: 668759458
+
+Context: claims paid  TP : 6 FT : 2768929 AD : 712001 ! claims outstanding  TP : 8546 FT : 07485 AD : 429671402 ! 
+Question: claims paid TP?
+Answer: 6
+
+Context: claims paid  TP : 6 FT : 2768929 AD : 712001 ! claims outstanding  TP : 8546 FT : 07485 AD : 429671402 ! 
+Question: claims paid FT?
+Answer: 2768929
+
+Context: claims paid  TP : 6 FT : 2768929 AD : 712001 ! claims outstanding  TP : 8546 FT : 07485 AD : 429671402 ! 
+Question: claims paid AD?
+Answer: 712001
+
+Context: claims paid  TP : 6 FT : 2768929 AD : 712001 ! claims outstanding  TP : 8546 FT : 07485 AD : 429671402 ! 
+Question: claims outstanding TP?
+Answer: 8546
+
+Context: claims paid  TP : 6 FT : 2768929 AD : 712001 ! claims outstanding  TP : 8546 FT : 07485 AD : 429671402 ! 
+Question: claims outstanding FT?
+Answer: 07485
+
+Context: claims paid  TP : 6 FT : 2768929 AD : 712001 ! claims outstanding  TP : 8546 FT : 07485 AD : 429671402 ! 
+Question: claims outstanding AD?
+Answer: 429671402
+
+Context: claims paid  TP : 4675 AD : 9455655 FT : 1745151117 ! claims outstanding  TP : 440 AD : 4479334 FT : 3727578 ! 
+Question: claims paid TP?
+Answer: 4675
+
+Context: claims paid  TP : 4675 AD : 9455655 FT : 1745151117 ! claims outstanding  TP : 440 AD : 4479334 FT : 3727578 ! 
+Question: claims paid AD?
+Answer: 9455655
+
+Context: claims paid  TP : 4675 AD : 9455655 FT : 1745151117 ! claims outstanding  TP : 440 AD : 4479334 FT : 3727578 ! 
+Question: claims paid FT?
+Answer: 1745151117
+
+Context: claims paid  TP : 4675 AD : 9455655 FT : 1745151117 ! claims outstanding  TP : 440 AD : 4479334 FT : 3727578 ! 
+Question: claims outstanding TP?
+Answer: 440
+
+Context: claims paid  TP : 4675 AD : 9455655 FT : 1745151117 ! claims outstanding  TP : 440 AD : 4479334 FT : 3727578 ! 
+Question: claims outstanding AD?
+Answer: 4479334
+
+Context: claims paid  TP : 4675 AD : 9455655 FT : 1745151117 ! claims outstanding  TP : 440 AD : 4479334 FT : 3727578 ! 
+Question: claims outstanding FT?
+Answer: 3727578
+
+Context: claims paid  FT : 414 TP : 794 AD : 107975471 ! claims outstanding  FT : 993528 TP : 539 AD : 8340171 ! 
+Question: claims paid FT?
+Answer: 414
+
+Context: claims paid  FT : 414 TP : 794 AD : 107975471 ! claims outstanding  FT : 993528 TP : 539 AD : 8340171 ! 
+Question: claims paid TP?
+Answer: 794
+
+Context: claims paid  FT : 414 TP : 794 AD : 107975471 ! claims outstanding  FT : 993528 TP : 539 AD : 8340171 ! 
+Question: claims paid AD?
+Answer: 107975471
+
+Context: claims paid  FT : 414 TP : 794 AD : 107975471 ! claims outstanding  FT : 993528 TP : 539 AD : 8340171 ! 
+Question: claims outstanding FT?
+Answer: 993528
+
+Context: claims paid  FT : 414 TP : 794 AD : 107975471 ! claims outstanding  FT : 993528 TP : 539 AD : 8340171 ! 
+Question: claims outstanding TP?
+Answer: 539
+
+Context: claims paid  FT : 414 TP : 794 AD : 107975471 ! claims outstanding  FT : 993528 TP : 539 AD : 8340171 ! 
+Question: claims outstanding AD?
+Answer: 8340171
+
+Context: claims paid  AD : 23420549 FT : 6489 TP : 2 ! claims outstanding  AD : 2044 FT : 9504051470 TP : 70 ! 
+Question: claims paid AD?
+Answer: 23420549
+
+Context: claims paid  AD : 23420549 FT : 6489 TP : 2 ! claims outstanding  AD : 2044 FT : 9504051470 TP : 70 ! 
+Question: claims paid FT?
+Answer: 6489
+
+Context: claims paid  AD : 23420549 FT : 6489 TP : 2 ! claims outstanding  AD : 2044 FT : 9504051470 TP : 70 ! 
+Question: claims paid TP?
+Answer: 2
+
+Context: claims paid  AD : 23420549 FT : 6489 TP : 2 ! claims outstanding  AD : 2044 FT : 9504051470 TP : 70 ! 
+Question: claims outstanding AD?
+Answer: 2044
+
+Context: claims paid  AD : 23420549 FT : 6489 TP : 2 ! claims outstanding  AD : 2044 FT : 9504051470 TP : 70 ! 
+Question: claims outstanding FT?
+Answer: 9504051470
+
+Context: claims paid  AD : 23420549 FT : 6489 TP : 2 ! claims outstanding  AD : 2044 FT : 9504051470 TP : 70 ! 
+Question: claims outstanding TP?
+Answer: 70
+
+Context: claims paid  FT : 643718 AD : 5 TP : 2506 ! claims outstanding  FT : 7983765501 AD : 93406 TP : 573246330 ! 
+Question: claims paid FT?
+Answer: 643718
+
+Context: claims paid  FT : 643718 AD : 5 TP : 2506 ! claims outstanding  FT : 7983765501 AD : 93406 TP : 573246330 ! 
+Question: claims paid AD?
+Answer: 5
+
+Context: claims paid  FT : 643718 AD : 5 TP : 2506 ! claims outstanding  FT : 7983765501 AD : 93406 TP : 573246330 ! 
+Question: claims paid TP?
+Answer: 2506
+
+Context: claims paid  FT : 643718 AD : 5 TP : 2506 ! claims outstanding  FT : 7983765501 AD : 93406 TP : 573246330 ! 
+Question: claims outstanding FT?
+Answer: 7983765501
+
+Context: claims paid  FT : 643718 AD : 5 TP : 2506 ! claims outstanding  FT : 7983765501 AD : 93406 TP : 573246330 ! 
+Question: claims outstanding AD?
+Answer: 93406
+
+Context: claims paid  FT : 643718 AD : 5 TP : 2506 ! claims outstanding  FT : 7983765501 AD : 93406 TP : 573246330 ! 
+Question: claims outstanding TP?
+Answer: 573246330
+
+Context: claims paid  FT : 15511993 TP : 725415471 AD : 9923776235 ! claims outstanding  FT : 107 TP : 957011253 AD : 1745 ! 
+Question: claims paid FT?
+Answer: 15511993
+
+Context: claims paid  FT : 15511993 TP : 725415471 AD : 9923776235 ! claims outstanding  FT : 107 TP : 957011253 AD : 1745 ! 
+Question: claims paid TP?
+Answer: 725415471
+
+Context: claims paid  FT : 15511993 TP : 725415471 AD : 9923776235 ! claims outstanding  FT : 107 TP : 957011253 AD : 1745 ! 
+Question: claims paid AD?
+Answer: 9923776235
+
+Context: claims paid  FT : 15511993 TP : 725415471 AD : 9923776235 ! claims outstanding  FT : 107 TP : 957011253 AD : 1745 ! 
+Question: claims outstanding FT?
+Answer: 107
+
+Context: claims paid  FT : 15511993 TP : 725415471 AD : 9923776235 ! claims outstanding  FT : 107 TP : 957011253 AD : 1745 ! 
+Question: claims outstanding TP?
+Answer: 957011253
+
+Context: claims paid  FT : 15511993 TP : 725415471 AD : 9923776235 ! claims outstanding  FT : 107 TP : 957011253 AD : 1745 ! 
+Question: claims outstanding AD?
+Answer: 1745
+
+Context: claims paid  FT : 38243 TP : 34 AD : 469791703 ! claims outstanding  FT : 0946 TP : 912 AD : 2826 ! 
+Question: claims paid FT?
+Answer: 38243
+
+Context: claims paid  FT : 38243 TP : 34 AD : 469791703 ! claims outstanding  FT : 0946 TP : 912 AD : 2826 ! 
+Question: claims paid TP?
+Answer: 34
+
+Context: claims paid  FT : 38243 TP : 34 AD : 469791703 ! claims outstanding  FT : 0946 TP : 912 AD : 2826 ! 
+Question: claims paid AD?
+Answer: 469791703
+
+Context: claims paid  FT : 38243 TP : 34 AD : 469791703 ! claims outstanding  FT : 0946 TP : 912 AD : 2826 ! 
+Question: claims outstanding FT?
+Answer: 0946
+
+Context: claims paid  FT : 38243 TP : 34 AD : 469791703 ! claims outstanding  FT : 0946 TP : 912 AD : 2826 ! 
+Question: claims outstanding TP?
+Answer: 912
+
+Context: claims paid  FT : 38243 TP : 34 AD : 469791703 ! claims outstanding  FT : 0946 TP : 912 AD : 2826 ! 
+Question: claims outstanding AD?
+Answer: 2826
+
+Context: claims paid  AD : 716945146 TP : 08476 FT : 0375021 ! claims outstanding  AD : 862187231 TP : 330231118 FT : 9218667237 ! 
+Question: claims paid AD?
+Answer: 716945146
+
+Context: claims paid  AD : 716945146 TP : 08476 FT : 0375021 ! claims outstanding  AD : 862187231 TP : 330231118 FT : 9218667237 ! 
+Question: claims paid TP?
+Answer: 08476
+
+Context: claims paid  AD : 716945146 TP : 08476 FT : 0375021 ! claims outstanding  AD : 862187231 TP : 330231118 FT : 9218667237 ! 
+Question: claims paid FT?
+Answer: 0375021
+
+Context: claims paid  AD : 716945146 TP : 08476 FT : 0375021 ! claims outstanding  AD : 862187231 TP : 330231118 FT : 9218667237 ! 
+Question: claims outstanding AD?
+Answer: 862187231
+
+Context: claims paid  AD : 716945146 TP : 08476 FT : 0375021 ! claims outstanding  AD : 862187231 TP : 330231118 FT : 9218667237 ! 
+Question: claims outstanding TP?
+Answer: 330231118
+
+Context: claims paid  AD : 716945146 TP : 08476 FT : 0375021 ! claims outstanding  AD : 862187231 TP : 330231118 FT : 9218667237 ! 
+Question: claims outstanding FT?
+Answer: 9218667237
+
+Context: claims paid  FT : 12147 TP : 81521577 AD : 575070784 ! claims outstanding  FT : 143 TP : 621982192 AD : 9 ! 
+Question: claims paid FT?
+Answer: 12147
+
+Context: claims paid  FT : 12147 TP : 81521577 AD : 575070784 ! claims outstanding  FT : 143 TP : 621982192 AD : 9 ! 
+Question: claims paid TP?
+Answer: 81521577
+
+Context: claims paid  FT : 12147 TP : 81521577 AD : 575070784 ! claims outstanding  FT : 143 TP : 621982192 AD : 9 ! 
+Question: claims paid AD?
+Answer: 575070784
+
+Context: claims paid  FT : 12147 TP : 81521577 AD : 575070784 ! claims outstanding  FT : 143 TP : 621982192 AD : 9 ! 
+Question: claims outstanding FT?
+Answer: 143
+
+Context: claims paid  FT : 12147 TP : 81521577 AD : 575070784 ! claims outstanding  FT : 143 TP : 621982192 AD : 9 ! 
+Question: claims outstanding TP?
+Answer: 621982192
+
+Context: claims paid  FT : 12147 TP : 81521577 AD : 575070784 ! claims outstanding  FT : 143 TP : 621982192 AD : 9 ! 
+Question: claims outstanding AD?
+Answer: 9
+
+Context: claims paid  AD : 7291 TP : 0 FT : 698 ! claims outstanding  AD : 29077 TP : 569077216 FT : 128133607 ! 
+Question: claims paid AD?
+Answer: 7291
+
+Context: claims paid  AD : 7291 TP : 0 FT : 698 ! claims outstanding  AD : 29077 TP : 569077216 FT : 128133607 ! 
+Question: claims paid TP?
+Answer: 0
+
+Context: claims paid  AD : 7291 TP : 0 FT : 698 ! claims outstanding  AD : 29077 TP : 569077216 FT : 128133607 ! 
+Question: claims paid FT?
+Answer: 698
+
+Context: claims paid  AD : 7291 TP : 0 FT : 698 ! claims outstanding  AD : 29077 TP : 569077216 FT : 128133607 ! 
+Question: claims outstanding AD?
+Answer: 29077
+
+Context: claims paid  AD : 7291 TP : 0 FT : 698 ! claims outstanding  AD : 29077 TP : 569077216 FT : 128133607 ! 
+Question: claims outstanding TP?
+Answer: 569077216
+
+Context: claims paid  AD : 7291 TP : 0 FT : 698 ! claims outstanding  AD : 29077 TP : 569077216 FT : 128133607 ! 
+Question: claims outstanding FT?
+Answer: 128133607
+
+Context: claims paid  TP : 74092 FT : 708823441 AD : 7 ! claims outstanding  TP : 7081464 FT : 845499 AD : 8415381 ! 
+Question: claims paid TP?
+Answer: 74092
+
+Context: claims paid  TP : 74092 FT : 708823441 AD : 7 ! claims outstanding  TP : 7081464 FT : 845499 AD : 8415381 ! 
+Question: claims paid FT?
+Answer: 708823441
+
+Context: claims paid  TP : 74092 FT : 708823441 AD : 7 ! claims outstanding  TP : 7081464 FT : 845499 AD : 8415381 ! 
+Question: claims paid AD?
+Answer: 7
+
+Context: claims paid  TP : 74092 FT : 708823441 AD : 7 ! claims outstanding  TP : 7081464 FT : 845499 AD : 8415381 ! 
+Question: claims outstanding TP?
+Answer: 7081464
+
+Context: claims paid  TP : 74092 FT : 708823441 AD : 7 ! claims outstanding  TP : 7081464 FT : 845499 AD : 8415381 ! 
+Question: claims outstanding FT?
+Answer: 845499
+
+Context: claims paid  TP : 74092 FT : 708823441 AD : 7 ! claims outstanding  TP : 7081464 FT : 845499 AD : 8415381 ! 
+Question: claims outstanding AD?
+Answer: 8415381
+
+Context: claims paid  TP : 707077314 AD : 92 FT : 9456881 ! claims outstanding  TP : 223 AD : 7854 FT : 3705 ! 
+Question: claims paid TP?
+Answer: 707077314
+
+Context: claims paid  TP : 707077314 AD : 92 FT : 9456881 ! claims outstanding  TP : 223 AD : 7854 FT : 3705 ! 
+Question: claims paid AD?
+Answer: 92
+
+Context: claims paid  TP : 707077314 AD : 92 FT : 9456881 ! claims outstanding  TP : 223 AD : 7854 FT : 3705 ! 
+Question: claims paid FT?
+Answer: 9456881
+
+Context: claims paid  TP : 707077314 AD : 92 FT : 9456881 ! claims outstanding  TP : 223 AD : 7854 FT : 3705 ! 
+Question: claims outstanding TP?
+Answer: 223
+
+Context: claims paid  TP : 707077314 AD : 92 FT : 9456881 ! claims outstanding  TP : 223 AD : 7854 FT : 3705 ! 
+Question: claims outstanding AD?
+Answer: 7854
+
+Context: claims paid  TP : 707077314 AD : 92 FT : 9456881 ! claims outstanding  TP : 223 AD : 7854 FT : 3705 ! 
+Question: claims outstanding FT?
+Answer: 3705
+
+Context: claims paid  FT : 20536648 AD : 198365434 TP : 37245893 ! claims outstanding  FT : 7 AD : 658328982 TP : 8203 ! 
+Question: claims paid FT?
+Answer: 20536648
+
+Context: claims paid  FT : 20536648 AD : 198365434 TP : 37245893 ! claims outstanding  FT : 7 AD : 658328982 TP : 8203 ! 
+Question: claims paid AD?
+Answer: 198365434
+
+Context: claims paid  FT : 20536648 AD : 198365434 TP : 37245893 ! claims outstanding  FT : 7 AD : 658328982 TP : 8203 ! 
+Question: claims paid TP?
+Answer: 37245893
+
+Context: claims paid  FT : 20536648 AD : 198365434 TP : 37245893 ! claims outstanding  FT : 7 AD : 658328982 TP : 8203 ! 
+Question: claims outstanding FT?
+Answer: 7
+
+Context: claims paid  FT : 20536648 AD : 198365434 TP : 37245893 ! claims outstanding  FT : 7 AD : 658328982 TP : 8203 ! 
+Question: claims outstanding AD?
+Answer: 658328982
+
+Context: claims paid  FT : 20536648 AD : 198365434 TP : 37245893 ! claims outstanding  FT : 7 AD : 658328982 TP : 8203 ! 
+Question: claims outstanding TP?
+Answer: 8203
+
+Context: claims paid  FT : 675 TP : 7686 AD : 536824984 ! claims outstanding  FT : 906520 TP : 376261337 AD : 143314149 ! 
+Question: claims paid FT?
+Answer: 675
+
+Context: claims paid  FT : 675 TP : 7686 AD : 536824984 ! claims outstanding  FT : 906520 TP : 376261337 AD : 143314149 ! 
+Question: claims paid TP?
+Answer: 7686
+
+Context: claims paid  FT : 675 TP : 7686 AD : 536824984 ! claims outstanding  FT : 906520 TP : 376261337 AD : 143314149 ! 
+Question: claims paid AD?
+Answer: 536824984
+
+Context: claims paid  FT : 675 TP : 7686 AD : 536824984 ! claims outstanding  FT : 906520 TP : 376261337 AD : 143314149 ! 
+Question: claims outstanding FT?
+Answer: 906520
+
+Context: claims paid  FT : 675 TP : 7686 AD : 536824984 ! claims outstanding  FT : 906520 TP : 376261337 AD : 143314149 ! 
+Question: claims outstanding TP?
+Answer: 376261337
+
+Context: claims paid  FT : 675 TP : 7686 AD : 536824984 ! claims outstanding  FT : 906520 TP : 376261337 AD : 143314149 ! 
+Question: claims outstanding AD?
+Answer: 143314149
+
+Context: claims paid  FT : 2794 TP : 476144069 AD : 8600167868 ! claims outstanding  FT : 2015159 TP : 49 AD : 776 ! 
+Question: claims paid FT?
+Answer: 2794
+
+Context: claims paid  FT : 2794 TP : 476144069 AD : 8600167868 ! claims outstanding  FT : 2015159 TP : 49 AD : 776 ! 
+Question: claims paid TP?
+Answer: 476144069
+
+Context: claims paid  FT : 2794 TP : 476144069 AD : 8600167868 ! claims outstanding  FT : 2015159 TP : 49 AD : 776 ! 
+Question: claims paid AD?
+Answer: 8600167868
+
+Context: claims paid  FT : 2794 TP : 476144069 AD : 8600167868 ! claims outstanding  FT : 2015159 TP : 49 AD : 776 ! 
+Question: claims outstanding FT?
+Answer: 2015159
+
+Context: claims paid  FT : 2794 TP : 476144069 AD : 8600167868 ! claims outstanding  FT : 2015159 TP : 49 AD : 776 ! 
+Question: claims outstanding TP?
+Answer: 49
+
+Context: claims paid  FT : 2794 TP : 476144069 AD : 8600167868 ! claims outstanding  FT : 2015159 TP : 49 AD : 776 ! 
+Question: claims outstanding AD?
+Answer: 776
+
+Context: claims paid  AD : 424715 TP : 755 FT : 005 ! claims outstanding  AD : 3532554 TP : 67839 FT : 990033180 ! 
+Question: claims paid AD?
+Answer: 424715
+
+Context: claims paid  AD : 424715 TP : 755 FT : 005 ! claims outstanding  AD : 3532554 TP : 67839 FT : 990033180 ! 
+Question: claims paid TP?
+Answer: 755
+
+Context: claims paid  AD : 424715 TP : 755 FT : 005 ! claims outstanding  AD : 3532554 TP : 67839 FT : 990033180 ! 
+Question: claims paid FT?
+Answer: 005
+
+Context: claims paid  AD : 424715 TP : 755 FT : 005 ! claims outstanding  AD : 3532554 TP : 67839 FT : 990033180 ! 
+Question: claims outstanding AD?
+Answer: 3532554
+
+Context: claims paid  AD : 424715 TP : 755 FT : 005 ! claims outstanding  AD : 3532554 TP : 67839 FT : 990033180 ! 
+Question: claims outstanding TP?
+Answer: 67839
+
+Context: claims paid  AD : 424715 TP : 755 FT : 005 ! claims outstanding  AD : 3532554 TP : 67839 FT : 990033180 ! 
+Question: claims outstanding FT?
+Answer: 990033180
+
+Context: claims paid  TP : 25864798 FT : 25964173 AD : 361681078 ! claims outstanding  TP : 38286 FT : 32 AD : 2938 ! 
+Question: claims paid TP?
+Answer: 25864798
+
+Context: claims paid  TP : 25864798 FT : 25964173 AD : 361681078 ! claims outstanding  TP : 38286 FT : 32 AD : 2938 ! 
+Question: claims paid FT?
+Answer: 25964173
+
+Context: claims paid  TP : 25864798 FT : 25964173 AD : 361681078 ! claims outstanding  TP : 38286 FT : 32 AD : 2938 ! 
+Question: claims paid AD?
+Answer: 361681078
+
+Context: claims paid  TP : 25864798 FT : 25964173 AD : 361681078 ! claims outstanding  TP : 38286 FT : 32 AD : 2938 ! 
+Question: claims outstanding TP?
+Answer: 38286
+
+Context: claims paid  TP : 25864798 FT : 25964173 AD : 361681078 ! claims outstanding  TP : 38286 FT : 32 AD : 2938 ! 
+Question: claims outstanding FT?
+Answer: 32
+
+Context: claims paid  TP : 25864798 FT : 25964173 AD : 361681078 ! claims outstanding  TP : 38286 FT : 32 AD : 2938 ! 
+Question: claims outstanding AD?
+Answer: 2938
+
+Context: claims paid  AD : 13452 FT : 3347 TP : 509997186 ! claims outstanding  AD : 228927 FT : 753 TP : 7381801 ! 
+Question: claims paid AD?
+Answer: 13452
+
+Context: claims paid  AD : 13452 FT : 3347 TP : 509997186 ! claims outstanding  AD : 228927 FT : 753 TP : 7381801 ! 
+Question: claims paid FT?
+Answer: 3347
+
+Context: claims paid  AD : 13452 FT : 3347 TP : 509997186 ! claims outstanding  AD : 228927 FT : 753 TP : 7381801 ! 
+Question: claims paid TP?
+Answer: 509997186
+
+Context: claims paid  AD : 13452 FT : 3347 TP : 509997186 ! claims outstanding  AD : 228927 FT : 753 TP : 7381801 ! 
+Question: claims outstanding AD?
+Answer: 228927
+
+Context: claims paid  AD : 13452 FT : 3347 TP : 509997186 ! claims outstanding  AD : 228927 FT : 753 TP : 7381801 ! 
+Question: claims outstanding FT?
+Answer: 753
+
+Context: claims paid  AD : 13452 FT : 3347 TP : 509997186 ! claims outstanding  AD : 228927 FT : 753 TP : 7381801 ! 
+Question: claims outstanding TP?
+Answer: 7381801
+
+Context: claims paid  AD : 22 TP : 3965087 FT : 48487990 ! claims outstanding  AD : 109228 TP : 152 FT : 7 ! 
+Question: claims paid AD?
+Answer: 22
+
+Context: claims paid  AD : 22 TP : 3965087 FT : 48487990 ! claims outstanding  AD : 109228 TP : 152 FT : 7 ! 
+Question: claims paid TP?
+Answer: 3965087
+
+Context: claims paid  AD : 22 TP : 3965087 FT : 48487990 ! claims outstanding  AD : 109228 TP : 152 FT : 7 ! 
+Question: claims paid FT?
+Answer: 48487990
+
+Context: claims paid  AD : 22 TP : 3965087 FT : 48487990 ! claims outstanding  AD : 109228 TP : 152 FT : 7 ! 
+Question: claims outstanding AD?
+Answer: 109228
+
+Context: claims paid  AD : 22 TP : 3965087 FT : 48487990 ! claims outstanding  AD : 109228 TP : 152 FT : 7 ! 
+Question: claims outstanding TP?
+Answer: 152
+
+Context: claims paid  AD : 22 TP : 3965087 FT : 48487990 ! claims outstanding  AD : 109228 TP : 152 FT : 7 ! 
+Question: claims outstanding FT?
+Answer: 7
+
+Context: claims paid  TP : 55524 FT : 04046787 AD : 28471053 ! claims outstanding  TP : 8132780 FT : 0225479533 AD : 8824617935 ! 
+Question: claims paid TP?
+Answer: 55524
+
+Context: claims paid  TP : 55524 FT : 04046787 AD : 28471053 ! claims outstanding  TP : 8132780 FT : 0225479533 AD : 8824617935 ! 
+Question: claims paid FT?
+Answer: 04046787
+
+Context: claims paid  TP : 55524 FT : 04046787 AD : 28471053 ! claims outstanding  TP : 8132780 FT : 0225479533 AD : 8824617935 ! 
+Question: claims paid AD?
+Answer: 28471053
+
+Context: claims paid  TP : 55524 FT : 04046787 AD : 28471053 ! claims outstanding  TP : 8132780 FT : 0225479533 AD : 8824617935 ! 
+Question: claims outstanding TP?
+Answer: 8132780
+
+Context: claims paid  TP : 55524 FT : 04046787 AD : 28471053 ! claims outstanding  TP : 8132780 FT : 0225479533 AD : 8824617935 ! 
+Question: claims outstanding FT?
+Answer: 0225479533
+
+Context: claims paid  TP : 55524 FT : 04046787 AD : 28471053 ! claims outstanding  TP : 8132780 FT : 0225479533 AD : 8824617935 ! 
+Question: claims outstanding AD?
+Answer: 8824617935
+
+Context: claims paid  TP : 40313010 FT : 01236 AD : 2188749801 ! claims outstanding  TP : 2 FT : 37787 AD : 50 ! 
+Question: claims paid TP?
+Answer: 40313010
+
+Context: claims paid  TP : 40313010 FT : 01236 AD : 2188749801 ! claims outstanding  TP : 2 FT : 37787 AD : 50 ! 
+Question: claims paid FT?
+Answer: 01236
+
+Context: claims paid  TP : 40313010 FT : 01236 AD : 2188749801 ! claims outstanding  TP : 2 FT : 37787 AD : 50 ! 
+Question: claims paid AD?
+Answer: 2188749801
+
+Context: claims paid  TP : 40313010 FT : 01236 AD : 2188749801 ! claims outstanding  TP : 2 FT : 37787 AD : 50 ! 
+Question: claims outstanding TP?
+Answer: 2
+
+Context: claims paid  TP : 40313010 FT : 01236 AD : 2188749801 ! claims outstanding  TP : 2 FT : 37787 AD : 50 ! 
+Question: claims outstanding FT?
+Answer: 37787
+
+Context: claims paid  TP : 40313010 FT : 01236 AD : 2188749801 ! claims outstanding  TP : 2 FT : 37787 AD : 50 ! 
+Question: claims outstanding AD?
+Answer: 50
+
+Context: claims paid  TP : 26460024 AD : 008 FT : 77553513 ! claims outstanding  TP : 989036015 AD : 131438 FT : 67 ! 
+Question: claims paid TP?
+Answer: 26460024
+
+Context: claims paid  TP : 26460024 AD : 008 FT : 77553513 ! claims outstanding  TP : 989036015 AD : 131438 FT : 67 ! 
+Question: claims paid AD?
+Answer: 008
+
+Context: claims paid  TP : 26460024 AD : 008 FT : 77553513 ! claims outstanding  TP : 989036015 AD : 131438 FT : 67 ! 
+Question: claims paid FT?
+Answer: 77553513
+
+Context: claims paid  TP : 26460024 AD : 008 FT : 77553513 ! claims outstanding  TP : 989036015 AD : 131438 FT : 67 ! 
+Question: claims outstanding TP?
+Answer: 989036015
+
+Context: claims paid  TP : 26460024 AD : 008 FT : 77553513 ! claims outstanding  TP : 989036015 AD : 131438 FT : 67 ! 
+Question: claims outstanding AD?
+Answer: 131438
+
+Context: claims paid  TP : 26460024 AD : 008 FT : 77553513 ! claims outstanding  TP : 989036015 AD : 131438 FT : 67 ! 
+Question: claims outstanding FT?
+Answer: 67
+
+Context: claims paid  FT : 727029 TP : 71 AD : 644607 ! claims outstanding  FT : 748695435 TP : 2748215609 AD : 232135173 ! 
+Question: claims paid FT?
+Answer: 727029
+
+Context: claims paid  FT : 727029 TP : 71 AD : 644607 ! claims outstanding  FT : 748695435 TP : 2748215609 AD : 232135173 ! 
+Question: claims paid TP?
+Answer: 71
+
+Context: claims paid  FT : 727029 TP : 71 AD : 644607 ! claims outstanding  FT : 748695435 TP : 2748215609 AD : 232135173 ! 
+Question: claims paid AD?
+Answer: 644607
+
+Context: claims paid  FT : 727029 TP : 71 AD : 644607 ! claims outstanding  FT : 748695435 TP : 2748215609 AD : 232135173 ! 
+Question: claims outstanding FT?
+Answer: 748695435
+
+Context: claims paid  FT : 727029 TP : 71 AD : 644607 ! claims outstanding  FT : 748695435 TP : 2748215609 AD : 232135173 ! 
+Question: claims outstanding TP?
+Answer: 2748215609
+
+Context: claims paid  FT : 727029 TP : 71 AD : 644607 ! claims outstanding  FT : 748695435 TP : 2748215609 AD : 232135173 ! 
+Question: claims outstanding AD?
+Answer: 232135173
+
+Context: claims paid  FT : 6776 AD : 2709 TP : 8635581 ! claims outstanding  FT : 11493112 AD : 15602 TP : 431 ! 
+Question: claims paid FT?
+Answer: 6776
+
+Context: claims paid  FT : 6776 AD : 2709 TP : 8635581 ! claims outstanding  FT : 11493112 AD : 15602 TP : 431 ! 
+Question: claims paid AD?
+Answer: 2709
+
+Context: claims paid  FT : 6776 AD : 2709 TP : 8635581 ! claims outstanding  FT : 11493112 AD : 15602 TP : 431 ! 
+Question: claims paid TP?
+Answer: 8635581
+
+Context: claims paid  FT : 6776 AD : 2709 TP : 8635581 ! claims outstanding  FT : 11493112 AD : 15602 TP : 431 ! 
+Question: claims outstanding FT?
+Answer: 11493112
+
+Context: claims paid  FT : 6776 AD : 2709 TP : 8635581 ! claims outstanding  FT : 11493112 AD : 15602 TP : 431 ! 
+Question: claims outstanding AD?
+Answer: 15602
+
+Context: claims paid  FT : 6776 AD : 2709 TP : 8635581 ! claims outstanding  FT : 11493112 AD : 15602 TP : 431 ! 
+Question: claims outstanding TP?
+Answer: 431
+
+Context: claims paid  FT : 930249606 AD : 7 TP : 75187 ! claims outstanding  FT : 705653 AD : 62461 TP : 5763199 ! 
+Question: claims paid FT?
+Answer: 930249606
+
+Context: claims paid  FT : 930249606 AD : 7 TP : 75187 ! claims outstanding  FT : 705653 AD : 62461 TP : 5763199 ! 
+Question: claims paid AD?
+Answer: 7
+
+Context: claims paid  FT : 930249606 AD : 7 TP : 75187 ! claims outstanding  FT : 705653 AD : 62461 TP : 5763199 ! 
+Question: claims paid TP?
+Answer: 75187
+
+Context: claims paid  FT : 930249606 AD : 7 TP : 75187 ! claims outstanding  FT : 705653 AD : 62461 TP : 5763199 ! 
+Question: claims outstanding FT?
+Answer: 705653
+
+Context: claims paid  FT : 930249606 AD : 7 TP : 75187 ! claims outstanding  FT : 705653 AD : 62461 TP : 5763199 ! 
+Question: claims outstanding AD?
+Answer: 62461
+
+Context: claims paid  FT : 930249606 AD : 7 TP : 75187 ! claims outstanding  FT : 705653 AD : 62461 TP : 5763199 ! 
+Question: claims outstanding TP?
+Answer: 5763199
+
+Context: claims paid  AD : 56586747 TP : 06403670 FT : 8526920689 ! claims outstanding  AD : 29 TP : 95342 FT : 6262 ! 
+Question: claims paid AD?
+Answer: 56586747
+
+Context: claims paid  AD : 56586747 TP : 06403670 FT : 8526920689 ! claims outstanding  AD : 29 TP : 95342 FT : 6262 ! 
+Question: claims paid TP?
+Answer: 06403670
+
+Context: claims paid  AD : 56586747 TP : 06403670 FT : 8526920689 ! claims outstanding  AD : 29 TP : 95342 FT : 6262 ! 
+Question: claims paid FT?
+Answer: 8526920689
+
+Context: claims paid  AD : 56586747 TP : 06403670 FT : 8526920689 ! claims outstanding  AD : 29 TP : 95342 FT : 6262 ! 
+Question: claims outstanding AD?
+Answer: 29
+
+Context: claims paid  AD : 56586747 TP : 06403670 FT : 8526920689 ! claims outstanding  AD : 29 TP : 95342 FT : 6262 ! 
+Question: claims outstanding TP?
+Answer: 95342
+
+Context: claims paid  AD : 56586747 TP : 06403670 FT : 8526920689 ! claims outstanding  AD : 29 TP : 95342 FT : 6262 ! 
+Question: claims outstanding FT?
+Answer: 6262
+
+Context: claims paid  FT : 7619374930 AD : 031 TP : 125241 ! claims outstanding  FT : 4 AD : 2691416990 TP : 79511 ! 
+Question: claims paid FT?
+Answer: 7619374930
+
+Context: claims paid  FT : 7619374930 AD : 031 TP : 125241 ! claims outstanding  FT : 4 AD : 2691416990 TP : 79511 ! 
+Question: claims paid AD?
+Answer: 031
+
+Context: claims paid  FT : 7619374930 AD : 031 TP : 125241 ! claims outstanding  FT : 4 AD : 2691416990 TP : 79511 ! 
+Question: claims paid TP?
+Answer: 125241
+
+Context: claims paid  FT : 7619374930 AD : 031 TP : 125241 ! claims outstanding  FT : 4 AD : 2691416990 TP : 79511 ! 
+Question: claims outstanding FT?
+Answer: 4
+
+Context: claims paid  FT : 7619374930 AD : 031 TP : 125241 ! claims outstanding  FT : 4 AD : 2691416990 TP : 79511 ! 
+Question: claims outstanding AD?
+Answer: 2691416990
+
+Context: claims paid  FT : 7619374930 AD : 031 TP : 125241 ! claims outstanding  FT : 4 AD : 2691416990 TP : 79511 ! 
+Question: claims outstanding TP?
+Answer: 79511
+
+Context: claims paid  FT : 587226 TP : 854 AD : 9510736271 ! claims outstanding  FT : 18194 TP : 8 AD : 377152325 ! 
+Question: claims paid FT?
+Answer: 587226
+
+Context: claims paid  FT : 587226 TP : 854 AD : 9510736271 ! claims outstanding  FT : 18194 TP : 8 AD : 377152325 ! 
+Question: claims paid TP?
+Answer: 854
+
+Context: claims paid  FT : 587226 TP : 854 AD : 9510736271 ! claims outstanding  FT : 18194 TP : 8 AD : 377152325 ! 
+Question: claims paid AD?
+Answer: 9510736271
+
+Context: claims paid  FT : 587226 TP : 854 AD : 9510736271 ! claims outstanding  FT : 18194 TP : 8 AD : 377152325 ! 
+Question: claims outstanding FT?
+Answer: 18194
+
+Context: claims paid  FT : 587226 TP : 854 AD : 9510736271 ! claims outstanding  FT : 18194 TP : 8 AD : 377152325 ! 
+Question: claims outstanding TP?
+Answer: 8
+
+Context: claims paid  FT : 587226 TP : 854 AD : 9510736271 ! claims outstanding  FT : 18194 TP : 8 AD : 377152325 ! 
+Question: claims outstanding AD?
+Answer: 377152325
+
+Context: claims paid  AD : 7 TP : 78758223 FT : 23418 ! claims outstanding  AD : 5610334432 TP : 77 FT : 77580 ! 
+Question: claims paid AD?
+Answer: 7
+
+Context: claims paid  AD : 7 TP : 78758223 FT : 23418 ! claims outstanding  AD : 5610334432 TP : 77 FT : 77580 ! 
+Question: claims paid TP?
+Answer: 78758223
+
+Context: claims paid  AD : 7 TP : 78758223 FT : 23418 ! claims outstanding  AD : 5610334432 TP : 77 FT : 77580 ! 
+Question: claims paid FT?
+Answer: 23418
+
+Context: claims paid  AD : 7 TP : 78758223 FT : 23418 ! claims outstanding  AD : 5610334432 TP : 77 FT : 77580 ! 
+Question: claims outstanding AD?
+Answer: 5610334432
+
+Context: claims paid  AD : 7 TP : 78758223 FT : 23418 ! claims outstanding  AD : 5610334432 TP : 77 FT : 77580 ! 
+Question: claims outstanding TP?
+Answer: 77
+
+Context: claims paid  AD : 7 TP : 78758223 FT : 23418 ! claims outstanding  AD : 5610334432 TP : 77 FT : 77580 ! 
+Question: claims outstanding FT?
+Answer: 77580
+
+Context: claims paid  TP : 55280 AD : 1633260 FT : 17078724 ! claims outstanding  TP : 9848035 AD : 81615 FT : 13769442 ! 
+Question: claims paid TP?
+Answer: 55280
+
+Context: claims paid  TP : 55280 AD : 1633260 FT : 17078724 ! claims outstanding  TP : 9848035 AD : 81615 FT : 13769442 ! 
+Question: claims paid AD?
+Answer: 1633260
+
+Context: claims paid  TP : 55280 AD : 1633260 FT : 17078724 ! claims outstanding  TP : 9848035 AD : 81615 FT : 13769442 ! 
+Question: claims paid FT?
+Answer: 17078724
+
+Context: claims paid  TP : 55280 AD : 1633260 FT : 17078724 ! claims outstanding  TP : 9848035 AD : 81615 FT : 13769442 ! 
+Question: claims outstanding TP?
+Answer: 9848035
+
+Context: claims paid  TP : 55280 AD : 1633260 FT : 17078724 ! claims outstanding  TP : 9848035 AD : 81615 FT : 13769442 ! 
+Question: claims outstanding AD?
+Answer: 81615
+
+Context: claims paid  TP : 55280 AD : 1633260 FT : 17078724 ! claims outstanding  TP : 9848035 AD : 81615 FT : 13769442 ! 
+Question: claims outstanding FT?
+Answer: 13769442
+
+Context: claims paid  AD : 96977 FT : 66000185 TP : 85701 ! claims outstanding  AD : 5727 FT : 143097 TP : 3692 ! 
+Question: claims paid AD?
+Answer: 96977
+
+Context: claims paid  AD : 96977 FT : 66000185 TP : 85701 ! claims outstanding  AD : 5727 FT : 143097 TP : 3692 ! 
+Question: claims paid FT?
+Answer: 66000185
+
+Context: claims paid  AD : 96977 FT : 66000185 TP : 85701 ! claims outstanding  AD : 5727 FT : 143097 TP : 3692 ! 
+Question: claims paid TP?
+Answer: 85701
+
+Context: claims paid  AD : 96977 FT : 66000185 TP : 85701 ! claims outstanding  AD : 5727 FT : 143097 TP : 3692 ! 
+Question: claims outstanding AD?
+Answer: 5727
+
+Context: claims paid  AD : 96977 FT : 66000185 TP : 85701 ! claims outstanding  AD : 5727 FT : 143097 TP : 3692 ! 
+Question: claims outstanding FT?
+Answer: 143097
+
+Context: claims paid  AD : 96977 FT : 66000185 TP : 85701 ! claims outstanding  AD : 5727 FT : 143097 TP : 3692 ! 
+Question: claims outstanding TP?
+Answer: 3692
+
+Context: claims paid  TP : 7460833692 FT : 894 AD : 69 ! claims outstanding  TP : 59 FT : 55 AD : 934972230 ! 
+Question: claims paid TP?
+Answer: 7460833692
+
+Context: claims paid  TP : 7460833692 FT : 894 AD : 69 ! claims outstanding  TP : 59 FT : 55 AD : 934972230 ! 
+Question: claims paid FT?
+Answer: 894
+
+Context: claims paid  TP : 7460833692 FT : 894 AD : 69 ! claims outstanding  TP : 59 FT : 55 AD : 934972230 ! 
+Question: claims paid AD?
+Answer: 69
+
+Context: claims paid  TP : 7460833692 FT : 894 AD : 69 ! claims outstanding  TP : 59 FT : 55 AD : 934972230 ! 
+Question: claims outstanding TP?
+Answer: 59
+
+Context: claims paid  TP : 7460833692 FT : 894 AD : 69 ! claims outstanding  TP : 59 FT : 55 AD : 934972230 ! 
+Question: claims outstanding FT?
+Answer: 55
+
+Context: claims paid  TP : 7460833692 FT : 894 AD : 69 ! claims outstanding  TP : 59 FT : 55 AD : 934972230 ! 
+Question: claims outstanding AD?
+Answer: 934972230
+
+Context: claims paid  FT : 56 AD : 1807928 TP : 8 ! claims outstanding  FT : 0668680888 AD : 531161 TP : 860850 ! 
+Question: claims paid FT?
+Answer: 56
+
+Context: claims paid  FT : 56 AD : 1807928 TP : 8 ! claims outstanding  FT : 0668680888 AD : 531161 TP : 860850 ! 
+Question: claims paid AD?
+Answer: 1807928
+
+Context: claims paid  FT : 56 AD : 1807928 TP : 8 ! claims outstanding  FT : 0668680888 AD : 531161 TP : 860850 ! 
+Question: claims paid TP?
+Answer: 8
+
+Context: claims paid  FT : 56 AD : 1807928 TP : 8 ! claims outstanding  FT : 0668680888 AD : 531161 TP : 860850 ! 
+Question: claims outstanding FT?
+Answer: 0668680888
+
+Context: claims paid  FT : 56 AD : 1807928 TP : 8 ! claims outstanding  FT : 0668680888 AD : 531161 TP : 860850 ! 
+Question: claims outstanding AD?
+Answer: 531161
+
+Context: claims paid  FT : 56 AD : 1807928 TP : 8 ! claims outstanding  FT : 0668680888 AD : 531161 TP : 860850 ! 
+Question: claims outstanding TP?
+Answer: 860850
+
+Context: claims paid  FT : 544044 AD : 7423515598 TP : 33 ! claims outstanding  FT : 8024218 AD : 639662 TP : 29098959 ! 
+Question: claims paid FT?
+Answer: 544044
+
+Context: claims paid  FT : 544044 AD : 7423515598 TP : 33 ! claims outstanding  FT : 8024218 AD : 639662 TP : 29098959 ! 
+Question: claims paid AD?
+Answer: 7423515598
+
+Context: claims paid  FT : 544044 AD : 7423515598 TP : 33 ! claims outstanding  FT : 8024218 AD : 639662 TP : 29098959 ! 
+Question: claims paid TP?
+Answer: 33
+
+Context: claims paid  FT : 544044 AD : 7423515598 TP : 33 ! claims outstanding  FT : 8024218 AD : 639662 TP : 29098959 ! 
+Question: claims outstanding FT?
+Answer: 8024218
+
+Context: claims paid  FT : 544044 AD : 7423515598 TP : 33 ! claims outstanding  FT : 8024218 AD : 639662 TP : 29098959 ! 
+Question: claims outstanding AD?
+Answer: 639662
+
+Context: claims paid  FT : 544044 AD : 7423515598 TP : 33 ! claims outstanding  FT : 8024218 AD : 639662 TP : 29098959 ! 
+Question: claims outstanding TP?
+Answer: 29098959
+
+Context: claims paid  TP : 47 FT : 31003085 AD : 5 ! claims outstanding  TP : 7 FT : 616 AD : 31 ! 
+Question: claims paid TP?
+Answer: 47
+
+Context: claims paid  TP : 47 FT : 31003085 AD : 5 ! claims outstanding  TP : 7 FT : 616 AD : 31 ! 
+Question: claims paid FT?
+Answer: 31003085
+
+Context: claims paid  TP : 47 FT : 31003085 AD : 5 ! claims outstanding  TP : 7 FT : 616 AD : 31 ! 
+Question: claims paid AD?
+Answer: 5
+
+Context: claims paid  TP : 47 FT : 31003085 AD : 5 ! claims outstanding  TP : 7 FT : 616 AD : 31 ! 
+Question: claims outstanding TP?
+Answer: 7
+
+Context: claims paid  TP : 47 FT : 31003085 AD : 5 ! claims outstanding  TP : 7 FT : 616 AD : 31 ! 
+Question: claims outstanding FT?
+Answer: 616
+
+Context: claims paid  TP : 47 FT : 31003085 AD : 5 ! claims outstanding  TP : 7 FT : 616 AD : 31 ! 
+Question: claims outstanding AD?
+Answer: 31
+
+Context: claims paid  AD : 668466 TP : 021489 FT : 187 ! claims outstanding  AD : 5105037 TP : 9970614941 FT : 0829595 ! 
+Question: claims paid AD?
+Answer: 668466
+
+Context: claims paid  AD : 668466 TP : 021489 FT : 187 ! claims outstanding  AD : 5105037 TP : 9970614941 FT : 0829595 ! 
+Question: claims paid TP?
+Answer: 021489
+
+Context: claims paid  AD : 668466 TP : 021489 FT : 187 ! claims outstanding  AD : 5105037 TP : 9970614941 FT : 0829595 ! 
+Question: claims paid FT?
+Answer: 187
+
+Context: claims paid  AD : 668466 TP : 021489 FT : 187 ! claims outstanding  AD : 5105037 TP : 9970614941 FT : 0829595 ! 
+Question: claims outstanding AD?
+Answer: 5105037
+
+Context: claims paid  AD : 668466 TP : 021489 FT : 187 ! claims outstanding  AD : 5105037 TP : 9970614941 FT : 0829595 ! 
+Question: claims outstanding TP?
+Answer: 9970614941
+
+Context: claims paid  AD : 668466 TP : 021489 FT : 187 ! claims outstanding  AD : 5105037 TP : 9970614941 FT : 0829595 ! 
+Question: claims outstanding FT?
+Answer: 0829595
+
+Context: claims paid  AD : 5781196 FT : 6581938 TP : 289223 ! claims outstanding  AD : 4221 FT : 0288 TP : 227 ! 
+Question: claims paid AD?
+Answer: 5781196
+
+Context: claims paid  AD : 5781196 FT : 6581938 TP : 289223 ! claims outstanding  AD : 4221 FT : 0288 TP : 227 ! 
+Question: claims paid FT?
+Answer: 6581938
+
+Context: claims paid  AD : 5781196 FT : 6581938 TP : 289223 ! claims outstanding  AD : 4221 FT : 0288 TP : 227 ! 
+Question: claims paid TP?
+Answer: 289223
+
+Context: claims paid  AD : 5781196 FT : 6581938 TP : 289223 ! claims outstanding  AD : 4221 FT : 0288 TP : 227 ! 
+Question: claims outstanding AD?
+Answer: 4221
+
+Context: claims paid  AD : 5781196 FT : 6581938 TP : 289223 ! claims outstanding  AD : 4221 FT : 0288 TP : 227 ! 
+Question: claims outstanding FT?
+Answer: 0288
+
+Context: claims paid  AD : 5781196 FT : 6581938 TP : 289223 ! claims outstanding  AD : 4221 FT : 0288 TP : 227 ! 
+Question: claims outstanding TP?
+Answer: 227
+
+Context: claims paid  TP : 91 AD : 7708 FT : 5662939723 ! claims outstanding  TP : 7993447217 AD : 8372528 FT : 0107 ! 
+Question: claims paid TP?
+Answer: 91
+
+Context: claims paid  TP : 91 AD : 7708 FT : 5662939723 ! claims outstanding  TP : 7993447217 AD : 8372528 FT : 0107 ! 
+Question: claims paid AD?
+Answer: 7708
+
+Context: claims paid  TP : 91 AD : 7708 FT : 5662939723 ! claims outstanding  TP : 7993447217 AD : 8372528 FT : 0107 ! 
+Question: claims paid FT?
+Answer: 5662939723
+
+Context: claims paid  TP : 91 AD : 7708 FT : 5662939723 ! claims outstanding  TP : 7993447217 AD : 8372528 FT : 0107 ! 
+Question: claims outstanding TP?
+Answer: 7993447217
+
+Context: claims paid  TP : 91 AD : 7708 FT : 5662939723 ! claims outstanding  TP : 7993447217 AD : 8372528 FT : 0107 ! 
+Question: claims outstanding AD?
+Answer: 8372528
+
+Context: claims paid  TP : 91 AD : 7708 FT : 5662939723 ! claims outstanding  TP : 7993447217 AD : 8372528 FT : 0107 ! 
+Question: claims outstanding FT?
+Answer: 0107
+
+Context: claims paid  TP : 3089178352 AD : 0714 FT : 48 ! claims outstanding  TP : 9 AD : 4195 FT : 141675754 ! 
+Question: claims paid TP?
+Answer: 3089178352
+
+Context: claims paid  TP : 3089178352 AD : 0714 FT : 48 ! claims outstanding  TP : 9 AD : 4195 FT : 141675754 ! 
+Question: claims paid AD?
+Answer: 0714
+
+Context: claims paid  TP : 3089178352 AD : 0714 FT : 48 ! claims outstanding  TP : 9 AD : 4195 FT : 141675754 ! 
+Question: claims paid FT?
+Answer: 48
+
+Context: claims paid  TP : 3089178352 AD : 0714 FT : 48 ! claims outstanding  TP : 9 AD : 4195 FT : 141675754 ! 
+Question: claims outstanding TP?
+Answer: 9
+
+Context: claims paid  TP : 3089178352 AD : 0714 FT : 48 ! claims outstanding  TP : 9 AD : 4195 FT : 141675754 ! 
+Question: claims outstanding AD?
+Answer: 4195
+
+Context: claims paid  TP : 3089178352 AD : 0714 FT : 48 ! claims outstanding  TP : 9 AD : 4195 FT : 141675754 ! 
+Question: claims outstanding FT?
+Answer: 141675754
+
+Context: claims paid  AD : 830 TP : 5595278 FT : 35 ! claims outstanding  AD : 71606715 TP : 650217 FT : 86353030 ! 
+Question: claims paid AD?
+Answer: 830
+
+Context: claims paid  AD : 830 TP : 5595278 FT : 35 ! claims outstanding  AD : 71606715 TP : 650217 FT : 86353030 ! 
+Question: claims paid TP?
+Answer: 5595278
+
+Context: claims paid  AD : 830 TP : 5595278 FT : 35 ! claims outstanding  AD : 71606715 TP : 650217 FT : 86353030 ! 
+Question: claims paid FT?
+Answer: 35
+
+Context: claims paid  AD : 830 TP : 5595278 FT : 35 ! claims outstanding  AD : 71606715 TP : 650217 FT : 86353030 ! 
+Question: claims outstanding AD?
+Answer: 71606715
+
+Context: claims paid  AD : 830 TP : 5595278 FT : 35 ! claims outstanding  AD : 71606715 TP : 650217 FT : 86353030 ! 
+Question: claims outstanding TP?
+Answer: 650217
+
+Context: claims paid  AD : 830 TP : 5595278 FT : 35 ! claims outstanding  AD : 71606715 TP : 650217 FT : 86353030 ! 
+Question: claims outstanding FT?
+Answer: 86353030
+
+Context: claims paid  TP : 5181678 FT : 1506655868 AD : 675617 ! claims outstanding  TP : 879737 FT : 00713 AD : 6945825677 ! 
+Question: claims paid TP?
+Answer: 5181678
+
+Context: claims paid  TP : 5181678 FT : 1506655868 AD : 675617 ! claims outstanding  TP : 879737 FT : 00713 AD : 6945825677 ! 
+Question: claims paid FT?
+Answer: 1506655868
+
+Context: claims paid  TP : 5181678 FT : 1506655868 AD : 675617 ! claims outstanding  TP : 879737 FT : 00713 AD : 6945825677 ! 
+Question: claims paid AD?
+Answer: 675617
+
+Context: claims paid  TP : 5181678 FT : 1506655868 AD : 675617 ! claims outstanding  TP : 879737 FT : 00713 AD : 6945825677 ! 
+Question: claims outstanding TP?
+Answer: 879737
+
+Context: claims paid  TP : 5181678 FT : 1506655868 AD : 675617 ! claims outstanding  TP : 879737 FT : 00713 AD : 6945825677 ! 
+Question: claims outstanding FT?
+Answer: 00713
+
+Context: claims paid  TP : 5181678 FT : 1506655868 AD : 675617 ! claims outstanding  TP : 879737 FT : 00713 AD : 6945825677 ! 
+Question: claims outstanding AD?
+Answer: 6945825677
+
+Context: claims paid  AD : 7850472021 TP : 51857916 FT : 68 ! claims outstanding  AD : 80 TP : 6635698 FT : 154752020 ! 
+Question: claims paid AD?
+Answer: 7850472021
+
+Context: claims paid  AD : 7850472021 TP : 51857916 FT : 68 ! claims outstanding  AD : 80 TP : 6635698 FT : 154752020 ! 
+Question: claims paid TP?
+Answer: 51857916
+
+Context: claims paid  AD : 7850472021 TP : 51857916 FT : 68 ! claims outstanding  AD : 80 TP : 6635698 FT : 154752020 ! 
+Question: claims paid FT?
+Answer: 68
+
+Context: claims paid  AD : 7850472021 TP : 51857916 FT : 68 ! claims outstanding  AD : 80 TP : 6635698 FT : 154752020 ! 
+Question: claims outstanding AD?
+Answer: 80
+
+Context: claims paid  AD : 7850472021 TP : 51857916 FT : 68 ! claims outstanding  AD : 80 TP : 6635698 FT : 154752020 ! 
+Question: claims outstanding TP?
+Answer: 6635698
+
+Context: claims paid  AD : 7850472021 TP : 51857916 FT : 68 ! claims outstanding  AD : 80 TP : 6635698 FT : 154752020 ! 
+Question: claims outstanding FT?
+Answer: 154752020
+
+Context: claims paid  FT : 529116768 AD : 47 TP : 47216 ! claims outstanding  FT : 283982 AD : 3 TP : 619533 ! 
+Question: claims paid FT?
+Answer: 529116768
+
+Context: claims paid  FT : 529116768 AD : 47 TP : 47216 ! claims outstanding  FT : 283982 AD : 3 TP : 619533 ! 
+Question: claims paid AD?
+Answer: 47
+
+Context: claims paid  FT : 529116768 AD : 47 TP : 47216 ! claims outstanding  FT : 283982 AD : 3 TP : 619533 ! 
+Question: claims paid TP?
+Answer: 47216
+
+Context: claims paid  FT : 529116768 AD : 47 TP : 47216 ! claims outstanding  FT : 283982 AD : 3 TP : 619533 ! 
+Question: claims outstanding FT?
+Answer: 283982
+
+Context: claims paid  FT : 529116768 AD : 47 TP : 47216 ! claims outstanding  FT : 283982 AD : 3 TP : 619533 ! 
+Question: claims outstanding AD?
+Answer: 3
+
+Context: claims paid  FT : 529116768 AD : 47 TP : 47216 ! claims outstanding  FT : 283982 AD : 3 TP : 619533 ! 
+Question: claims outstanding TP?
+Answer: 619533
+
+Context: claims paid  TP : 97730077 AD : 137 FT : 3312621 ! claims outstanding  TP : 1 AD : 2090 FT : 4249 ! 
+Question: claims paid TP?
+Answer: 97730077
+
+Context: claims paid  TP : 97730077 AD : 137 FT : 3312621 ! claims outstanding  TP : 1 AD : 2090 FT : 4249 ! 
+Question: claims paid AD?
+Answer: 137
+
+Context: claims paid  TP : 97730077 AD : 137 FT : 3312621 ! claims outstanding  TP : 1 AD : 2090 FT : 4249 ! 
+Question: claims paid FT?
+Answer: 3312621
+
+Context: claims paid  TP : 97730077 AD : 137 FT : 3312621 ! claims outstanding  TP : 1 AD : 2090 FT : 4249 ! 
+Question: claims outstanding TP?
+Answer: 1
+
+Context: claims paid  TP : 97730077 AD : 137 FT : 3312621 ! claims outstanding  TP : 1 AD : 2090 FT : 4249 ! 
+Question: claims outstanding AD?
+Answer: 2090
+
+Context: claims paid  TP : 97730077 AD : 137 FT : 3312621 ! claims outstanding  TP : 1 AD : 2090 FT : 4249 ! 
+Question: claims outstanding FT?
+Answer: 4249
+
+Context: claims paid  TP : 113347831 AD : 05807 FT : 9799660 ! claims outstanding  TP : 485246 AD : 6776009438 FT : 5711369 ! 
+Question: claims paid TP?
+Answer: 113347831
+
+Context: claims paid  TP : 113347831 AD : 05807 FT : 9799660 ! claims outstanding  TP : 485246 AD : 6776009438 FT : 5711369 ! 
+Question: claims paid AD?
+Answer: 05807
+
+Context: claims paid  TP : 113347831 AD : 05807 FT : 9799660 ! claims outstanding  TP : 485246 AD : 6776009438 FT : 5711369 ! 
+Question: claims paid FT?
+Answer: 9799660
+
+Context: claims paid  TP : 113347831 AD : 05807 FT : 9799660 ! claims outstanding  TP : 485246 AD : 6776009438 FT : 5711369 ! 
+Question: claims outstanding TP?
+Answer: 485246
+
+Context: claims paid  TP : 113347831 AD : 05807 FT : 9799660 ! claims outstanding  TP : 485246 AD : 6776009438 FT : 5711369 ! 
+Question: claims outstanding AD?
+Answer: 6776009438
+
+Context: claims paid  TP : 113347831 AD : 05807 FT : 9799660 ! claims outstanding  TP : 485246 AD : 6776009438 FT : 5711369 ! 
+Question: claims outstanding FT?
+Answer: 5711369
+
+Context: claims paid  TP : 19 AD : 867 FT : 5 ! claims outstanding  TP : 6121389 AD : 439 FT : 8692032 ! 
+Question: claims paid TP?
+Answer: 19
+
+Context: claims paid  TP : 19 AD : 867 FT : 5 ! claims outstanding  TP : 6121389 AD : 439 FT : 8692032 ! 
+Question: claims paid AD?
+Answer: 867
+
+Context: claims paid  TP : 19 AD : 867 FT : 5 ! claims outstanding  TP : 6121389 AD : 439 FT : 8692032 ! 
+Question: claims paid FT?
+Answer: 5
+
+Context: claims paid  TP : 19 AD : 867 FT : 5 ! claims outstanding  TP : 6121389 AD : 439 FT : 8692032 ! 
+Question: claims outstanding TP?
+Answer: 6121389
+
+Context: claims paid  TP : 19 AD : 867 FT : 5 ! claims outstanding  TP : 6121389 AD : 439 FT : 8692032 ! 
+Question: claims outstanding AD?
+Answer: 439
+
+Context: claims paid  TP : 19 AD : 867 FT : 5 ! claims outstanding  TP : 6121389 AD : 439 FT : 8692032 ! 
+Question: claims outstanding FT?
+Answer: 8692032
+
+Context: claims paid  FT : 4358 TP : 938 AD : 199 ! claims outstanding  FT : 7637 TP : 085954 AD : 9 ! 
+Question: claims paid FT?
+Answer: 4358
+
+Context: claims paid  FT : 4358 TP : 938 AD : 199 ! claims outstanding  FT : 7637 TP : 085954 AD : 9 ! 
+Question: claims paid TP?
+Answer: 938
+
+Context: claims paid  FT : 4358 TP : 938 AD : 199 ! claims outstanding  FT : 7637 TP : 085954 AD : 9 ! 
+Question: claims paid AD?
+Answer: 199
+
+Context: claims paid  FT : 4358 TP : 938 AD : 199 ! claims outstanding  FT : 7637 TP : 085954 AD : 9 ! 
+Question: claims outstanding FT?
+Answer: 7637
+
+Context: claims paid  FT : 4358 TP : 938 AD : 199 ! claims outstanding  FT : 7637 TP : 085954 AD : 9 ! 
+Question: claims outstanding TP?
+Answer: 085954
+
+Context: claims paid  FT : 4358 TP : 938 AD : 199 ! claims outstanding  FT : 7637 TP : 085954 AD : 9 ! 
+Question: claims outstanding AD?
+Answer: 9
+
+Context: claims paid  AD : 90854693 TP : 95518152 FT : 9059 ! claims outstanding  AD : 189 TP : 9024527 FT : 6412658311 ! 
+Question: claims paid AD?
+Answer: 90854693
+
+Context: claims paid  AD : 90854693 TP : 95518152 FT : 9059 ! claims outstanding  AD : 189 TP : 9024527 FT : 6412658311 ! 
+Question: claims paid TP?
+Answer: 95518152
+
+Context: claims paid  AD : 90854693 TP : 95518152 FT : 9059 ! claims outstanding  AD : 189 TP : 9024527 FT : 6412658311 ! 
+Question: claims paid FT?
+Answer: 9059
+
+Context: claims paid  AD : 90854693 TP : 95518152 FT : 9059 ! claims outstanding  AD : 189 TP : 9024527 FT : 6412658311 ! 
+Question: claims outstanding AD?
+Answer: 189
+
+Context: claims paid  AD : 90854693 TP : 95518152 FT : 9059 ! claims outstanding  AD : 189 TP : 9024527 FT : 6412658311 ! 
+Question: claims outstanding TP?
+Answer: 9024527
+
+Context: claims paid  AD : 90854693 TP : 95518152 FT : 9059 ! claims outstanding  AD : 189 TP : 9024527 FT : 6412658311 ! 
+Question: claims outstanding FT?
+Answer: 6412658311
+
+Context: claims paid  FT : 03873 TP : 80 AD : 87522 ! claims outstanding  FT : 383 TP : 695259769 AD : 5363529 ! 
+Question: claims paid FT?
+Answer: 03873
+
+Context: claims paid  FT : 03873 TP : 80 AD : 87522 ! claims outstanding  FT : 383 TP : 695259769 AD : 5363529 ! 
+Question: claims paid TP?
+Answer: 80
+
+Context: claims paid  FT : 03873 TP : 80 AD : 87522 ! claims outstanding  FT : 383 TP : 695259769 AD : 5363529 ! 
+Question: claims paid AD?
+Answer: 87522
+
+Context: claims paid  FT : 03873 TP : 80 AD : 87522 ! claims outstanding  FT : 383 TP : 695259769 AD : 5363529 ! 
+Question: claims outstanding FT?
+Answer: 383
+
+Context: claims paid  FT : 03873 TP : 80 AD : 87522 ! claims outstanding  FT : 383 TP : 695259769 AD : 5363529 ! 
+Question: claims outstanding TP?
+Answer: 695259769
+
+Context: claims paid  FT : 03873 TP : 80 AD : 87522 ! claims outstanding  FT : 383 TP : 695259769 AD : 5363529 ! 
+Question: claims outstanding AD?
+Answer: 5363529
+
+Context: claims paid  AD : 9045 FT : 167201 TP : 070 ! claims outstanding  AD : 644 FT : 0 TP : 46459514 ! 
+Question: claims paid AD?
+Answer: 9045
+
+Context: claims paid  AD : 9045 FT : 167201 TP : 070 ! claims outstanding  AD : 644 FT : 0 TP : 46459514 ! 
+Question: claims paid FT?
+Answer: 167201
+
+Context: claims paid  AD : 9045 FT : 167201 TP : 070 ! claims outstanding  AD : 644 FT : 0 TP : 46459514 ! 
+Question: claims paid TP?
+Answer: 070
+
+Context: claims paid  AD : 9045 FT : 167201 TP : 070 ! claims outstanding  AD : 644 FT : 0 TP : 46459514 ! 
+Question: claims outstanding AD?
+Answer: 644
+
+Context: claims paid  AD : 9045 FT : 167201 TP : 070 ! claims outstanding  AD : 644 FT : 0 TP : 46459514 ! 
+Question: claims outstanding FT?
+Answer: 0
+
+Context: claims paid  AD : 9045 FT : 167201 TP : 070 ! claims outstanding  AD : 644 FT : 0 TP : 46459514 ! 
+Question: claims outstanding TP?
+Answer: 46459514
+
+Context: claims paid  TP : 88821225 FT : 3 AD : 611 ! claims outstanding  TP : 472632 FT : 30 AD : 719987 ! 
+Question: claims paid TP?
+Answer: 88821225
+
+Context: claims paid  TP : 88821225 FT : 3 AD : 611 ! claims outstanding  TP : 472632 FT : 30 AD : 719987 ! 
+Question: claims paid FT?
+Answer: 3
+
+Context: claims paid  TP : 88821225 FT : 3 AD : 611 ! claims outstanding  TP : 472632 FT : 30 AD : 719987 ! 
+Question: claims paid AD?
+Answer: 611
+
+Context: claims paid  TP : 88821225 FT : 3 AD : 611 ! claims outstanding  TP : 472632 FT : 30 AD : 719987 ! 
+Question: claims outstanding TP?
+Answer: 472632
+
+Context: claims paid  TP : 88821225 FT : 3 AD : 611 ! claims outstanding  TP : 472632 FT : 30 AD : 719987 ! 
+Question: claims outstanding FT?
+Answer: 30
+
+Context: claims paid  TP : 88821225 FT : 3 AD : 611 ! claims outstanding  TP : 472632 FT : 30 AD : 719987 ! 
+Question: claims outstanding AD?
+Answer: 719987
+
+Context: claims paid  AD : 0 FT : 7 TP : 8856 ! claims outstanding  AD : 48475497 FT : 3680 TP : 4276477 ! 
+Question: claims paid AD?
+Answer: 0
+
+Context: claims paid  AD : 0 FT : 7 TP : 8856 ! claims outstanding  AD : 48475497 FT : 3680 TP : 4276477 ! 
+Question: claims paid FT?
+Answer: 7
+
+Context: claims paid  AD : 0 FT : 7 TP : 8856 ! claims outstanding  AD : 48475497 FT : 3680 TP : 4276477 ! 
+Question: claims paid TP?
+Answer: 8856
+
+Context: claims paid  AD : 0 FT : 7 TP : 8856 ! claims outstanding  AD : 48475497 FT : 3680 TP : 4276477 ! 
+Question: claims outstanding AD?
+Answer: 48475497
+
+Context: claims paid  AD : 0 FT : 7 TP : 8856 ! claims outstanding  AD : 48475497 FT : 3680 TP : 4276477 ! 
+Question: claims outstanding FT?
+Answer: 3680
+
+Context: claims paid  AD : 0 FT : 7 TP : 8856 ! claims outstanding  AD : 48475497 FT : 3680 TP : 4276477 ! 
+Question: claims outstanding TP?
+Answer: 4276477
+
+Context: claims paid  TP : 5 FT : 812057 AD : 09 ! claims outstanding  TP : 4891 FT : 44 AD : 075 ! 
+Question: claims paid TP?
+Answer: 5
+
+Context: claims paid  TP : 5 FT : 812057 AD : 09 ! claims outstanding  TP : 4891 FT : 44 AD : 075 ! 
+Question: claims paid FT?
+Answer: 812057
+
+Context: claims paid  TP : 5 FT : 812057 AD : 09 ! claims outstanding  TP : 4891 FT : 44 AD : 075 ! 
+Question: claims paid AD?
+Answer: 09
+
+Context: claims paid  TP : 5 FT : 812057 AD : 09 ! claims outstanding  TP : 4891 FT : 44 AD : 075 ! 
+Question: claims outstanding TP?
+Answer: 4891
+
+Context: claims paid  TP : 5 FT : 812057 AD : 09 ! claims outstanding  TP : 4891 FT : 44 AD : 075 ! 
+Question: claims outstanding FT?
+Answer: 44
+
+Context: claims paid  TP : 5 FT : 812057 AD : 09 ! claims outstanding  TP : 4891 FT : 44 AD : 075 ! 
+Question: claims outstanding AD?
+Answer: 075
+
+Context: claims paid  FT : 0 TP : 639804 AD : 4 ! claims outstanding  FT : 5942 TP : 25699827 AD : 7318712 ! 
+Question: claims paid FT?
+Answer: 0
+
+Context: claims paid  FT : 0 TP : 639804 AD : 4 ! claims outstanding  FT : 5942 TP : 25699827 AD : 7318712 ! 
+Question: claims paid TP?
+Answer: 639804
+
+Context: claims paid  FT : 0 TP : 639804 AD : 4 ! claims outstanding  FT : 5942 TP : 25699827 AD : 7318712 ! 
+Question: claims paid AD?
+Answer: 4
+
+Context: claims paid  FT : 0 TP : 639804 AD : 4 ! claims outstanding  FT : 5942 TP : 25699827 AD : 7318712 ! 
+Question: claims outstanding FT?
+Answer: 5942
+
+Context: claims paid  FT : 0 TP : 639804 AD : 4 ! claims outstanding  FT : 5942 TP : 25699827 AD : 7318712 ! 
+Question: claims outstanding TP?
+Answer: 25699827
+
+Context: claims paid  FT : 0 TP : 639804 AD : 4 ! claims outstanding  FT : 5942 TP : 25699827 AD : 7318712 ! 
+Question: claims outstanding AD?
+Answer: 7318712
+
+Context: claims paid  TP : 914 AD : 72774 FT : 203415 ! claims outstanding  TP : 913399065 AD : 42 FT : 6571223 ! 
+Question: claims paid TP?
+Answer: 914
+
+Context: claims paid  TP : 914 AD : 72774 FT : 203415 ! claims outstanding  TP : 913399065 AD : 42 FT : 6571223 ! 
+Question: claims paid AD?
+Answer: 72774
+
+Context: claims paid  TP : 914 AD : 72774 FT : 203415 ! claims outstanding  TP : 913399065 AD : 42 FT : 6571223 ! 
+Question: claims paid FT?
+Answer: 203415
+
+Context: claims paid  TP : 914 AD : 72774 FT : 203415 ! claims outstanding  TP : 913399065 AD : 42 FT : 6571223 ! 
+Question: claims outstanding TP?
+Answer: 913399065
+
+Context: claims paid  TP : 914 AD : 72774 FT : 203415 ! claims outstanding  TP : 913399065 AD : 42 FT : 6571223 ! 
+Question: claims outstanding AD?
+Answer: 42
+
+Context: claims paid  TP : 914 AD : 72774 FT : 203415 ! claims outstanding  TP : 913399065 AD : 42 FT : 6571223 ! 
+Question: claims outstanding FT?
+Answer: 6571223
+
+Context: claims paid  FT : 5783 TP : 74 AD : 580615642 ! claims outstanding  FT : 6 TP : 17486186 AD : 4 ! 
+Question: claims paid FT?
+Answer: 5783
+
+Context: claims paid  FT : 5783 TP : 74 AD : 580615642 ! claims outstanding  FT : 6 TP : 17486186 AD : 4 ! 
+Question: claims paid TP?
+Answer: 74
+
+Context: claims paid  FT : 5783 TP : 74 AD : 580615642 ! claims outstanding  FT : 6 TP : 17486186 AD : 4 ! 
+Question: claims paid AD?
+Answer: 580615642
+
+Context: claims paid  FT : 5783 TP : 74 AD : 580615642 ! claims outstanding  FT : 6 TP : 17486186 AD : 4 ! 
+Question: claims outstanding FT?
+Answer: 6
+
+Context: claims paid  FT : 5783 TP : 74 AD : 580615642 ! claims outstanding  FT : 6 TP : 17486186 AD : 4 ! 
+Question: claims outstanding TP?
+Answer: 17486186
+
+Context: claims paid  FT : 5783 TP : 74 AD : 580615642 ! claims outstanding  FT : 6 TP : 17486186 AD : 4 ! 
+Question: claims outstanding AD?
+Answer: 4
+
+Context: claims paid  FT : 537 AD : 04453 TP : 9038107337 ! claims outstanding  FT : 8287173 AD : 138776838 TP : 6 ! 
+Question: claims paid FT?
+Answer: 537
+
+Context: claims paid  FT : 537 AD : 04453 TP : 9038107337 ! claims outstanding  FT : 8287173 AD : 138776838 TP : 6 ! 
+Question: claims paid AD?
+Answer: 04453
+
+Context: claims paid  FT : 537 AD : 04453 TP : 9038107337 ! claims outstanding  FT : 8287173 AD : 138776838 TP : 6 ! 
+Question: claims paid TP?
+Answer: 9038107337
+
+Context: claims paid  FT : 537 AD : 04453 TP : 9038107337 ! claims outstanding  FT : 8287173 AD : 138776838 TP : 6 ! 
+Question: claims outstanding FT?
+Answer: 8287173
+
+Context: claims paid  FT : 537 AD : 04453 TP : 9038107337 ! claims outstanding  FT : 8287173 AD : 138776838 TP : 6 ! 
+Question: claims outstanding AD?
+Answer: 138776838
+
+Context: claims paid  FT : 537 AD : 04453 TP : 9038107337 ! claims outstanding  FT : 8287173 AD : 138776838 TP : 6 ! 
+Question: claims outstanding TP?
+Answer: 6
+
+Context: claims paid  TP : 9427287 AD : 601777 FT : 1752662561 ! claims outstanding  TP : 965900 AD : 4 FT : 48286 ! 
+Question: claims paid TP?
+Answer: 9427287
+
+Context: claims paid  TP : 9427287 AD : 601777 FT : 1752662561 ! claims outstanding  TP : 965900 AD : 4 FT : 48286 ! 
+Question: claims paid AD?
+Answer: 601777
+
+Context: claims paid  TP : 9427287 AD : 601777 FT : 1752662561 ! claims outstanding  TP : 965900 AD : 4 FT : 48286 ! 
+Question: claims paid FT?
+Answer: 1752662561
+
+Context: claims paid  TP : 9427287 AD : 601777 FT : 1752662561 ! claims outstanding  TP : 965900 AD : 4 FT : 48286 ! 
+Question: claims outstanding TP?
+Answer: 965900
+
+Context: claims paid  TP : 9427287 AD : 601777 FT : 1752662561 ! claims outstanding  TP : 965900 AD : 4 FT : 48286 ! 
+Question: claims outstanding AD?
+Answer: 4
+
+Context: claims paid  TP : 9427287 AD : 601777 FT : 1752662561 ! claims outstanding  TP : 965900 AD : 4 FT : 48286 ! 
+Question: claims outstanding FT?
+Answer: 48286
+
+Context: claims paid  FT : 5 AD : 1969448 TP : 115691 ! claims outstanding  FT : 3826492134 AD : 38760379 TP : 8950869 ! 
+Question: claims paid FT?
+Answer: 5
+
+Context: claims paid  FT : 5 AD : 1969448 TP : 115691 ! claims outstanding  FT : 3826492134 AD : 38760379 TP : 8950869 ! 
+Question: claims paid AD?
+Answer: 1969448
+
+Context: claims paid  FT : 5 AD : 1969448 TP : 115691 ! claims outstanding  FT : 3826492134 AD : 38760379 TP : 8950869 ! 
+Question: claims paid TP?
+Answer: 115691
+
+Context: claims paid  FT : 5 AD : 1969448 TP : 115691 ! claims outstanding  FT : 3826492134 AD : 38760379 TP : 8950869 ! 
+Question: claims outstanding FT?
+Answer: 3826492134
+
+Context: claims paid  FT : 5 AD : 1969448 TP : 115691 ! claims outstanding  FT : 3826492134 AD : 38760379 TP : 8950869 ! 
+Question: claims outstanding AD?
+Answer: 38760379
+
+Context: claims paid  FT : 5 AD : 1969448 TP : 115691 ! claims outstanding  FT : 3826492134 AD : 38760379 TP : 8950869 ! 
+Question: claims outstanding TP?
+Answer: 8950869
+
+Context: claims paid  FT : 161444 AD : 0986 TP : 89262 ! claims outstanding  FT : 7835628095 AD : 8823072 TP : 8014956016 ! 
+Question: claims paid FT?
+Answer: 161444
+
+Context: claims paid  FT : 161444 AD : 0986 TP : 89262 ! claims outstanding  FT : 7835628095 AD : 8823072 TP : 8014956016 ! 
+Question: claims paid AD?
+Answer: 0986
+
+Context: claims paid  FT : 161444 AD : 0986 TP : 89262 ! claims outstanding  FT : 7835628095 AD : 8823072 TP : 8014956016 ! 
+Question: claims paid TP?
+Answer: 89262
+
+Context: claims paid  FT : 161444 AD : 0986 TP : 89262 ! claims outstanding  FT : 7835628095 AD : 8823072 TP : 8014956016 ! 
+Question: claims outstanding FT?
+Answer: 7835628095
+
+Context: claims paid  FT : 161444 AD : 0986 TP : 89262 ! claims outstanding  FT : 7835628095 AD : 8823072 TP : 8014956016 ! 
+Question: claims outstanding AD?
+Answer: 8823072
+
+Context: claims paid  FT : 161444 AD : 0986 TP : 89262 ! claims outstanding  FT : 7835628095 AD : 8823072 TP : 8014956016 ! 
+Question: claims outstanding TP?
+Answer: 8014956016
+
+Context: claims paid  TP : 646907 AD : 978328 FT : 30446 ! claims outstanding  TP : 4208048 AD : 203964670 FT : 2 ! 
+Question: claims paid TP?
+Answer: 646907
+
+Context: claims paid  TP : 646907 AD : 978328 FT : 30446 ! claims outstanding  TP : 4208048 AD : 203964670 FT : 2 ! 
+Question: claims paid AD?
+Answer: 978328
+
+Context: claims paid  TP : 646907 AD : 978328 FT : 30446 ! claims outstanding  TP : 4208048 AD : 203964670 FT : 2 ! 
+Question: claims paid FT?
+Answer: 30446
+
+Context: claims paid  TP : 646907 AD : 978328 FT : 30446 ! claims outstanding  TP : 4208048 AD : 203964670 FT : 2 ! 
+Question: claims outstanding TP?
+Answer: 4208048
+
+Context: claims paid  TP : 646907 AD : 978328 FT : 30446 ! claims outstanding  TP : 4208048 AD : 203964670 FT : 2 ! 
+Question: claims outstanding AD?
+Answer: 203964670
+
+Context: claims paid  TP : 646907 AD : 978328 FT : 30446 ! claims outstanding  TP : 4208048 AD : 203964670 FT : 2 ! 
+Question: claims outstanding FT?
+Answer: 2
+
+Context: claims paid  TP : 96 AD : 7965 FT : 1381 ! claims outstanding  TP : 255902281 AD : 163826727 FT : 6107 ! 
+Question: claims paid TP?
+Answer: 96
+
+Context: claims paid  TP : 96 AD : 7965 FT : 1381 ! claims outstanding  TP : 255902281 AD : 163826727 FT : 6107 ! 
+Question: claims paid AD?
+Answer: 7965
+
+Context: claims paid  TP : 96 AD : 7965 FT : 1381 ! claims outstanding  TP : 255902281 AD : 163826727 FT : 6107 ! 
+Question: claims paid FT?
+Answer: 1381
+
+Context: claims paid  TP : 96 AD : 7965 FT : 1381 ! claims outstanding  TP : 255902281 AD : 163826727 FT : 6107 ! 
+Question: claims outstanding TP?
+Answer: 255902281
+
+Context: claims paid  TP : 96 AD : 7965 FT : 1381 ! claims outstanding  TP : 255902281 AD : 163826727 FT : 6107 ! 
+Question: claims outstanding AD?
+Answer: 163826727
+
+Context: claims paid  TP : 96 AD : 7965 FT : 1381 ! claims outstanding  TP : 255902281 AD : 163826727 FT : 6107 ! 
+Question: claims outstanding FT?
+Answer: 6107
+
+Context: claims paid  AD : 572134145 TP : 81 FT : 299877806 ! claims outstanding  AD : 779553226 TP : 675859 FT : 716917133 ! 
+Question: claims paid AD?
+Answer: 572134145
+
+Context: claims paid  AD : 572134145 TP : 81 FT : 299877806 ! claims outstanding  AD : 779553226 TP : 675859 FT : 716917133 ! 
+Question: claims paid TP?
+Answer: 81
+
+Context: claims paid  AD : 572134145 TP : 81 FT : 299877806 ! claims outstanding  AD : 779553226 TP : 675859 FT : 716917133 ! 
+Question: claims paid FT?
+Answer: 299877806
+
+Context: claims paid  AD : 572134145 TP : 81 FT : 299877806 ! claims outstanding  AD : 779553226 TP : 675859 FT : 716917133 ! 
+Question: claims outstanding AD?
+Answer: 779553226
+
+Context: claims paid  AD : 572134145 TP : 81 FT : 299877806 ! claims outstanding  AD : 779553226 TP : 675859 FT : 716917133 ! 
+Question: claims outstanding TP?
+Answer: 675859
+
+Context: claims paid  AD : 572134145 TP : 81 FT : 299877806 ! claims outstanding  AD : 779553226 TP : 675859 FT : 716917133 ! 
+Question: claims outstanding FT?
+Answer: 716917133
+
+Context: claims paid  FT : 4560188 AD : 79 TP : 5850803 ! claims outstanding  FT : 95 AD : 1464223772 TP : 453330240 ! 
+Question: claims paid FT?
+Answer: 4560188
+
+Context: claims paid  FT : 4560188 AD : 79 TP : 5850803 ! claims outstanding  FT : 95 AD : 1464223772 TP : 453330240 ! 
+Question: claims paid AD?
+Answer: 79
+
+Context: claims paid  FT : 4560188 AD : 79 TP : 5850803 ! claims outstanding  FT : 95 AD : 1464223772 TP : 453330240 ! 
+Question: claims paid TP?
+Answer: 5850803
+
+Context: claims paid  FT : 4560188 AD : 79 TP : 5850803 ! claims outstanding  FT : 95 AD : 1464223772 TP : 453330240 ! 
+Question: claims outstanding FT?
+Answer: 95
+
+Context: claims paid  FT : 4560188 AD : 79 TP : 5850803 ! claims outstanding  FT : 95 AD : 1464223772 TP : 453330240 ! 
+Question: claims outstanding AD?
+Answer: 1464223772
+
+Context: claims paid  FT : 4560188 AD : 79 TP : 5850803 ! claims outstanding  FT : 95 AD : 1464223772 TP : 453330240 ! 
+Question: claims outstanding TP?
+Answer: 453330240
+
+Context: claims paid  AD : 2838666 TP : 4311 FT : 076949920 ! claims outstanding  AD : 94969482 TP : 7337 FT : 9265639 ! 
+Question: claims paid AD?
+Answer: 2838666
+
+Context: claims paid  AD : 2838666 TP : 4311 FT : 076949920 ! claims outstanding  AD : 94969482 TP : 7337 FT : 9265639 ! 
+Question: claims paid TP?
+Answer: 4311
+
+Context: claims paid  AD : 2838666 TP : 4311 FT : 076949920 ! claims outstanding  AD : 94969482 TP : 7337 FT : 9265639 ! 
+Question: claims paid FT?
+Answer: 076949920
+
+Context: claims paid  AD : 2838666 TP : 4311 FT : 076949920 ! claims outstanding  AD : 94969482 TP : 7337 FT : 9265639 ! 
+Question: claims outstanding AD?
+Answer: 94969482
+
+Context: claims paid  AD : 2838666 TP : 4311 FT : 076949920 ! claims outstanding  AD : 94969482 TP : 7337 FT : 9265639 ! 
+Question: claims outstanding TP?
+Answer: 7337
+
+Context: claims paid  AD : 2838666 TP : 4311 FT : 076949920 ! claims outstanding  AD : 94969482 TP : 7337 FT : 9265639 ! 
+Question: claims outstanding FT?
+Answer: 9265639
+
+Context: claims paid  FT : 2662 TP : 19071 AD : 79706805 ! claims outstanding  FT : 125 TP : 488901 AD : 14 ! 
+Question: claims paid FT?
+Answer: 2662
+
+Context: claims paid  FT : 2662 TP : 19071 AD : 79706805 ! claims outstanding  FT : 125 TP : 488901 AD : 14 ! 
+Question: claims paid TP?
+Answer: 19071
+
+Context: claims paid  FT : 2662 TP : 19071 AD : 79706805 ! claims outstanding  FT : 125 TP : 488901 AD : 14 ! 
+Question: claims paid AD?
+Answer: 79706805
+
+Context: claims paid  FT : 2662 TP : 19071 AD : 79706805 ! claims outstanding  FT : 125 TP : 488901 AD : 14 ! 
+Question: claims outstanding FT?
+Answer: 125
+
+Context: claims paid  FT : 2662 TP : 19071 AD : 79706805 ! claims outstanding  FT : 125 TP : 488901 AD : 14 ! 
+Question: claims outstanding TP?
+Answer: 488901
+
+Context: claims paid  FT : 2662 TP : 19071 AD : 79706805 ! claims outstanding  FT : 125 TP : 488901 AD : 14 ! 
+Question: claims outstanding AD?
+Answer: 14
+
+Context: claims paid  FT : 2174 AD : 83846232 TP : 852758 ! claims outstanding  FT : 3339873652 AD : 539614 TP : 9550134 ! 
+Question: claims paid FT?
+Answer: 2174
+
+Context: claims paid  FT : 2174 AD : 83846232 TP : 852758 ! claims outstanding  FT : 3339873652 AD : 539614 TP : 9550134 ! 
+Question: claims paid AD?
+Answer: 83846232
+
+Context: claims paid  FT : 2174 AD : 83846232 TP : 852758 ! claims outstanding  FT : 3339873652 AD : 539614 TP : 9550134 ! 
+Question: claims paid TP?
+Answer: 852758
+
+Context: claims paid  FT : 2174 AD : 83846232 TP : 852758 ! claims outstanding  FT : 3339873652 AD : 539614 TP : 9550134 ! 
+Question: claims outstanding FT?
+Answer: 3339873652
+
+Context: claims paid  FT : 2174 AD : 83846232 TP : 852758 ! claims outstanding  FT : 3339873652 AD : 539614 TP : 9550134 ! 
+Question: claims outstanding AD?
+Answer: 539614
+
+Context: claims paid  FT : 2174 AD : 83846232 TP : 852758 ! claims outstanding  FT : 3339873652 AD : 539614 TP : 9550134 ! 
+Question: claims outstanding TP?
+Answer: 9550134
+
+Context: claims paid  TP : 74655 FT : 638187235 AD : 1 ! claims outstanding  TP : 65 FT : 3063294 AD : 65528 ! 
+Question: claims paid TP?
+Answer: 74655
+
+Context: claims paid  TP : 74655 FT : 638187235 AD : 1 ! claims outstanding  TP : 65 FT : 3063294 AD : 65528 ! 
+Question: claims paid FT?
+Answer: 638187235
+
+Context: claims paid  TP : 74655 FT : 638187235 AD : 1 ! claims outstanding  TP : 65 FT : 3063294 AD : 65528 ! 
+Question: claims paid AD?
+Answer: 1
+
+Context: claims paid  TP : 74655 FT : 638187235 AD : 1 ! claims outstanding  TP : 65 FT : 3063294 AD : 65528 ! 
+Question: claims outstanding TP?
+Answer: 65
+
+Context: claims paid  TP : 74655 FT : 638187235 AD : 1 ! claims outstanding  TP : 65 FT : 3063294 AD : 65528 ! 
+Question: claims outstanding FT?
+Answer: 3063294
+
+Context: claims paid  TP : 74655 FT : 638187235 AD : 1 ! claims outstanding  TP : 65 FT : 3063294 AD : 65528 ! 
+Question: claims outstanding AD?
+Answer: 65528
+
+Context: claims paid  AD : 922155258 FT : 7 TP : 0571 ! claims outstanding  AD : 4492 FT : 946 TP : 809070 ! 
+Question: claims paid AD?
+Answer: 922155258
+
+Context: claims paid  AD : 922155258 FT : 7 TP : 0571 ! claims outstanding  AD : 4492 FT : 946 TP : 809070 ! 
+Question: claims paid FT?
+Answer: 7
+
+Context: claims paid  AD : 922155258 FT : 7 TP : 0571 ! claims outstanding  AD : 4492 FT : 946 TP : 809070 ! 
+Question: claims paid TP?
+Answer: 0571
+
+Context: claims paid  AD : 922155258 FT : 7 TP : 0571 ! claims outstanding  AD : 4492 FT : 946 TP : 809070 ! 
+Question: claims outstanding AD?
+Answer: 4492
+
+Context: claims paid  AD : 922155258 FT : 7 TP : 0571 ! claims outstanding  AD : 4492 FT : 946 TP : 809070 ! 
+Question: claims outstanding FT?
+Answer: 946
+
+Context: claims paid  AD : 922155258 FT : 7 TP : 0571 ! claims outstanding  AD : 4492 FT : 946 TP : 809070 ! 
+Question: claims outstanding TP?
+Answer: 809070
+
+Context: claims paid  AD : 59368 TP : 171752 FT : 9708432888 ! claims outstanding  AD : 7821724 TP : 6214 FT : 685 ! 
+Question: claims paid AD?
+Answer: 59368
+
+Context: claims paid  AD : 59368 TP : 171752 FT : 9708432888 ! claims outstanding  AD : 7821724 TP : 6214 FT : 685 ! 
+Question: claims paid TP?
+Answer: 171752
+
+Context: claims paid  AD : 59368 TP : 171752 FT : 9708432888 ! claims outstanding  AD : 7821724 TP : 6214 FT : 685 ! 
+Question: claims paid FT?
+Answer: 9708432888
+
+Context: claims paid  AD : 59368 TP : 171752 FT : 9708432888 ! claims outstanding  AD : 7821724 TP : 6214 FT : 685 ! 
+Question: claims outstanding AD?
+Answer: 7821724
+
+Context: claims paid  AD : 59368 TP : 171752 FT : 9708432888 ! claims outstanding  AD : 7821724 TP : 6214 FT : 685 ! 
+Question: claims outstanding TP?
+Answer: 6214
+
+Context: claims paid  AD : 59368 TP : 171752 FT : 9708432888 ! claims outstanding  AD : 7821724 TP : 6214 FT : 685 ! 
+Question: claims outstanding FT?
+Answer: 685
+
+Context: claims paid  FT : 05 TP : 6 AD : 2 ! claims outstanding  FT : 781 TP : 12879 AD : 5331824880 ! 
+Question: claims paid FT?
+Answer: 05
+
+Context: claims paid  FT : 05 TP : 6 AD : 2 ! claims outstanding  FT : 781 TP : 12879 AD : 5331824880 ! 
+Question: claims paid TP?
+Answer: 6
+
+Context: claims paid  FT : 05 TP : 6 AD : 2 ! claims outstanding  FT : 781 TP : 12879 AD : 5331824880 ! 
+Question: claims paid AD?
+Answer: 2
+
+Context: claims paid  FT : 05 TP : 6 AD : 2 ! claims outstanding  FT : 781 TP : 12879 AD : 5331824880 ! 
+Question: claims outstanding FT?
+Answer: 781
+
+Context: claims paid  FT : 05 TP : 6 AD : 2 ! claims outstanding  FT : 781 TP : 12879 AD : 5331824880 ! 
+Question: claims outstanding TP?
+Answer: 12879
+
+Context: claims paid  FT : 05 TP : 6 AD : 2 ! claims outstanding  FT : 781 TP : 12879 AD : 5331824880 ! 
+Question: claims outstanding AD?
+Answer: 5331824880
+
+Context: claims paid  AD : 457212739 FT : 2 TP : 6 ! claims outstanding  AD : 2 FT : 2478 TP : 10 ! 
+Question: claims paid AD?
+Answer: 457212739
+
+Context: claims paid  AD : 457212739 FT : 2 TP : 6 ! claims outstanding  AD : 2 FT : 2478 TP : 10 ! 
+Question: claims paid FT?
+Answer: 2
+
+Context: claims paid  AD : 457212739 FT : 2 TP : 6 ! claims outstanding  AD : 2 FT : 2478 TP : 10 ! 
+Question: claims paid TP?
+Answer: 6
+
+Context: claims paid  AD : 457212739 FT : 2 TP : 6 ! claims outstanding  AD : 2 FT : 2478 TP : 10 ! 
+Question: claims outstanding AD?
+Answer: 2
+
+Context: claims paid  AD : 457212739 FT : 2 TP : 6 ! claims outstanding  AD : 2 FT : 2478 TP : 10 ! 
+Question: claims outstanding FT?
+Answer: 2478
+
+Context: claims paid  AD : 457212739 FT : 2 TP : 6 ! claims outstanding  AD : 2 FT : 2478 TP : 10 ! 
+Question: claims outstanding TP?
+Answer: 10
+
+Context: claims paid  AD : 303553 FT : 933241227 TP : 34 ! claims outstanding  AD : 8614 FT : 7343 TP : 1077 ! 
+Question: claims paid AD?
+Answer: 303553
+
+Context: claims paid  AD : 303553 FT : 933241227 TP : 34 ! claims outstanding  AD : 8614 FT : 7343 TP : 1077 ! 
+Question: claims paid FT?
+Answer: 933241227
+
+Context: claims paid  AD : 303553 FT : 933241227 TP : 34 ! claims outstanding  AD : 8614 FT : 7343 TP : 1077 ! 
+Question: claims paid TP?
+Answer: 34
+
+Context: claims paid  AD : 303553 FT : 933241227 TP : 34 ! claims outstanding  AD : 8614 FT : 7343 TP : 1077 ! 
+Question: claims outstanding AD?
+Answer: 8614
+
+Context: claims paid  AD : 303553 FT : 933241227 TP : 34 ! claims outstanding  AD : 8614 FT : 7343 TP : 1077 ! 
+Question: claims outstanding FT?
+Answer: 7343
+
+Context: claims paid  AD : 303553 FT : 933241227 TP : 34 ! claims outstanding  AD : 8614 FT : 7343 TP : 1077 ! 
+Question: claims outstanding TP?
+Answer: 1077
+
+Context: claims paid  TP : 22938 AD : 6 FT : 837115097 ! claims outstanding  TP : 5374436 AD : 64187 FT : 91276595 ! 
+Question: claims paid TP?
+Answer: 22938
+
+Context: claims paid  TP : 22938 AD : 6 FT : 837115097 ! claims outstanding  TP : 5374436 AD : 64187 FT : 91276595 ! 
+Question: claims paid AD?
+Answer: 6
+
+Context: claims paid  TP : 22938 AD : 6 FT : 837115097 ! claims outstanding  TP : 5374436 AD : 64187 FT : 91276595 ! 
+Question: claims paid FT?
+Answer: 837115097
+
+Context: claims paid  TP : 22938 AD : 6 FT : 837115097 ! claims outstanding  TP : 5374436 AD : 64187 FT : 91276595 ! 
+Question: claims outstanding TP?
+Answer: 5374436
+
+Context: claims paid  TP : 22938 AD : 6 FT : 837115097 ! claims outstanding  TP : 5374436 AD : 64187 FT : 91276595 ! 
+Question: claims outstanding AD?
+Answer: 64187
+
+Context: claims paid  TP : 22938 AD : 6 FT : 837115097 ! claims outstanding  TP : 5374436 AD : 64187 FT : 91276595 ! 
+Question: claims outstanding FT?
+Answer: 91276595
+
+Context: claims paid  AD : 5 TP : 13230568 FT : 4 ! claims outstanding  AD : 75965 TP : 8694787044 FT : 79333 ! 
+Question: claims paid AD?
+Answer: 5
+
+Context: claims paid  AD : 5 TP : 13230568 FT : 4 ! claims outstanding  AD : 75965 TP : 8694787044 FT : 79333 ! 
+Question: claims paid TP?
+Answer: 13230568
+
+Context: claims paid  AD : 5 TP : 13230568 FT : 4 ! claims outstanding  AD : 75965 TP : 8694787044 FT : 79333 ! 
+Question: claims paid FT?
+Answer: 4
+
+Context: claims paid  AD : 5 TP : 13230568 FT : 4 ! claims outstanding  AD : 75965 TP : 8694787044 FT : 79333 ! 
+Question: claims outstanding AD?
+Answer: 75965
+
+Context: claims paid  AD : 5 TP : 13230568 FT : 4 ! claims outstanding  AD : 75965 TP : 8694787044 FT : 79333 ! 
+Question: claims outstanding TP?
+Answer: 8694787044
+
+Context: claims paid  AD : 5 TP : 13230568 FT : 4 ! claims outstanding  AD : 75965 TP : 8694787044 FT : 79333 ! 
+Question: claims outstanding FT?
+Answer: 79333
+
+Context: claims paid  AD : 5 FT : 7185482 TP : 97 ! claims outstanding  AD : 703 FT : 1254 TP : 0198777 ! 
+Question: claims paid AD?
+Answer: 5
+
+Context: claims paid  AD : 5 FT : 7185482 TP : 97 ! claims outstanding  AD : 703 FT : 1254 TP : 0198777 ! 
+Question: claims paid FT?
+Answer: 7185482
+
+Context: claims paid  AD : 5 FT : 7185482 TP : 97 ! claims outstanding  AD : 703 FT : 1254 TP : 0198777 ! 
+Question: claims paid TP?
+Answer: 97
+
+Context: claims paid  AD : 5 FT : 7185482 TP : 97 ! claims outstanding  AD : 703 FT : 1254 TP : 0198777 ! 
+Question: claims outstanding AD?
+Answer: 703
+
+Context: claims paid  AD : 5 FT : 7185482 TP : 97 ! claims outstanding  AD : 703 FT : 1254 TP : 0198777 ! 
+Question: claims outstanding FT?
+Answer: 1254
+
+Context: claims paid  AD : 5 FT : 7185482 TP : 97 ! claims outstanding  AD : 703 FT : 1254 TP : 0198777 ! 
+Question: claims outstanding TP?
+Answer: 0198777
+
+Context: claims paid  TP : 7911603 FT : 64 AD : 35 ! claims outstanding  TP : 61895498 FT : 1393304 AD : 16166753 ! 
+Question: claims paid TP?
+Answer: 7911603
+
+Context: claims paid  TP : 7911603 FT : 64 AD : 35 ! claims outstanding  TP : 61895498 FT : 1393304 AD : 16166753 ! 
+Question: claims paid FT?
+Answer: 64
+
+Context: claims paid  TP : 7911603 FT : 64 AD : 35 ! claims outstanding  TP : 61895498 FT : 1393304 AD : 16166753 ! 
+Question: claims paid AD?
+Answer: 35
+
+Context: claims paid  TP : 7911603 FT : 64 AD : 35 ! claims outstanding  TP : 61895498 FT : 1393304 AD : 16166753 ! 
+Question: claims outstanding TP?
+Answer: 61895498
+
+Context: claims paid  TP : 7911603 FT : 64 AD : 35 ! claims outstanding  TP : 61895498 FT : 1393304 AD : 16166753 ! 
+Question: claims outstanding FT?
+Answer: 1393304
+
+Context: claims paid  TP : 7911603 FT : 64 AD : 35 ! claims outstanding  TP : 61895498 FT : 1393304 AD : 16166753 ! 
+Question: claims outstanding AD?
+Answer: 16166753
+
+Context: claims paid  FT : 9 TP : 08991498 AD : 8638966963 ! claims outstanding  FT : 463044657 TP : 7200 AD : 99 ! 
+Question: claims paid FT?
+Answer: 9
+
+Context: claims paid  FT : 9 TP : 08991498 AD : 8638966963 ! claims outstanding  FT : 463044657 TP : 7200 AD : 99 ! 
+Question: claims paid TP?
+Answer: 08991498
+
+Context: claims paid  FT : 9 TP : 08991498 AD : 8638966963 ! claims outstanding  FT : 463044657 TP : 7200 AD : 99 ! 
+Question: claims paid AD?
+Answer: 8638966963
+
+Context: claims paid  FT : 9 TP : 08991498 AD : 8638966963 ! claims outstanding  FT : 463044657 TP : 7200 AD : 99 ! 
+Question: claims outstanding FT?
+Answer: 463044657
+
+Context: claims paid  FT : 9 TP : 08991498 AD : 8638966963 ! claims outstanding  FT : 463044657 TP : 7200 AD : 99 ! 
+Question: claims outstanding TP?
+Answer: 7200
+
+Context: claims paid  FT : 9 TP : 08991498 AD : 8638966963 ! claims outstanding  FT : 463044657 TP : 7200 AD : 99 ! 
+Question: claims outstanding AD?
+Answer: 99
+
+Context: claims paid  AD : 465663 TP : 26 FT : 99310 ! claims outstanding  AD : 1740 TP : 736283161 FT : 713862421 ! 
+Question: claims paid AD?
+Answer: 465663
+
+Context: claims paid  AD : 465663 TP : 26 FT : 99310 ! claims outstanding  AD : 1740 TP : 736283161 FT : 713862421 ! 
+Question: claims paid TP?
+Answer: 26
+
+Context: claims paid  AD : 465663 TP : 26 FT : 99310 ! claims outstanding  AD : 1740 TP : 736283161 FT : 713862421 ! 
+Question: claims paid FT?
+Answer: 99310
+
+Context: claims paid  AD : 465663 TP : 26 FT : 99310 ! claims outstanding  AD : 1740 TP : 736283161 FT : 713862421 ! 
+Question: claims outstanding AD?
+Answer: 1740
+
+Context: claims paid  AD : 465663 TP : 26 FT : 99310 ! claims outstanding  AD : 1740 TP : 736283161 FT : 713862421 ! 
+Question: claims outstanding TP?
+Answer: 736283161
+
+Context: claims paid  AD : 465663 TP : 26 FT : 99310 ! claims outstanding  AD : 1740 TP : 736283161 FT : 713862421 ! 
+Question: claims outstanding FT?
+Answer: 713862421
+
+Context: claims paid  AD : 0406 FT : 5664785975 TP : 5 ! claims outstanding  AD : 06751611 FT : 0022696 TP : 24631020 ! 
+Question: claims paid AD?
+Answer: 0406
+
+Context: claims paid  AD : 0406 FT : 5664785975 TP : 5 ! claims outstanding  AD : 06751611 FT : 0022696 TP : 24631020 ! 
+Question: claims paid FT?
+Answer: 5664785975
+
+Context: claims paid  AD : 0406 FT : 5664785975 TP : 5 ! claims outstanding  AD : 06751611 FT : 0022696 TP : 24631020 ! 
+Question: claims paid TP?
+Answer: 5
+
+Context: claims paid  AD : 0406 FT : 5664785975 TP : 5 ! claims outstanding  AD : 06751611 FT : 0022696 TP : 24631020 ! 
+Question: claims outstanding AD?
+Answer: 06751611
+
+Context: claims paid  AD : 0406 FT : 5664785975 TP : 5 ! claims outstanding  AD : 06751611 FT : 0022696 TP : 24631020 ! 
+Question: claims outstanding FT?
+Answer: 0022696
+
+Context: claims paid  AD : 0406 FT : 5664785975 TP : 5 ! claims outstanding  AD : 06751611 FT : 0022696 TP : 24631020 ! 
+Question: claims outstanding TP?
+Answer: 24631020
+
+Context: claims paid  FT : 9 TP : 1517948 AD : 93385627 ! claims outstanding  FT : 66983 TP : 8729959 AD : 4079 ! 
+Question: claims paid FT?
+Answer: 9
+
+Context: claims paid  FT : 9 TP : 1517948 AD : 93385627 ! claims outstanding  FT : 66983 TP : 8729959 AD : 4079 ! 
+Question: claims paid TP?
+Answer: 1517948
+
+Context: claims paid  FT : 9 TP : 1517948 AD : 93385627 ! claims outstanding  FT : 66983 TP : 8729959 AD : 4079 ! 
+Question: claims paid AD?
+Answer: 93385627
+
+Context: claims paid  FT : 9 TP : 1517948 AD : 93385627 ! claims outstanding  FT : 66983 TP : 8729959 AD : 4079 ! 
+Question: claims outstanding FT?
+Answer: 66983
+
+Context: claims paid  FT : 9 TP : 1517948 AD : 93385627 ! claims outstanding  FT : 66983 TP : 8729959 AD : 4079 ! 
+Question: claims outstanding TP?
+Answer: 8729959
+
+Context: claims paid  FT : 9 TP : 1517948 AD : 93385627 ! claims outstanding  FT : 66983 TP : 8729959 AD : 4079 ! 
+Question: claims outstanding AD?
+Answer: 4079
+
+Context: claims paid  TP : 66 FT : 0 AD : 7858274 ! claims outstanding  TP : 15365939 FT : 4539183890 AD : 12058697 ! 
+Question: claims paid TP?
+Answer: 66
+
+Context: claims paid  TP : 66 FT : 0 AD : 7858274 ! claims outstanding  TP : 15365939 FT : 4539183890 AD : 12058697 ! 
+Question: claims paid FT?
+Answer: 0
+
+Context: claims paid  TP : 66 FT : 0 AD : 7858274 ! claims outstanding  TP : 15365939 FT : 4539183890 AD : 12058697 ! 
+Question: claims paid AD?
+Answer: 7858274
+
+Context: claims paid  TP : 66 FT : 0 AD : 7858274 ! claims outstanding  TP : 15365939 FT : 4539183890 AD : 12058697 ! 
+Question: claims outstanding TP?
+Answer: 15365939
+
+Context: claims paid  TP : 66 FT : 0 AD : 7858274 ! claims outstanding  TP : 15365939 FT : 4539183890 AD : 12058697 ! 
+Question: claims outstanding FT?
+Answer: 4539183890
+
+Context: claims paid  TP : 66 FT : 0 AD : 7858274 ! claims outstanding  TP : 15365939 FT : 4539183890 AD : 12058697 ! 
+Question: claims outstanding AD?
+Answer: 12058697
+
+Context: claims paid  AD : 1508412 TP : 08348 FT : 36 ! claims outstanding  AD : 661588298 TP : 2 FT : 890850 ! 
+Question: claims paid AD?
+Answer: 1508412
+
+Context: claims paid  AD : 1508412 TP : 08348 FT : 36 ! claims outstanding  AD : 661588298 TP : 2 FT : 890850 ! 
+Question: claims paid TP?
+Answer: 08348
+
+Context: claims paid  AD : 1508412 TP : 08348 FT : 36 ! claims outstanding  AD : 661588298 TP : 2 FT : 890850 ! 
+Question: claims paid FT?
+Answer: 36
+
+Context: claims paid  AD : 1508412 TP : 08348 FT : 36 ! claims outstanding  AD : 661588298 TP : 2 FT : 890850 ! 
+Question: claims outstanding AD?
+Answer: 661588298
+
+Context: claims paid  AD : 1508412 TP : 08348 FT : 36 ! claims outstanding  AD : 661588298 TP : 2 FT : 890850 ! 
+Question: claims outstanding TP?
+Answer: 2
+
+Context: claims paid  AD : 1508412 TP : 08348 FT : 36 ! claims outstanding  AD : 661588298 TP : 2 FT : 890850 ! 
+Question: claims outstanding FT?
+Answer: 890850
+
+Context: claims paid  AD : 9017297 TP : 759987717 FT : 3495 ! claims outstanding  AD : 98289087 TP : 863794394 FT : 640 ! 
+Question: claims paid AD?
+Answer: 9017297
+
+Context: claims paid  AD : 9017297 TP : 759987717 FT : 3495 ! claims outstanding  AD : 98289087 TP : 863794394 FT : 640 ! 
+Question: claims paid TP?
+Answer: 759987717
+
+Context: claims paid  AD : 9017297 TP : 759987717 FT : 3495 ! claims outstanding  AD : 98289087 TP : 863794394 FT : 640 ! 
+Question: claims paid FT?
+Answer: 3495
+
+Context: claims paid  AD : 9017297 TP : 759987717 FT : 3495 ! claims outstanding  AD : 98289087 TP : 863794394 FT : 640 ! 
+Question: claims outstanding AD?
+Answer: 98289087
+
+Context: claims paid  AD : 9017297 TP : 759987717 FT : 3495 ! claims outstanding  AD : 98289087 TP : 863794394 FT : 640 ! 
+Question: claims outstanding TP?
+Answer: 863794394
+
+Context: claims paid  AD : 9017297 TP : 759987717 FT : 3495 ! claims outstanding  AD : 98289087 TP : 863794394 FT : 640 ! 
+Question: claims outstanding FT?
+Answer: 640
+
+Context: claims paid  AD : 3236851 FT : 3417 TP : 67689615 ! claims outstanding  AD : 179884 FT : 3010505 TP : 26934090 ! 
+Question: claims paid AD?
+Answer: 3236851
+
+Context: claims paid  AD : 3236851 FT : 3417 TP : 67689615 ! claims outstanding  AD : 179884 FT : 3010505 TP : 26934090 ! 
+Question: claims paid FT?
+Answer: 3417
+
+Context: claims paid  AD : 3236851 FT : 3417 TP : 67689615 ! claims outstanding  AD : 179884 FT : 3010505 TP : 26934090 ! 
+Question: claims paid TP?
+Answer: 67689615
+
+Context: claims paid  AD : 3236851 FT : 3417 TP : 67689615 ! claims outstanding  AD : 179884 FT : 3010505 TP : 26934090 ! 
+Question: claims outstanding AD?
+Answer: 179884
+
+Context: claims paid  AD : 3236851 FT : 3417 TP : 67689615 ! claims outstanding  AD : 179884 FT : 3010505 TP : 26934090 ! 
+Question: claims outstanding FT?
+Answer: 3010505
+
+Context: claims paid  AD : 3236851 FT : 3417 TP : 67689615 ! claims outstanding  AD : 179884 FT : 3010505 TP : 26934090 ! 
+Question: claims outstanding TP?
+Answer: 26934090
+
+Context: claims paid  TP : 2433344365 AD : 2 FT : 3306 ! claims outstanding  TP : 45565 AD : 757 FT : 69963 ! 
+Question: claims paid TP?
+Answer: 2433344365
+
+Context: claims paid  TP : 2433344365 AD : 2 FT : 3306 ! claims outstanding  TP : 45565 AD : 757 FT : 69963 ! 
+Question: claims paid AD?
+Answer: 2
+
+Context: claims paid  TP : 2433344365 AD : 2 FT : 3306 ! claims outstanding  TP : 45565 AD : 757 FT : 69963 ! 
+Question: claims paid FT?
+Answer: 3306
+
+Context: claims paid  TP : 2433344365 AD : 2 FT : 3306 ! claims outstanding  TP : 45565 AD : 757 FT : 69963 ! 
+Question: claims outstanding TP?
+Answer: 45565
+
+Context: claims paid  TP : 2433344365 AD : 2 FT : 3306 ! claims outstanding  TP : 45565 AD : 757 FT : 69963 ! 
+Question: claims outstanding AD?
+Answer: 757
+
+Context: claims paid  TP : 2433344365 AD : 2 FT : 3306 ! claims outstanding  TP : 45565 AD : 757 FT : 69963 ! 
+Question: claims outstanding FT?
+Answer: 69963
+
+Context: claims paid  TP : 64935 FT : 22137 AD : 048523116 ! claims outstanding  TP : 7399 FT : 7 AD : 31 ! 
+Question: claims paid TP?
+Answer: 64935
+
+Context: claims paid  TP : 64935 FT : 22137 AD : 048523116 ! claims outstanding  TP : 7399 FT : 7 AD : 31 ! 
+Question: claims paid FT?
+Answer: 22137
+
+Context: claims paid  TP : 64935 FT : 22137 AD : 048523116 ! claims outstanding  TP : 7399 FT : 7 AD : 31 ! 
+Question: claims paid AD?
+Answer: 048523116
+
+Context: claims paid  TP : 64935 FT : 22137 AD : 048523116 ! claims outstanding  TP : 7399 FT : 7 AD : 31 ! 
+Question: claims outstanding TP?
+Answer: 7399
+
+Context: claims paid  TP : 64935 FT : 22137 AD : 048523116 ! claims outstanding  TP : 7399 FT : 7 AD : 31 ! 
+Question: claims outstanding FT?
+Answer: 7
+
+Context: claims paid  TP : 64935 FT : 22137 AD : 048523116 ! claims outstanding  TP : 7399 FT : 7 AD : 31 ! 
+Question: claims outstanding AD?
+Answer: 31
+
+Context: claims paid  TP : 73 FT : 729495 AD : 9886402092 ! claims outstanding  TP : 583621503 FT : 6622 AD : 3875 ! 
+Question: claims paid TP?
+Answer: 73
+
+Context: claims paid  TP : 73 FT : 729495 AD : 9886402092 ! claims outstanding  TP : 583621503 FT : 6622 AD : 3875 ! 
+Question: claims paid FT?
+Answer: 729495
+
+Context: claims paid  TP : 73 FT : 729495 AD : 9886402092 ! claims outstanding  TP : 583621503 FT : 6622 AD : 3875 ! 
+Question: claims paid AD?
+Answer: 9886402092
+
+Context: claims paid  TP : 73 FT : 729495 AD : 9886402092 ! claims outstanding  TP : 583621503 FT : 6622 AD : 3875 ! 
+Question: claims outstanding TP?
+Answer: 583621503
+
+Context: claims paid  TP : 73 FT : 729495 AD : 9886402092 ! claims outstanding  TP : 583621503 FT : 6622 AD : 3875 ! 
+Question: claims outstanding FT?
+Answer: 6622
+
+Context: claims paid  TP : 73 FT : 729495 AD : 9886402092 ! claims outstanding  TP : 583621503 FT : 6622 AD : 3875 ! 
+Question: claims outstanding AD?
+Answer: 3875
+
+Context: claims paid  TP : 871391952 FT : 8069682 AD : 2 ! claims outstanding  TP : 4 FT : 25 AD : 98372174 ! 
+Question: claims paid TP?
+Answer: 871391952
+
+Context: claims paid  TP : 871391952 FT : 8069682 AD : 2 ! claims outstanding  TP : 4 FT : 25 AD : 98372174 ! 
+Question: claims paid FT?
+Answer: 8069682
+
+Context: claims paid  TP : 871391952 FT : 8069682 AD : 2 ! claims outstanding  TP : 4 FT : 25 AD : 98372174 ! 
+Question: claims paid AD?
+Answer: 2
+
+Context: claims paid  TP : 871391952 FT : 8069682 AD : 2 ! claims outstanding  TP : 4 FT : 25 AD : 98372174 ! 
+Question: claims outstanding TP?
+Answer: 4
+
+Context: claims paid  TP : 871391952 FT : 8069682 AD : 2 ! claims outstanding  TP : 4 FT : 25 AD : 98372174 ! 
+Question: claims outstanding FT?
+Answer: 25
+
+Context: claims paid  TP : 871391952 FT : 8069682 AD : 2 ! claims outstanding  TP : 4 FT : 25 AD : 98372174 ! 
+Question: claims outstanding AD?
+Answer: 98372174
+
+Context: claims paid  AD : 7801 TP : 85580928 FT : 251 ! claims outstanding  AD : 96 TP : 43 FT : 60422 ! 
+Question: claims paid AD?
+Answer: 7801
+
+Context: claims paid  AD : 7801 TP : 85580928 FT : 251 ! claims outstanding  AD : 96 TP : 43 FT : 60422 ! 
+Question: claims paid TP?
+Answer: 85580928
+
+Context: claims paid  AD : 7801 TP : 85580928 FT : 251 ! claims outstanding  AD : 96 TP : 43 FT : 60422 ! 
+Question: claims paid FT?
+Answer: 251
+
+Context: claims paid  AD : 7801 TP : 85580928 FT : 251 ! claims outstanding  AD : 96 TP : 43 FT : 60422 ! 
+Question: claims outstanding AD?
+Answer: 96
+
+Context: claims paid  AD : 7801 TP : 85580928 FT : 251 ! claims outstanding  AD : 96 TP : 43 FT : 60422 ! 
+Question: claims outstanding TP?
+Answer: 43
+
+Context: claims paid  AD : 7801 TP : 85580928 FT : 251 ! claims outstanding  AD : 96 TP : 43 FT : 60422 ! 
+Question: claims outstanding FT?
+Answer: 60422
+
+Context: claims paid  FT : 836388 TP : 7 AD : 698119 ! claims outstanding  FT : 02 TP : 5811230 AD : 812107787 ! 
+Question: claims paid FT?
+Answer: 836388
+
+Context: claims paid  FT : 836388 TP : 7 AD : 698119 ! claims outstanding  FT : 02 TP : 5811230 AD : 812107787 ! 
+Question: claims paid TP?
+Answer: 7
+
+Context: claims paid  FT : 836388 TP : 7 AD : 698119 ! claims outstanding  FT : 02 TP : 5811230 AD : 812107787 ! 
+Question: claims paid AD?
+Answer: 698119
+
+Context: claims paid  FT : 836388 TP : 7 AD : 698119 ! claims outstanding  FT : 02 TP : 5811230 AD : 812107787 ! 
+Question: claims outstanding FT?
+Answer: 02
+
+Context: claims paid  FT : 836388 TP : 7 AD : 698119 ! claims outstanding  FT : 02 TP : 5811230 AD : 812107787 ! 
+Question: claims outstanding TP?
+Answer: 5811230
+
+Context: claims paid  FT : 836388 TP : 7 AD : 698119 ! claims outstanding  FT : 02 TP : 5811230 AD : 812107787 ! 
+Question: claims outstanding AD?
+Answer: 812107787
+
+Context: claims paid  TP : 916 AD : 6401 FT : 60703 ! claims outstanding  TP : 878 AD : 21 FT : 850090 ! 
+Question: claims paid TP?
+Answer: 916
+
+Context: claims paid  TP : 916 AD : 6401 FT : 60703 ! claims outstanding  TP : 878 AD : 21 FT : 850090 ! 
+Question: claims paid AD?
+Answer: 6401
+
+Context: claims paid  TP : 916 AD : 6401 FT : 60703 ! claims outstanding  TP : 878 AD : 21 FT : 850090 ! 
+Question: claims paid FT?
+Answer: 60703
+
+Context: claims paid  TP : 916 AD : 6401 FT : 60703 ! claims outstanding  TP : 878 AD : 21 FT : 850090 ! 
+Question: claims outstanding TP?
+Answer: 878
+
+Context: claims paid  TP : 916 AD : 6401 FT : 60703 ! claims outstanding  TP : 878 AD : 21 FT : 850090 ! 
+Question: claims outstanding AD?
+Answer: 21
+
+Context: claims paid  TP : 916 AD : 6401 FT : 60703 ! claims outstanding  TP : 878 AD : 21 FT : 850090 ! 
+Question: claims outstanding FT?
+Answer: 850090
+
+Context: claims paid  AD : 98282310 FT : 68182764 TP : 8260982008 ! claims outstanding  AD : 2949734 FT : 6276796 TP : 015338755 ! 
+Question: claims paid AD?
+Answer: 98282310
+
+Context: claims paid  AD : 98282310 FT : 68182764 TP : 8260982008 ! claims outstanding  AD : 2949734 FT : 6276796 TP : 015338755 ! 
+Question: claims paid FT?
+Answer: 68182764
+
+Context: claims paid  AD : 98282310 FT : 68182764 TP : 8260982008 ! claims outstanding  AD : 2949734 FT : 6276796 TP : 015338755 ! 
+Question: claims paid TP?
+Answer: 8260982008
+
+Context: claims paid  AD : 98282310 FT : 68182764 TP : 8260982008 ! claims outstanding  AD : 2949734 FT : 6276796 TP : 015338755 ! 
+Question: claims outstanding AD?
+Answer: 2949734
+
+Context: claims paid  AD : 98282310 FT : 68182764 TP : 8260982008 ! claims outstanding  AD : 2949734 FT : 6276796 TP : 015338755 ! 
+Question: claims outstanding FT?
+Answer: 6276796
+
+Context: claims paid  AD : 98282310 FT : 68182764 TP : 8260982008 ! claims outstanding  AD : 2949734 FT : 6276796 TP : 015338755 ! 
+Question: claims outstanding TP?
+Answer: 015338755
+
+----------------------------------------------------------------------------------------------
+
+ f1 score: 100.0

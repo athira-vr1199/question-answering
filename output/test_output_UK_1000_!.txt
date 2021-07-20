@@ -1,0 +1,44 @@
+Context: Claims Paid AD : 1000  FT : 14011  TP : 3979 ! Claims Outstanding AD : 77 FT : 56 TP : 6198 !
+Question: Claims Paid AD ?
+Answer: empty
+
+Context: Claims Paid AD : 1000 FT : 14011 TP : 3979 ! Claims Outstanding AD : 77 FT : 56 TP : 6198 !
+Question: Claims Paid FT ?
+Answer: 14011
+
+Context: Claims Paid AD : 1000 FT : 14011 TP : 3979 ! Claims Outstanding AD : 77 FT : 56 TP : 6198 !
+Question: Claims Paid TP ?
+Answer: 3979
+
+Context: Claims Paid AD : 1000 FT : 14011 TP : 3979 ! Claims Outstanding AD : 77 FT : 56 TP : 6198 !
+Question: Claims Outstanding FT ?
+Answer: 56
+
+Context: Claims Paid AD : 1000 FT : 14011 TP : 3979 ! Claims Outstanding AD : 77 FT : 56 TP : 6198 !
+Question: Claims Outstanding TP ?
+Answer: 6198
+
+Context: Claims Paid AD : 1000 FT : 14011 TP : 3979 ! Claims Outstanding AD : 77 FT : 56 TP : 6198 !
+Question: Claims Outstanding AD ?
+Answer: 77
+
+Context: Claims Paid FT : 8 AD : 14011 TP : 3979 ! Claims Outstanding AD : 77 FT : 56 TP : 6198 !
+Question: Claims Paid AD ?
+Answer: 14011
+
+Context: Claims Paid TP : 1000 FT : 14011 AD : 3979 ! Claims Outstanding FT : 77 AD : 56 TP : 6198 !
+Question: Claims Outstanding FT ?
+Answer: 77
+
+Context: Claims Paid FT : 1000 AD : 14011 TP : 3979 ! Claims Outstanding TP : 77 FT : 56 AD : 6198 !
+Question: Claims Outstanding AD ?
+Answer: empty
+
+Context: Claims Paid TP : 1000 FT : 14011 AD : 3979 ! Claims Outstanding AD : 77 FT : 56 TP : 6198 !
+Question: Claims Outstanding TP ?
+Answer: 6198
+
+Context: Claims Paid FT : 8 TP : 14011 AD : 3979 ! Claims Outstanding AD : 77 FT : 56 TP : 6198 !
+Question: Claims Paid AD ?
+Answer: 3979
+

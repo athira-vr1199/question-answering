@@ -1,0 +1,4803 @@
+Context: paid  AD : 5390910658 TP : 889246200 FT : 984 ! outstanding  AD : 1222031949 TP : 76407 FT : 518597 ! 
+Question: paid AD?
+Answer: 5390910658
+
+Context: paid  AD : 5390910658 TP : 889246200 FT : 984 ! outstanding  AD : 1222031949 TP : 76407 FT : 518597 ! 
+Question: paid TP?
+Answer: 889246200
+
+Context: paid  AD : 5390910658 TP : 889246200 FT : 984 ! outstanding  AD : 1222031949 TP : 76407 FT : 518597 ! 
+Question: paid FT?
+Answer: 984
+
+Context: paid  AD : 5390910658 TP : 889246200 FT : 984 ! outstanding  AD : 1222031949 TP : 76407 FT : 518597 ! 
+Question: outstanding AD?
+Answer: 1222031949
+
+Context: paid  AD : 5390910658 TP : 889246200 FT : 984 ! outstanding  AD : 1222031949 TP : 76407 FT : 518597 ! 
+Question: outstanding TP?
+Answer: 76407
+
+Context: paid  AD : 5390910658 TP : 889246200 FT : 984 ! outstanding  AD : 1222031949 TP : 76407 FT : 518597 ! 
+Question: outstanding FT?
+Answer: 518597
+
+Context: paid  FT : 7458 TP : 222 AD : 239457782 ! outstanding  FT : 2 TP : 83 AD : 769 ! 
+Question: paid FT?
+Answer: 7458
+
+Context: paid  FT : 7458 TP : 222 AD : 239457782 ! outstanding  FT : 2 TP : 83 AD : 769 ! 
+Question: paid TP?
+Answer: 222
+
+Context: paid  FT : 7458 TP : 222 AD : 239457782 ! outstanding  FT : 2 TP : 83 AD : 769 ! 
+Question: paid AD?
+Answer: 239457782
+
+Context: paid  FT : 7458 TP : 222 AD : 239457782 ! outstanding  FT : 2 TP : 83 AD : 769 ! 
+Question: outstanding FT?
+Answer: 2
+
+Context: paid  FT : 7458 TP : 222 AD : 239457782 ! outstanding  FT : 2 TP : 83 AD : 769 ! 
+Question: outstanding TP?
+Answer: 83
+
+Context: paid  FT : 7458 TP : 222 AD : 239457782 ! outstanding  FT : 2 TP : 83 AD : 769 ! 
+Question: outstanding AD?
+Answer: 2
+
+Context: paid  AD : 22380 FT : 8676811428 TP : 15 ! outstanding  AD : 8464835190 FT : 006294855 TP : 3699303970 ! 
+Question: paid AD?
+Answer: 8676811428
+
+Context: paid  AD : 22380 FT : 8676811428 TP : 15 ! outstanding  AD : 8464835190 FT : 006294855 TP : 3699303970 ! 
+Question: paid FT?
+Answer: 8676811428
+
+Context: paid  AD : 22380 FT : 8676811428 TP : 15 ! outstanding  AD : 8464835190 FT : 006294855 TP : 3699303970 ! 
+Question: paid TP?
+Answer: 15
+
+Context: paid  AD : 22380 FT : 8676811428 TP : 15 ! outstanding  AD : 8464835190 FT : 006294855 TP : 3699303970 ! 
+Question: outstanding AD?
+Answer: 8464835190
+
+Context: paid  AD : 22380 FT : 8676811428 TP : 15 ! outstanding  AD : 8464835190 FT : 006294855 TP : 3699303970 ! 
+Question: outstanding FT?
+Answer: 006294855
+
+Context: paid  AD : 22380 FT : 8676811428 TP : 15 ! outstanding  AD : 8464835190 FT : 006294855 TP : 3699303970 ! 
+Question: outstanding TP?
+Answer: 3699303970
+
+Context: paid  FT : 9374 AD : 0760659250 TP : 5 ! outstanding  FT : 8 AD : 9483476 TP : 15656 ! 
+Question: paid FT?
+Answer: 9374
+
+Context: paid  FT : 9374 AD : 0760659250 TP : 5 ! outstanding  FT : 8 AD : 9483476 TP : 15656 ! 
+Question: paid AD?
+Answer: 0760659250
+
+Context: paid  FT : 9374 AD : 0760659250 TP : 5 ! outstanding  FT : 8 AD : 9483476 TP : 15656 ! 
+Question: paid TP?
+Answer: 5 ! outstanding ft : 8 ad : 9483476 tp : 15656
+
+Context: paid  FT : 9374 AD : 0760659250 TP : 5 ! outstanding  FT : 8 AD : 9483476 TP : 15656 ! 
+Question: outstanding FT?
+Answer: 8
+
+Context: paid  FT : 9374 AD : 0760659250 TP : 5 ! outstanding  FT : 8 AD : 9483476 TP : 15656 ! 
+Question: outstanding AD?
+Answer: 8 ad : 9483476 tp : 15656
+
+Context: paid  FT : 9374 AD : 0760659250 TP : 5 ! outstanding  FT : 8 AD : 9483476 TP : 15656 ! 
+Question: outstanding TP?
+Answer: 5 ! outstanding ft : 8 ad : 9483476 tp : 15656
+
+Context: paid  FT : 677 AD : 79221587 TP : 778068143 ! outstanding  FT : 483 AD : 718110867 TP : 69604 ! 
+Question: paid FT?
+Answer: 677
+
+Context: paid  FT : 677 AD : 79221587 TP : 778068143 ! outstanding  FT : 483 AD : 718110867 TP : 69604 ! 
+Question: paid AD?
+Answer: 79221587
+
+Context: paid  FT : 677 AD : 79221587 TP : 778068143 ! outstanding  FT : 483 AD : 718110867 TP : 69604 ! 
+Question: paid TP?
+Answer: 778068143
+
+Context: paid  FT : 677 AD : 79221587 TP : 778068143 ! outstanding  FT : 483 AD : 718110867 TP : 69604 ! 
+Question: outstanding FT?
+Answer: 483
+
+Context: paid  FT : 677 AD : 79221587 TP : 778068143 ! outstanding  FT : 483 AD : 718110867 TP : 69604 ! 
+Question: outstanding AD?
+Answer: 718110867
+
+Context: paid  FT : 677 AD : 79221587 TP : 778068143 ! outstanding  FT : 483 AD : 718110867 TP : 69604 ! 
+Question: outstanding TP?
+Answer: 69604
+
+Context: paid  AD : 887401423 TP : 6800 FT : 5780689764 ! outstanding  AD : 075553 TP : 995 FT : 06475760 ! 
+Question: paid AD?
+Answer: 887401423
+
+Context: paid  AD : 887401423 TP : 6800 FT : 5780689764 ! outstanding  AD : 075553 TP : 995 FT : 06475760 ! 
+Question: paid TP?
+Answer: 995
+
+Context: paid  AD : 887401423 TP : 6800 FT : 5780689764 ! outstanding  AD : 075553 TP : 995 FT : 06475760 ! 
+Question: paid FT?
+Answer: 5780689764
+
+Context: paid  AD : 887401423 TP : 6800 FT : 5780689764 ! outstanding  AD : 075553 TP : 995 FT : 06475760 ! 
+Question: outstanding AD?
+Answer: 075553
+
+Context: paid  AD : 887401423 TP : 6800 FT : 5780689764 ! outstanding  AD : 075553 TP : 995 FT : 06475760 ! 
+Question: outstanding TP?
+Answer: 995
+
+Context: paid  AD : 887401423 TP : 6800 FT : 5780689764 ! outstanding  AD : 075553 TP : 995 FT : 06475760 ! 
+Question: outstanding FT?
+Answer: 06475760
+
+Context: paid  TP : 0836463 AD : 36940729 FT : 1237686206 ! outstanding  TP : 020841 AD : 36473 FT : 3912101410 ! 
+Question: paid TP?
+Answer: 020841
+
+Context: paid  TP : 0836463 AD : 36940729 FT : 1237686206 ! outstanding  TP : 020841 AD : 36473 FT : 3912101410 ! 
+Question: paid AD?
+Answer: 36940729
+
+Context: paid  TP : 0836463 AD : 36940729 FT : 1237686206 ! outstanding  TP : 020841 AD : 36473 FT : 3912101410 ! 
+Question: paid FT?
+Answer: 1237686206
+
+Context: paid  TP : 0836463 AD : 36940729 FT : 1237686206 ! outstanding  TP : 020841 AD : 36473 FT : 3912101410 ! 
+Question: outstanding TP?
+Answer: 020841
+
+Context: paid  TP : 0836463 AD : 36940729 FT : 1237686206 ! outstanding  TP : 020841 AD : 36473 FT : 3912101410 ! 
+Question: outstanding AD?
+Answer: 36473
+
+Context: paid  TP : 0836463 AD : 36940729 FT : 1237686206 ! outstanding  TP : 020841 AD : 36473 FT : 3912101410 ! 
+Question: outstanding FT?
+Answer: 3912101410
+
+Context: paid  TP : 1231 FT : 38496 AD : 0195770628 ! outstanding  TP : 87528 FT : 0866 AD : 5113 ! 
+Question: paid TP?
+Answer: 1231
+
+Context: paid  TP : 1231 FT : 38496 AD : 0195770628 ! outstanding  TP : 87528 FT : 0866 AD : 5113 ! 
+Question: paid FT?
+Answer: 38496
+
+Context: paid  TP : 1231 FT : 38496 AD : 0195770628 ! outstanding  TP : 87528 FT : 0866 AD : 5113 ! 
+Question: paid AD?
+Answer: 0195770628
+
+Context: paid  TP : 1231 FT : 38496 AD : 0195770628 ! outstanding  TP : 87528 FT : 0866 AD : 5113 ! 
+Question: outstanding TP?
+Answer: 87528
+
+Context: paid  TP : 1231 FT : 38496 AD : 0195770628 ! outstanding  TP : 87528 FT : 0866 AD : 5113 ! 
+Question: outstanding FT?
+Answer: 0866
+
+Context: paid  TP : 1231 FT : 38496 AD : 0195770628 ! outstanding  TP : 87528 FT : 0866 AD : 5113 ! 
+Question: outstanding AD?
+Answer: 5113
+
+Context: paid  FT : 7 TP : 2397 AD : 00545519 ! outstanding  FT : 572123424 TP : 080227909 AD : 835328 ! 
+Question: paid FT?
+Answer: 572123424
+
+Context: paid  FT : 7 TP : 2397 AD : 00545519 ! outstanding  FT : 572123424 TP : 080227909 AD : 835328 ! 
+Question: paid TP?
+Answer: 2397
+
+Context: paid  FT : 7 TP : 2397 AD : 00545519 ! outstanding  FT : 572123424 TP : 080227909 AD : 835328 ! 
+Question: paid AD?
+Answer: 00545519
+
+Context: paid  FT : 7 TP : 2397 AD : 00545519 ! outstanding  FT : 572123424 TP : 080227909 AD : 835328 ! 
+Question: outstanding FT?
+Answer: 572123424
+
+Context: paid  FT : 7 TP : 2397 AD : 00545519 ! outstanding  FT : 572123424 TP : 080227909 AD : 835328 ! 
+Question: outstanding TP?
+Answer: 080227909
+
+Context: paid  FT : 7 TP : 2397 AD : 00545519 ! outstanding  FT : 572123424 TP : 080227909 AD : 835328 ! 
+Question: outstanding AD?
+Answer: 835328
+
+Context: paid  TP : 01695 FT : 88 AD : 84 ! outstanding  TP : 5608 FT : 16812661 AD : 592688941 ! 
+Question: paid TP?
+Answer: 01695
+
+Context: paid  TP : 01695 FT : 88 AD : 84 ! outstanding  TP : 5608 FT : 16812661 AD : 592688941 ! 
+Question: paid FT?
+Answer: 88
+
+Context: paid  TP : 01695 FT : 88 AD : 84 ! outstanding  TP : 5608 FT : 16812661 AD : 592688941 ! 
+Question: paid AD?
+Answer: 84
+
+Context: paid  TP : 01695 FT : 88 AD : 84 ! outstanding  TP : 5608 FT : 16812661 AD : 592688941 ! 
+Question: outstanding TP?
+Answer: 5608
+
+Context: paid  TP : 01695 FT : 88 AD : 84 ! outstanding  TP : 5608 FT : 16812661 AD : 592688941 ! 
+Question: outstanding FT?
+Answer: 16812661
+
+Context: paid  TP : 01695 FT : 88 AD : 84 ! outstanding  TP : 5608 FT : 16812661 AD : 592688941 ! 
+Question: outstanding AD?
+Answer: 592688941
+
+Context: paid  AD : 7936021 FT : 4645 TP : 1401394 ! outstanding  AD : 671252883 FT : 9 TP : 87 ! 
+Question: paid AD?
+Answer: 7936021
+
+Context: paid  AD : 7936021 FT : 4645 TP : 1401394 ! outstanding  AD : 671252883 FT : 9 TP : 87 ! 
+Question: paid FT?
+Answer: 4645
+
+Context: paid  AD : 7936021 FT : 4645 TP : 1401394 ! outstanding  AD : 671252883 FT : 9 TP : 87 ! 
+Question: paid TP?
+Answer: 1401394
+
+Context: paid  AD : 7936021 FT : 4645 TP : 1401394 ! outstanding  AD : 671252883 FT : 9 TP : 87 ! 
+Question: outstanding AD?
+Answer: 671252883
+
+Context: paid  AD : 7936021 FT : 4645 TP : 1401394 ! outstanding  AD : 671252883 FT : 9 TP : 87 ! 
+Question: outstanding FT?
+Answer: 9
+
+Context: paid  AD : 7936021 FT : 4645 TP : 1401394 ! outstanding  AD : 671252883 FT : 9 TP : 87 ! 
+Question: outstanding TP?
+Answer: empty
+
+Context: paid  FT : 9484297098 TP : 2 AD : 6426785245 ! outstanding  FT : 6142623 TP : 79308827 AD : 2409 ! 
+Question: paid FT?
+Answer: empty
+
+Context: paid  FT : 9484297098 TP : 2 AD : 6426785245 ! outstanding  FT : 6142623 TP : 79308827 AD : 2409 ! 
+Question: paid TP?
+Answer: 79308827
+
+Context: paid  FT : 9484297098 TP : 2 AD : 6426785245 ! outstanding  FT : 6142623 TP : 79308827 AD : 2409 ! 
+Question: paid AD?
+Answer: 6426785245
+
+Context: paid  FT : 9484297098 TP : 2 AD : 6426785245 ! outstanding  FT : 6142623 TP : 79308827 AD : 2409 ! 
+Question: outstanding FT?
+Answer: 6142623
+
+Context: paid  FT : 9484297098 TP : 2 AD : 6426785245 ! outstanding  FT : 6142623 TP : 79308827 AD : 2409 ! 
+Question: outstanding TP?
+Answer: 79308827
+
+Context: paid  FT : 9484297098 TP : 2 AD : 6426785245 ! outstanding  FT : 6142623 TP : 79308827 AD : 2409 ! 
+Question: outstanding AD?
+Answer: 2409
+
+Context: paid  TP : 232602830 AD : 641 FT : 82857849 ! outstanding  TP : 90284 AD : 128 FT : 7187 ! 
+Question: paid TP?
+Answer: 232602830
+
+Context: paid  TP : 232602830 AD : 641 FT : 82857849 ! outstanding  TP : 90284 AD : 128 FT : 7187 ! 
+Question: paid AD?
+Answer: 641
+
+Context: paid  TP : 232602830 AD : 641 FT : 82857849 ! outstanding  TP : 90284 AD : 128 FT : 7187 ! 
+Question: paid FT?
+Answer: 82857849
+
+Context: paid  TP : 232602830 AD : 641 FT : 82857849 ! outstanding  TP : 90284 AD : 128 FT : 7187 ! 
+Question: outstanding TP?
+Answer: 90284
+
+Context: paid  TP : 232602830 AD : 641 FT : 82857849 ! outstanding  TP : 90284 AD : 128 FT : 7187 ! 
+Question: outstanding AD?
+Answer: 128 ft : 7187
+
+Context: paid  TP : 232602830 AD : 641 FT : 82857849 ! outstanding  TP : 90284 AD : 128 FT : 7187 ! 
+Question: outstanding FT?
+Answer: 7187
+
+Context: paid  TP : 6 FT : 872356222 AD : 41750 ! outstanding  TP : 99424600 FT : 33722416 AD : 70750696 ! 
+Question: paid TP?
+Answer: 6
+
+Context: paid  TP : 6 FT : 872356222 AD : 41750 ! outstanding  TP : 99424600 FT : 33722416 AD : 70750696 ! 
+Question: paid FT?
+Answer: 872356222
+
+Context: paid  TP : 6 FT : 872356222 AD : 41750 ! outstanding  TP : 99424600 FT : 33722416 AD : 70750696 ! 
+Question: paid AD?
+Answer: 41750
+
+Context: paid  TP : 6 FT : 872356222 AD : 41750 ! outstanding  TP : 99424600 FT : 33722416 AD : 70750696 ! 
+Question: outstanding TP?
+Answer: 99424600
+
+Context: paid  TP : 6 FT : 872356222 AD : 41750 ! outstanding  TP : 99424600 FT : 33722416 AD : 70750696 ! 
+Question: outstanding FT?
+Answer: 33722416
+
+Context: paid  TP : 6 FT : 872356222 AD : 41750 ! outstanding  TP : 99424600 FT : 33722416 AD : 70750696 ! 
+Question: outstanding AD?
+Answer: 70750696
+
+Context: paid  TP : 97409334 AD : 917410165 FT : 863 ! outstanding  TP : 2716874 AD : 051565857 FT : 91363762 ! 
+Question: paid TP?
+Answer: 97409334
+
+Context: paid  TP : 97409334 AD : 917410165 FT : 863 ! outstanding  TP : 2716874 AD : 051565857 FT : 91363762 ! 
+Question: paid AD?
+Answer: 917410165
+
+Context: paid  TP : 97409334 AD : 917410165 FT : 863 ! outstanding  TP : 2716874 AD : 051565857 FT : 91363762 ! 
+Question: paid FT?
+Answer: 863
+
+Context: paid  TP : 97409334 AD : 917410165 FT : 863 ! outstanding  TP : 2716874 AD : 051565857 FT : 91363762 ! 
+Question: outstanding TP?
+Answer: 2716874
+
+Context: paid  TP : 97409334 AD : 917410165 FT : 863 ! outstanding  TP : 2716874 AD : 051565857 FT : 91363762 ! 
+Question: outstanding AD?
+Answer: 051565857
+
+Context: paid  TP : 97409334 AD : 917410165 FT : 863 ! outstanding  TP : 2716874 AD : 051565857 FT : 91363762 ! 
+Question: outstanding FT?
+Answer: 91363762
+
+Context: paid  TP : 7 FT : 72382 AD : 07 ! outstanding  TP : 25 FT : 63941 AD : 43 ! 
+Question: paid TP?
+Answer: 7
+
+Context: paid  TP : 7 FT : 72382 AD : 07 ! outstanding  TP : 25 FT : 63941 AD : 43 ! 
+Question: paid FT?
+Answer: 72382
+
+Context: paid  TP : 7 FT : 72382 AD : 07 ! outstanding  TP : 25 FT : 63941 AD : 43 ! 
+Question: paid AD?
+Answer: 07
+
+Context: paid  TP : 7 FT : 72382 AD : 07 ! outstanding  TP : 25 FT : 63941 AD : 43 ! 
+Question: outstanding TP?
+Answer: 25
+
+Context: paid  TP : 7 FT : 72382 AD : 07 ! outstanding  TP : 25 FT : 63941 AD : 43 ! 
+Question: outstanding FT?
+Answer: 63941
+
+Context: paid  TP : 7 FT : 72382 AD : 07 ! outstanding  TP : 25 FT : 63941 AD : 43 ! 
+Question: outstanding AD?
+Answer: 43
+
+Context: paid  FT : 50155608 AD : 2 TP : 48164 ! outstanding  FT : 0 AD : 256530 TP : 9309098 ! 
+Question: paid FT?
+Answer: 50155608
+
+Context: paid  FT : 50155608 AD : 2 TP : 48164 ! outstanding  FT : 0 AD : 256530 TP : 9309098 ! 
+Question: paid AD?
+Answer: 2
+
+Context: paid  FT : 50155608 AD : 2 TP : 48164 ! outstanding  FT : 0 AD : 256530 TP : 9309098 ! 
+Question: paid TP?
+Answer: 48164
+
+Context: paid  FT : 50155608 AD : 2 TP : 48164 ! outstanding  FT : 0 AD : 256530 TP : 9309098 ! 
+Question: outstanding FT?
+Answer: 0
+
+Context: paid  FT : 50155608 AD : 2 TP : 48164 ! outstanding  FT : 0 AD : 256530 TP : 9309098 ! 
+Question: outstanding AD?
+Answer: 256530
+
+Context: paid  FT : 50155608 AD : 2 TP : 48164 ! outstanding  FT : 0 AD : 256530 TP : 9309098 ! 
+Question: outstanding TP?
+Answer: 0 ad : 256530 tp : 9309098
+
+Context: paid  TP : 720894174 FT : 3212 AD : 187 ! outstanding  TP : 11320023 FT : 69 AD : 61 ! 
+Question: paid TP?
+Answer: 720894174
+
+Context: paid  TP : 720894174 FT : 3212 AD : 187 ! outstanding  TP : 11320023 FT : 69 AD : 61 ! 
+Question: paid FT?
+Answer: 3212
+
+Context: paid  TP : 720894174 FT : 3212 AD : 187 ! outstanding  TP : 11320023 FT : 69 AD : 61 ! 
+Question: paid AD?
+Answer: 187
+
+Context: paid  TP : 720894174 FT : 3212 AD : 187 ! outstanding  TP : 11320023 FT : 69 AD : 61 ! 
+Question: outstanding TP?
+Answer: 11320023
+
+Context: paid  TP : 720894174 FT : 3212 AD : 187 ! outstanding  TP : 11320023 FT : 69 AD : 61 ! 
+Question: outstanding FT?
+Answer: 69
+
+Context: paid  TP : 720894174 FT : 3212 AD : 187 ! outstanding  TP : 11320023 FT : 69 AD : 61 ! 
+Question: outstanding AD?
+Answer: 61
+
+Context: paid  TP : 3971149259 AD : 32 FT : 55479934 ! outstanding  TP : 22098751 AD : 9667229447 FT : 66983575 ! 
+Question: paid TP?
+Answer: 3971149259
+
+Context: paid  TP : 3971149259 AD : 32 FT : 55479934 ! outstanding  TP : 22098751 AD : 9667229447 FT : 66983575 ! 
+Question: paid AD?
+Answer: 32
+
+Context: paid  TP : 3971149259 AD : 32 FT : 55479934 ! outstanding  TP : 22098751 AD : 9667229447 FT : 66983575 ! 
+Question: paid FT?
+Answer: 55479934
+
+Context: paid  TP : 3971149259 AD : 32 FT : 55479934 ! outstanding  TP : 22098751 AD : 9667229447 FT : 66983575 ! 
+Question: outstanding TP?
+Answer: 22098751
+
+Context: paid  TP : 3971149259 AD : 32 FT : 55479934 ! outstanding  TP : 22098751 AD : 9667229447 FT : 66983575 ! 
+Question: outstanding AD?
+Answer: 9667229447
+
+Context: paid  TP : 3971149259 AD : 32 FT : 55479934 ! outstanding  TP : 22098751 AD : 9667229447 FT : 66983575 ! 
+Question: outstanding FT?
+Answer: 66983575
+
+Context: paid  AD : 997 FT : 57 TP : 12606 ! outstanding  AD : 6 FT : 4 TP : 4245616 ! 
+Question: paid AD?
+Answer: 997
+
+Context: paid  AD : 997 FT : 57 TP : 12606 ! outstanding  AD : 6 FT : 4 TP : 4245616 ! 
+Question: paid FT?
+Answer: 57
+
+Context: paid  AD : 997 FT : 57 TP : 12606 ! outstanding  AD : 6 FT : 4 TP : 4245616 ! 
+Question: paid TP?
+Answer: 12606
+
+Context: paid  AD : 997 FT : 57 TP : 12606 ! outstanding  AD : 6 FT : 4 TP : 4245616 ! 
+Question: outstanding AD?
+Answer: 6
+
+Context: paid  AD : 997 FT : 57 TP : 12606 ! outstanding  AD : 6 FT : 4 TP : 4245616 ! 
+Question: outstanding FT?
+Answer: 4
+
+Context: paid  AD : 997 FT : 57 TP : 12606 ! outstanding  AD : 6 FT : 4 TP : 4245616 ! 
+Question: outstanding TP?
+Answer: 4245616
+
+Context: paid  FT : 305671 TP : 4373281449 AD : 2 ! outstanding  FT : 032 TP : 8841 AD : 117 ! 
+Question: paid FT?
+Answer: 305671
+
+Context: paid  FT : 305671 TP : 4373281449 AD : 2 ! outstanding  FT : 032 TP : 8841 AD : 117 ! 
+Question: paid TP?
+Answer: 4373281449
+
+Context: paid  FT : 305671 TP : 4373281449 AD : 2 ! outstanding  FT : 032 TP : 8841 AD : 117 ! 
+Question: paid AD?
+Answer: 2
+
+Context: paid  FT : 305671 TP : 4373281449 AD : 2 ! outstanding  FT : 032 TP : 8841 AD : 117 ! 
+Question: outstanding FT?
+Answer: 032
+
+Context: paid  FT : 305671 TP : 4373281449 AD : 2 ! outstanding  FT : 032 TP : 8841 AD : 117 ! 
+Question: outstanding TP?
+Answer: 8841
+
+Context: paid  FT : 305671 TP : 4373281449 AD : 2 ! outstanding  FT : 032 TP : 8841 AD : 117 ! 
+Question: outstanding AD?
+Answer: 117
+
+Context: paid  AD : 6468283 TP : 0 FT : 591260786 ! outstanding  AD : 61 TP : 5 FT : 71 ! 
+Question: paid AD?
+Answer: 6468283
+
+Context: paid  AD : 6468283 TP : 0 FT : 591260786 ! outstanding  AD : 61 TP : 5 FT : 71 ! 
+Question: paid TP?
+Answer: 0
+
+Context: paid  AD : 6468283 TP : 0 FT : 591260786 ! outstanding  AD : 61 TP : 5 FT : 71 ! 
+Question: paid FT?
+Answer: 591260786
+
+Context: paid  AD : 6468283 TP : 0 FT : 591260786 ! outstanding  AD : 61 TP : 5 FT : 71 ! 
+Question: outstanding AD?
+Answer: 61
+
+Context: paid  AD : 6468283 TP : 0 FT : 591260786 ! outstanding  AD : 61 TP : 5 FT : 71 ! 
+Question: outstanding TP?
+Answer: 5
+
+Context: paid  AD : 6468283 TP : 0 FT : 591260786 ! outstanding  AD : 61 TP : 5 FT : 71 ! 
+Question: outstanding FT?
+Answer: 71
+
+Context: paid  FT : 19170 AD : 9926246 TP : 4 ! outstanding  FT : 1354 AD : 906 TP : 761 ! 
+Question: paid FT?
+Answer: 19170
+
+Context: paid  FT : 19170 AD : 9926246 TP : 4 ! outstanding  FT : 1354 AD : 906 TP : 761 ! 
+Question: paid AD?
+Answer: 9926246
+
+Context: paid  FT : 19170 AD : 9926246 TP : 4 ! outstanding  FT : 1354 AD : 906 TP : 761 ! 
+Question: paid TP?
+Answer: 4
+
+Context: paid  FT : 19170 AD : 9926246 TP : 4 ! outstanding  FT : 1354 AD : 906 TP : 761 ! 
+Question: outstanding FT?
+Answer: 1354
+
+Context: paid  FT : 19170 AD : 9926246 TP : 4 ! outstanding  FT : 1354 AD : 906 TP : 761 ! 
+Question: outstanding AD?
+Answer: 906
+
+Context: paid  FT : 19170 AD : 9926246 TP : 4 ! outstanding  FT : 1354 AD : 906 TP : 761 ! 
+Question: outstanding TP?
+Answer: 761
+
+Context: paid  AD : 1 TP : 8223821 FT : 57 ! outstanding  AD : 1842 TP : 12765 FT : 54889829 ! 
+Question: paid AD?
+Answer: 1 tp : 8223821 ft : 57 ! outstanding ad : 1842
+
+Context: paid  AD : 1 TP : 8223821 FT : 57 ! outstanding  AD : 1842 TP : 12765 FT : 54889829 ! 
+Question: paid TP?
+Answer: 12765
+
+Context: paid  AD : 1 TP : 8223821 FT : 57 ! outstanding  AD : 1842 TP : 12765 FT : 54889829 ! 
+Question: paid FT?
+Answer: 57 ! outstanding ad : 1842 tp : 12765 ft : 54889829
+
+Context: paid  AD : 1 TP : 8223821 FT : 57 ! outstanding  AD : 1842 TP : 12765 FT : 54889829 ! 
+Question: outstanding AD?
+Answer: 1842
+
+Context: paid  AD : 1 TP : 8223821 FT : 57 ! outstanding  AD : 1842 TP : 12765 FT : 54889829 ! 
+Question: outstanding TP?
+Answer: 12765
+
+Context: paid  AD : 1 TP : 8223821 FT : 57 ! outstanding  AD : 1842 TP : 12765 FT : 54889829 ! 
+Question: outstanding FT?
+Answer: 54889829
+
+Context: paid  TP : 955024209 AD : 481902554 FT : 0985244073 ! outstanding  TP : 0 AD : 2074 FT : 668 ! 
+Question: paid TP?
+Answer: 0
+
+Context: paid  TP : 955024209 AD : 481902554 FT : 0985244073 ! outstanding  TP : 0 AD : 2074 FT : 668 ! 
+Question: paid AD?
+Answer: 2074
+
+Context: paid  TP : 955024209 AD : 481902554 FT : 0985244073 ! outstanding  TP : 0 AD : 2074 FT : 668 ! 
+Question: paid FT?
+Answer: 0985244073
+
+Context: paid  TP : 955024209 AD : 481902554 FT : 0985244073 ! outstanding  TP : 0 AD : 2074 FT : 668 ! 
+Question: outstanding TP?
+Answer: 0
+
+Context: paid  TP : 955024209 AD : 481902554 FT : 0985244073 ! outstanding  TP : 0 AD : 2074 FT : 668 ! 
+Question: outstanding AD?
+Answer: 2074
+
+Context: paid  TP : 955024209 AD : 481902554 FT : 0985244073 ! outstanding  TP : 0 AD : 2074 FT : 668 ! 
+Question: outstanding FT?
+Answer: 668
+
+Context: paid  AD : 7630 FT : 2192 TP : 7125093 ! outstanding  AD : 36858173 FT : 52348950 TP : 652189 ! 
+Question: paid AD?
+Answer: 7630
+
+Context: paid  AD : 7630 FT : 2192 TP : 7125093 ! outstanding  AD : 36858173 FT : 52348950 TP : 652189 ! 
+Question: paid FT?
+Answer: 2192
+
+Context: paid  AD : 7630 FT : 2192 TP : 7125093 ! outstanding  AD : 36858173 FT : 52348950 TP : 652189 ! 
+Question: paid TP?
+Answer: 7125093
+
+Context: paid  AD : 7630 FT : 2192 TP : 7125093 ! outstanding  AD : 36858173 FT : 52348950 TP : 652189 ! 
+Question: outstanding AD?
+Answer: 36858173
+
+Context: paid  AD : 7630 FT : 2192 TP : 7125093 ! outstanding  AD : 36858173 FT : 52348950 TP : 652189 ! 
+Question: outstanding FT?
+Answer: 52348950
+
+Context: paid  AD : 7630 FT : 2192 TP : 7125093 ! outstanding  AD : 36858173 FT : 52348950 TP : 652189 ! 
+Question: outstanding TP?
+Answer: 652189
+
+Context: paid  FT : 08341 TP : 960123 AD : 1580069 ! outstanding  FT : 3003518108 TP : 9913107 AD : 1868 ! 
+Question: paid FT?
+Answer: 08341
+
+Context: paid  FT : 08341 TP : 960123 AD : 1580069 ! outstanding  FT : 3003518108 TP : 9913107 AD : 1868 ! 
+Question: paid TP?
+Answer: 960123
+
+Context: paid  FT : 08341 TP : 960123 AD : 1580069 ! outstanding  FT : 3003518108 TP : 9913107 AD : 1868 ! 
+Question: paid AD?
+Answer: 1580069
+
+Context: paid  FT : 08341 TP : 960123 AD : 1580069 ! outstanding  FT : 3003518108 TP : 9913107 AD : 1868 ! 
+Question: outstanding FT?
+Answer: 3003518108
+
+Context: paid  FT : 08341 TP : 960123 AD : 1580069 ! outstanding  FT : 3003518108 TP : 9913107 AD : 1868 ! 
+Question: outstanding TP?
+Answer: 9913107
+
+Context: paid  FT : 08341 TP : 960123 AD : 1580069 ! outstanding  FT : 3003518108 TP : 9913107 AD : 1868 ! 
+Question: outstanding AD?
+Answer: 1868
+
+Context: paid  AD : 0224 TP : 439729 FT : 3126662 ! outstanding  AD : 85 TP : 41580 FT : 4341290 ! 
+Question: paid AD?
+Answer: 0224
+
+Context: paid  AD : 0224 TP : 439729 FT : 3126662 ! outstanding  AD : 85 TP : 41580 FT : 4341290 ! 
+Question: paid TP?
+Answer: 439729
+
+Context: paid  AD : 0224 TP : 439729 FT : 3126662 ! outstanding  AD : 85 TP : 41580 FT : 4341290 ! 
+Question: paid FT?
+Answer: 3126662
+
+Context: paid  AD : 0224 TP : 439729 FT : 3126662 ! outstanding  AD : 85 TP : 41580 FT : 4341290 ! 
+Question: outstanding AD?
+Answer: 85
+
+Context: paid  AD : 0224 TP : 439729 FT : 3126662 ! outstanding  AD : 85 TP : 41580 FT : 4341290 ! 
+Question: outstanding TP?
+Answer: 41580
+
+Context: paid  AD : 0224 TP : 439729 FT : 3126662 ! outstanding  AD : 85 TP : 41580 FT : 4341290 ! 
+Question: outstanding FT?
+Answer: 4341290
+
+Context: paid  FT : 43 AD : 27322 TP : 1833589327 ! outstanding  FT : 55 AD : 301746426 TP : 0438217 ! 
+Question: paid FT?
+Answer: 43
+
+Context: paid  FT : 43 AD : 27322 TP : 1833589327 ! outstanding  FT : 55 AD : 301746426 TP : 0438217 ! 
+Question: paid AD?
+Answer: 27322
+
+Context: paid  FT : 43 AD : 27322 TP : 1833589327 ! outstanding  FT : 55 AD : 301746426 TP : 0438217 ! 
+Question: paid TP?
+Answer: 1833589327
+
+Context: paid  FT : 43 AD : 27322 TP : 1833589327 ! outstanding  FT : 55 AD : 301746426 TP : 0438217 ! 
+Question: outstanding FT?
+Answer: 55
+
+Context: paid  FT : 43 AD : 27322 TP : 1833589327 ! outstanding  FT : 55 AD : 301746426 TP : 0438217 ! 
+Question: outstanding AD?
+Answer: 301746426
+
+Context: paid  FT : 43 AD : 27322 TP : 1833589327 ! outstanding  FT : 55 AD : 301746426 TP : 0438217 ! 
+Question: outstanding TP?
+Answer: 0438217
+
+Context: paid  TP : 19149369 AD : 8 FT : 15 ! outstanding  TP : 795320 AD : 317 FT : 23923801 ! 
+Question: paid TP?
+Answer: 19149369
+
+Context: paid  TP : 19149369 AD : 8 FT : 15 ! outstanding  TP : 795320 AD : 317 FT : 23923801 ! 
+Question: paid AD?
+Answer: 8
+
+Context: paid  TP : 19149369 AD : 8 FT : 15 ! outstanding  TP : 795320 AD : 317 FT : 23923801 ! 
+Question: paid FT?
+Answer: 15
+
+Context: paid  TP : 19149369 AD : 8 FT : 15 ! outstanding  TP : 795320 AD : 317 FT : 23923801 ! 
+Question: outstanding TP?
+Answer: 795320
+
+Context: paid  TP : 19149369 AD : 8 FT : 15 ! outstanding  TP : 795320 AD : 317 FT : 23923801 ! 
+Question: outstanding AD?
+Answer: 317 ft : 23923801
+
+Context: paid  TP : 19149369 AD : 8 FT : 15 ! outstanding  TP : 795320 AD : 317 FT : 23923801 ! 
+Question: outstanding FT?
+Answer: 23923801
+
+Context: paid  TP : 2755709 FT : 42701997 AD : 7855 ! outstanding  TP : 72 FT : 278430161 AD : 03 ! 
+Question: paid TP?
+Answer: 2755709
+
+Context: paid  TP : 2755709 FT : 42701997 AD : 7855 ! outstanding  TP : 72 FT : 278430161 AD : 03 ! 
+Question: paid FT?
+Answer: 42701997
+
+Context: paid  TP : 2755709 FT : 42701997 AD : 7855 ! outstanding  TP : 72 FT : 278430161 AD : 03 ! 
+Question: paid AD?
+Answer: 7855
+
+Context: paid  TP : 2755709 FT : 42701997 AD : 7855 ! outstanding  TP : 72 FT : 278430161 AD : 03 ! 
+Question: outstanding TP?
+Answer: 72
+
+Context: paid  TP : 2755709 FT : 42701997 AD : 7855 ! outstanding  TP : 72 FT : 278430161 AD : 03 ! 
+Question: outstanding FT?
+Answer: 278430161
+
+Context: paid  TP : 2755709 FT : 42701997 AD : 7855 ! outstanding  TP : 72 FT : 278430161 AD : 03 ! 
+Question: outstanding AD?
+Answer: 03
+
+Context: paid  TP : 3 FT : 463602 AD : 883 ! outstanding  TP : 0477 FT : 7948879 AD : 8936 ! 
+Question: paid TP?
+Answer: 3
+
+Context: paid  TP : 3 FT : 463602 AD : 883 ! outstanding  TP : 0477 FT : 7948879 AD : 8936 ! 
+Question: paid FT?
+Answer: 463602
+
+Context: paid  TP : 3 FT : 463602 AD : 883 ! outstanding  TP : 0477 FT : 7948879 AD : 8936 ! 
+Question: paid AD?
+Answer: 883
+
+Context: paid  TP : 3 FT : 463602 AD : 883 ! outstanding  TP : 0477 FT : 7948879 AD : 8936 ! 
+Question: outstanding TP?
+Answer: 0477
+
+Context: paid  TP : 3 FT : 463602 AD : 883 ! outstanding  TP : 0477 FT : 7948879 AD : 8936 ! 
+Question: outstanding FT?
+Answer: 7948879
+
+Context: paid  TP : 3 FT : 463602 AD : 883 ! outstanding  TP : 0477 FT : 7948879 AD : 8936 ! 
+Question: outstanding AD?
+Answer: 8936
+
+Context: paid  TP : 363723 FT : 62 AD : 6453778022 ! outstanding  TP : 670021 FT : 2 AD : 3494279092 ! 
+Question: paid TP?
+Answer: 363723
+
+Context: paid  TP : 363723 FT : 62 AD : 6453778022 ! outstanding  TP : 670021 FT : 2 AD : 3494279092 ! 
+Question: paid FT?
+Answer: 62
+
+Context: paid  TP : 363723 FT : 62 AD : 6453778022 ! outstanding  TP : 670021 FT : 2 AD : 3494279092 ! 
+Question: paid AD?
+Answer: 6453778022
+
+Context: paid  TP : 363723 FT : 62 AD : 6453778022 ! outstanding  TP : 670021 FT : 2 AD : 3494279092 ! 
+Question: outstanding TP?
+Answer: 670021
+
+Context: paid  TP : 363723 FT : 62 AD : 6453778022 ! outstanding  TP : 670021 FT : 2 AD : 3494279092 ! 
+Question: outstanding FT?
+Answer: 2
+
+Context: paid  TP : 363723 FT : 62 AD : 6453778022 ! outstanding  TP : 670021 FT : 2 AD : 3494279092 ! 
+Question: outstanding AD?
+Answer: 3494279092
+
+Context: paid  TP : 0894 AD : 295782 FT : 25 ! outstanding  TP : 821 AD : 5231 FT : 9734 ! 
+Question: paid TP?
+Answer: 0894
+
+Context: paid  TP : 0894 AD : 295782 FT : 25 ! outstanding  TP : 821 AD : 5231 FT : 9734 ! 
+Question: paid AD?
+Answer: 295782
+
+Context: paid  TP : 0894 AD : 295782 FT : 25 ! outstanding  TP : 821 AD : 5231 FT : 9734 ! 
+Question: paid FT?
+Answer: 25
+
+Context: paid  TP : 0894 AD : 295782 FT : 25 ! outstanding  TP : 821 AD : 5231 FT : 9734 ! 
+Question: outstanding TP?
+Answer: 821
+
+Context: paid  TP : 0894 AD : 295782 FT : 25 ! outstanding  TP : 821 AD : 5231 FT : 9734 ! 
+Question: outstanding AD?
+Answer: 5231
+
+Context: paid  TP : 0894 AD : 295782 FT : 25 ! outstanding  TP : 821 AD : 5231 FT : 9734 ! 
+Question: outstanding FT?
+Answer: 9734
+
+Context: paid  FT : 68350841 AD : 6322206 TP : 28 ! outstanding  FT : 790788982 AD : 1888 TP : 05 ! 
+Question: paid FT?
+Answer: 790788982
+
+Context: paid  FT : 68350841 AD : 6322206 TP : 28 ! outstanding  FT : 790788982 AD : 1888 TP : 05 ! 
+Question: paid AD?
+Answer: 6322206
+
+Context: paid  FT : 68350841 AD : 6322206 TP : 28 ! outstanding  FT : 790788982 AD : 1888 TP : 05 ! 
+Question: paid TP?
+Answer: 28
+
+Context: paid  FT : 68350841 AD : 6322206 TP : 28 ! outstanding  FT : 790788982 AD : 1888 TP : 05 ! 
+Question: outstanding FT?
+Answer: 790788982
+
+Context: paid  FT : 68350841 AD : 6322206 TP : 28 ! outstanding  FT : 790788982 AD : 1888 TP : 05 ! 
+Question: outstanding AD?
+Answer: empty
+
+Context: paid  FT : 68350841 AD : 6322206 TP : 28 ! outstanding  FT : 790788982 AD : 1888 TP : 05 ! 
+Question: outstanding TP?
+Answer: 05
+
+Context: paid  FT : 5466505282 TP : 296908137 AD : 2662751 ! outstanding  FT : 4744989057 TP : 4123 AD : 4198300581 ! 
+Question: paid FT?
+Answer: 4744989057
+
+Context: paid  FT : 5466505282 TP : 296908137 AD : 2662751 ! outstanding  FT : 4744989057 TP : 4123 AD : 4198300581 ! 
+Question: paid TP?
+Answer: 4123
+
+Context: paid  FT : 5466505282 TP : 296908137 AD : 2662751 ! outstanding  FT : 4744989057 TP : 4123 AD : 4198300581 ! 
+Question: paid AD?
+Answer: 4198300581
+
+Context: paid  FT : 5466505282 TP : 296908137 AD : 2662751 ! outstanding  FT : 4744989057 TP : 4123 AD : 4198300581 ! 
+Question: outstanding FT?
+Answer: 4744989057
+
+Context: paid  FT : 5466505282 TP : 296908137 AD : 2662751 ! outstanding  FT : 4744989057 TP : 4123 AD : 4198300581 ! 
+Question: outstanding TP?
+Answer: 4123
+
+Context: paid  FT : 5466505282 TP : 296908137 AD : 2662751 ! outstanding  FT : 4744989057 TP : 4123 AD : 4198300581 ! 
+Question: outstanding AD?
+Answer: 4198300581
+
+Context: paid  FT : 89 AD : 2 TP : 79542609 ! outstanding  FT : 2 AD : 5675857385 TP : 1801983956 ! 
+Question: paid FT?
+Answer: 2
+
+Context: paid  FT : 89 AD : 2 TP : 79542609 ! outstanding  FT : 2 AD : 5675857385 TP : 1801983956 ! 
+Question: paid AD?
+Answer: 5675857385
+
+Context: paid  FT : 89 AD : 2 TP : 79542609 ! outstanding  FT : 2 AD : 5675857385 TP : 1801983956 ! 
+Question: paid TP?
+Answer: 79542609
+
+Context: paid  FT : 89 AD : 2 TP : 79542609 ! outstanding  FT : 2 AD : 5675857385 TP : 1801983956 ! 
+Question: outstanding FT?
+Answer: 2
+
+Context: paid  FT : 89 AD : 2 TP : 79542609 ! outstanding  FT : 2 AD : 5675857385 TP : 1801983956 ! 
+Question: outstanding AD?
+Answer: 5675857385
+
+Context: paid  FT : 89 AD : 2 TP : 79542609 ! outstanding  FT : 2 AD : 5675857385 TP : 1801983956 ! 
+Question: outstanding TP?
+Answer: 1801983956
+
+Context: paid  TP : 538698 FT : 434471 AD : 7 ! outstanding  TP : 221160 FT : 22 AD : 9 ! 
+Question: paid TP?
+Answer: 538698
+
+Context: paid  TP : 538698 FT : 434471 AD : 7 ! outstanding  TP : 221160 FT : 22 AD : 9 ! 
+Question: paid FT?
+Answer: 434471
+
+Context: paid  TP : 538698 FT : 434471 AD : 7 ! outstanding  TP : 221160 FT : 22 AD : 9 ! 
+Question: paid AD?
+Answer: 7
+
+Context: paid  TP : 538698 FT : 434471 AD : 7 ! outstanding  TP : 221160 FT : 22 AD : 9 ! 
+Question: outstanding TP?
+Answer: 221160
+
+Context: paid  TP : 538698 FT : 434471 AD : 7 ! outstanding  TP : 221160 FT : 22 AD : 9 ! 
+Question: outstanding FT?
+Answer: 22
+
+Context: paid  TP : 538698 FT : 434471 AD : 7 ! outstanding  TP : 221160 FT : 22 AD : 9 ! 
+Question: outstanding AD?
+Answer: 9
+
+Context: paid  AD : 9245211102 FT : 21 TP : 27 ! outstanding  AD : 85525 FT : 945 TP : 07881764 ! 
+Question: paid AD?
+Answer: 9245211102
+
+Context: paid  AD : 9245211102 FT : 21 TP : 27 ! outstanding  AD : 85525 FT : 945 TP : 07881764 ! 
+Question: paid FT?
+Answer: 21
+
+Context: paid  AD : 9245211102 FT : 21 TP : 27 ! outstanding  AD : 85525 FT : 945 TP : 07881764 ! 
+Question: paid TP?
+Answer: 27 ! outstanding ad : 85525 ft : 945 tp : 07881764
+
+Context: paid  AD : 9245211102 FT : 21 TP : 27 ! outstanding  AD : 85525 FT : 945 TP : 07881764 ! 
+Question: outstanding AD?
+Answer: 85525
+
+Context: paid  AD : 9245211102 FT : 21 TP : 27 ! outstanding  AD : 85525 FT : 945 TP : 07881764 ! 
+Question: outstanding FT?
+Answer: 945
+
+Context: paid  AD : 9245211102 FT : 21 TP : 27 ! outstanding  AD : 85525 FT : 945 TP : 07881764 ! 
+Question: outstanding TP?
+Answer: 07881764
+
+Context: paid  TP : 5 AD : 11 FT : 188067 ! outstanding  TP : 015 AD : 38 FT : 771894615 ! 
+Question: paid TP?
+Answer: 5
+
+Context: paid  TP : 5 AD : 11 FT : 188067 ! outstanding  TP : 015 AD : 38 FT : 771894615 ! 
+Question: paid AD?
+Answer: 11
+
+Context: paid  TP : 5 AD : 11 FT : 188067 ! outstanding  TP : 015 AD : 38 FT : 771894615 ! 
+Question: paid FT?
+Answer: 188067
+
+Context: paid  TP : 5 AD : 11 FT : 188067 ! outstanding  TP : 015 AD : 38 FT : 771894615 ! 
+Question: outstanding TP?
+Answer: 015
+
+Context: paid  TP : 5 AD : 11 FT : 188067 ! outstanding  TP : 015 AD : 38 FT : 771894615 ! 
+Question: outstanding AD?
+Answer: 38
+
+Context: paid  TP : 5 AD : 11 FT : 188067 ! outstanding  TP : 015 AD : 38 FT : 771894615 ! 
+Question: outstanding FT?
+Answer: 771894615
+
+Context: paid  AD : 33792079 FT : 041636 TP : 72 ! outstanding  AD : 9120549114 FT : 2805747744 TP : 617 ! 
+Question: paid AD?
+Answer: 33792079
+
+Context: paid  AD : 33792079 FT : 041636 TP : 72 ! outstanding  AD : 9120549114 FT : 2805747744 TP : 617 ! 
+Question: paid FT?
+Answer: 041636
+
+Context: paid  AD : 33792079 FT : 041636 TP : 72 ! outstanding  AD : 9120549114 FT : 2805747744 TP : 617 ! 
+Question: paid TP?
+Answer: 72
+
+Context: paid  AD : 33792079 FT : 041636 TP : 72 ! outstanding  AD : 9120549114 FT : 2805747744 TP : 617 ! 
+Question: outstanding AD?
+Answer: 9120549114
+
+Context: paid  AD : 33792079 FT : 041636 TP : 72 ! outstanding  AD : 9120549114 FT : 2805747744 TP : 617 ! 
+Question: outstanding FT?
+Answer: 2805747744
+
+Context: paid  AD : 33792079 FT : 041636 TP : 72 ! outstanding  AD : 9120549114 FT : 2805747744 TP : 617 ! 
+Question: outstanding TP?
+Answer: 617
+
+Context: paid  AD : 772 FT : 877309 TP : 705 ! outstanding  AD : 002 FT : 2320 TP : 024 ! 
+Question: paid AD?
+Answer: 772
+
+Context: paid  AD : 772 FT : 877309 TP : 705 ! outstanding  AD : 002 FT : 2320 TP : 024 ! 
+Question: paid FT?
+Answer: 877309
+
+Context: paid  AD : 772 FT : 877309 TP : 705 ! outstanding  AD : 002 FT : 2320 TP : 024 ! 
+Question: paid TP?
+Answer: 705
+
+Context: paid  AD : 772 FT : 877309 TP : 705 ! outstanding  AD : 002 FT : 2320 TP : 024 ! 
+Question: outstanding AD?
+Answer: 002
+
+Context: paid  AD : 772 FT : 877309 TP : 705 ! outstanding  AD : 002 FT : 2320 TP : 024 ! 
+Question: outstanding FT?
+Answer: 2320
+
+Context: paid  AD : 772 FT : 877309 TP : 705 ! outstanding  AD : 002 FT : 2320 TP : 024 ! 
+Question: outstanding TP?
+Answer: 024
+
+Context: paid  TP : 2386 AD : 9 FT : 80245 ! outstanding  TP : 18420 AD : 989387422 FT : 188626048 ! 
+Question: paid TP?
+Answer: 2386
+
+Context: paid  TP : 2386 AD : 9 FT : 80245 ! outstanding  TP : 18420 AD : 989387422 FT : 188626048 ! 
+Question: paid AD?
+Answer: 9
+
+Context: paid  TP : 2386 AD : 9 FT : 80245 ! outstanding  TP : 18420 AD : 989387422 FT : 188626048 ! 
+Question: paid FT?
+Answer: 80245
+
+Context: paid  TP : 2386 AD : 9 FT : 80245 ! outstanding  TP : 18420 AD : 989387422 FT : 188626048 ! 
+Question: outstanding TP?
+Answer: 18420
+
+Context: paid  TP : 2386 AD : 9 FT : 80245 ! outstanding  TP : 18420 AD : 989387422 FT : 188626048 ! 
+Question: outstanding AD?
+Answer: 989387422
+
+Context: paid  TP : 2386 AD : 9 FT : 80245 ! outstanding  TP : 18420 AD : 989387422 FT : 188626048 ! 
+Question: outstanding FT?
+Answer: 188626048
+
+Context: paid  AD : 3463829 TP : 414036984 FT : 81648 ! outstanding  AD : 29 TP : 638587385 FT : 9597 ! 
+Question: paid AD?
+Answer: 3463829
+
+Context: paid  AD : 3463829 TP : 414036984 FT : 81648 ! outstanding  AD : 29 TP : 638587385 FT : 9597 ! 
+Question: paid TP?
+Answer: 414036984
+
+Context: paid  AD : 3463829 TP : 414036984 FT : 81648 ! outstanding  AD : 29 TP : 638587385 FT : 9597 ! 
+Question: paid FT?
+Answer: 81648
+
+Context: paid  AD : 3463829 TP : 414036984 FT : 81648 ! outstanding  AD : 29 TP : 638587385 FT : 9597 ! 
+Question: outstanding AD?
+Answer: 29
+
+Context: paid  AD : 3463829 TP : 414036984 FT : 81648 ! outstanding  AD : 29 TP : 638587385 FT : 9597 ! 
+Question: outstanding TP?
+Answer: 638587385
+
+Context: paid  AD : 3463829 TP : 414036984 FT : 81648 ! outstanding  AD : 29 TP : 638587385 FT : 9597 ! 
+Question: outstanding FT?
+Answer: 9597
+
+Context: paid  FT : 0027330439 AD : 335549 TP : 2 ! outstanding  FT : 64264145 AD : 4 TP : 565896 ! 
+Question: paid FT?
+Answer: 0027330439
+
+Context: paid  FT : 0027330439 AD : 335549 TP : 2 ! outstanding  FT : 64264145 AD : 4 TP : 565896 ! 
+Question: paid AD?
+Answer: 335549
+
+Context: paid  FT : 0027330439 AD : 335549 TP : 2 ! outstanding  FT : 64264145 AD : 4 TP : 565896 ! 
+Question: paid TP?
+Answer: 2
+
+Context: paid  FT : 0027330439 AD : 335549 TP : 2 ! outstanding  FT : 64264145 AD : 4 TP : 565896 ! 
+Question: outstanding FT?
+Answer: 64264145
+
+Context: paid  FT : 0027330439 AD : 335549 TP : 2 ! outstanding  FT : 64264145 AD : 4 TP : 565896 ! 
+Question: outstanding AD?
+Answer: 4
+
+Context: paid  FT : 0027330439 AD : 335549 TP : 2 ! outstanding  FT : 64264145 AD : 4 TP : 565896 ! 
+Question: outstanding TP?
+Answer: 2 ! outstanding ft : 64264145 ad : 4 tp : 565896
+
+Context: paid  AD : 1 TP : 82898 FT : 905150635 ! outstanding  AD : 4 TP : 367084 FT : 430 ! 
+Question: paid AD?
+Answer: 1
+
+Context: paid  AD : 1 TP : 82898 FT : 905150635 ! outstanding  AD : 4 TP : 367084 FT : 430 ! 
+Question: paid TP?
+Answer: 82898
+
+Context: paid  AD : 1 TP : 82898 FT : 905150635 ! outstanding  AD : 4 TP : 367084 FT : 430 ! 
+Question: paid FT?
+Answer: 905150635
+
+Context: paid  AD : 1 TP : 82898 FT : 905150635 ! outstanding  AD : 4 TP : 367084 FT : 430 ! 
+Question: outstanding AD?
+Answer: 4
+
+Context: paid  AD : 1 TP : 82898 FT : 905150635 ! outstanding  AD : 4 TP : 367084 FT : 430 ! 
+Question: outstanding TP?
+Answer: 367084
+
+Context: paid  AD : 1 TP : 82898 FT : 905150635 ! outstanding  AD : 4 TP : 367084 FT : 430 ! 
+Question: outstanding FT?
+Answer: 430
+
+Context: paid  FT : 11281 AD : 8 TP : 30486248 ! outstanding  FT : 921711343 AD : 25 TP : 9585852085 ! 
+Question: paid FT?
+Answer: 11281
+
+Context: paid  FT : 11281 AD : 8 TP : 30486248 ! outstanding  FT : 921711343 AD : 25 TP : 9585852085 ! 
+Question: paid AD?
+Answer: 8
+
+Context: paid  FT : 11281 AD : 8 TP : 30486248 ! outstanding  FT : 921711343 AD : 25 TP : 9585852085 ! 
+Question: paid TP?
+Answer: 30486248
+
+Context: paid  FT : 11281 AD : 8 TP : 30486248 ! outstanding  FT : 921711343 AD : 25 TP : 9585852085 ! 
+Question: outstanding FT?
+Answer: 921711343
+
+Context: paid  FT : 11281 AD : 8 TP : 30486248 ! outstanding  FT : 921711343 AD : 25 TP : 9585852085 ! 
+Question: outstanding AD?
+Answer: 25
+
+Context: paid  FT : 11281 AD : 8 TP : 30486248 ! outstanding  FT : 921711343 AD : 25 TP : 9585852085 ! 
+Question: outstanding TP?
+Answer: 9585852085
+
+Context: paid  AD : 045756 FT : 61 TP : 2 ! outstanding  AD : 42299 FT : 67 TP : 237 ! 
+Question: paid AD?
+Answer: empty
+
+Context: paid  AD : 045756 FT : 61 TP : 2 ! outstanding  AD : 42299 FT : 67 TP : 237 ! 
+Question: paid FT?
+Answer: 61
+
+Context: paid  AD : 045756 FT : 61 TP : 2 ! outstanding  AD : 42299 FT : 67 TP : 237 ! 
+Question: paid TP?
+Answer: 2
+
+Context: paid  AD : 045756 FT : 61 TP : 2 ! outstanding  AD : 42299 FT : 67 TP : 237 ! 
+Question: outstanding AD?
+Answer: 42299
+
+Context: paid  AD : 045756 FT : 61 TP : 2 ! outstanding  AD : 42299 FT : 67 TP : 237 ! 
+Question: outstanding FT?
+Answer: 67
+
+Context: paid  AD : 045756 FT : 61 TP : 2 ! outstanding  AD : 42299 FT : 67 TP : 237 ! 
+Question: outstanding TP?
+Answer: 237
+
+Context: paid  FT : 88172 AD : 8 TP : 90296 ! outstanding  FT : 26772798 AD : 03250 TP : 16524268 ! 
+Question: paid FT?
+Answer: 88172
+
+Context: paid  FT : 88172 AD : 8 TP : 90296 ! outstanding  FT : 26772798 AD : 03250 TP : 16524268 ! 
+Question: paid AD?
+Answer: 8
+
+Context: paid  FT : 88172 AD : 8 TP : 90296 ! outstanding  FT : 26772798 AD : 03250 TP : 16524268 ! 
+Question: paid TP?
+Answer: 90296
+
+Context: paid  FT : 88172 AD : 8 TP : 90296 ! outstanding  FT : 26772798 AD : 03250 TP : 16524268 ! 
+Question: outstanding FT?
+Answer: 26772798
+
+Context: paid  FT : 88172 AD : 8 TP : 90296 ! outstanding  FT : 26772798 AD : 03250 TP : 16524268 ! 
+Question: outstanding AD?
+Answer: 03250
+
+Context: paid  FT : 88172 AD : 8 TP : 90296 ! outstanding  FT : 26772798 AD : 03250 TP : 16524268 ! 
+Question: outstanding TP?
+Answer: 16524268
+
+Context: paid  TP : 50 FT : 8 AD : 7543 ! outstanding  TP : 6553490 FT : 75242322 AD : 05 ! 
+Question: paid TP?
+Answer: 6553490
+
+Context: paid  TP : 50 FT : 8 AD : 7543 ! outstanding  TP : 6553490 FT : 75242322 AD : 05 ! 
+Question: paid FT?
+Answer: 8
+
+Context: paid  TP : 50 FT : 8 AD : 7543 ! outstanding  TP : 6553490 FT : 75242322 AD : 05 ! 
+Question: paid AD?
+Answer: 7543
+
+Context: paid  TP : 50 FT : 8 AD : 7543 ! outstanding  TP : 6553490 FT : 75242322 AD : 05 ! 
+Question: outstanding TP?
+Answer: 6553490
+
+Context: paid  TP : 50 FT : 8 AD : 7543 ! outstanding  TP : 6553490 FT : 75242322 AD : 05 ! 
+Question: outstanding FT?
+Answer: 75242322
+
+Context: paid  TP : 50 FT : 8 AD : 7543 ! outstanding  TP : 6553490 FT : 75242322 AD : 05 ! 
+Question: outstanding AD?
+Answer: 05
+
+Context: paid  TP : 4 FT : 473685 AD : 62518 ! outstanding  TP : 853 FT : 58500375 AD : 378174 ! 
+Question: paid TP?
+Answer: 4 ft : 473685 ad : 62518 ! outstanding tp : 853
+
+Context: paid  TP : 4 FT : 473685 AD : 62518 ! outstanding  TP : 853 FT : 58500375 AD : 378174 ! 
+Question: paid FT?
+Answer: 473685
+
+Context: paid  TP : 4 FT : 473685 AD : 62518 ! outstanding  TP : 853 FT : 58500375 AD : 378174 ! 
+Question: paid AD?
+Answer: 62518
+
+Context: paid  TP : 4 FT : 473685 AD : 62518 ! outstanding  TP : 853 FT : 58500375 AD : 378174 ! 
+Question: outstanding TP?
+Answer: 853
+
+Context: paid  TP : 4 FT : 473685 AD : 62518 ! outstanding  TP : 853 FT : 58500375 AD : 378174 ! 
+Question: outstanding FT?
+Answer: 58500375
+
+Context: paid  TP : 4 FT : 473685 AD : 62518 ! outstanding  TP : 853 FT : 58500375 AD : 378174 ! 
+Question: outstanding AD?
+Answer: 378174
+
+Context: paid  FT : 578081 TP : 703294038 AD : 54 ! outstanding  FT : 91646132 TP : 64032405 AD : 8 ! 
+Question: paid FT?
+Answer: 578081
+
+Context: paid  FT : 578081 TP : 703294038 AD : 54 ! outstanding  FT : 91646132 TP : 64032405 AD : 8 ! 
+Question: paid TP?
+Answer: 703294038
+
+Context: paid  FT : 578081 TP : 703294038 AD : 54 ! outstanding  FT : 91646132 TP : 64032405 AD : 8 ! 
+Question: paid AD?
+Answer: 54
+
+Context: paid  FT : 578081 TP : 703294038 AD : 54 ! outstanding  FT : 91646132 TP : 64032405 AD : 8 ! 
+Question: outstanding FT?
+Answer: 91646132
+
+Context: paid  FT : 578081 TP : 703294038 AD : 54 ! outstanding  FT : 91646132 TP : 64032405 AD : 8 ! 
+Question: outstanding TP?
+Answer: 64032405
+
+Context: paid  FT : 578081 TP : 703294038 AD : 54 ! outstanding  FT : 91646132 TP : 64032405 AD : 8 ! 
+Question: outstanding AD?
+Answer: 8
+
+Context: paid  FT : 3252569 TP : 2065 AD : 5 ! outstanding  FT : 54595942 TP : 06 AD : 152689546 ! 
+Question: paid FT?
+Answer: 3252569
+
+Context: paid  FT : 3252569 TP : 2065 AD : 5 ! outstanding  FT : 54595942 TP : 06 AD : 152689546 ! 
+Question: paid TP?
+Answer: 2065
+
+Context: paid  FT : 3252569 TP : 2065 AD : 5 ! outstanding  FT : 54595942 TP : 06 AD : 152689546 ! 
+Question: paid AD?
+Answer: 5
+
+Context: paid  FT : 3252569 TP : 2065 AD : 5 ! outstanding  FT : 54595942 TP : 06 AD : 152689546 ! 
+Question: outstanding FT?
+Answer: 54595942
+
+Context: paid  FT : 3252569 TP : 2065 AD : 5 ! outstanding  FT : 54595942 TP : 06 AD : 152689546 ! 
+Question: outstanding TP?
+Answer: empty
+
+Context: paid  FT : 3252569 TP : 2065 AD : 5 ! outstanding  FT : 54595942 TP : 06 AD : 152689546 ! 
+Question: outstanding AD?
+Answer: 152689546
+
+Context: paid  AD : 7853 TP : 7 FT : 4 ! outstanding  AD : 47953 TP : 99 FT : 6723324659 ! 
+Question: paid AD?
+Answer: 47953
+
+Context: paid  AD : 7853 TP : 7 FT : 4 ! outstanding  AD : 47953 TP : 99 FT : 6723324659 ! 
+Question: paid TP?
+Answer: 99
+
+Context: paid  AD : 7853 TP : 7 FT : 4 ! outstanding  AD : 47953 TP : 99 FT : 6723324659 ! 
+Question: paid FT?
+Answer: 4
+
+Context: paid  AD : 7853 TP : 7 FT : 4 ! outstanding  AD : 47953 TP : 99 FT : 6723324659 ! 
+Question: outstanding AD?
+Answer: 47953
+
+Context: paid  AD : 7853 TP : 7 FT : 4 ! outstanding  AD : 47953 TP : 99 FT : 6723324659 ! 
+Question: outstanding TP?
+Answer: 99
+
+Context: paid  AD : 7853 TP : 7 FT : 4 ! outstanding  AD : 47953 TP : 99 FT : 6723324659 ! 
+Question: outstanding FT?
+Answer: 6723324659
+
+Context: paid  TP : 022372 FT : 17 AD : 94 ! outstanding  TP : 1487532728 FT : 0072 AD : 06 ! 
+Question: paid TP?
+Answer: 022372
+
+Context: paid  TP : 022372 FT : 17 AD : 94 ! outstanding  TP : 1487532728 FT : 0072 AD : 06 ! 
+Question: paid FT?
+Answer: 17
+
+Context: paid  TP : 022372 FT : 17 AD : 94 ! outstanding  TP : 1487532728 FT : 0072 AD : 06 ! 
+Question: paid AD?
+Answer: 94
+
+Context: paid  TP : 022372 FT : 17 AD : 94 ! outstanding  TP : 1487532728 FT : 0072 AD : 06 ! 
+Question: outstanding TP?
+Answer: 1487532728
+
+Context: paid  TP : 022372 FT : 17 AD : 94 ! outstanding  TP : 1487532728 FT : 0072 AD : 06 ! 
+Question: outstanding FT?
+Answer: 0072
+
+Context: paid  TP : 022372 FT : 17 AD : 94 ! outstanding  TP : 1487532728 FT : 0072 AD : 06 ! 
+Question: outstanding AD?
+Answer: 06
+
+Context: paid  AD : 1 FT : 634 TP : 65469 ! outstanding  AD : 47963 FT : 66386 TP : 6222776 ! 
+Question: paid AD?
+Answer: 1 ft : 634 tp : 65469 ! outstanding ad : 47963
+
+Context: paid  AD : 1 FT : 634 TP : 65469 ! outstanding  AD : 47963 FT : 66386 TP : 6222776 ! 
+Question: paid FT?
+Answer: 634
+
+Context: paid  AD : 1 FT : 634 TP : 65469 ! outstanding  AD : 47963 FT : 66386 TP : 6222776 ! 
+Question: paid TP?
+Answer: 65469
+
+Context: paid  AD : 1 FT : 634 TP : 65469 ! outstanding  AD : 47963 FT : 66386 TP : 6222776 ! 
+Question: outstanding AD?
+Answer: 47963
+
+Context: paid  AD : 1 FT : 634 TP : 65469 ! outstanding  AD : 47963 FT : 66386 TP : 6222776 ! 
+Question: outstanding FT?
+Answer: 66386
+
+Context: paid  AD : 1 FT : 634 TP : 65469 ! outstanding  AD : 47963 FT : 66386 TP : 6222776 ! 
+Question: outstanding TP?
+Answer: 6222776
+
+Context: paid  FT : 74 TP : 8640477647 AD : 7969578594 ! outstanding  FT : 54 TP : 349411 AD : 16076608 ! 
+Question: paid FT?
+Answer: 54
+
+Context: paid  FT : 74 TP : 8640477647 AD : 7969578594 ! outstanding  FT : 54 TP : 349411 AD : 16076608 ! 
+Question: paid TP?
+Answer: 349411
+
+Context: paid  FT : 74 TP : 8640477647 AD : 7969578594 ! outstanding  FT : 54 TP : 349411 AD : 16076608 ! 
+Question: paid AD?
+Answer: 16076608
+
+Context: paid  FT : 74 TP : 8640477647 AD : 7969578594 ! outstanding  FT : 54 TP : 349411 AD : 16076608 ! 
+Question: outstanding FT?
+Answer: 54
+
+Context: paid  FT : 74 TP : 8640477647 AD : 7969578594 ! outstanding  FT : 54 TP : 349411 AD : 16076608 ! 
+Question: outstanding TP?
+Answer: 349411
+
+Context: paid  FT : 74 TP : 8640477647 AD : 7969578594 ! outstanding  FT : 54 TP : 349411 AD : 16076608 ! 
+Question: outstanding AD?
+Answer: 16076608
+
+Context: paid  AD : 1315 TP : 68 FT : 985068 ! outstanding  AD : 89542838 TP : 41925 FT : 75 ! 
+Question: paid AD?
+Answer: 1315
+
+Context: paid  AD : 1315 TP : 68 FT : 985068 ! outstanding  AD : 89542838 TP : 41925 FT : 75 ! 
+Question: paid TP?
+Answer: 68
+
+Context: paid  AD : 1315 TP : 68 FT : 985068 ! outstanding  AD : 89542838 TP : 41925 FT : 75 ! 
+Question: paid FT?
+Answer: 985068
+
+Context: paid  AD : 1315 TP : 68 FT : 985068 ! outstanding  AD : 89542838 TP : 41925 FT : 75 ! 
+Question: outstanding AD?
+Answer: 89542838
+
+Context: paid  AD : 1315 TP : 68 FT : 985068 ! outstanding  AD : 89542838 TP : 41925 FT : 75 ! 
+Question: outstanding TP?
+Answer: 41925
+
+Context: paid  AD : 1315 TP : 68 FT : 985068 ! outstanding  AD : 89542838 TP : 41925 FT : 75 ! 
+Question: outstanding FT?
+Answer: 75
+
+Context: paid  AD : 589 FT : 354 TP : 99 ! outstanding  AD : 82 FT : 0211214 TP : 625962 ! 
+Question: paid AD?
+Answer: 589 ft : 354 tp : 99 ! outstanding ad : 82
+
+Context: paid  AD : 589 FT : 354 TP : 99 ! outstanding  AD : 82 FT : 0211214 TP : 625962 ! 
+Question: paid FT?
+Answer: 354
+
+Context: paid  AD : 589 FT : 354 TP : 99 ! outstanding  AD : 82 FT : 0211214 TP : 625962 ! 
+Question: paid TP?
+Answer: 99
+
+Context: paid  AD : 589 FT : 354 TP : 99 ! outstanding  AD : 82 FT : 0211214 TP : 625962 ! 
+Question: outstanding AD?
+Answer: 82
+
+Context: paid  AD : 589 FT : 354 TP : 99 ! outstanding  AD : 82 FT : 0211214 TP : 625962 ! 
+Question: outstanding FT?
+Answer: 0211214
+
+Context: paid  AD : 589 FT : 354 TP : 99 ! outstanding  AD : 82 FT : 0211214 TP : 625962 ! 
+Question: outstanding TP?
+Answer: 625962
+
+Context: paid  FT : 6172483250 TP : 0 AD : 5358407598 ! outstanding  FT : 56 TP : 97342 AD : 633539903 ! 
+Question: paid FT?
+Answer: 6172483250
+
+Context: paid  FT : 6172483250 TP : 0 AD : 5358407598 ! outstanding  FT : 56 TP : 97342 AD : 633539903 ! 
+Question: paid TP?
+Answer: 0 ad : 5358407598 ! outstanding ft : 56 tp : 97342
+
+Context: paid  FT : 6172483250 TP : 0 AD : 5358407598 ! outstanding  FT : 56 TP : 97342 AD : 633539903 ! 
+Question: paid AD?
+Answer: 5358407598
+
+Context: paid  FT : 6172483250 TP : 0 AD : 5358407598 ! outstanding  FT : 56 TP : 97342 AD : 633539903 ! 
+Question: outstanding FT?
+Answer: 56
+
+Context: paid  FT : 6172483250 TP : 0 AD : 5358407598 ! outstanding  FT : 56 TP : 97342 AD : 633539903 ! 
+Question: outstanding TP?
+Answer: 97342
+
+Context: paid  FT : 6172483250 TP : 0 AD : 5358407598 ! outstanding  FT : 56 TP : 97342 AD : 633539903 ! 
+Question: outstanding AD?
+Answer: 633539903
+
+Context: paid  AD : 0742057 FT : 6 TP : 3165126158 ! outstanding  AD : 708352355 FT : 94351 TP : 4344273 ! 
+Question: paid AD?
+Answer: 0742057
+
+Context: paid  AD : 0742057 FT : 6 TP : 3165126158 ! outstanding  AD : 708352355 FT : 94351 TP : 4344273 ! 
+Question: paid FT?
+Answer: 6
+
+Context: paid  AD : 0742057 FT : 6 TP : 3165126158 ! outstanding  AD : 708352355 FT : 94351 TP : 4344273 ! 
+Question: paid TP?
+Answer: 3165126158
+
+Context: paid  AD : 0742057 FT : 6 TP : 3165126158 ! outstanding  AD : 708352355 FT : 94351 TP : 4344273 ! 
+Question: outstanding AD?
+Answer: 708352355
+
+Context: paid  AD : 0742057 FT : 6 TP : 3165126158 ! outstanding  AD : 708352355 FT : 94351 TP : 4344273 ! 
+Question: outstanding FT?
+Answer: 94351
+
+Context: paid  AD : 0742057 FT : 6 TP : 3165126158 ! outstanding  AD : 708352355 FT : 94351 TP : 4344273 ! 
+Question: outstanding TP?
+Answer: 4344273
+
+Context: paid  FT : 021050644 AD : 801476 TP : 34295 ! outstanding  FT : 82922 AD : 7053458 TP : 6399 ! 
+Question: paid FT?
+Answer: 021050644
+
+Context: paid  FT : 021050644 AD : 801476 TP : 34295 ! outstanding  FT : 82922 AD : 7053458 TP : 6399 ! 
+Question: paid AD?
+Answer: 801476
+
+Context: paid  FT : 021050644 AD : 801476 TP : 34295 ! outstanding  FT : 82922 AD : 7053458 TP : 6399 ! 
+Question: paid TP?
+Answer: empty
+
+Context: paid  FT : 021050644 AD : 801476 TP : 34295 ! outstanding  FT : 82922 AD : 7053458 TP : 6399 ! 
+Question: outstanding FT?
+Answer: 82922
+
+Context: paid  FT : 021050644 AD : 801476 TP : 34295 ! outstanding  FT : 82922 AD : 7053458 TP : 6399 ! 
+Question: outstanding AD?
+Answer: 7053458
+
+Context: paid  FT : 021050644 AD : 801476 TP : 34295 ! outstanding  FT : 82922 AD : 7053458 TP : 6399 ! 
+Question: outstanding TP?
+Answer: 6399
+
+Context: paid  TP : 4203414395 AD : 796209052 FT : 1017500195 ! outstanding  TP : 0 AD : 55017 FT : 3767101 ! 
+Question: paid TP?
+Answer: 4203414395
+
+Context: paid  TP : 4203414395 AD : 796209052 FT : 1017500195 ! outstanding  TP : 0 AD : 55017 FT : 3767101 ! 
+Question: paid AD?
+Answer: 796209052
+
+Context: paid  TP : 4203414395 AD : 796209052 FT : 1017500195 ! outstanding  TP : 0 AD : 55017 FT : 3767101 ! 
+Question: paid FT?
+Answer: 1017500195
+
+Context: paid  TP : 4203414395 AD : 796209052 FT : 1017500195 ! outstanding  TP : 0 AD : 55017 FT : 3767101 ! 
+Question: outstanding TP?
+Answer: 0
+
+Context: paid  TP : 4203414395 AD : 796209052 FT : 1017500195 ! outstanding  TP : 0 AD : 55017 FT : 3767101 ! 
+Question: outstanding AD?
+Answer: 55017
+
+Context: paid  TP : 4203414395 AD : 796209052 FT : 1017500195 ! outstanding  TP : 0 AD : 55017 FT : 3767101 ! 
+Question: outstanding FT?
+Answer: 3767101
+
+Context: paid  AD : 775052 TP : 82456329 FT : 9609594805 ! outstanding  AD : 98614287 TP : 441 FT : 391296490 ! 
+Question: paid AD?
+Answer: 775052
+
+Context: paid  AD : 775052 TP : 82456329 FT : 9609594805 ! outstanding  AD : 98614287 TP : 441 FT : 391296490 ! 
+Question: paid TP?
+Answer: 82456329
+
+Context: paid  AD : 775052 TP : 82456329 FT : 9609594805 ! outstanding  AD : 98614287 TP : 441 FT : 391296490 ! 
+Question: paid FT?
+Answer: 9609594805
+
+Context: paid  AD : 775052 TP : 82456329 FT : 9609594805 ! outstanding  AD : 98614287 TP : 441 FT : 391296490 ! 
+Question: outstanding AD?
+Answer: 98614287
+
+Context: paid  AD : 775052 TP : 82456329 FT : 9609594805 ! outstanding  AD : 98614287 TP : 441 FT : 391296490 ! 
+Question: outstanding TP?
+Answer: 441 ft : 391296490
+
+Context: paid  AD : 775052 TP : 82456329 FT : 9609594805 ! outstanding  AD : 98614287 TP : 441 FT : 391296490 ! 
+Question: outstanding FT?
+Answer: 391296490
+
+Context: paid  AD : 39460 FT : 2948410685 TP : 43277 ! outstanding  AD : 5358612 FT : 2 TP : 0834468 ! 
+Question: paid AD?
+Answer: 39460
+
+Context: paid  AD : 39460 FT : 2948410685 TP : 43277 ! outstanding  AD : 5358612 FT : 2 TP : 0834468 ! 
+Question: paid FT?
+Answer: 2948410685
+
+Context: paid  AD : 39460 FT : 2948410685 TP : 43277 ! outstanding  AD : 5358612 FT : 2 TP : 0834468 ! 
+Question: paid TP?
+Answer: empty
+
+Context: paid  AD : 39460 FT : 2948410685 TP : 43277 ! outstanding  AD : 5358612 FT : 2 TP : 0834468 ! 
+Question: outstanding AD?
+Answer: 5358612
+
+Context: paid  AD : 39460 FT : 2948410685 TP : 43277 ! outstanding  AD : 5358612 FT : 2 TP : 0834468 ! 
+Question: outstanding FT?
+Answer: 2
+
+Context: paid  AD : 39460 FT : 2948410685 TP : 43277 ! outstanding  AD : 5358612 FT : 2 TP : 0834468 ! 
+Question: outstanding TP?
+Answer: 0834468
+
+Context: paid  TP : 419 FT : 7 AD : 1436 ! outstanding  TP : 069905267 FT : 9 AD : 75 ! 
+Question: paid TP?
+Answer: 419
+
+Context: paid  TP : 419 FT : 7 AD : 1436 ! outstanding  TP : 069905267 FT : 9 AD : 75 ! 
+Question: paid FT?
+Answer: 7
+
+Context: paid  TP : 419 FT : 7 AD : 1436 ! outstanding  TP : 069905267 FT : 9 AD : 75 ! 
+Question: paid AD?
+Answer: 1436
+
+Context: paid  TP : 419 FT : 7 AD : 1436 ! outstanding  TP : 069905267 FT : 9 AD : 75 ! 
+Question: outstanding TP?
+Answer: 069905267
+
+Context: paid  TP : 419 FT : 7 AD : 1436 ! outstanding  TP : 069905267 FT : 9 AD : 75 ! 
+Question: outstanding FT?
+Answer: 9
+
+Context: paid  TP : 419 FT : 7 AD : 1436 ! outstanding  TP : 069905267 FT : 9 AD : 75 ! 
+Question: outstanding AD?
+Answer: empty
+
+Context: paid  TP : 4039817 AD : 8307 FT : 726064 ! outstanding  TP : 2234 AD : 5 FT : 229044547 ! 
+Question: paid TP?
+Answer: 4039817
+
+Context: paid  TP : 4039817 AD : 8307 FT : 726064 ! outstanding  TP : 2234 AD : 5 FT : 229044547 ! 
+Question: paid AD?
+Answer: 8307
+
+Context: paid  TP : 4039817 AD : 8307 FT : 726064 ! outstanding  TP : 2234 AD : 5 FT : 229044547 ! 
+Question: paid FT?
+Answer: 726064
+
+Context: paid  TP : 4039817 AD : 8307 FT : 726064 ! outstanding  TP : 2234 AD : 5 FT : 229044547 ! 
+Question: outstanding TP?
+Answer: 2234
+
+Context: paid  TP : 4039817 AD : 8307 FT : 726064 ! outstanding  TP : 2234 AD : 5 FT : 229044547 ! 
+Question: outstanding AD?
+Answer: 5 ft : 229044547
+
+Context: paid  TP : 4039817 AD : 8307 FT : 726064 ! outstanding  TP : 2234 AD : 5 FT : 229044547 ! 
+Question: outstanding FT?
+Answer: 229044547
+
+Context: paid  AD : 75372156 TP : 22975 FT : 3802069 ! outstanding  AD : 2826457 TP : 83 FT : 102 ! 
+Question: paid AD?
+Answer: 75372156
+
+Context: paid  AD : 75372156 TP : 22975 FT : 3802069 ! outstanding  AD : 2826457 TP : 83 FT : 102 ! 
+Question: paid TP?
+Answer: 22975
+
+Context: paid  AD : 75372156 TP : 22975 FT : 3802069 ! outstanding  AD : 2826457 TP : 83 FT : 102 ! 
+Question: paid FT?
+Answer: 3802069
+
+Context: paid  AD : 75372156 TP : 22975 FT : 3802069 ! outstanding  AD : 2826457 TP : 83 FT : 102 ! 
+Question: outstanding AD?
+Answer: 2826457
+
+Context: paid  AD : 75372156 TP : 22975 FT : 3802069 ! outstanding  AD : 2826457 TP : 83 FT : 102 ! 
+Question: outstanding TP?
+Answer: empty
+
+Context: paid  AD : 75372156 TP : 22975 FT : 3802069 ! outstanding  AD : 2826457 TP : 83 FT : 102 ! 
+Question: outstanding FT?
+Answer: 102
+
+Context: paid  AD : 112962 TP : 7208651 FT : 9699 ! outstanding  AD : 7388 TP : 07249420 FT : 83 ! 
+Question: paid AD?
+Answer: 112962
+
+Context: paid  AD : 112962 TP : 7208651 FT : 9699 ! outstanding  AD : 7388 TP : 07249420 FT : 83 ! 
+Question: paid TP?
+Answer: 7208651
+
+Context: paid  AD : 112962 TP : 7208651 FT : 9699 ! outstanding  AD : 7388 TP : 07249420 FT : 83 ! 
+Question: paid FT?
+Answer: 9699
+
+Context: paid  AD : 112962 TP : 7208651 FT : 9699 ! outstanding  AD : 7388 TP : 07249420 FT : 83 ! 
+Question: outstanding AD?
+Answer: 7388
+
+Context: paid  AD : 112962 TP : 7208651 FT : 9699 ! outstanding  AD : 7388 TP : 07249420 FT : 83 ! 
+Question: outstanding TP?
+Answer: 07249420
+
+Context: paid  AD : 112962 TP : 7208651 FT : 9699 ! outstanding  AD : 7388 TP : 07249420 FT : 83 ! 
+Question: outstanding FT?
+Answer: 83
+
+Context: paid  TP : 39118968 AD : 1271694591 FT : 330964 ! outstanding  TP : 56258851 AD : 77971 FT : 9 ! 
+Question: paid TP?
+Answer: 56258851
+
+Context: paid  TP : 39118968 AD : 1271694591 FT : 330964 ! outstanding  TP : 56258851 AD : 77971 FT : 9 ! 
+Question: paid AD?
+Answer: 77971
+
+Context: paid  TP : 39118968 AD : 1271694591 FT : 330964 ! outstanding  TP : 56258851 AD : 77971 FT : 9 ! 
+Question: paid FT?
+Answer: 330964
+
+Context: paid  TP : 39118968 AD : 1271694591 FT : 330964 ! outstanding  TP : 56258851 AD : 77971 FT : 9 ! 
+Question: outstanding TP?
+Answer: 56258851
+
+Context: paid  TP : 39118968 AD : 1271694591 FT : 330964 ! outstanding  TP : 56258851 AD : 77971 FT : 9 ! 
+Question: outstanding AD?
+Answer: empty
+
+Context: paid  TP : 39118968 AD : 1271694591 FT : 330964 ! outstanding  TP : 56258851 AD : 77971 FT : 9 ! 
+Question: outstanding FT?
+Answer: 9
+
+Context: paid  AD : 1 FT : 526 TP : 230422 ! outstanding  AD : 4593 FT : 2 TP : 763 ! 
+Question: paid AD?
+Answer: 1
+
+Context: paid  AD : 1 FT : 526 TP : 230422 ! outstanding  AD : 4593 FT : 2 TP : 763 ! 
+Question: paid FT?
+Answer: 526
+
+Context: paid  AD : 1 FT : 526 TP : 230422 ! outstanding  AD : 4593 FT : 2 TP : 763 ! 
+Question: paid TP?
+Answer: 230422
+
+Context: paid  AD : 1 FT : 526 TP : 230422 ! outstanding  AD : 4593 FT : 2 TP : 763 ! 
+Question: outstanding AD?
+Answer: 4593
+
+Context: paid  AD : 1 FT : 526 TP : 230422 ! outstanding  AD : 4593 FT : 2 TP : 763 ! 
+Question: outstanding FT?
+Answer: 2
+
+Context: paid  AD : 1 FT : 526 TP : 230422 ! outstanding  AD : 4593 FT : 2 TP : 763 ! 
+Question: outstanding TP?
+Answer: 230422 ! outstanding ad : 4593 ft : 2 tp : 763
+
+Context: paid  TP : 00 AD : 31602 FT : 501000938 ! outstanding  TP : 60705 AD : 988053 FT : 42 ! 
+Question: paid TP?
+Answer: 501000938
+
+Context: paid  TP : 00 AD : 31602 FT : 501000938 ! outstanding  TP : 60705 AD : 988053 FT : 42 ! 
+Question: paid AD?
+Answer: 31602
+
+Context: paid  TP : 00 AD : 31602 FT : 501000938 ! outstanding  TP : 60705 AD : 988053 FT : 42 ! 
+Question: paid FT?
+Answer: 501000938
+
+Context: paid  TP : 00 AD : 31602 FT : 501000938 ! outstanding  TP : 60705 AD : 988053 FT : 42 ! 
+Question: outstanding TP?
+Answer: 60705
+
+Context: paid  TP : 00 AD : 31602 FT : 501000938 ! outstanding  TP : 60705 AD : 988053 FT : 42 ! 
+Question: outstanding AD?
+Answer: 988053
+
+Context: paid  TP : 00 AD : 31602 FT : 501000938 ! outstanding  TP : 60705 AD : 988053 FT : 42 ! 
+Question: outstanding FT?
+Answer: 42
+
+Context: paid  TP : 7321318305 FT : 3850646282 AD : 0839328 ! outstanding  TP : 1270730253 FT : 25 AD : 241604 ! 
+Question: paid TP?
+Answer: 1270730253
+
+Context: paid  TP : 7321318305 FT : 3850646282 AD : 0839328 ! outstanding  TP : 1270730253 FT : 25 AD : 241604 ! 
+Question: paid FT?
+Answer: 3850646282
+
+Context: paid  TP : 7321318305 FT : 3850646282 AD : 0839328 ! outstanding  TP : 1270730253 FT : 25 AD : 241604 ! 
+Question: paid AD?
+Answer: 241604
+
+Context: paid  TP : 7321318305 FT : 3850646282 AD : 0839328 ! outstanding  TP : 1270730253 FT : 25 AD : 241604 ! 
+Question: outstanding TP?
+Answer: 1270730253
+
+Context: paid  TP : 7321318305 FT : 3850646282 AD : 0839328 ! outstanding  TP : 1270730253 FT : 25 AD : 241604 ! 
+Question: outstanding FT?
+Answer: 25
+
+Context: paid  TP : 7321318305 FT : 3850646282 AD : 0839328 ! outstanding  TP : 1270730253 FT : 25 AD : 241604 ! 
+Question: outstanding AD?
+Answer: 241604
+
+Context: paid  FT : 283729357 TP : 6667 AD : 9142165 ! outstanding  FT : 2 TP : 295148 AD : 954496798 ! 
+Question: paid FT?
+Answer: 283729357
+
+Context: paid  FT : 283729357 TP : 6667 AD : 9142165 ! outstanding  FT : 2 TP : 295148 AD : 954496798 ! 
+Question: paid TP?
+Answer: 6667
+
+Context: paid  FT : 283729357 TP : 6667 AD : 9142165 ! outstanding  FT : 2 TP : 295148 AD : 954496798 ! 
+Question: paid AD?
+Answer: 9142165
+
+Context: paid  FT : 283729357 TP : 6667 AD : 9142165 ! outstanding  FT : 2 TP : 295148 AD : 954496798 ! 
+Question: outstanding FT?
+Answer: 2
+
+Context: paid  FT : 283729357 TP : 6667 AD : 9142165 ! outstanding  FT : 2 TP : 295148 AD : 954496798 ! 
+Question: outstanding TP?
+Answer: 295148
+
+Context: paid  FT : 283729357 TP : 6667 AD : 9142165 ! outstanding  FT : 2 TP : 295148 AD : 954496798 ! 
+Question: outstanding AD?
+Answer: 954496798
+
+Context: paid  AD : 6460 FT : 4376912718 TP : 302466 ! outstanding  AD : 641255370 FT : 777 TP : 2 ! 
+Question: paid AD?
+Answer: 6460
+
+Context: paid  AD : 6460 FT : 4376912718 TP : 302466 ! outstanding  AD : 641255370 FT : 777 TP : 2 ! 
+Question: paid FT?
+Answer: 4376912718
+
+Context: paid  AD : 6460 FT : 4376912718 TP : 302466 ! outstanding  AD : 641255370 FT : 777 TP : 2 ! 
+Question: paid TP?
+Answer: 302466
+
+Context: paid  AD : 6460 FT : 4376912718 TP : 302466 ! outstanding  AD : 641255370 FT : 777 TP : 2 ! 
+Question: outstanding AD?
+Answer: 641255370
+
+Context: paid  AD : 6460 FT : 4376912718 TP : 302466 ! outstanding  AD : 641255370 FT : 777 TP : 2 ! 
+Question: outstanding FT?
+Answer: 777
+
+Context: paid  AD : 6460 FT : 4376912718 TP : 302466 ! outstanding  AD : 641255370 FT : 777 TP : 2 ! 
+Question: outstanding TP?
+Answer: 2
+
+Context: paid  AD : 5624 FT : 86 TP : 64409 ! outstanding  AD : 30688 FT : 7422846 TP : 462042 ! 
+Question: paid AD?
+Answer: 30688
+
+Context: paid  AD : 5624 FT : 86 TP : 64409 ! outstanding  AD : 30688 FT : 7422846 TP : 462042 ! 
+Question: paid FT?
+Answer: 7422846
+
+Context: paid  AD : 5624 FT : 86 TP : 64409 ! outstanding  AD : 30688 FT : 7422846 TP : 462042 ! 
+Question: paid TP?
+Answer: 64409
+
+Context: paid  AD : 5624 FT : 86 TP : 64409 ! outstanding  AD : 30688 FT : 7422846 TP : 462042 ! 
+Question: outstanding AD?
+Answer: 30688
+
+Context: paid  AD : 5624 FT : 86 TP : 64409 ! outstanding  AD : 30688 FT : 7422846 TP : 462042 ! 
+Question: outstanding FT?
+Answer: 7422846
+
+Context: paid  AD : 5624 FT : 86 TP : 64409 ! outstanding  AD : 30688 FT : 7422846 TP : 462042 ! 
+Question: outstanding TP?
+Answer: 462042
+
+Context: paid  FT : 025798592 TP : 976 AD : 8 ! outstanding  FT : 3955373450 TP : 4314582 AD : 363 ! 
+Question: paid FT?
+Answer: 025798592
+
+Context: paid  FT : 025798592 TP : 976 AD : 8 ! outstanding  FT : 3955373450 TP : 4314582 AD : 363 ! 
+Question: paid TP?
+Answer: 976
+
+Context: paid  FT : 025798592 TP : 976 AD : 8 ! outstanding  FT : 3955373450 TP : 4314582 AD : 363 ! 
+Question: paid AD?
+Answer: 8
+
+Context: paid  FT : 025798592 TP : 976 AD : 8 ! outstanding  FT : 3955373450 TP : 4314582 AD : 363 ! 
+Question: outstanding FT?
+Answer: 3955373450
+
+Context: paid  FT : 025798592 TP : 976 AD : 8 ! outstanding  FT : 3955373450 TP : 4314582 AD : 363 ! 
+Question: outstanding TP?
+Answer: 4314582
+
+Context: paid  FT : 025798592 TP : 976 AD : 8 ! outstanding  FT : 3955373450 TP : 4314582 AD : 363 ! 
+Question: outstanding AD?
+Answer: 363
+
+Context: paid  TP : 211291 FT : 88 AD : 225283771 ! outstanding  TP : 9213804 FT : 663869 AD : 6463367 ! 
+Question: paid TP?
+Answer: 211291
+
+Context: paid  TP : 211291 FT : 88 AD : 225283771 ! outstanding  TP : 9213804 FT : 663869 AD : 6463367 ! 
+Question: paid FT?
+Answer: 88
+
+Context: paid  TP : 211291 FT : 88 AD : 225283771 ! outstanding  TP : 9213804 FT : 663869 AD : 6463367 ! 
+Question: paid AD?
+Answer: 225283771
+
+Context: paid  TP : 211291 FT : 88 AD : 225283771 ! outstanding  TP : 9213804 FT : 663869 AD : 6463367 ! 
+Question: outstanding TP?
+Answer: 9213804
+
+Context: paid  TP : 211291 FT : 88 AD : 225283771 ! outstanding  TP : 9213804 FT : 663869 AD : 6463367 ! 
+Question: outstanding FT?
+Answer: 663869
+
+Context: paid  TP : 211291 FT : 88 AD : 225283771 ! outstanding  TP : 9213804 FT : 663869 AD : 6463367 ! 
+Question: outstanding AD?
+Answer: 6463367
+
+Context: paid  TP : 6 FT : 699248 AD : 4 ! outstanding  TP : 5 FT : 7586847 AD : 9969 ! 
+Question: paid TP?
+Answer: 6
+
+Context: paid  TP : 6 FT : 699248 AD : 4 ! outstanding  TP : 5 FT : 7586847 AD : 9969 ! 
+Question: paid FT?
+Answer: 699248
+
+Context: paid  TP : 6 FT : 699248 AD : 4 ! outstanding  TP : 5 FT : 7586847 AD : 9969 ! 
+Question: paid AD?
+Answer: 4
+
+Context: paid  TP : 6 FT : 699248 AD : 4 ! outstanding  TP : 5 FT : 7586847 AD : 9969 ! 
+Question: outstanding TP?
+Answer: 5
+
+Context: paid  TP : 6 FT : 699248 AD : 4 ! outstanding  TP : 5 FT : 7586847 AD : 9969 ! 
+Question: outstanding FT?
+Answer: 7586847
+
+Context: paid  TP : 6 FT : 699248 AD : 4 ! outstanding  TP : 5 FT : 7586847 AD : 9969 ! 
+Question: outstanding AD?
+Answer: 9969
+
+Context: paid  FT : 7760 AD : 868074 TP : 34135878 ! outstanding  FT : 8834727 AD : 0665317 TP : 6297429504 ! 
+Question: paid FT?
+Answer: 7760
+
+Context: paid  FT : 7760 AD : 868074 TP : 34135878 ! outstanding  FT : 8834727 AD : 0665317 TP : 6297429504 ! 
+Question: paid AD?
+Answer: 868074
+
+Context: paid  FT : 7760 AD : 868074 TP : 34135878 ! outstanding  FT : 8834727 AD : 0665317 TP : 6297429504 ! 
+Question: paid TP?
+Answer: 34135878
+
+Context: paid  FT : 7760 AD : 868074 TP : 34135878 ! outstanding  FT : 8834727 AD : 0665317 TP : 6297429504 ! 
+Question: outstanding FT?
+Answer: 8834727
+
+Context: paid  FT : 7760 AD : 868074 TP : 34135878 ! outstanding  FT : 8834727 AD : 0665317 TP : 6297429504 ! 
+Question: outstanding AD?
+Answer: 0665317
+
+Context: paid  FT : 7760 AD : 868074 TP : 34135878 ! outstanding  FT : 8834727 AD : 0665317 TP : 6297429504 ! 
+Question: outstanding TP?
+Answer: 6297429504
+
+Context: paid  FT : 89 TP : 4815 AD : 18513295 ! outstanding  FT : 10 TP : 6316 AD : 101071 ! 
+Question: paid FT?
+Answer: 10
+
+Context: paid  FT : 89 TP : 4815 AD : 18513295 ! outstanding  FT : 10 TP : 6316 AD : 101071 ! 
+Question: paid TP?
+Answer: 4815
+
+Context: paid  FT : 89 TP : 4815 AD : 18513295 ! outstanding  FT : 10 TP : 6316 AD : 101071 ! 
+Question: paid AD?
+Answer: 18513295
+
+Context: paid  FT : 89 TP : 4815 AD : 18513295 ! outstanding  FT : 10 TP : 6316 AD : 101071 ! 
+Question: outstanding FT?
+Answer: 10
+
+Context: paid  FT : 89 TP : 4815 AD : 18513295 ! outstanding  FT : 10 TP : 6316 AD : 101071 ! 
+Question: outstanding TP?
+Answer: 6316
+
+Context: paid  FT : 89 TP : 4815 AD : 18513295 ! outstanding  FT : 10 TP : 6316 AD : 101071 ! 
+Question: outstanding AD?
+Answer: 101071
+
+Context: paid  FT : 668331023 TP : 774 AD : 34139 ! outstanding  FT : 67545 TP : 9445046859 AD : 340 ! 
+Question: paid FT?
+Answer: 67545
+
+Context: paid  FT : 668331023 TP : 774 AD : 34139 ! outstanding  FT : 67545 TP : 9445046859 AD : 340 ! 
+Question: paid TP?
+Answer: 9445046859
+
+Context: paid  FT : 668331023 TP : 774 AD : 34139 ! outstanding  FT : 67545 TP : 9445046859 AD : 340 ! 
+Question: paid AD?
+Answer: 34139
+
+Context: paid  FT : 668331023 TP : 774 AD : 34139 ! outstanding  FT : 67545 TP : 9445046859 AD : 340 ! 
+Question: outstanding FT?
+Answer: 67545
+
+Context: paid  FT : 668331023 TP : 774 AD : 34139 ! outstanding  FT : 67545 TP : 9445046859 AD : 340 ! 
+Question: outstanding TP?
+Answer: 9445046859
+
+Context: paid  FT : 668331023 TP : 774 AD : 34139 ! outstanding  FT : 67545 TP : 9445046859 AD : 340 ! 
+Question: outstanding AD?
+Answer: 340
+
+Context: paid  AD : 1733629 FT : 0887 TP : 4170 ! outstanding  AD : 8 FT : 220368 TP : 896054 ! 
+Question: paid AD?
+Answer: 1733629
+
+Context: paid  AD : 1733629 FT : 0887 TP : 4170 ! outstanding  AD : 8 FT : 220368 TP : 896054 ! 
+Question: paid FT?
+Answer: 0887
+
+Context: paid  AD : 1733629 FT : 0887 TP : 4170 ! outstanding  AD : 8 FT : 220368 TP : 896054 ! 
+Question: paid TP?
+Answer: 4170
+
+Context: paid  AD : 1733629 FT : 0887 TP : 4170 ! outstanding  AD : 8 FT : 220368 TP : 896054 ! 
+Question: outstanding AD?
+Answer: 8
+
+Context: paid  AD : 1733629 FT : 0887 TP : 4170 ! outstanding  AD : 8 FT : 220368 TP : 896054 ! 
+Question: outstanding FT?
+Answer: 220368
+
+Context: paid  AD : 1733629 FT : 0887 TP : 4170 ! outstanding  AD : 8 FT : 220368 TP : 896054 ! 
+Question: outstanding TP?
+Answer: 896054
+
+Context: paid  TP : 6 FT : 746302 AD : 63524753 ! outstanding  TP : 54 FT : 868 AD : 1 ! 
+Question: paid TP?
+Answer: 6
+
+Context: paid  TP : 6 FT : 746302 AD : 63524753 ! outstanding  TP : 54 FT : 868 AD : 1 ! 
+Question: paid FT?
+Answer: 746302
+
+Context: paid  TP : 6 FT : 746302 AD : 63524753 ! outstanding  TP : 54 FT : 868 AD : 1 ! 
+Question: paid AD?
+Answer: 63524753
+
+Context: paid  TP : 6 FT : 746302 AD : 63524753 ! outstanding  TP : 54 FT : 868 AD : 1 ! 
+Question: outstanding TP?
+Answer: 54
+
+Context: paid  TP : 6 FT : 746302 AD : 63524753 ! outstanding  TP : 54 FT : 868 AD : 1 ! 
+Question: outstanding FT?
+Answer: 868
+
+Context: paid  TP : 6 FT : 746302 AD : 63524753 ! outstanding  TP : 54 FT : 868 AD : 1 ! 
+Question: outstanding AD?
+Answer: 1
+
+Context: paid  TP : 433442 AD : 93342 FT : 2286758484 ! outstanding  TP : 713718724 AD : 50725627 FT : 324699417 ! 
+Question: paid TP?
+Answer: 433442
+
+Context: paid  TP : 433442 AD : 93342 FT : 2286758484 ! outstanding  TP : 713718724 AD : 50725627 FT : 324699417 ! 
+Question: paid AD?
+Answer: 93342
+
+Context: paid  TP : 433442 AD : 93342 FT : 2286758484 ! outstanding  TP : 713718724 AD : 50725627 FT : 324699417 ! 
+Question: paid FT?
+Answer: 2286758484
+
+Context: paid  TP : 433442 AD : 93342 FT : 2286758484 ! outstanding  TP : 713718724 AD : 50725627 FT : 324699417 ! 
+Question: outstanding TP?
+Answer: 713718724
+
+Context: paid  TP : 433442 AD : 93342 FT : 2286758484 ! outstanding  TP : 713718724 AD : 50725627 FT : 324699417 ! 
+Question: outstanding AD?
+Answer: 50725627
+
+Context: paid  TP : 433442 AD : 93342 FT : 2286758484 ! outstanding  TP : 713718724 AD : 50725627 FT : 324699417 ! 
+Question: outstanding FT?
+Answer: 324699417
+
+Context: paid  AD : 133 FT : 14508 TP : 431105925 ! outstanding  AD : 046036 FT : 2 TP : 1831376 ! 
+Question: paid AD?
+Answer: 133
+
+Context: paid  AD : 133 FT : 14508 TP : 431105925 ! outstanding  AD : 046036 FT : 2 TP : 1831376 ! 
+Question: paid FT?
+Answer: 14508
+
+Context: paid  AD : 133 FT : 14508 TP : 431105925 ! outstanding  AD : 046036 FT : 2 TP : 1831376 ! 
+Question: paid TP?
+Answer: 431105925
+
+Context: paid  AD : 133 FT : 14508 TP : 431105925 ! outstanding  AD : 046036 FT : 2 TP : 1831376 ! 
+Question: outstanding AD?
+Answer: 046036
+
+Context: paid  AD : 133 FT : 14508 TP : 431105925 ! outstanding  AD : 046036 FT : 2 TP : 1831376 ! 
+Question: outstanding FT?
+Answer: 2
+
+Context: paid  AD : 133 FT : 14508 TP : 431105925 ! outstanding  AD : 046036 FT : 2 TP : 1831376 ! 
+Question: outstanding TP?
+Answer: 1831376
+
+Context: paid  AD : 31749 TP : 11846371 FT : 88 ! outstanding  AD : 5968854189 TP : 838 FT : 2989563 ! 
+Question: paid AD?
+Answer: 31749
+
+Context: paid  AD : 31749 TP : 11846371 FT : 88 ! outstanding  AD : 5968854189 TP : 838 FT : 2989563 ! 
+Question: paid TP?
+Answer: 11846371
+
+Context: paid  AD : 31749 TP : 11846371 FT : 88 ! outstanding  AD : 5968854189 TP : 838 FT : 2989563 ! 
+Question: paid FT?
+Answer: 88
+
+Context: paid  AD : 31749 TP : 11846371 FT : 88 ! outstanding  AD : 5968854189 TP : 838 FT : 2989563 ! 
+Question: outstanding AD?
+Answer: 5968854189
+
+Context: paid  AD : 31749 TP : 11846371 FT : 88 ! outstanding  AD : 5968854189 TP : 838 FT : 2989563 ! 
+Question: outstanding TP?
+Answer: 838
+
+Context: paid  AD : 31749 TP : 11846371 FT : 88 ! outstanding  AD : 5968854189 TP : 838 FT : 2989563 ! 
+Question: outstanding FT?
+Answer: 2989563
+
+Context: paid  TP : 46 FT : 8 AD : 2649 ! outstanding  TP : 0877129 FT : 947 AD : 8223756 ! 
+Question: paid TP?
+Answer: 46 ft : 8 ad : 2649 ! outstanding tp : 0877129
+
+Context: paid  TP : 46 FT : 8 AD : 2649 ! outstanding  TP : 0877129 FT : 947 AD : 8223756 ! 
+Question: paid FT?
+Answer: 8
+
+Context: paid  TP : 46 FT : 8 AD : 2649 ! outstanding  TP : 0877129 FT : 947 AD : 8223756 ! 
+Question: paid AD?
+Answer: 2649
+
+Context: paid  TP : 46 FT : 8 AD : 2649 ! outstanding  TP : 0877129 FT : 947 AD : 8223756 ! 
+Question: outstanding TP?
+Answer: 0877129
+
+Context: paid  TP : 46 FT : 8 AD : 2649 ! outstanding  TP : 0877129 FT : 947 AD : 8223756 ! 
+Question: outstanding FT?
+Answer: 947
+
+Context: paid  TP : 46 FT : 8 AD : 2649 ! outstanding  TP : 0877129 FT : 947 AD : 8223756 ! 
+Question: outstanding AD?
+Answer: 8223756
+
+Context: paid  AD : 213 TP : 413261255 FT : 9171207 ! outstanding  AD : 614 TP : 5959 FT : 8 ! 
+Question: paid AD?
+Answer: 213
+
+Context: paid  AD : 213 TP : 413261255 FT : 9171207 ! outstanding  AD : 614 TP : 5959 FT : 8 ! 
+Question: paid TP?
+Answer: 413261255
+
+Context: paid  AD : 213 TP : 413261255 FT : 9171207 ! outstanding  AD : 614 TP : 5959 FT : 8 ! 
+Question: paid FT?
+Answer: 9171207
+
+Context: paid  AD : 213 TP : 413261255 FT : 9171207 ! outstanding  AD : 614 TP : 5959 FT : 8 ! 
+Question: outstanding AD?
+Answer: 614
+
+Context: paid  AD : 213 TP : 413261255 FT : 9171207 ! outstanding  AD : 614 TP : 5959 FT : 8 ! 
+Question: outstanding TP?
+Answer: 5959
+
+Context: paid  AD : 213 TP : 413261255 FT : 9171207 ! outstanding  AD : 614 TP : 5959 FT : 8 ! 
+Question: outstanding FT?
+Answer: 8
+
+Context: paid  TP : 51 AD : 5852377 FT : 045365651 ! outstanding  TP : 085585334 AD : 0289633312 FT : 3197855 ! 
+Question: paid TP?
+Answer: 51 ad : 5852377 ft : 045365651
+
+Context: paid  TP : 51 AD : 5852377 FT : 045365651 ! outstanding  TP : 085585334 AD : 0289633312 FT : 3197855 ! 
+Question: paid AD?
+Answer: 5852377
+
+Context: paid  TP : 51 AD : 5852377 FT : 045365651 ! outstanding  TP : 085585334 AD : 0289633312 FT : 3197855 ! 
+Question: paid FT?
+Answer: 045365651
+
+Context: paid  TP : 51 AD : 5852377 FT : 045365651 ! outstanding  TP : 085585334 AD : 0289633312 FT : 3197855 ! 
+Question: outstanding TP?
+Answer: 085585334
+
+Context: paid  TP : 51 AD : 5852377 FT : 045365651 ! outstanding  TP : 085585334 AD : 0289633312 FT : 3197855 ! 
+Question: outstanding AD?
+Answer: 0289633312
+
+Context: paid  TP : 51 AD : 5852377 FT : 045365651 ! outstanding  TP : 085585334 AD : 0289633312 FT : 3197855 ! 
+Question: outstanding FT?
+Answer: 3197855
+
+Context: paid  AD : 51797058 FT : 0 TP : 401118 ! outstanding  AD : 1776 FT : 1506 TP : 786 ! 
+Question: paid AD?
+Answer: 51797058
+
+Context: paid  AD : 51797058 FT : 0 TP : 401118 ! outstanding  AD : 1776 FT : 1506 TP : 786 ! 
+Question: paid FT?
+Answer: 0
+
+Context: paid  AD : 51797058 FT : 0 TP : 401118 ! outstanding  AD : 1776 FT : 1506 TP : 786 ! 
+Question: paid TP?
+Answer: 401118
+
+Context: paid  AD : 51797058 FT : 0 TP : 401118 ! outstanding  AD : 1776 FT : 1506 TP : 786 ! 
+Question: outstanding AD?
+Answer: 1776
+
+Context: paid  AD : 51797058 FT : 0 TP : 401118 ! outstanding  AD : 1776 FT : 1506 TP : 786 ! 
+Question: outstanding FT?
+Answer: 1506
+
+Context: paid  AD : 51797058 FT : 0 TP : 401118 ! outstanding  AD : 1776 FT : 1506 TP : 786 ! 
+Question: outstanding TP?
+Answer: 786
+
+Context: paid  FT : 8850 TP : 96185 AD : 8001037 ! outstanding  FT : 688155958 TP : 22403514 AD : 45710034 ! 
+Question: paid FT?
+Answer: 8850
+
+Context: paid  FT : 8850 TP : 96185 AD : 8001037 ! outstanding  FT : 688155958 TP : 22403514 AD : 45710034 ! 
+Question: paid TP?
+Answer: 96185
+
+Context: paid  FT : 8850 TP : 96185 AD : 8001037 ! outstanding  FT : 688155958 TP : 22403514 AD : 45710034 ! 
+Question: paid AD?
+Answer: 8001037
+
+Context: paid  FT : 8850 TP : 96185 AD : 8001037 ! outstanding  FT : 688155958 TP : 22403514 AD : 45710034 ! 
+Question: outstanding FT?
+Answer: 688155958
+
+Context: paid  FT : 8850 TP : 96185 AD : 8001037 ! outstanding  FT : 688155958 TP : 22403514 AD : 45710034 ! 
+Question: outstanding TP?
+Answer: 22403514
+
+Context: paid  FT : 8850 TP : 96185 AD : 8001037 ! outstanding  FT : 688155958 TP : 22403514 AD : 45710034 ! 
+Question: outstanding AD?
+Answer: 45710034
+
+Context: paid  AD : 078 FT : 6110023475 TP : 2 ! outstanding  AD : 036927 FT : 0435 TP : 316 ! 
+Question: paid AD?
+Answer: 078
+
+Context: paid  AD : 078 FT : 6110023475 TP : 2 ! outstanding  AD : 036927 FT : 0435 TP : 316 ! 
+Question: paid FT?
+Answer: 6110023475
+
+Context: paid  AD : 078 FT : 6110023475 TP : 2 ! outstanding  AD : 036927 FT : 0435 TP : 316 ! 
+Question: paid TP?
+Answer: 2
+
+Context: paid  AD : 078 FT : 6110023475 TP : 2 ! outstanding  AD : 036927 FT : 0435 TP : 316 ! 
+Question: outstanding AD?
+Answer: 036927
+
+Context: paid  AD : 078 FT : 6110023475 TP : 2 ! outstanding  AD : 036927 FT : 0435 TP : 316 ! 
+Question: outstanding FT?
+Answer: 0435
+
+Context: paid  AD : 078 FT : 6110023475 TP : 2 ! outstanding  AD : 036927 FT : 0435 TP : 316 ! 
+Question: outstanding TP?
+Answer: 316
+
+Context: paid  TP : 641 AD : 273537 FT : 981 ! outstanding  TP : 739246 AD : 1 FT : 8 ! 
+Question: paid TP?
+Answer: 641
+
+Context: paid  TP : 641 AD : 273537 FT : 981 ! outstanding  TP : 739246 AD : 1 FT : 8 ! 
+Question: paid AD?
+Answer: 273537
+
+Context: paid  TP : 641 AD : 273537 FT : 981 ! outstanding  TP : 739246 AD : 1 FT : 8 ! 
+Question: paid FT?
+Answer: 981
+
+Context: paid  TP : 641 AD : 273537 FT : 981 ! outstanding  TP : 739246 AD : 1 FT : 8 ! 
+Question: outstanding TP?
+Answer: 739246
+
+Context: paid  TP : 641 AD : 273537 FT : 981 ! outstanding  TP : 739246 AD : 1 FT : 8 ! 
+Question: outstanding AD?
+Answer: 1
+
+Context: paid  TP : 641 AD : 273537 FT : 981 ! outstanding  TP : 739246 AD : 1 FT : 8 ! 
+Question: outstanding FT?
+Answer: 8
+
+Context: paid  AD : 46702 TP : 415232 FT : 87007801 ! outstanding  AD : 2620 TP : 61223096 FT : 0196709 ! 
+Question: paid AD?
+Answer: 46702
+
+Context: paid  AD : 46702 TP : 415232 FT : 87007801 ! outstanding  AD : 2620 TP : 61223096 FT : 0196709 ! 
+Question: paid TP?
+Answer: 415232
+
+Context: paid  AD : 46702 TP : 415232 FT : 87007801 ! outstanding  AD : 2620 TP : 61223096 FT : 0196709 ! 
+Question: paid FT?
+Answer: 87007801
+
+Context: paid  AD : 46702 TP : 415232 FT : 87007801 ! outstanding  AD : 2620 TP : 61223096 FT : 0196709 ! 
+Question: outstanding AD?
+Answer: 2620
+
+Context: paid  AD : 46702 TP : 415232 FT : 87007801 ! outstanding  AD : 2620 TP : 61223096 FT : 0196709 ! 
+Question: outstanding TP?
+Answer: 61223096
+
+Context: paid  AD : 46702 TP : 415232 FT : 87007801 ! outstanding  AD : 2620 TP : 61223096 FT : 0196709 ! 
+Question: outstanding FT?
+Answer: 0196709
+
+Context: paid  TP : 477200776 FT : 5 AD : 5775 ! outstanding  TP : 7492906 FT : 58266 AD : 4 ! 
+Question: paid TP?
+Answer: 477200776
+
+Context: paid  TP : 477200776 FT : 5 AD : 5775 ! outstanding  TP : 7492906 FT : 58266 AD : 4 ! 
+Question: paid FT?
+Answer: 5
+
+Context: paid  TP : 477200776 FT : 5 AD : 5775 ! outstanding  TP : 7492906 FT : 58266 AD : 4 ! 
+Question: paid AD?
+Answer: 5775
+
+Context: paid  TP : 477200776 FT : 5 AD : 5775 ! outstanding  TP : 7492906 FT : 58266 AD : 4 ! 
+Question: outstanding TP?
+Answer: 7492906
+
+Context: paid  TP : 477200776 FT : 5 AD : 5775 ! outstanding  TP : 7492906 FT : 58266 AD : 4 ! 
+Question: outstanding FT?
+Answer: 58266
+
+Context: paid  TP : 477200776 FT : 5 AD : 5775 ! outstanding  TP : 7492906 FT : 58266 AD : 4 ! 
+Question: outstanding AD?
+Answer: 4
+
+Context: paid  TP : 058 FT : 1 AD : 3233411987 ! outstanding  TP : 455475459 FT : 4 AD : 63381258 ! 
+Question: paid TP?
+Answer: 058
+
+Context: paid  TP : 058 FT : 1 AD : 3233411987 ! outstanding  TP : 455475459 FT : 4 AD : 63381258 ! 
+Question: paid FT?
+Answer: 1
+
+Context: paid  TP : 058 FT : 1 AD : 3233411987 ! outstanding  TP : 455475459 FT : 4 AD : 63381258 ! 
+Question: paid AD?
+Answer: 3233411987
+
+Context: paid  TP : 058 FT : 1 AD : 3233411987 ! outstanding  TP : 455475459 FT : 4 AD : 63381258 ! 
+Question: outstanding TP?
+Answer: 455475459
+
+Context: paid  TP : 058 FT : 1 AD : 3233411987 ! outstanding  TP : 455475459 FT : 4 AD : 63381258 ! 
+Question: outstanding FT?
+Answer: 4
+
+Context: paid  TP : 058 FT : 1 AD : 3233411987 ! outstanding  TP : 455475459 FT : 4 AD : 63381258 ! 
+Question: outstanding AD?
+Answer: 63381258
+
+Context: paid  FT : 62677040 TP : 72829 AD : 597 ! outstanding  FT : 34527296 TP : 0450738 AD : 44755 ! 
+Question: paid FT?
+Answer: 62677040
+
+Context: paid  FT : 62677040 TP : 72829 AD : 597 ! outstanding  FT : 34527296 TP : 0450738 AD : 44755 ! 
+Question: paid TP?
+Answer: 72829
+
+Context: paid  FT : 62677040 TP : 72829 AD : 597 ! outstanding  FT : 34527296 TP : 0450738 AD : 44755 ! 
+Question: paid AD?
+Answer: 597
+
+Context: paid  FT : 62677040 TP : 72829 AD : 597 ! outstanding  FT : 34527296 TP : 0450738 AD : 44755 ! 
+Question: outstanding FT?
+Answer: 34527296
+
+Context: paid  FT : 62677040 TP : 72829 AD : 597 ! outstanding  FT : 34527296 TP : 0450738 AD : 44755 ! 
+Question: outstanding TP?
+Answer: 0450738
+
+Context: paid  FT : 62677040 TP : 72829 AD : 597 ! outstanding  FT : 34527296 TP : 0450738 AD : 44755 ! 
+Question: outstanding AD?
+Answer: 44755
+
+Context: paid  FT : 5 TP : 2544742572 AD : 94811262 ! outstanding  FT : 73523 TP : 7 AD : 924215557 ! 
+Question: paid FT?
+Answer: 73523
+
+Context: paid  FT : 5 TP : 2544742572 AD : 94811262 ! outstanding  FT : 73523 TP : 7 AD : 924215557 ! 
+Question: paid TP?
+Answer: 2544742572
+
+Context: paid  FT : 5 TP : 2544742572 AD : 94811262 ! outstanding  FT : 73523 TP : 7 AD : 924215557 ! 
+Question: paid AD?
+Answer: 94811262
+
+Context: paid  FT : 5 TP : 2544742572 AD : 94811262 ! outstanding  FT : 73523 TP : 7 AD : 924215557 ! 
+Question: outstanding FT?
+Answer: 73523
+
+Context: paid  FT : 5 TP : 2544742572 AD : 94811262 ! outstanding  FT : 73523 TP : 7 AD : 924215557 ! 
+Question: outstanding TP?
+Answer: 7
+
+Context: paid  FT : 5 TP : 2544742572 AD : 94811262 ! outstanding  FT : 73523 TP : 7 AD : 924215557 ! 
+Question: outstanding AD?
+Answer: 924215557
+
+Context: paid  FT : 77918 TP : 120818 AD : 306 ! outstanding  FT : 0552599928 TP : 629 AD : 1 ! 
+Question: paid FT?
+Answer: 77918
+
+Context: paid  FT : 77918 TP : 120818 AD : 306 ! outstanding  FT : 0552599928 TP : 629 AD : 1 ! 
+Question: paid TP?
+Answer: 120818
+
+Context: paid  FT : 77918 TP : 120818 AD : 306 ! outstanding  FT : 0552599928 TP : 629 AD : 1 ! 
+Question: paid AD?
+Answer: 306
+
+Context: paid  FT : 77918 TP : 120818 AD : 306 ! outstanding  FT : 0552599928 TP : 629 AD : 1 ! 
+Question: outstanding FT?
+Answer: 0552599928
+
+Context: paid  FT : 77918 TP : 120818 AD : 306 ! outstanding  FT : 0552599928 TP : 629 AD : 1 ! 
+Question: outstanding TP?
+Answer: 629
+
+Context: paid  FT : 77918 TP : 120818 AD : 306 ! outstanding  FT : 0552599928 TP : 629 AD : 1 ! 
+Question: outstanding AD?
+Answer: 1
+
+Context: paid  FT : 06 TP : 719382369 AD : 091922 ! outstanding  FT : 7987242 TP : 821686 AD : 6111310 ! 
+Question: paid FT?
+Answer: 06
+
+Context: paid  FT : 06 TP : 719382369 AD : 091922 ! outstanding  FT : 7987242 TP : 821686 AD : 6111310 ! 
+Question: paid TP?
+Answer: 719382369
+
+Context: paid  FT : 06 TP : 719382369 AD : 091922 ! outstanding  FT : 7987242 TP : 821686 AD : 6111310 ! 
+Question: paid AD?
+Answer: 091922
+
+Context: paid  FT : 06 TP : 719382369 AD : 091922 ! outstanding  FT : 7987242 TP : 821686 AD : 6111310 ! 
+Question: outstanding FT?
+Answer: 7987242
+
+Context: paid  FT : 06 TP : 719382369 AD : 091922 ! outstanding  FT : 7987242 TP : 821686 AD : 6111310 ! 
+Question: outstanding TP?
+Answer: 821686
+
+Context: paid  FT : 06 TP : 719382369 AD : 091922 ! outstanding  FT : 7987242 TP : 821686 AD : 6111310 ! 
+Question: outstanding AD?
+Answer: 6111310
+
+Context: paid  AD : 5 TP : 2993496 FT : 14088 ! outstanding  AD : 0 TP : 6586686269 FT : 1318690 ! 
+Question: paid AD?
+Answer: 5
+
+Context: paid  AD : 5 TP : 2993496 FT : 14088 ! outstanding  AD : 0 TP : 6586686269 FT : 1318690 ! 
+Question: paid TP?
+Answer: 2993496
+
+Context: paid  AD : 5 TP : 2993496 FT : 14088 ! outstanding  AD : 0 TP : 6586686269 FT : 1318690 ! 
+Question: paid FT?
+Answer: 14088
+
+Context: paid  AD : 5 TP : 2993496 FT : 14088 ! outstanding  AD : 0 TP : 6586686269 FT : 1318690 ! 
+Question: outstanding AD?
+Answer: 0 tp : 6586686269 ft : 1318690
+
+Context: paid  AD : 5 TP : 2993496 FT : 14088 ! outstanding  AD : 0 TP : 6586686269 FT : 1318690 ! 
+Question: outstanding TP?
+Answer: 6586686269
+
+Context: paid  AD : 5 TP : 2993496 FT : 14088 ! outstanding  AD : 0 TP : 6586686269 FT : 1318690 ! 
+Question: outstanding FT?
+Answer: 1318690
+
+Context: paid  TP : 5598 FT : 724140 AD : 7103 ! outstanding  TP : 7351 FT : 63 AD : 924 ! 
+Question: paid TP?
+Answer: 5598
+
+Context: paid  TP : 5598 FT : 724140 AD : 7103 ! outstanding  TP : 7351 FT : 63 AD : 924 ! 
+Question: paid FT?
+Answer: 724140
+
+Context: paid  TP : 5598 FT : 724140 AD : 7103 ! outstanding  TP : 7351 FT : 63 AD : 924 ! 
+Question: paid AD?
+Answer: 7103
+
+Context: paid  TP : 5598 FT : 724140 AD : 7103 ! outstanding  TP : 7351 FT : 63 AD : 924 ! 
+Question: outstanding TP?
+Answer: 7351
+
+Context: paid  TP : 5598 FT : 724140 AD : 7103 ! outstanding  TP : 7351 FT : 63 AD : 924 ! 
+Question: outstanding FT?
+Answer: 63
+
+Context: paid  TP : 5598 FT : 724140 AD : 7103 ! outstanding  TP : 7351 FT : 63 AD : 924 ! 
+Question: outstanding AD?
+Answer: 924
+
+Context: paid  AD : 68325 FT : 42895 TP : 0993377 ! outstanding  AD : 313 FT : 73353 TP : 1082290034 ! 
+Question: paid AD?
+Answer: 68325
+
+Context: paid  AD : 68325 FT : 42895 TP : 0993377 ! outstanding  AD : 313 FT : 73353 TP : 1082290034 ! 
+Question: paid FT?
+Answer: 42895
+
+Context: paid  AD : 68325 FT : 42895 TP : 0993377 ! outstanding  AD : 313 FT : 73353 TP : 1082290034 ! 
+Question: paid TP?
+Answer: 0993377
+
+Context: paid  AD : 68325 FT : 42895 TP : 0993377 ! outstanding  AD : 313 FT : 73353 TP : 1082290034 ! 
+Question: outstanding AD?
+Answer: 313
+
+Context: paid  AD : 68325 FT : 42895 TP : 0993377 ! outstanding  AD : 313 FT : 73353 TP : 1082290034 ! 
+Question: outstanding FT?
+Answer: 73353
+
+Context: paid  AD : 68325 FT : 42895 TP : 0993377 ! outstanding  AD : 313 FT : 73353 TP : 1082290034 ! 
+Question: outstanding TP?
+Answer: 1082290034
+
+Context: paid  AD : 282403396 FT : 6647723649 TP : 4260 ! outstanding  AD : 579256252 FT : 3 TP : 2767 ! 
+Question: paid AD?
+Answer: 282403396
+
+Context: paid  AD : 282403396 FT : 6647723649 TP : 4260 ! outstanding  AD : 579256252 FT : 3 TP : 2767 ! 
+Question: paid FT?
+Answer: 6647723649
+
+Context: paid  AD : 282403396 FT : 6647723649 TP : 4260 ! outstanding  AD : 579256252 FT : 3 TP : 2767 ! 
+Question: paid TP?
+Answer: 4260
+
+Context: paid  AD : 282403396 FT : 6647723649 TP : 4260 ! outstanding  AD : 579256252 FT : 3 TP : 2767 ! 
+Question: outstanding AD?
+Answer: 579256252
+
+Context: paid  AD : 282403396 FT : 6647723649 TP : 4260 ! outstanding  AD : 579256252 FT : 3 TP : 2767 ! 
+Question: outstanding FT?
+Answer: 3
+
+Context: paid  AD : 282403396 FT : 6647723649 TP : 4260 ! outstanding  AD : 579256252 FT : 3 TP : 2767 ! 
+Question: outstanding TP?
+Answer: 2767
+
+Context: paid  AD : 290534957 TP : 3353 FT : 1 ! outstanding  AD : 22 TP : 1 FT : 777 ! 
+Question: paid AD?
+Answer: empty
+
+Context: paid  AD : 290534957 TP : 3353 FT : 1 ! outstanding  AD : 22 TP : 1 FT : 777 ! 
+Question: paid TP?
+Answer: 3353
+
+Context: paid  AD : 290534957 TP : 3353 FT : 1 ! outstanding  AD : 22 TP : 1 FT : 777 ! 
+Question: paid FT?
+Answer: 1
+
+Context: paid  AD : 290534957 TP : 3353 FT : 1 ! outstanding  AD : 22 TP : 1 FT : 777 ! 
+Question: outstanding AD?
+Answer: 22
+
+Context: paid  AD : 290534957 TP : 3353 FT : 1 ! outstanding  AD : 22 TP : 1 FT : 777 ! 
+Question: outstanding TP?
+Answer: 1
+
+Context: paid  AD : 290534957 TP : 3353 FT : 1 ! outstanding  AD : 22 TP : 1 FT : 777 ! 
+Question: outstanding FT?
+Answer: 777
+
+Context: paid  FT : 4 AD : 9462977946 TP : 4 ! outstanding  FT : 4237349 AD : 3 TP : 35769 ! 
+Question: paid FT?
+Answer: 4
+
+Context: paid  FT : 4 AD : 9462977946 TP : 4 ! outstanding  FT : 4237349 AD : 3 TP : 35769 ! 
+Question: paid AD?
+Answer: 9462977946
+
+Context: paid  FT : 4 AD : 9462977946 TP : 4 ! outstanding  FT : 4237349 AD : 3 TP : 35769 ! 
+Question: paid TP?
+Answer: 4
+
+Context: paid  FT : 4 AD : 9462977946 TP : 4 ! outstanding  FT : 4237349 AD : 3 TP : 35769 ! 
+Question: outstanding FT?
+Answer: 4237349
+
+Context: paid  FT : 4 AD : 9462977946 TP : 4 ! outstanding  FT : 4237349 AD : 3 TP : 35769 ! 
+Question: outstanding AD?
+Answer: 3
+
+Context: paid  FT : 4 AD : 9462977946 TP : 4 ! outstanding  FT : 4237349 AD : 3 TP : 35769 ! 
+Question: outstanding TP?
+Answer: 4 ! outstanding ft : 4237349 ad : 3 tp : 35769
+
+Context: paid  AD : 63 TP : 07043767 FT : 40 ! outstanding  AD : 00702448 TP : 61 FT : 39844 ! 
+Question: paid AD?
+Answer: 63
+
+Context: paid  AD : 63 TP : 07043767 FT : 40 ! outstanding  AD : 00702448 TP : 61 FT : 39844 ! 
+Question: paid TP?
+Answer: 07043767
+
+Context: paid  AD : 63 TP : 07043767 FT : 40 ! outstanding  AD : 00702448 TP : 61 FT : 39844 ! 
+Question: paid FT?
+Answer: 40
+
+Context: paid  AD : 63 TP : 07043767 FT : 40 ! outstanding  AD : 00702448 TP : 61 FT : 39844 ! 
+Question: outstanding AD?
+Answer: 00702448
+
+Context: paid  AD : 63 TP : 07043767 FT : 40 ! outstanding  AD : 00702448 TP : 61 FT : 39844 ! 
+Question: outstanding TP?
+Answer: 61
+
+Context: paid  AD : 63 TP : 07043767 FT : 40 ! outstanding  AD : 00702448 TP : 61 FT : 39844 ! 
+Question: outstanding FT?
+Answer: 39844
+
+Context: paid  FT : 940628 AD : 0847 TP : 3 ! outstanding  FT : 3 AD : 311784 TP : 3601 ! 
+Question: paid FT?
+Answer: 940628
+
+Context: paid  FT : 940628 AD : 0847 TP : 3 ! outstanding  FT : 3 AD : 311784 TP : 3601 ! 
+Question: paid AD?
+Answer: 0847
+
+Context: paid  FT : 940628 AD : 0847 TP : 3 ! outstanding  FT : 3 AD : 311784 TP : 3601 ! 
+Question: paid TP?
+Answer: 3
+
+Context: paid  FT : 940628 AD : 0847 TP : 3 ! outstanding  FT : 3 AD : 311784 TP : 3601 ! 
+Question: outstanding FT?
+Answer: 3
+
+Context: paid  FT : 940628 AD : 0847 TP : 3 ! outstanding  FT : 3 AD : 311784 TP : 3601 ! 
+Question: outstanding AD?
+Answer: 311784
+
+Context: paid  FT : 940628 AD : 0847 TP : 3 ! outstanding  FT : 3 AD : 311784 TP : 3601 ! 
+Question: outstanding TP?
+Answer: 3601
+
+Context: paid  TP : 460 FT : 7454 AD : 2 ! outstanding  TP : 576373 FT : 84 AD : 18249186 ! 
+Question: paid TP?
+Answer: 576373
+
+Context: paid  TP : 460 FT : 7454 AD : 2 ! outstanding  TP : 576373 FT : 84 AD : 18249186 ! 
+Question: paid FT?
+Answer: 7454
+
+Context: paid  TP : 460 FT : 7454 AD : 2 ! outstanding  TP : 576373 FT : 84 AD : 18249186 ! 
+Question: paid AD?
+Answer: 2
+
+Context: paid  TP : 460 FT : 7454 AD : 2 ! outstanding  TP : 576373 FT : 84 AD : 18249186 ! 
+Question: outstanding TP?
+Answer: 576373
+
+Context: paid  TP : 460 FT : 7454 AD : 2 ! outstanding  TP : 576373 FT : 84 AD : 18249186 ! 
+Question: outstanding FT?
+Answer: 84
+
+Context: paid  TP : 460 FT : 7454 AD : 2 ! outstanding  TP : 576373 FT : 84 AD : 18249186 ! 
+Question: outstanding AD?
+Answer: 18249186
+
+Context: paid  AD : 630973 FT : 444843262 TP : 8 ! outstanding  AD : 4965084 FT : 65 TP : 3 ! 
+Question: paid AD?
+Answer: 630973
+
+Context: paid  AD : 630973 FT : 444843262 TP : 8 ! outstanding  AD : 4965084 FT : 65 TP : 3 ! 
+Question: paid FT?
+Answer: 444843262
+
+Context: paid  AD : 630973 FT : 444843262 TP : 8 ! outstanding  AD : 4965084 FT : 65 TP : 3 ! 
+Question: paid TP?
+Answer: 8
+
+Context: paid  AD : 630973 FT : 444843262 TP : 8 ! outstanding  AD : 4965084 FT : 65 TP : 3 ! 
+Question: outstanding AD?
+Answer: 4965084
+
+Context: paid  AD : 630973 FT : 444843262 TP : 8 ! outstanding  AD : 4965084 FT : 65 TP : 3 ! 
+Question: outstanding FT?
+Answer: 65
+
+Context: paid  AD : 630973 FT : 444843262 TP : 8 ! outstanding  AD : 4965084 FT : 65 TP : 3 ! 
+Question: outstanding TP?
+Answer: 8
+
+Context: paid  FT : 49361560 AD : 89 TP : 1463556 ! outstanding  FT : 389 AD : 814 TP : 848305 ! 
+Question: paid FT?
+Answer: 49361560
+
+Context: paid  FT : 49361560 AD : 89 TP : 1463556 ! outstanding  FT : 389 AD : 814 TP : 848305 ! 
+Question: paid AD?
+Answer: 89
+
+Context: paid  FT : 49361560 AD : 89 TP : 1463556 ! outstanding  FT : 389 AD : 814 TP : 848305 ! 
+Question: paid TP?
+Answer: 1463556
+
+Context: paid  FT : 49361560 AD : 89 TP : 1463556 ! outstanding  FT : 389 AD : 814 TP : 848305 ! 
+Question: outstanding FT?
+Answer: 389
+
+Context: paid  FT : 49361560 AD : 89 TP : 1463556 ! outstanding  FT : 389 AD : 814 TP : 848305 ! 
+Question: outstanding AD?
+Answer: 814
+
+Context: paid  FT : 49361560 AD : 89 TP : 1463556 ! outstanding  FT : 389 AD : 814 TP : 848305 ! 
+Question: outstanding TP?
+Answer: 848305
+
+Context: paid  AD : 085674727 FT : 21 TP : 22680 ! outstanding  AD : 049715 FT : 84 TP : 3 ! 
+Question: paid AD?
+Answer: 085674727
+
+Context: paid  AD : 085674727 FT : 21 TP : 22680 ! outstanding  AD : 049715 FT : 84 TP : 3 ! 
+Question: paid FT?
+Answer: 21
+
+Context: paid  AD : 085674727 FT : 21 TP : 22680 ! outstanding  AD : 049715 FT : 84 TP : 3 ! 
+Question: paid TP?
+Answer: 22680
+
+Context: paid  AD : 085674727 FT : 21 TP : 22680 ! outstanding  AD : 049715 FT : 84 TP : 3 ! 
+Question: outstanding AD?
+Answer: 049715
+
+Context: paid  AD : 085674727 FT : 21 TP : 22680 ! outstanding  AD : 049715 FT : 84 TP : 3 ! 
+Question: outstanding FT?
+Answer: 84
+
+Context: paid  AD : 085674727 FT : 21 TP : 22680 ! outstanding  AD : 049715 FT : 84 TP : 3 ! 
+Question: outstanding TP?
+Answer: 3
+
+Context: paid  TP : 4296165 FT : 0212 AD : 32742 ! outstanding  TP : 3296478999 FT : 34 AD : 6009762 ! 
+Question: paid TP?
+Answer: 4296165
+
+Context: paid  TP : 4296165 FT : 0212 AD : 32742 ! outstanding  TP : 3296478999 FT : 34 AD : 6009762 ! 
+Question: paid FT?
+Answer: 0212
+
+Context: paid  TP : 4296165 FT : 0212 AD : 32742 ! outstanding  TP : 3296478999 FT : 34 AD : 6009762 ! 
+Question: paid AD?
+Answer: 32742
+
+Context: paid  TP : 4296165 FT : 0212 AD : 32742 ! outstanding  TP : 3296478999 FT : 34 AD : 6009762 ! 
+Question: outstanding TP?
+Answer: 3296478999
+
+Context: paid  TP : 4296165 FT : 0212 AD : 32742 ! outstanding  TP : 3296478999 FT : 34 AD : 6009762 ! 
+Question: outstanding FT?
+Answer: 34
+
+Context: paid  TP : 4296165 FT : 0212 AD : 32742 ! outstanding  TP : 3296478999 FT : 34 AD : 6009762 ! 
+Question: outstanding AD?
+Answer: 6009762
+
+Context: paid  FT : 55743484 AD : 47 TP : 1862 ! outstanding  FT : 62826559 AD : 300274053 TP : 0580639322 ! 
+Question: paid FT?
+Answer: 62826559
+
+Context: paid  FT : 55743484 AD : 47 TP : 1862 ! outstanding  FT : 62826559 AD : 300274053 TP : 0580639322 ! 
+Question: paid AD?
+Answer: 300274053
+
+Context: paid  FT : 55743484 AD : 47 TP : 1862 ! outstanding  FT : 62826559 AD : 300274053 TP : 0580639322 ! 
+Question: paid TP?
+Answer: empty
+
+Context: paid  FT : 55743484 AD : 47 TP : 1862 ! outstanding  FT : 62826559 AD : 300274053 TP : 0580639322 ! 
+Question: outstanding FT?
+Answer: 62826559
+
+Context: paid  FT : 55743484 AD : 47 TP : 1862 ! outstanding  FT : 62826559 AD : 300274053 TP : 0580639322 ! 
+Question: outstanding AD?
+Answer: 300274053
+
+Context: paid  FT : 55743484 AD : 47 TP : 1862 ! outstanding  FT : 62826559 AD : 300274053 TP : 0580639322 ! 
+Question: outstanding TP?
+Answer: 0580639322
+
+Context: paid  FT : 129376 AD : 7767008193 TP : 05853024 ! outstanding  FT : 3185424901 AD : 003268085 TP : 540 ! 
+Question: paid FT?
+Answer: empty
+
+Context: paid  FT : 129376 AD : 7767008193 TP : 05853024 ! outstanding  FT : 3185424901 AD : 003268085 TP : 540 ! 
+Question: paid AD?
+Answer: empty
+
+Context: paid  FT : 129376 AD : 7767008193 TP : 05853024 ! outstanding  FT : 3185424901 AD : 003268085 TP : 540 ! 
+Question: paid TP?
+Answer: 540
+
+Context: paid  FT : 129376 AD : 7767008193 TP : 05853024 ! outstanding  FT : 3185424901 AD : 003268085 TP : 540 ! 
+Question: outstanding FT?
+Answer: 3185424901
+
+Context: paid  FT : 129376 AD : 7767008193 TP : 05853024 ! outstanding  FT : 3185424901 AD : 003268085 TP : 540 ! 
+Question: outstanding AD?
+Answer: 003268085
+
+Context: paid  FT : 129376 AD : 7767008193 TP : 05853024 ! outstanding  FT : 3185424901 AD : 003268085 TP : 540 ! 
+Question: outstanding TP?
+Answer: 540
+
+Context: paid  AD : 90 TP : 81294124 FT : 556 ! outstanding  AD : 713099 TP : 4 FT : 2661891779 ! 
+Question: paid AD?
+Answer: 90
+
+Context: paid  AD : 90 TP : 81294124 FT : 556 ! outstanding  AD : 713099 TP : 4 FT : 2661891779 ! 
+Question: paid TP?
+Answer: 81294124
+
+Context: paid  AD : 90 TP : 81294124 FT : 556 ! outstanding  AD : 713099 TP : 4 FT : 2661891779 ! 
+Question: paid FT?
+Answer: 556
+
+Context: paid  AD : 90 TP : 81294124 FT : 556 ! outstanding  AD : 713099 TP : 4 FT : 2661891779 ! 
+Question: outstanding AD?
+Answer: 713099
+
+Context: paid  AD : 90 TP : 81294124 FT : 556 ! outstanding  AD : 713099 TP : 4 FT : 2661891779 ! 
+Question: outstanding TP?
+Answer: 4 ft : 2661891779
+
+Context: paid  AD : 90 TP : 81294124 FT : 556 ! outstanding  AD : 713099 TP : 4 FT : 2661891779 ! 
+Question: outstanding FT?
+Answer: 2661891779
+
+Context: paid  FT : 94743 TP : 86 AD : 31 ! outstanding  FT : 367 TP : 86726876 AD : 350300386 ! 
+Question: paid FT?
+Answer: 94743
+
+Context: paid  FT : 94743 TP : 86 AD : 31 ! outstanding  FT : 367 TP : 86726876 AD : 350300386 ! 
+Question: paid TP?
+Answer: 86726876
+
+Context: paid  FT : 94743 TP : 86 AD : 31 ! outstanding  FT : 367 TP : 86726876 AD : 350300386 ! 
+Question: paid AD?
+Answer: empty
+
+Context: paid  FT : 94743 TP : 86 AD : 31 ! outstanding  FT : 367 TP : 86726876 AD : 350300386 ! 
+Question: outstanding FT?
+Answer: 367
+
+Context: paid  FT : 94743 TP : 86 AD : 31 ! outstanding  FT : 367 TP : 86726876 AD : 350300386 ! 
+Question: outstanding TP?
+Answer: 86726876
+
+Context: paid  FT : 94743 TP : 86 AD : 31 ! outstanding  FT : 367 TP : 86726876 AD : 350300386 ! 
+Question: outstanding AD?
+Answer: 350300386
+
+Context: paid  TP : 279349 AD : 108134 FT : 9256472255 ! outstanding  TP : 5 AD : 13931828 FT : 2585 ! 
+Question: paid TP?
+Answer: 279349
+
+Context: paid  TP : 279349 AD : 108134 FT : 9256472255 ! outstanding  TP : 5 AD : 13931828 FT : 2585 ! 
+Question: paid AD?
+Answer: 108134
+
+Context: paid  TP : 279349 AD : 108134 FT : 9256472255 ! outstanding  TP : 5 AD : 13931828 FT : 2585 ! 
+Question: paid FT?
+Answer: 9256472255
+
+Context: paid  TP : 279349 AD : 108134 FT : 9256472255 ! outstanding  TP : 5 AD : 13931828 FT : 2585 ! 
+Question: outstanding TP?
+Answer: 5
+
+Context: paid  TP : 279349 AD : 108134 FT : 9256472255 ! outstanding  TP : 5 AD : 13931828 FT : 2585 ! 
+Question: outstanding AD?
+Answer: 13931828 ft : 2585
+
+Context: paid  TP : 279349 AD : 108134 FT : 9256472255 ! outstanding  TP : 5 AD : 13931828 FT : 2585 ! 
+Question: outstanding FT?
+Answer: 2585
+
+Context: paid  FT : 7204829269 AD : 78166508 TP : 064 ! outstanding  FT : 343608 AD : 823803 TP : 9895 ! 
+Question: paid FT?
+Answer: 7204829269
+
+Context: paid  FT : 7204829269 AD : 78166508 TP : 064 ! outstanding  FT : 343608 AD : 823803 TP : 9895 ! 
+Question: paid AD?
+Answer: empty
+
+Context: paid  FT : 7204829269 AD : 78166508 TP : 064 ! outstanding  FT : 343608 AD : 823803 TP : 9895 ! 
+Question: paid TP?
+Answer: 9895
+
+Context: paid  FT : 7204829269 AD : 78166508 TP : 064 ! outstanding  FT : 343608 AD : 823803 TP : 9895 ! 
+Question: outstanding FT?
+Answer: 343608
+
+Context: paid  FT : 7204829269 AD : 78166508 TP : 064 ! outstanding  FT : 343608 AD : 823803 TP : 9895 ! 
+Question: outstanding AD?
+Answer: 823803
+
+Context: paid  FT : 7204829269 AD : 78166508 TP : 064 ! outstanding  FT : 343608 AD : 823803 TP : 9895 ! 
+Question: outstanding TP?
+Answer: 9895
+
+Context: paid  FT : 67919295 AD : 4 TP : 115195 ! outstanding  FT : 6070 AD : 914126 TP : 3205 ! 
+Question: paid FT?
+Answer: 67919295
+
+Context: paid  FT : 67919295 AD : 4 TP : 115195 ! outstanding  FT : 6070 AD : 914126 TP : 3205 ! 
+Question: paid AD?
+Answer: 4
+
+Context: paid  FT : 67919295 AD : 4 TP : 115195 ! outstanding  FT : 6070 AD : 914126 TP : 3205 ! 
+Question: paid TP?
+Answer: 115195
+
+Context: paid  FT : 67919295 AD : 4 TP : 115195 ! outstanding  FT : 6070 AD : 914126 TP : 3205 ! 
+Question: outstanding FT?
+Answer: 6070
+
+Context: paid  FT : 67919295 AD : 4 TP : 115195 ! outstanding  FT : 6070 AD : 914126 TP : 3205 ! 
+Question: outstanding AD?
+Answer: 914126
+
+Context: paid  FT : 67919295 AD : 4 TP : 115195 ! outstanding  FT : 6070 AD : 914126 TP : 3205 ! 
+Question: outstanding TP?
+Answer: 3205
+
+Context: paid  FT : 6071603382 TP : 226385 AD : 383 ! outstanding  FT : 9660464335 TP : 86893 AD : 4198851047 ! 
+Question: paid FT?
+Answer: 6071603382
+
+Context: paid  FT : 6071603382 TP : 226385 AD : 383 ! outstanding  FT : 9660464335 TP : 86893 AD : 4198851047 ! 
+Question: paid TP?
+Answer: 226385
+
+Context: paid  FT : 6071603382 TP : 226385 AD : 383 ! outstanding  FT : 9660464335 TP : 86893 AD : 4198851047 ! 
+Question: paid AD?
+Answer: 4198851047
+
+Context: paid  FT : 6071603382 TP : 226385 AD : 383 ! outstanding  FT : 9660464335 TP : 86893 AD : 4198851047 ! 
+Question: outstanding FT?
+Answer: 9660464335
+
+Context: paid  FT : 6071603382 TP : 226385 AD : 383 ! outstanding  FT : 9660464335 TP : 86893 AD : 4198851047 ! 
+Question: outstanding TP?
+Answer: 86893
+
+Context: paid  FT : 6071603382 TP : 226385 AD : 383 ! outstanding  FT : 9660464335 TP : 86893 AD : 4198851047 ! 
+Question: outstanding AD?
+Answer: 4198851047
+
+Context: paid  FT : 94 TP : 54 AD : 27907 ! outstanding  FT : 39279116 TP : 88623077 AD : 1424604538 ! 
+Question: paid FT?
+Answer: 39279116
+
+Context: paid  FT : 94 TP : 54 AD : 27907 ! outstanding  FT : 39279116 TP : 88623077 AD : 1424604538 ! 
+Question: paid TP?
+Answer: 88623077
+
+Context: paid  FT : 94 TP : 54 AD : 27907 ! outstanding  FT : 39279116 TP : 88623077 AD : 1424604538 ! 
+Question: paid AD?
+Answer: 27907
+
+Context: paid  FT : 94 TP : 54 AD : 27907 ! outstanding  FT : 39279116 TP : 88623077 AD : 1424604538 ! 
+Question: outstanding FT?
+Answer: 39279116
+
+Context: paid  FT : 94 TP : 54 AD : 27907 ! outstanding  FT : 39279116 TP : 88623077 AD : 1424604538 ! 
+Question: outstanding TP?
+Answer: 88623077
+
+Context: paid  FT : 94 TP : 54 AD : 27907 ! outstanding  FT : 39279116 TP : 88623077 AD : 1424604538 ! 
+Question: outstanding AD?
+Answer: 1424604538
+
+Context: paid  FT : 2162170710 AD : 0 TP : 46140673 ! outstanding  FT : 149119851 AD : 47086 TP : 17637975 ! 
+Question: paid FT?
+Answer: 2162170710
+
+Context: paid  FT : 2162170710 AD : 0 TP : 46140673 ! outstanding  FT : 149119851 AD : 47086 TP : 17637975 ! 
+Question: paid AD?
+Answer: 0
+
+Context: paid  FT : 2162170710 AD : 0 TP : 46140673 ! outstanding  FT : 149119851 AD : 47086 TP : 17637975 ! 
+Question: paid TP?
+Answer: 46140673
+
+Context: paid  FT : 2162170710 AD : 0 TP : 46140673 ! outstanding  FT : 149119851 AD : 47086 TP : 17637975 ! 
+Question: outstanding FT?
+Answer: 149119851
+
+Context: paid  FT : 2162170710 AD : 0 TP : 46140673 ! outstanding  FT : 149119851 AD : 47086 TP : 17637975 ! 
+Question: outstanding AD?
+Answer: 47086
+
+Context: paid  FT : 2162170710 AD : 0 TP : 46140673 ! outstanding  FT : 149119851 AD : 47086 TP : 17637975 ! 
+Question: outstanding TP?
+Answer: 17637975
+
+Context: paid  AD : 9319654731 TP : 07621043 FT : 5156168 ! outstanding  AD : 37198 TP : 36 FT : 552173 ! 
+Question: paid AD?
+Answer: 9319654731
+
+Context: paid  AD : 9319654731 TP : 07621043 FT : 5156168 ! outstanding  AD : 37198 TP : 36 FT : 552173 ! 
+Question: paid TP?
+Answer: 07621043
+
+Context: paid  AD : 9319654731 TP : 07621043 FT : 5156168 ! outstanding  AD : 37198 TP : 36 FT : 552173 ! 
+Question: paid FT?
+Answer: 5156168
+
+Context: paid  AD : 9319654731 TP : 07621043 FT : 5156168 ! outstanding  AD : 37198 TP : 36 FT : 552173 ! 
+Question: outstanding AD?
+Answer: 37198
+
+Context: paid  AD : 9319654731 TP : 07621043 FT : 5156168 ! outstanding  AD : 37198 TP : 36 FT : 552173 ! 
+Question: outstanding TP?
+Answer: 36
+
+Context: paid  AD : 9319654731 TP : 07621043 FT : 5156168 ! outstanding  AD : 37198 TP : 36 FT : 552173 ! 
+Question: outstanding FT?
+Answer: 552173
+
+Context: paid  TP : 1 AD : 4 FT : 0944 ! outstanding  TP : 4367280 AD : 1664293 FT : 37466659 ! 
+Question: paid TP?
+Answer: 1
+
+Context: paid  TP : 1 AD : 4 FT : 0944 ! outstanding  TP : 4367280 AD : 1664293 FT : 37466659 ! 
+Question: paid AD?
+Answer: 4
+
+Context: paid  TP : 1 AD : 4 FT : 0944 ! outstanding  TP : 4367280 AD : 1664293 FT : 37466659 ! 
+Question: paid FT?
+Answer: 0944
+
+Context: paid  TP : 1 AD : 4 FT : 0944 ! outstanding  TP : 4367280 AD : 1664293 FT : 37466659 ! 
+Question: outstanding TP?
+Answer: 4367280
+
+Context: paid  TP : 1 AD : 4 FT : 0944 ! outstanding  TP : 4367280 AD : 1664293 FT : 37466659 ! 
+Question: outstanding AD?
+Answer: 1664293
+
+Context: paid  TP : 1 AD : 4 FT : 0944 ! outstanding  TP : 4367280 AD : 1664293 FT : 37466659 ! 
+Question: outstanding FT?
+Answer: 37466659
+
+Context: paid  TP : 4833 AD : 461115 FT : 3709 ! outstanding  TP : 90216 AD : 42949 FT : 51837 ! 
+Question: paid TP?
+Answer: 4833
+
+Context: paid  TP : 4833 AD : 461115 FT : 3709 ! outstanding  TP : 90216 AD : 42949 FT : 51837 ! 
+Question: paid AD?
+Answer: 461115
+
+Context: paid  TP : 4833 AD : 461115 FT : 3709 ! outstanding  TP : 90216 AD : 42949 FT : 51837 ! 
+Question: paid FT?
+Answer: 3709
+
+Context: paid  TP : 4833 AD : 461115 FT : 3709 ! outstanding  TP : 90216 AD : 42949 FT : 51837 ! 
+Question: outstanding TP?
+Answer: 90216
+
+Context: paid  TP : 4833 AD : 461115 FT : 3709 ! outstanding  TP : 90216 AD : 42949 FT : 51837 ! 
+Question: outstanding AD?
+Answer: 42949
+
+Context: paid  TP : 4833 AD : 461115 FT : 3709 ! outstanding  TP : 90216 AD : 42949 FT : 51837 ! 
+Question: outstanding FT?
+Answer: 51837
+
+Context: paid  AD : 47004897 FT : 14 TP : 94349 ! outstanding  AD : 1698 FT : 99318597 TP : 4366893 ! 
+Question: paid AD?
+Answer: 47004897
+
+Context: paid  AD : 47004897 FT : 14 TP : 94349 ! outstanding  AD : 1698 FT : 99318597 TP : 4366893 ! 
+Question: paid FT?
+Answer: 14
+
+Context: paid  AD : 47004897 FT : 14 TP : 94349 ! outstanding  AD : 1698 FT : 99318597 TP : 4366893 ! 
+Question: paid TP?
+Answer: 94349
+
+Context: paid  AD : 47004897 FT : 14 TP : 94349 ! outstanding  AD : 1698 FT : 99318597 TP : 4366893 ! 
+Question: outstanding AD?
+Answer: 1698
+
+Context: paid  AD : 47004897 FT : 14 TP : 94349 ! outstanding  AD : 1698 FT : 99318597 TP : 4366893 ! 
+Question: outstanding FT?
+Answer: 99318597
+
+Context: paid  AD : 47004897 FT : 14 TP : 94349 ! outstanding  AD : 1698 FT : 99318597 TP : 4366893 ! 
+Question: outstanding TP?
+Answer: 4366893
+
+Context: paid  FT : 68981267 AD : 909296963 TP : 8 ! outstanding  FT : 2244428151 AD : 076212288 TP : 4 ! 
+Question: paid FT?
+Answer: 68981267
+
+Context: paid  FT : 68981267 AD : 909296963 TP : 8 ! outstanding  FT : 2244428151 AD : 076212288 TP : 4 ! 
+Question: paid AD?
+Answer: 909296963
+
+Context: paid  FT : 68981267 AD : 909296963 TP : 8 ! outstanding  FT : 2244428151 AD : 076212288 TP : 4 ! 
+Question: paid TP?
+Answer: 4
+
+Context: paid  FT : 68981267 AD : 909296963 TP : 8 ! outstanding  FT : 2244428151 AD : 076212288 TP : 4 ! 
+Question: outstanding FT?
+Answer: 2244428151
+
+Context: paid  FT : 68981267 AD : 909296963 TP : 8 ! outstanding  FT : 2244428151 AD : 076212288 TP : 4 ! 
+Question: outstanding AD?
+Answer: 076212288
+
+Context: paid  FT : 68981267 AD : 909296963 TP : 8 ! outstanding  FT : 2244428151 AD : 076212288 TP : 4 ! 
+Question: outstanding TP?
+Answer: 4
+
+Context: paid  TP : 7 FT : 383566 AD : 47 ! outstanding  TP : 6923548711 FT : 8673166 AD : 9692926967 ! 
+Question: paid TP?
+Answer: 7 ft : 383566 ad : 47 ! outstanding tp : 6923548711
+
+Context: paid  TP : 7 FT : 383566 AD : 47 ! outstanding  TP : 6923548711 FT : 8673166 AD : 9692926967 ! 
+Question: paid FT?
+Answer: 383566
+
+Context: paid  TP : 7 FT : 383566 AD : 47 ! outstanding  TP : 6923548711 FT : 8673166 AD : 9692926967 ! 
+Question: paid AD?
+Answer: 47
+
+Context: paid  TP : 7 FT : 383566 AD : 47 ! outstanding  TP : 6923548711 FT : 8673166 AD : 9692926967 ! 
+Question: outstanding TP?
+Answer: 6923548711
+
+Context: paid  TP : 7 FT : 383566 AD : 47 ! outstanding  TP : 6923548711 FT : 8673166 AD : 9692926967 ! 
+Question: outstanding FT?
+Answer: 8673166
+
+Context: paid  TP : 7 FT : 383566 AD : 47 ! outstanding  TP : 6923548711 FT : 8673166 AD : 9692926967 ! 
+Question: outstanding AD?
+Answer: 9692926967
+
+Context: paid  TP : 46634 AD : 1301824424 FT : 0825722 ! outstanding  TP : 341 AD : 514780 FT : 18 ! 
+Question: paid TP?
+Answer: 46634
+
+Context: paid  TP : 46634 AD : 1301824424 FT : 0825722 ! outstanding  TP : 341 AD : 514780 FT : 18 ! 
+Question: paid AD?
+Answer: 1301824424
+
+Context: paid  TP : 46634 AD : 1301824424 FT : 0825722 ! outstanding  TP : 341 AD : 514780 FT : 18 ! 
+Question: paid FT?
+Answer: 0825722
+
+Context: paid  TP : 46634 AD : 1301824424 FT : 0825722 ! outstanding  TP : 341 AD : 514780 FT : 18 ! 
+Question: outstanding TP?
+Answer: 341
+
+Context: paid  TP : 46634 AD : 1301824424 FT : 0825722 ! outstanding  TP : 341 AD : 514780 FT : 18 ! 
+Question: outstanding AD?
+Answer: 514780
+
+Context: paid  TP : 46634 AD : 1301824424 FT : 0825722 ! outstanding  TP : 341 AD : 514780 FT : 18 ! 
+Question: outstanding FT?
+Answer: 18
+
+Context: paid  AD : 0600 FT : 6647874 TP : 16251830 ! outstanding  AD : 51338 FT : 03670291 TP : 3194523323 ! 
+Question: paid AD?
+Answer: 0600
+
+Context: paid  AD : 0600 FT : 6647874 TP : 16251830 ! outstanding  AD : 51338 FT : 03670291 TP : 3194523323 ! 
+Question: paid FT?
+Answer: 6647874
+
+Context: paid  AD : 0600 FT : 6647874 TP : 16251830 ! outstanding  AD : 51338 FT : 03670291 TP : 3194523323 ! 
+Question: paid TP?
+Answer: 16251830
+
+Context: paid  AD : 0600 FT : 6647874 TP : 16251830 ! outstanding  AD : 51338 FT : 03670291 TP : 3194523323 ! 
+Question: outstanding AD?
+Answer: 51338
+
+Context: paid  AD : 0600 FT : 6647874 TP : 16251830 ! outstanding  AD : 51338 FT : 03670291 TP : 3194523323 ! 
+Question: outstanding FT?
+Answer: 03670291
+
+Context: paid  AD : 0600 FT : 6647874 TP : 16251830 ! outstanding  AD : 51338 FT : 03670291 TP : 3194523323 ! 
+Question: outstanding TP?
+Answer: 3194523323
+
+Context: paid  TP : 104968783 AD : 26817 FT : 9549688 ! outstanding  TP : 9690216230 AD : 1148 FT : 824355082 ! 
+Question: paid TP?
+Answer: 104968783
+
+Context: paid  TP : 104968783 AD : 26817 FT : 9549688 ! outstanding  TP : 9690216230 AD : 1148 FT : 824355082 ! 
+Question: paid AD?
+Answer: 26817
+
+Context: paid  TP : 104968783 AD : 26817 FT : 9549688 ! outstanding  TP : 9690216230 AD : 1148 FT : 824355082 ! 
+Question: paid FT?
+Answer: 9549688
+
+Context: paid  TP : 104968783 AD : 26817 FT : 9549688 ! outstanding  TP : 9690216230 AD : 1148 FT : 824355082 ! 
+Question: outstanding TP?
+Answer: 9690216230
+
+Context: paid  TP : 104968783 AD : 26817 FT : 9549688 ! outstanding  TP : 9690216230 AD : 1148 FT : 824355082 ! 
+Question: outstanding AD?
+Answer: 1148
+
+Context: paid  TP : 104968783 AD : 26817 FT : 9549688 ! outstanding  TP : 9690216230 AD : 1148 FT : 824355082 ! 
+Question: outstanding FT?
+Answer: 824355082
+
+Context: paid  TP : 086781327 AD : 0862 FT : 3367631670 ! outstanding  TP : 749800264 AD : 0 FT : 9 ! 
+Question: paid TP?
+Answer: 086781327
+
+Context: paid  TP : 086781327 AD : 0862 FT : 3367631670 ! outstanding  TP : 749800264 AD : 0 FT : 9 ! 
+Question: paid AD?
+Answer: 0862
+
+Context: paid  TP : 086781327 AD : 0862 FT : 3367631670 ! outstanding  TP : 749800264 AD : 0 FT : 9 ! 
+Question: paid FT?
+Answer: 3367631670
+
+Context: paid  TP : 086781327 AD : 0862 FT : 3367631670 ! outstanding  TP : 749800264 AD : 0 FT : 9 ! 
+Question: outstanding TP?
+Answer: 749800264
+
+Context: paid  TP : 086781327 AD : 0862 FT : 3367631670 ! outstanding  TP : 749800264 AD : 0 FT : 9 ! 
+Question: outstanding AD?
+Answer: 0
+
+Context: paid  TP : 086781327 AD : 0862 FT : 3367631670 ! outstanding  TP : 749800264 AD : 0 FT : 9 ! 
+Question: outstanding FT?
+Answer: 9
+
+Context: paid  AD : 26450 TP : 72473 FT : 084 ! outstanding  AD : 8188533255 TP : 215 FT : 0186145385 ! 
+Question: paid AD?
+Answer: 8188533255
+
+Context: paid  AD : 26450 TP : 72473 FT : 084 ! outstanding  AD : 8188533255 TP : 215 FT : 0186145385 ! 
+Question: paid TP?
+Answer: 72473
+
+Context: paid  AD : 26450 TP : 72473 FT : 084 ! outstanding  AD : 8188533255 TP : 215 FT : 0186145385 ! 
+Question: paid FT?
+Answer: 084
+
+Context: paid  AD : 26450 TP : 72473 FT : 084 ! outstanding  AD : 8188533255 TP : 215 FT : 0186145385 ! 
+Question: outstanding AD?
+Answer: 8188533255
+
+Context: paid  AD : 26450 TP : 72473 FT : 084 ! outstanding  AD : 8188533255 TP : 215 FT : 0186145385 ! 
+Question: outstanding TP?
+Answer: 215 ft : 0186145385
+
+Context: paid  AD : 26450 TP : 72473 FT : 084 ! outstanding  AD : 8188533255 TP : 215 FT : 0186145385 ! 
+Question: outstanding FT?
+Answer: 0186145385
+
+Context: paid  FT : 6602 TP : 8795978 AD : 00997897 ! outstanding  FT : 19746 TP : 5 AD : 9417011059 ! 
+Question: paid FT?
+Answer: 6602
+
+Context: paid  FT : 6602 TP : 8795978 AD : 00997897 ! outstanding  FT : 19746 TP : 5 AD : 9417011059 ! 
+Question: paid TP?
+Answer: empty
+
+Context: paid  FT : 6602 TP : 8795978 AD : 00997897 ! outstanding  FT : 19746 TP : 5 AD : 9417011059 ! 
+Question: paid AD?
+Answer: 00997897
+
+Context: paid  FT : 6602 TP : 8795978 AD : 00997897 ! outstanding  FT : 19746 TP : 5 AD : 9417011059 ! 
+Question: outstanding FT?
+Answer: 19746
+
+Context: paid  FT : 6602 TP : 8795978 AD : 00997897 ! outstanding  FT : 19746 TP : 5 AD : 9417011059 ! 
+Question: outstanding TP?
+Answer: 5
+
+Context: paid  FT : 6602 TP : 8795978 AD : 00997897 ! outstanding  FT : 19746 TP : 5 AD : 9417011059 ! 
+Question: outstanding AD?
+Answer: 9417011059
+
+Context: paid  AD : 081198225 FT : 33270 TP : 3 ! outstanding  AD : 7719424 FT : 57148 TP : 498 ! 
+Question: paid AD?
+Answer: 081198225
+
+Context: paid  AD : 081198225 FT : 33270 TP : 3 ! outstanding  AD : 7719424 FT : 57148 TP : 498 ! 
+Question: paid FT?
+Answer: 33270
+
+Context: paid  AD : 081198225 FT : 33270 TP : 3 ! outstanding  AD : 7719424 FT : 57148 TP : 498 ! 
+Question: paid TP?
+Answer: 3
+
+Context: paid  AD : 081198225 FT : 33270 TP : 3 ! outstanding  AD : 7719424 FT : 57148 TP : 498 ! 
+Question: outstanding AD?
+Answer: 7719424
+
+Context: paid  AD : 081198225 FT : 33270 TP : 3 ! outstanding  AD : 7719424 FT : 57148 TP : 498 ! 
+Question: outstanding FT?
+Answer: 57148
+
+Context: paid  AD : 081198225 FT : 33270 TP : 3 ! outstanding  AD : 7719424 FT : 57148 TP : 498 ! 
+Question: outstanding TP?
+Answer: 3 ! outstanding ad : 7719424 ft : 57148 tp : 498
+
+Context: paid  AD : 34370533 FT : 03177 TP : 59079 ! outstanding  AD : 509 FT : 95279 TP : 463 ! 
+Question: paid AD?
+Answer: 34370533
+
+Context: paid  AD : 34370533 FT : 03177 TP : 59079 ! outstanding  AD : 509 FT : 95279 TP : 463 ! 
+Question: paid FT?
+Answer: 03177
+
+Context: paid  AD : 34370533 FT : 03177 TP : 59079 ! outstanding  AD : 509 FT : 95279 TP : 463 ! 
+Question: paid TP?
+Answer: 59079
+
+Context: paid  AD : 34370533 FT : 03177 TP : 59079 ! outstanding  AD : 509 FT : 95279 TP : 463 ! 
+Question: outstanding AD?
+Answer: 509
+
+Context: paid  AD : 34370533 FT : 03177 TP : 59079 ! outstanding  AD : 509 FT : 95279 TP : 463 ! 
+Question: outstanding FT?
+Answer: 95279
+
+Context: paid  AD : 34370533 FT : 03177 TP : 59079 ! outstanding  AD : 509 FT : 95279 TP : 463 ! 
+Question: outstanding TP?
+Answer: 59079
+
+Context: paid  TP : 288367411 FT : 2960354 AD : 6539907957 ! outstanding  TP : 3 FT : 664633 AD : 4723 ! 
+Question: paid TP?
+Answer: 3
+
+Context: paid  TP : 288367411 FT : 2960354 AD : 6539907957 ! outstanding  TP : 3 FT : 664633 AD : 4723 ! 
+Question: paid FT?
+Answer: 664633
+
+Context: paid  TP : 288367411 FT : 2960354 AD : 6539907957 ! outstanding  TP : 3 FT : 664633 AD : 4723 ! 
+Question: paid AD?
+Answer: 6539907957
+
+Context: paid  TP : 288367411 FT : 2960354 AD : 6539907957 ! outstanding  TP : 3 FT : 664633 AD : 4723 ! 
+Question: outstanding TP?
+Answer: 3
+
+Context: paid  TP : 288367411 FT : 2960354 AD : 6539907957 ! outstanding  TP : 3 FT : 664633 AD : 4723 ! 
+Question: outstanding FT?
+Answer: 664633
+
+Context: paid  TP : 288367411 FT : 2960354 AD : 6539907957 ! outstanding  TP : 3 FT : 664633 AD : 4723 ! 
+Question: outstanding AD?
+Answer: 4723
+
+Context: paid  FT : 18 TP : 47621013 AD : 77 ! outstanding  FT : 2236 TP : 461379 AD : 723 ! 
+Question: paid FT?
+Answer: 18
+
+Context: paid  FT : 18 TP : 47621013 AD : 77 ! outstanding  FT : 2236 TP : 461379 AD : 723 ! 
+Question: paid TP?
+Answer: 47621013
+
+Context: paid  FT : 18 TP : 47621013 AD : 77 ! outstanding  FT : 2236 TP : 461379 AD : 723 ! 
+Question: paid AD?
+Answer: 77
+
+Context: paid  FT : 18 TP : 47621013 AD : 77 ! outstanding  FT : 2236 TP : 461379 AD : 723 ! 
+Question: outstanding FT?
+Answer: 2236
+
+Context: paid  FT : 18 TP : 47621013 AD : 77 ! outstanding  FT : 2236 TP : 461379 AD : 723 ! 
+Question: outstanding TP?
+Answer: 461379
+
+Context: paid  FT : 18 TP : 47621013 AD : 77 ! outstanding  FT : 2236 TP : 461379 AD : 723 ! 
+Question: outstanding AD?
+Answer: 723
+
+Context: paid  AD : 125 TP : 24 FT : 846244541 ! outstanding  AD : 554825056 TP : 6732760 FT : 4362728136 ! 
+Question: paid AD?
+Answer: 554825056
+
+Context: paid  AD : 125 TP : 24 FT : 846244541 ! outstanding  AD : 554825056 TP : 6732760 FT : 4362728136 ! 
+Question: paid TP?
+Answer: 24
+
+Context: paid  AD : 125 TP : 24 FT : 846244541 ! outstanding  AD : 554825056 TP : 6732760 FT : 4362728136 ! 
+Question: paid FT?
+Answer: 846244541
+
+Context: paid  AD : 125 TP : 24 FT : 846244541 ! outstanding  AD : 554825056 TP : 6732760 FT : 4362728136 ! 
+Question: outstanding AD?
+Answer: 554825056
+
+Context: paid  AD : 125 TP : 24 FT : 846244541 ! outstanding  AD : 554825056 TP : 6732760 FT : 4362728136 ! 
+Question: outstanding TP?
+Answer: 6732760
+
+Context: paid  AD : 125 TP : 24 FT : 846244541 ! outstanding  AD : 554825056 TP : 6732760 FT : 4362728136 ! 
+Question: outstanding FT?
+Answer: 4362728136
+
+Context: paid  AD : 12 TP : 96264 FT : 07775 ! outstanding  AD : 32 TP : 32242 FT : 60 ! 
+Question: paid AD?
+Answer: 12 tp : 96264 ft : 07775 ! outstanding ad : 32
+
+Context: paid  AD : 12 TP : 96264 FT : 07775 ! outstanding  AD : 32 TP : 32242 FT : 60 ! 
+Question: paid TP?
+Answer: 96264
+
+Context: paid  AD : 12 TP : 96264 FT : 07775 ! outstanding  AD : 32 TP : 32242 FT : 60 ! 
+Question: paid FT?
+Answer: 07775
+
+Context: paid  AD : 12 TP : 96264 FT : 07775 ! outstanding  AD : 32 TP : 32242 FT : 60 ! 
+Question: outstanding AD?
+Answer: 32
+
+Context: paid  AD : 12 TP : 96264 FT : 07775 ! outstanding  AD : 32 TP : 32242 FT : 60 ! 
+Question: outstanding TP?
+Answer: 32242
+
+Context: paid  AD : 12 TP : 96264 FT : 07775 ! outstanding  AD : 32 TP : 32242 FT : 60 ! 
+Question: outstanding FT?
+Answer: 60
+
+Context: paid  FT : 78 TP : 2692486905 AD : 66 ! outstanding  FT : 54620 TP : 313 AD : 00366 ! 
+Question: paid FT?
+Answer: 78 tp : 2692486905 ad : 66 ! outstanding ft : 54620
+
+Context: paid  FT : 78 TP : 2692486905 AD : 66 ! outstanding  FT : 54620 TP : 313 AD : 00366 ! 
+Question: paid TP?
+Answer: 2692486905
+
+Context: paid  FT : 78 TP : 2692486905 AD : 66 ! outstanding  FT : 54620 TP : 313 AD : 00366 ! 
+Question: paid AD?
+Answer: 66
+
+Context: paid  FT : 78 TP : 2692486905 AD : 66 ! outstanding  FT : 54620 TP : 313 AD : 00366 ! 
+Question: outstanding FT?
+Answer: 54620
+
+Context: paid  FT : 78 TP : 2692486905 AD : 66 ! outstanding  FT : 54620 TP : 313 AD : 00366 ! 
+Question: outstanding TP?
+Answer: 313
+
+Context: paid  FT : 78 TP : 2692486905 AD : 66 ! outstanding  FT : 54620 TP : 313 AD : 00366 ! 
+Question: outstanding AD?
+Answer: 00366
+
+Context: paid  FT : 73516189 AD : 8107263611 TP : 8468804 ! outstanding  FT : 46345897 AD : 4299200599 TP : 3068 ! 
+Question: paid FT?
+Answer: 46345897
+
+Context: paid  FT : 73516189 AD : 8107263611 TP : 8468804 ! outstanding  FT : 46345897 AD : 4299200599 TP : 3068 ! 
+Question: paid AD?
+Answer: 4299200599
+
+Context: paid  FT : 73516189 AD : 8107263611 TP : 8468804 ! outstanding  FT : 46345897 AD : 4299200599 TP : 3068 ! 
+Question: paid TP?
+Answer: 3068
+
+Context: paid  FT : 73516189 AD : 8107263611 TP : 8468804 ! outstanding  FT : 46345897 AD : 4299200599 TP : 3068 ! 
+Question: outstanding FT?
+Answer: 46345897
+
+Context: paid  FT : 73516189 AD : 8107263611 TP : 8468804 ! outstanding  FT : 46345897 AD : 4299200599 TP : 3068 ! 
+Question: outstanding AD?
+Answer: 4299200599
+
+Context: paid  FT : 73516189 AD : 8107263611 TP : 8468804 ! outstanding  FT : 46345897 AD : 4299200599 TP : 3068 ! 
+Question: outstanding TP?
+Answer: 3068
+
+Context: paid  TP : 565 FT : 7553353 AD : 25639 ! outstanding  TP : 936865 FT : 481799 AD : 67 ! 
+Question: paid TP?
+Answer: 565
+
+Context: paid  TP : 565 FT : 7553353 AD : 25639 ! outstanding  TP : 936865 FT : 481799 AD : 67 ! 
+Question: paid FT?
+Answer: 7553353
+
+Context: paid  TP : 565 FT : 7553353 AD : 25639 ! outstanding  TP : 936865 FT : 481799 AD : 67 ! 
+Question: paid AD?
+Answer: 25639
+
+Context: paid  TP : 565 FT : 7553353 AD : 25639 ! outstanding  TP : 936865 FT : 481799 AD : 67 ! 
+Question: outstanding TP?
+Answer: 936865
+
+Context: paid  TP : 565 FT : 7553353 AD : 25639 ! outstanding  TP : 936865 FT : 481799 AD : 67 ! 
+Question: outstanding FT?
+Answer: 481799
+
+Context: paid  TP : 565 FT : 7553353 AD : 25639 ! outstanding  TP : 936865 FT : 481799 AD : 67 ! 
+Question: outstanding AD?
+Answer: 67
+
+Context: paid  TP : 6 AD : 7284 FT : 9732 ! outstanding  TP : 4 AD : 673085665 FT : 5 ! 
+Question: paid TP?
+Answer: 6
+
+Context: paid  TP : 6 AD : 7284 FT : 9732 ! outstanding  TP : 4 AD : 673085665 FT : 5 ! 
+Question: paid AD?
+Answer: 7284
+
+Context: paid  TP : 6 AD : 7284 FT : 9732 ! outstanding  TP : 4 AD : 673085665 FT : 5 ! 
+Question: paid FT?
+Answer: 9732
+
+Context: paid  TP : 6 AD : 7284 FT : 9732 ! outstanding  TP : 4 AD : 673085665 FT : 5 ! 
+Question: outstanding TP?
+Answer: 4
+
+Context: paid  TP : 6 AD : 7284 FT : 9732 ! outstanding  TP : 4 AD : 673085665 FT : 5 ! 
+Question: outstanding AD?
+Answer: 673085665
+
+Context: paid  TP : 6 AD : 7284 FT : 9732 ! outstanding  TP : 4 AD : 673085665 FT : 5 ! 
+Question: outstanding FT?
+Answer: 5
+
+Context: paid  TP : 1739603 FT : 234132 AD : 466 ! outstanding  TP : 9 FT : 0182 AD : 211639105 ! 
+Question: paid TP?
+Answer: 1739603
+
+Context: paid  TP : 1739603 FT : 234132 AD : 466 ! outstanding  TP : 9 FT : 0182 AD : 211639105 ! 
+Question: paid FT?
+Answer: 234132
+
+Context: paid  TP : 1739603 FT : 234132 AD : 466 ! outstanding  TP : 9 FT : 0182 AD : 211639105 ! 
+Question: paid AD?
+Answer: 466
+
+Context: paid  TP : 1739603 FT : 234132 AD : 466 ! outstanding  TP : 9 FT : 0182 AD : 211639105 ! 
+Question: outstanding TP?
+Answer: 9
+
+Context: paid  TP : 1739603 FT : 234132 AD : 466 ! outstanding  TP : 9 FT : 0182 AD : 211639105 ! 
+Question: outstanding FT?
+Answer: 0182
+
+Context: paid  TP : 1739603 FT : 234132 AD : 466 ! outstanding  TP : 9 FT : 0182 AD : 211639105 ! 
+Question: outstanding AD?
+Answer: 211639105
+
+Context: paid  TP : 90660510 AD : 8061453 FT : 24264848 ! outstanding  TP : 155501828 AD : 41 FT : 911289524 ! 
+Question: paid TP?
+Answer: 90660510
+
+Context: paid  TP : 90660510 AD : 8061453 FT : 24264848 ! outstanding  TP : 155501828 AD : 41 FT : 911289524 ! 
+Question: paid AD?
+Answer: 8061453
+
+Context: paid  TP : 90660510 AD : 8061453 FT : 24264848 ! outstanding  TP : 155501828 AD : 41 FT : 911289524 ! 
+Question: paid FT?
+Answer: 24264848
+
+Context: paid  TP : 90660510 AD : 8061453 FT : 24264848 ! outstanding  TP : 155501828 AD : 41 FT : 911289524 ! 
+Question: outstanding TP?
+Answer: 155501828
+
+Context: paid  TP : 90660510 AD : 8061453 FT : 24264848 ! outstanding  TP : 155501828 AD : 41 FT : 911289524 ! 
+Question: outstanding AD?
+Answer: 41 ft : 911289524
+
+Context: paid  TP : 90660510 AD : 8061453 FT : 24264848 ! outstanding  TP : 155501828 AD : 41 FT : 911289524 ! 
+Question: outstanding FT?
+Answer: empty
+
+Context: paid  FT : 300960492 TP : 10 AD : 84155 ! outstanding  FT : 533941 TP : 758851931 AD : 411132 ! 
+Question: paid FT?
+Answer: 300960492
+
+Context: paid  FT : 300960492 TP : 10 AD : 84155 ! outstanding  FT : 533941 TP : 758851931 AD : 411132 ! 
+Question: paid TP?
+Answer: empty
+
+Context: paid  FT : 300960492 TP : 10 AD : 84155 ! outstanding  FT : 533941 TP : 758851931 AD : 411132 ! 
+Question: paid AD?
+Answer: 84155
+
+Context: paid  FT : 300960492 TP : 10 AD : 84155 ! outstanding  FT : 533941 TP : 758851931 AD : 411132 ! 
+Question: outstanding FT?
+Answer: 533941
+
+Context: paid  FT : 300960492 TP : 10 AD : 84155 ! outstanding  FT : 533941 TP : 758851931 AD : 411132 ! 
+Question: outstanding TP?
+Answer: 758851931
+
+Context: paid  FT : 300960492 TP : 10 AD : 84155 ! outstanding  FT : 533941 TP : 758851931 AD : 411132 ! 
+Question: outstanding AD?
+Answer: 411132
+
+Context: paid  FT : 526730772 AD : 425582475 TP : 61423072 ! outstanding  FT : 29881 AD : 287133 TP : 2744673311 ! 
+Question: paid FT?
+Answer: 29881
+
+Context: paid  FT : 526730772 AD : 425582475 TP : 61423072 ! outstanding  FT : 29881 AD : 287133 TP : 2744673311 ! 
+Question: paid AD?
+Answer: 287133
+
+Context: paid  FT : 526730772 AD : 425582475 TP : 61423072 ! outstanding  FT : 29881 AD : 287133 TP : 2744673311 ! 
+Question: paid TP?
+Answer: 2744673311
+
+Context: paid  FT : 526730772 AD : 425582475 TP : 61423072 ! outstanding  FT : 29881 AD : 287133 TP : 2744673311 ! 
+Question: outstanding FT?
+Answer: 29881
+
+Context: paid  FT : 526730772 AD : 425582475 TP : 61423072 ! outstanding  FT : 29881 AD : 287133 TP : 2744673311 ! 
+Question: outstanding AD?
+Answer: 287133
+
+Context: paid  FT : 526730772 AD : 425582475 TP : 61423072 ! outstanding  FT : 29881 AD : 287133 TP : 2744673311 ! 
+Question: outstanding TP?
+Answer: 2744673311
+
+Context: paid  TP : 970768940 FT : 4103767542 AD : 8027 ! outstanding  TP : 490535069 FT : 3867883 AD : 68 ! 
+Question: paid TP?
+Answer: 970768940
+
+Context: paid  TP : 970768940 FT : 4103767542 AD : 8027 ! outstanding  TP : 490535069 FT : 3867883 AD : 68 ! 
+Question: paid FT?
+Answer: 4103767542
+
+Context: paid  TP : 970768940 FT : 4103767542 AD : 8027 ! outstanding  TP : 490535069 FT : 3867883 AD : 68 ! 
+Question: paid AD?
+Answer: 8027
+
+Context: paid  TP : 970768940 FT : 4103767542 AD : 8027 ! outstanding  TP : 490535069 FT : 3867883 AD : 68 ! 
+Question: outstanding TP?
+Answer: 490535069
+
+Context: paid  TP : 970768940 FT : 4103767542 AD : 8027 ! outstanding  TP : 490535069 FT : 3867883 AD : 68 ! 
+Question: outstanding FT?
+Answer: 3867883
+
+Context: paid  TP : 970768940 FT : 4103767542 AD : 8027 ! outstanding  TP : 490535069 FT : 3867883 AD : 68 ! 
+Question: outstanding AD?
+Answer: 68
+
+Context: paid  AD : 9331395675 FT : 37005 TP : 962195006 ! outstanding  AD : 327 FT : 233222 TP : 5038228908 ! 
+Question: paid AD?
+Answer: 9331395675
+
+Context: paid  AD : 9331395675 FT : 37005 TP : 962195006 ! outstanding  AD : 327 FT : 233222 TP : 5038228908 ! 
+Question: paid FT?
+Answer: 37005
+
+Context: paid  AD : 9331395675 FT : 37005 TP : 962195006 ! outstanding  AD : 327 FT : 233222 TP : 5038228908 ! 
+Question: paid TP?
+Answer: 962195006
+
+Context: paid  AD : 9331395675 FT : 37005 TP : 962195006 ! outstanding  AD : 327 FT : 233222 TP : 5038228908 ! 
+Question: outstanding AD?
+Answer: 327
+
+Context: paid  AD : 9331395675 FT : 37005 TP : 962195006 ! outstanding  AD : 327 FT : 233222 TP : 5038228908 ! 
+Question: outstanding FT?
+Answer: 233222
+
+Context: paid  AD : 9331395675 FT : 37005 TP : 962195006 ! outstanding  AD : 327 FT : 233222 TP : 5038228908 ! 
+Question: outstanding TP?
+Answer: 5038228908
+
+Context: paid  FT : 4023964960 AD : 34218 TP : 42 ! outstanding  FT : 99310661 AD : 9022972921 TP : 69 ! 
+Question: paid FT?
+Answer: 4023964960
+
+Context: paid  FT : 4023964960 AD : 34218 TP : 42 ! outstanding  FT : 99310661 AD : 9022972921 TP : 69 ! 
+Question: paid AD?
+Answer: 34218
+
+Context: paid  FT : 4023964960 AD : 34218 TP : 42 ! outstanding  FT : 99310661 AD : 9022972921 TP : 69 ! 
+Question: paid TP?
+Answer: 42
+
+Context: paid  FT : 4023964960 AD : 34218 TP : 42 ! outstanding  FT : 99310661 AD : 9022972921 TP : 69 ! 
+Question: outstanding FT?
+Answer: 99310661
+
+Context: paid  FT : 4023964960 AD : 34218 TP : 42 ! outstanding  FT : 99310661 AD : 9022972921 TP : 69 ! 
+Question: outstanding AD?
+Answer: 99310661 ad : 9022972921
+
+Context: paid  FT : 4023964960 AD : 34218 TP : 42 ! outstanding  FT : 99310661 AD : 9022972921 TP : 69 ! 
+Question: outstanding TP?
+Answer: 69
+
+Context: paid  FT : 27 TP : 6 AD : 906 ! outstanding  FT : 7 TP : 53830 AD : 23 ! 
+Question: paid FT?
+Answer: 27
+
+Context: paid  FT : 27 TP : 6 AD : 906 ! outstanding  FT : 7 TP : 53830 AD : 23 ! 
+Question: paid TP?
+Answer: 6
+
+Context: paid  FT : 27 TP : 6 AD : 906 ! outstanding  FT : 7 TP : 53830 AD : 23 ! 
+Question: paid AD?
+Answer: 906
+
+Context: paid  FT : 27 TP : 6 AD : 906 ! outstanding  FT : 7 TP : 53830 AD : 23 ! 
+Question: outstanding FT?
+Answer: 7
+
+Context: paid  FT : 27 TP : 6 AD : 906 ! outstanding  FT : 7 TP : 53830 AD : 23 ! 
+Question: outstanding TP?
+Answer: 53830
+
+Context: paid  FT : 27 TP : 6 AD : 906 ! outstanding  FT : 7 TP : 53830 AD : 23 ! 
+Question: outstanding AD?
+Answer: 23
+
+Context: paid  FT : 0 AD : 438453111 TP : 1898254631 ! outstanding  FT : 74954 AD : 9 TP : 990838 ! 
+Question: paid FT?
+Answer: 0
+
+Context: paid  FT : 0 AD : 438453111 TP : 1898254631 ! outstanding  FT : 74954 AD : 9 TP : 990838 ! 
+Question: paid AD?
+Answer: 438453111
+
+Context: paid  FT : 0 AD : 438453111 TP : 1898254631 ! outstanding  FT : 74954 AD : 9 TP : 990838 ! 
+Question: paid TP?
+Answer: 1898254631
+
+Context: paid  FT : 0 AD : 438453111 TP : 1898254631 ! outstanding  FT : 74954 AD : 9 TP : 990838 ! 
+Question: outstanding FT?
+Answer: 74954
+
+Context: paid  FT : 0 AD : 438453111 TP : 1898254631 ! outstanding  FT : 74954 AD : 9 TP : 990838 ! 
+Question: outstanding AD?
+Answer: 9
+
+Context: paid  FT : 0 AD : 438453111 TP : 1898254631 ! outstanding  FT : 74954 AD : 9 TP : 990838 ! 
+Question: outstanding TP?
+Answer: 1898254631
+
+Context: paid  AD : 2612690605 TP : 96027890 FT : 60 ! outstanding  AD : 196 TP : 9805692592 FT : 8676 ! 
+Question: paid AD?
+Answer: 2612690605
+
+Context: paid  AD : 2612690605 TP : 96027890 FT : 60 ! outstanding  AD : 196 TP : 9805692592 FT : 8676 ! 
+Question: paid TP?
+Answer: 96027890
+
+Context: paid  AD : 2612690605 TP : 96027890 FT : 60 ! outstanding  AD : 196 TP : 9805692592 FT : 8676 ! 
+Question: paid FT?
+Answer: 60
+
+Context: paid  AD : 2612690605 TP : 96027890 FT : 60 ! outstanding  AD : 196 TP : 9805692592 FT : 8676 ! 
+Question: outstanding AD?
+Answer: 196
+
+Context: paid  AD : 2612690605 TP : 96027890 FT : 60 ! outstanding  AD : 196 TP : 9805692592 FT : 8676 ! 
+Question: outstanding TP?
+Answer: 9805692592
+
+Context: paid  AD : 2612690605 TP : 96027890 FT : 60 ! outstanding  AD : 196 TP : 9805692592 FT : 8676 ! 
+Question: outstanding FT?
+Answer: 8676
+
+Context: paid  TP : 06671 FT : 84994 AD : 0794 ! outstanding  TP : 4 FT : 117601 AD : 28869 ! 
+Question: paid TP?
+Answer: 06671
+
+Context: paid  TP : 06671 FT : 84994 AD : 0794 ! outstanding  TP : 4 FT : 117601 AD : 28869 ! 
+Question: paid FT?
+Answer: 84994
+
+Context: paid  TP : 06671 FT : 84994 AD : 0794 ! outstanding  TP : 4 FT : 117601 AD : 28869 ! 
+Question: paid AD?
+Answer: 0794
+
+Context: paid  TP : 06671 FT : 84994 AD : 0794 ! outstanding  TP : 4 FT : 117601 AD : 28869 ! 
+Question: outstanding TP?
+Answer: 4
+
+Context: paid  TP : 06671 FT : 84994 AD : 0794 ! outstanding  TP : 4 FT : 117601 AD : 28869 ! 
+Question: outstanding FT?
+Answer: 117601
+
+Context: paid  TP : 06671 FT : 84994 AD : 0794 ! outstanding  TP : 4 FT : 117601 AD : 28869 ! 
+Question: outstanding AD?
+Answer: 28869
+
+Context: paid  TP : 9 AD : 554 FT : 31 ! outstanding  TP : 15731829 AD : 6057726 FT : 6 ! 
+Question: paid TP?
+Answer: 15731829
+
+Context: paid  TP : 9 AD : 554 FT : 31 ! outstanding  TP : 15731829 AD : 6057726 FT : 6 ! 
+Question: paid AD?
+Answer: 554
+
+Context: paid  TP : 9 AD : 554 FT : 31 ! outstanding  TP : 15731829 AD : 6057726 FT : 6 ! 
+Question: paid FT?
+Answer: 31
+
+Context: paid  TP : 9 AD : 554 FT : 31 ! outstanding  TP : 15731829 AD : 6057726 FT : 6 ! 
+Question: outstanding TP?
+Answer: 15731829
+
+Context: paid  TP : 9 AD : 554 FT : 31 ! outstanding  TP : 15731829 AD : 6057726 FT : 6 ! 
+Question: outstanding AD?
+Answer: 6057726
+
+Context: paid  TP : 9 AD : 554 FT : 31 ! outstanding  TP : 15731829 AD : 6057726 FT : 6 ! 
+Question: outstanding FT?
+Answer: 6
+
+Context: paid  AD : 22 TP : 452 FT : 66 ! outstanding  AD : 9393314 TP : 1940519 FT : 2712843 ! 
+Question: paid AD?
+Answer: 9393314
+
+Context: paid  AD : 22 TP : 452 FT : 66 ! outstanding  AD : 9393314 TP : 1940519 FT : 2712843 ! 
+Question: paid TP?
+Answer: 452
+
+Context: paid  AD : 22 TP : 452 FT : 66 ! outstanding  AD : 9393314 TP : 1940519 FT : 2712843 ! 
+Question: paid FT?
+Answer: 66
+
+Context: paid  AD : 22 TP : 452 FT : 66 ! outstanding  AD : 9393314 TP : 1940519 FT : 2712843 ! 
+Question: outstanding AD?
+Answer: 9393314
+
+Context: paid  AD : 22 TP : 452 FT : 66 ! outstanding  AD : 9393314 TP : 1940519 FT : 2712843 ! 
+Question: outstanding TP?
+Answer: 1940519
+
+Context: paid  AD : 22 TP : 452 FT : 66 ! outstanding  AD : 9393314 TP : 1940519 FT : 2712843 ! 
+Question: outstanding FT?
+Answer: 2712843
+
+Context: paid  FT : 324679152 TP : 7632194 AD : 995 ! outstanding  FT : 81963 TP : 420 AD : 854665842 ! 
+Question: paid FT?
+Answer: 324679152
+
+Context: paid  FT : 324679152 TP : 7632194 AD : 995 ! outstanding  FT : 81963 TP : 420 AD : 854665842 ! 
+Question: paid TP?
+Answer: 7632194
+
+Context: paid  FT : 324679152 TP : 7632194 AD : 995 ! outstanding  FT : 81963 TP : 420 AD : 854665842 ! 
+Question: paid AD?
+Answer: 995
+
+Context: paid  FT : 324679152 TP : 7632194 AD : 995 ! outstanding  FT : 81963 TP : 420 AD : 854665842 ! 
+Question: outstanding FT?
+Answer: 81963
+
+Context: paid  FT : 324679152 TP : 7632194 AD : 995 ! outstanding  FT : 81963 TP : 420 AD : 854665842 ! 
+Question: outstanding TP?
+Answer: 420
+
+Context: paid  FT : 324679152 TP : 7632194 AD : 995 ! outstanding  FT : 81963 TP : 420 AD : 854665842 ! 
+Question: outstanding AD?
+Answer: 854665842
+
+Context: paid  TP : 40412683 FT : 0991498735 AD : 47 ! outstanding  TP : 6380495942 FT : 147438 AD : 125539071 ! 
+Question: paid TP?
+Answer: 40412683
+
+Context: paid  TP : 40412683 FT : 0991498735 AD : 47 ! outstanding  TP : 6380495942 FT : 147438 AD : 125539071 ! 
+Question: paid FT?
+Answer: 0991498735
+
+Context: paid  TP : 40412683 FT : 0991498735 AD : 47 ! outstanding  TP : 6380495942 FT : 147438 AD : 125539071 ! 
+Question: paid AD?
+Answer: empty
+
+Context: paid  TP : 40412683 FT : 0991498735 AD : 47 ! outstanding  TP : 6380495942 FT : 147438 AD : 125539071 ! 
+Question: outstanding TP?
+Answer: 6380495942
+
+Context: paid  TP : 40412683 FT : 0991498735 AD : 47 ! outstanding  TP : 6380495942 FT : 147438 AD : 125539071 ! 
+Question: outstanding FT?
+Answer: 147438
+
+Context: paid  TP : 40412683 FT : 0991498735 AD : 47 ! outstanding  TP : 6380495942 FT : 147438 AD : 125539071 ! 
+Question: outstanding AD?
+Answer: 125539071
+
+Context: paid  AD : 8 TP : 4799857 FT : 75831358 ! outstanding  AD : 013483611 TP : 7 FT : 531457 ! 
+Question: paid AD?
+Answer: empty
+
+Context: paid  AD : 8 TP : 4799857 FT : 75831358 ! outstanding  AD : 013483611 TP : 7 FT : 531457 ! 
+Question: paid TP?
+Answer: 4799857
+
+Context: paid  AD : 8 TP : 4799857 FT : 75831358 ! outstanding  AD : 013483611 TP : 7 FT : 531457 ! 
+Question: paid FT?
+Answer: 75831358
+
+Context: paid  AD : 8 TP : 4799857 FT : 75831358 ! outstanding  AD : 013483611 TP : 7 FT : 531457 ! 
+Question: outstanding AD?
+Answer: 013483611
+
+Context: paid  AD : 8 TP : 4799857 FT : 75831358 ! outstanding  AD : 013483611 TP : 7 FT : 531457 ! 
+Question: outstanding TP?
+Answer: 7
+
+Context: paid  AD : 8 TP : 4799857 FT : 75831358 ! outstanding  AD : 013483611 TP : 7 FT : 531457 ! 
+Question: outstanding FT?
+Answer: 531457
+
+Context: paid  AD : 8573810 TP : 9412915 FT : 93286 ! outstanding  AD : 020972 TP : 456827014 FT : 67 ! 
+Question: paid AD?
+Answer: 8573810
+
+Context: paid  AD : 8573810 TP : 9412915 FT : 93286 ! outstanding  AD : 020972 TP : 456827014 FT : 67 ! 
+Question: paid TP?
+Answer: 9412915
+
+Context: paid  AD : 8573810 TP : 9412915 FT : 93286 ! outstanding  AD : 020972 TP : 456827014 FT : 67 ! 
+Question: paid FT?
+Answer: 93286
+
+Context: paid  AD : 8573810 TP : 9412915 FT : 93286 ! outstanding  AD : 020972 TP : 456827014 FT : 67 ! 
+Question: outstanding AD?
+Answer: 020972
+
+Context: paid  AD : 8573810 TP : 9412915 FT : 93286 ! outstanding  AD : 020972 TP : 456827014 FT : 67 ! 
+Question: outstanding TP?
+Answer: 456827014
+
+Context: paid  AD : 8573810 TP : 9412915 FT : 93286 ! outstanding  AD : 020972 TP : 456827014 FT : 67 ! 
+Question: outstanding FT?
+Answer: 67
+
+Context: paid  TP : 26320 AD : 07101 FT : 4 ! outstanding  TP : 2133413 AD : 485 FT : 81282 ! 
+Question: paid TP?
+Answer: 26320
+
+Context: paid  TP : 26320 AD : 07101 FT : 4 ! outstanding  TP : 2133413 AD : 485 FT : 81282 ! 
+Question: paid AD?
+Answer: 07101
+
+Context: paid  TP : 26320 AD : 07101 FT : 4 ! outstanding  TP : 2133413 AD : 485 FT : 81282 ! 
+Question: paid FT?
+Answer: 4
+
+Context: paid  TP : 26320 AD : 07101 FT : 4 ! outstanding  TP : 2133413 AD : 485 FT : 81282 ! 
+Question: outstanding TP?
+Answer: 2133413
+
+Context: paid  TP : 26320 AD : 07101 FT : 4 ! outstanding  TP : 2133413 AD : 485 FT : 81282 ! 
+Question: outstanding AD?
+Answer: 485
+
+Context: paid  TP : 26320 AD : 07101 FT : 4 ! outstanding  TP : 2133413 AD : 485 FT : 81282 ! 
+Question: outstanding FT?
+Answer: 81282
+
+Context: paid  AD : 8941 TP : 956 FT : 3903978 ! outstanding  AD : 1448389 TP : 73 FT : 0572860 ! 
+Question: paid AD?
+Answer: 8941
+
+Context: paid  AD : 8941 TP : 956 FT : 3903978 ! outstanding  AD : 1448389 TP : 73 FT : 0572860 ! 
+Question: paid TP?
+Answer: 956
+
+Context: paid  AD : 8941 TP : 956 FT : 3903978 ! outstanding  AD : 1448389 TP : 73 FT : 0572860 ! 
+Question: paid FT?
+Answer: 3903978
+
+Context: paid  AD : 8941 TP : 956 FT : 3903978 ! outstanding  AD : 1448389 TP : 73 FT : 0572860 ! 
+Question: outstanding AD?
+Answer: 1448389
+
+Context: paid  AD : 8941 TP : 956 FT : 3903978 ! outstanding  AD : 1448389 TP : 73 FT : 0572860 ! 
+Question: outstanding TP?
+Answer: 73
+
+Context: paid  AD : 8941 TP : 956 FT : 3903978 ! outstanding  AD : 1448389 TP : 73 FT : 0572860 ! 
+Question: outstanding FT?
+Answer: 0572860
+
+Context: paid  TP : 37224 FT : 872459003 AD : 0471301 ! outstanding  TP : 66420665 FT : 233040079 AD : 92760 ! 
+Question: paid TP?
+Answer: 37224
+
+Context: paid  TP : 37224 FT : 872459003 AD : 0471301 ! outstanding  TP : 66420665 FT : 233040079 AD : 92760 ! 
+Question: paid FT?
+Answer: 872459003
+
+Context: paid  TP : 37224 FT : 872459003 AD : 0471301 ! outstanding  TP : 66420665 FT : 233040079 AD : 92760 ! 
+Question: paid AD?
+Answer: empty
+
+Context: paid  TP : 37224 FT : 872459003 AD : 0471301 ! outstanding  TP : 66420665 FT : 233040079 AD : 92760 ! 
+Question: outstanding TP?
+Answer: 66420665
+
+Context: paid  TP : 37224 FT : 872459003 AD : 0471301 ! outstanding  TP : 66420665 FT : 233040079 AD : 92760 ! 
+Question: outstanding FT?
+Answer: 233040079
+
+Context: paid  TP : 37224 FT : 872459003 AD : 0471301 ! outstanding  TP : 66420665 FT : 233040079 AD : 92760 ! 
+Question: outstanding AD?
+Answer: empty
+
+Context: paid  AD : 8 FT : 00559775 TP : 4603 ! outstanding  AD : 39 FT : 707 TP : 4391754 ! 
+Question: paid AD?
+Answer: 8
+
+Context: paid  AD : 8 FT : 00559775 TP : 4603 ! outstanding  AD : 39 FT : 707 TP : 4391754 ! 
+Question: paid FT?
+Answer: 00559775
+
+Context: paid  AD : 8 FT : 00559775 TP : 4603 ! outstanding  AD : 39 FT : 707 TP : 4391754 ! 
+Question: paid TP?
+Answer: 4603
+
+Context: paid  AD : 8 FT : 00559775 TP : 4603 ! outstanding  AD : 39 FT : 707 TP : 4391754 ! 
+Question: outstanding AD?
+Answer: 39
+
+Context: paid  AD : 8 FT : 00559775 TP : 4603 ! outstanding  AD : 39 FT : 707 TP : 4391754 ! 
+Question: outstanding FT?
+Answer: 707
+
+Context: paid  AD : 8 FT : 00559775 TP : 4603 ! outstanding  AD : 39 FT : 707 TP : 4391754 ! 
+Question: outstanding TP?
+Answer: 4391754
+
+Context: paid  FT : 8483762386 AD : 8099719 TP : 089681 ! outstanding  FT : 21 AD : 6 TP : 5724975330 ! 
+Question: paid FT?
+Answer: 21
+
+Context: paid  FT : 8483762386 AD : 8099719 TP : 089681 ! outstanding  FT : 21 AD : 6 TP : 5724975330 ! 
+Question: paid AD?
+Answer: empty
+
+Context: paid  FT : 8483762386 AD : 8099719 TP : 089681 ! outstanding  FT : 21 AD : 6 TP : 5724975330 ! 
+Question: paid TP?
+Answer: 5724975330
+
+Context: paid  FT : 8483762386 AD : 8099719 TP : 089681 ! outstanding  FT : 21 AD : 6 TP : 5724975330 ! 
+Question: outstanding FT?
+Answer: 21
+
+Context: paid  FT : 8483762386 AD : 8099719 TP : 089681 ! outstanding  FT : 21 AD : 6 TP : 5724975330 ! 
+Question: outstanding AD?
+Answer: 6
+
+Context: paid  FT : 8483762386 AD : 8099719 TP : 089681 ! outstanding  FT : 21 AD : 6 TP : 5724975330 ! 
+Question: outstanding TP?
+Answer: 5724975330
+
+Context: paid  AD : 35 FT : 802282978 TP : 3 ! outstanding  AD : 9319219999 FT : 90902173 TP : 99 ! 
+Question: paid AD?
+Answer: empty
+
+Context: paid  AD : 35 FT : 802282978 TP : 3 ! outstanding  AD : 9319219999 FT : 90902173 TP : 99 ! 
+Question: paid FT?
+Answer: 802282978
+
+Context: paid  AD : 35 FT : 802282978 TP : 3 ! outstanding  AD : 9319219999 FT : 90902173 TP : 99 ! 
+Question: paid TP?
+Answer: 3
+
+Context: paid  AD : 35 FT : 802282978 TP : 3 ! outstanding  AD : 9319219999 FT : 90902173 TP : 99 ! 
+Question: outstanding AD?
+Answer: 9319219999
+
+Context: paid  AD : 35 FT : 802282978 TP : 3 ! outstanding  AD : 9319219999 FT : 90902173 TP : 99 ! 
+Question: outstanding FT?
+Answer: 90902173
+
+Context: paid  AD : 35 FT : 802282978 TP : 3 ! outstanding  AD : 9319219999 FT : 90902173 TP : 99 ! 
+Question: outstanding TP?
+Answer: 99
+
+Context: paid  FT : 6895 TP : 9468 AD : 047209 ! outstanding  FT : 855100237 TP : 7719225010 AD : 889 ! 
+Question: paid FT?
+Answer: 6895
+
+Context: paid  FT : 6895 TP : 9468 AD : 047209 ! outstanding  FT : 855100237 TP : 7719225010 AD : 889 ! 
+Question: paid TP?
+Answer: 9468
+
+Context: paid  FT : 6895 TP : 9468 AD : 047209 ! outstanding  FT : 855100237 TP : 7719225010 AD : 889 ! 
+Question: paid AD?
+Answer: 047209
+
+Context: paid  FT : 6895 TP : 9468 AD : 047209 ! outstanding  FT : 855100237 TP : 7719225010 AD : 889 ! 
+Question: outstanding FT?
+Answer: 855100237
+
+Context: paid  FT : 6895 TP : 9468 AD : 047209 ! outstanding  FT : 855100237 TP : 7719225010 AD : 889 ! 
+Question: outstanding TP?
+Answer: 7719225010
+
+Context: paid  FT : 6895 TP : 9468 AD : 047209 ! outstanding  FT : 855100237 TP : 7719225010 AD : 889 ! 
+Question: outstanding AD?
+Answer: 889
+
+Context: paid  FT : 47597 AD : 5317 TP : 9672423 ! outstanding  FT : 3460164192 AD : 389967 TP : 004 ! 
+Question: paid FT?
+Answer: 47597
+
+Context: paid  FT : 47597 AD : 5317 TP : 9672423 ! outstanding  FT : 3460164192 AD : 389967 TP : 004 ! 
+Question: paid AD?
+Answer: 5317
+
+Context: paid  FT : 47597 AD : 5317 TP : 9672423 ! outstanding  FT : 3460164192 AD : 389967 TP : 004 ! 
+Question: paid TP?
+Answer: 9672423
+
+Context: paid  FT : 47597 AD : 5317 TP : 9672423 ! outstanding  FT : 3460164192 AD : 389967 TP : 004 ! 
+Question: outstanding FT?
+Answer: 3460164192
+
+Context: paid  FT : 47597 AD : 5317 TP : 9672423 ! outstanding  FT : 3460164192 AD : 389967 TP : 004 ! 
+Question: outstanding AD?
+Answer: 389967
+
+Context: paid  FT : 47597 AD : 5317 TP : 9672423 ! outstanding  FT : 3460164192 AD : 389967 TP : 004 ! 
+Question: outstanding TP?
+Answer: 004
+
+Context: paid  AD : 9387 TP : 612 FT : 4198 ! outstanding  AD : 7817 TP : 64721 FT : 61 ! 
+Question: paid AD?
+Answer: 9387
+
+Context: paid  AD : 9387 TP : 612 FT : 4198 ! outstanding  AD : 7817 TP : 64721 FT : 61 ! 
+Question: paid TP?
+Answer: 612
+
+Context: paid  AD : 9387 TP : 612 FT : 4198 ! outstanding  AD : 7817 TP : 64721 FT : 61 ! 
+Question: paid FT?
+Answer: 4198
+
+Context: paid  AD : 9387 TP : 612 FT : 4198 ! outstanding  AD : 7817 TP : 64721 FT : 61 ! 
+Question: outstanding AD?
+Answer: 7817
+
+Context: paid  AD : 9387 TP : 612 FT : 4198 ! outstanding  AD : 7817 TP : 64721 FT : 61 ! 
+Question: outstanding TP?
+Answer: 64721
+
+Context: paid  AD : 9387 TP : 612 FT : 4198 ! outstanding  AD : 7817 TP : 64721 FT : 61 ! 
+Question: outstanding FT?
+Answer: 61
+
+Context: paid  TP : 2566582 AD : 0 FT : 430235250 ! outstanding  TP : 391 AD : 585 FT : 66037844 ! 
+Question: paid TP?
+Answer: 2566582
+
+Context: paid  TP : 2566582 AD : 0 FT : 430235250 ! outstanding  TP : 391 AD : 585 FT : 66037844 ! 
+Question: paid AD?
+Answer: 0
+
+Context: paid  TP : 2566582 AD : 0 FT : 430235250 ! outstanding  TP : 391 AD : 585 FT : 66037844 ! 
+Question: paid FT?
+Answer: 430235250
+
+Context: paid  TP : 2566582 AD : 0 FT : 430235250 ! outstanding  TP : 391 AD : 585 FT : 66037844 ! 
+Question: outstanding TP?
+Answer: 391
+
+Context: paid  TP : 2566582 AD : 0 FT : 430235250 ! outstanding  TP : 391 AD : 585 FT : 66037844 ! 
+Question: outstanding AD?
+Answer: 585
+
+Context: paid  TP : 2566582 AD : 0 FT : 430235250 ! outstanding  TP : 391 AD : 585 FT : 66037844 ! 
+Question: outstanding FT?
+Answer: 66037844
+
+Context: paid  FT : 934979995 TP : 7808 AD : 544 ! outstanding  FT : 61274 TP : 7622323 AD : 039 ! 
+Question: paid FT?
+Answer: 934979995
+
+Context: paid  FT : 934979995 TP : 7808 AD : 544 ! outstanding  FT : 61274 TP : 7622323 AD : 039 ! 
+Question: paid TP?
+Answer: 7808
+
+Context: paid  FT : 934979995 TP : 7808 AD : 544 ! outstanding  FT : 61274 TP : 7622323 AD : 039 ! 
+Question: paid AD?
+Answer: 544 ! outstanding ft : 61274 tp : 7622323 ad : 039
+
+Context: paid  FT : 934979995 TP : 7808 AD : 544 ! outstanding  FT : 61274 TP : 7622323 AD : 039 ! 
+Question: outstanding FT?
+Answer: 61274
+
+Context: paid  FT : 934979995 TP : 7808 AD : 544 ! outstanding  FT : 61274 TP : 7622323 AD : 039 ! 
+Question: outstanding TP?
+Answer: 7622323
+
+Context: paid  FT : 934979995 TP : 7808 AD : 544 ! outstanding  FT : 61274 TP : 7622323 AD : 039 ! 
+Question: outstanding AD?
+Answer: 039
+
+Context: paid  FT : 609259886 TP : 1273382521 AD : 057110475 ! outstanding  FT : 56812 TP : 99324 AD : 147 ! 
+Question: paid FT?
+Answer: 56812
+
+Context: paid  FT : 609259886 TP : 1273382521 AD : 057110475 ! outstanding  FT : 56812 TP : 99324 AD : 147 ! 
+Question: paid TP?
+Answer: 99324
+
+Context: paid  FT : 609259886 TP : 1273382521 AD : 057110475 ! outstanding  FT : 56812 TP : 99324 AD : 147 ! 
+Question: paid AD?
+Answer: 147
+
+Context: paid  FT : 609259886 TP : 1273382521 AD : 057110475 ! outstanding  FT : 56812 TP : 99324 AD : 147 ! 
+Question: outstanding FT?
+Answer: 56812
+
+Context: paid  FT : 609259886 TP : 1273382521 AD : 057110475 ! outstanding  FT : 56812 TP : 99324 AD : 147 ! 
+Question: outstanding TP?
+Answer: 99324
+
+Context: paid  FT : 609259886 TP : 1273382521 AD : 057110475 ! outstanding  FT : 56812 TP : 99324 AD : 147 ! 
+Question: outstanding AD?
+Answer: 147
+
+Context: paid  FT : 6 AD : 250587180 TP : 780789 ! outstanding  FT : 20 AD : 49986 TP : 38100664 ! 
+Question: paid FT?
+Answer: 6
+
+Context: paid  FT : 6 AD : 250587180 TP : 780789 ! outstanding  FT : 20 AD : 49986 TP : 38100664 ! 
+Question: paid AD?
+Answer: 250587180
+
+Context: paid  FT : 6 AD : 250587180 TP : 780789 ! outstanding  FT : 20 AD : 49986 TP : 38100664 ! 
+Question: paid TP?
+Answer: 780789
+
+Context: paid  FT : 6 AD : 250587180 TP : 780789 ! outstanding  FT : 20 AD : 49986 TP : 38100664 ! 
+Question: outstanding FT?
+Answer: 20
+
+Context: paid  FT : 6 AD : 250587180 TP : 780789 ! outstanding  FT : 20 AD : 49986 TP : 38100664 ! 
+Question: outstanding AD?
+Answer: 20 ad : 49986
+
+Context: paid  FT : 6 AD : 250587180 TP : 780789 ! outstanding  FT : 20 AD : 49986 TP : 38100664 ! 
+Question: outstanding TP?
+Answer: 780789
+
+Context: paid  AD : 1663069894 TP : 8192981558 FT : 6 ! outstanding  AD : 5514 TP : 811143550 FT : 2055185469 ! 
+Question: paid AD?
+Answer: 1663069894
+
+Context: paid  AD : 1663069894 TP : 8192981558 FT : 6 ! outstanding  AD : 5514 TP : 811143550 FT : 2055185469 ! 
+Question: paid TP?
+Answer: 811143550
+
+Context: paid  AD : 1663069894 TP : 8192981558 FT : 6 ! outstanding  AD : 5514 TP : 811143550 FT : 2055185469 ! 
+Question: paid FT?
+Answer: 6
+
+Context: paid  AD : 1663069894 TP : 8192981558 FT : 6 ! outstanding  AD : 5514 TP : 811143550 FT : 2055185469 ! 
+Question: outstanding AD?
+Answer: 5514
+
+Context: paid  AD : 1663069894 TP : 8192981558 FT : 6 ! outstanding  AD : 5514 TP : 811143550 FT : 2055185469 ! 
+Question: outstanding TP?
+Answer: 811143550
+
+Context: paid  AD : 1663069894 TP : 8192981558 FT : 6 ! outstanding  AD : 5514 TP : 811143550 FT : 2055185469 ! 
+Question: outstanding FT?
+Answer: empty
+
+Context: paid  TP : 54208258 AD : 09929 FT : 8771 ! outstanding  TP : 9 AD : 441 FT : 15231 ! 
+Question: paid TP?
+Answer: 54208258
+
+Context: paid  TP : 54208258 AD : 09929 FT : 8771 ! outstanding  TP : 9 AD : 441 FT : 15231 ! 
+Question: paid AD?
+Answer: 09929
+
+Context: paid  TP : 54208258 AD : 09929 FT : 8771 ! outstanding  TP : 9 AD : 441 FT : 15231 ! 
+Question: paid FT?
+Answer: 8771
+
+Context: paid  TP : 54208258 AD : 09929 FT : 8771 ! outstanding  TP : 9 AD : 441 FT : 15231 ! 
+Question: outstanding TP?
+Answer: 9
+
+Context: paid  TP : 54208258 AD : 09929 FT : 8771 ! outstanding  TP : 9 AD : 441 FT : 15231 ! 
+Question: outstanding AD?
+Answer: 441
+
+Context: paid  TP : 54208258 AD : 09929 FT : 8771 ! outstanding  TP : 9 AD : 441 FT : 15231 ! 
+Question: outstanding FT?
+Answer: 8771
+
+Context: paid  FT : 54 TP : 638979 AD : 7279 ! outstanding  FT : 23113 TP : 33 AD : 7029007323 ! 
+Question: paid FT?
+Answer: 54
+
+Context: paid  FT : 54 TP : 638979 AD : 7279 ! outstanding  FT : 23113 TP : 33 AD : 7029007323 ! 
+Question: paid TP?
+Answer: 638979
+
+Context: paid  FT : 54 TP : 638979 AD : 7279 ! outstanding  FT : 23113 TP : 33 AD : 7029007323 ! 
+Question: paid AD?
+Answer: 7279
+
+Context: paid  FT : 54 TP : 638979 AD : 7279 ! outstanding  FT : 23113 TP : 33 AD : 7029007323 ! 
+Question: outstanding FT?
+Answer: 23113
+
+Context: paid  FT : 54 TP : 638979 AD : 7279 ! outstanding  FT : 23113 TP : 33 AD : 7029007323 ! 
+Question: outstanding TP?
+Answer: empty
+
+Context: paid  FT : 54 TP : 638979 AD : 7279 ! outstanding  FT : 23113 TP : 33 AD : 7029007323 ! 
+Question: outstanding AD?
+Answer: 7029007323
+
+Context: paid  FT : 723589 TP : 919001809 AD : 6 ! outstanding  FT : 764234 TP : 1298747934 AD : 76 ! 
+Question: paid FT?
+Answer: 764234
+
+Context: paid  FT : 723589 TP : 919001809 AD : 6 ! outstanding  FT : 764234 TP : 1298747934 AD : 76 ! 
+Question: paid TP?
+Answer: 919001809
+
+Context: paid  FT : 723589 TP : 919001809 AD : 6 ! outstanding  FT : 764234 TP : 1298747934 AD : 76 ! 
+Question: paid AD?
+Answer: 6
+
+Context: paid  FT : 723589 TP : 919001809 AD : 6 ! outstanding  FT : 764234 TP : 1298747934 AD : 76 ! 
+Question: outstanding FT?
+Answer: 764234
+
+Context: paid  FT : 723589 TP : 919001809 AD : 6 ! outstanding  FT : 764234 TP : 1298747934 AD : 76 ! 
+Question: outstanding TP?
+Answer: 1298747934
+
+Context: paid  FT : 723589 TP : 919001809 AD : 6 ! outstanding  FT : 764234 TP : 1298747934 AD : 76 ! 
+Question: outstanding AD?
+Answer: 76
+
+Context: paid  TP : 5825956380 AD : 023851609 FT : 63830 ! outstanding  TP : 253 AD : 56 FT : 49 ! 
+Question: paid TP?
+Answer: empty
+
+Context: paid  TP : 5825956380 AD : 023851609 FT : 63830 ! outstanding  TP : 253 AD : 56 FT : 49 ! 
+Question: paid AD?
+Answer: 023851609
+
+Context: paid  TP : 5825956380 AD : 023851609 FT : 63830 ! outstanding  TP : 253 AD : 56 FT : 49 ! 
+Question: paid FT?
+Answer: 63830
+
+Context: paid  TP : 5825956380 AD : 023851609 FT : 63830 ! outstanding  TP : 253 AD : 56 FT : 49 ! 
+Question: outstanding TP?
+Answer: 253
+
+Context: paid  TP : 5825956380 AD : 023851609 FT : 63830 ! outstanding  TP : 253 AD : 56 FT : 49 ! 
+Question: outstanding AD?
+Answer: empty
+
+Context: paid  TP : 5825956380 AD : 023851609 FT : 63830 ! outstanding  TP : 253 AD : 56 FT : 49 ! 
+Question: outstanding FT?
+Answer: empty
+
+Context: paid  FT : 193405107 AD : 0768257 TP : 6348862 ! outstanding  FT : 151112 AD : 3196148095 TP : 55770 ! 
+Question: paid FT?
+Answer: 193405107
+
+Context: paid  FT : 193405107 AD : 0768257 TP : 6348862 ! outstanding  FT : 151112 AD : 3196148095 TP : 55770 ! 
+Question: paid AD?
+Answer: 0768257
+
+Context: paid  FT : 193405107 AD : 0768257 TP : 6348862 ! outstanding  FT : 151112 AD : 3196148095 TP : 55770 ! 
+Question: paid TP?
+Answer: 55770
+
+Context: paid  FT : 193405107 AD : 0768257 TP : 6348862 ! outstanding  FT : 151112 AD : 3196148095 TP : 55770 ! 
+Question: outstanding FT?
+Answer: 151112
+
+Context: paid  FT : 193405107 AD : 0768257 TP : 6348862 ! outstanding  FT : 151112 AD : 3196148095 TP : 55770 ! 
+Question: outstanding AD?
+Answer: 3196148095
+
+Context: paid  FT : 193405107 AD : 0768257 TP : 6348862 ! outstanding  FT : 151112 AD : 3196148095 TP : 55770 ! 
+Question: outstanding TP?
+Answer: 55770
+
+Context: paid  AD : 780 FT : 338160708 TP : 73256669 ! outstanding  AD : 99 FT : 12667 TP : 20641 ! 
+Question: paid AD?
+Answer: 780
+
+Context: paid  AD : 780 FT : 338160708 TP : 73256669 ! outstanding  AD : 99 FT : 12667 TP : 20641 ! 
+Question: paid FT?
+Answer: 338160708
+
+Context: paid  AD : 780 FT : 338160708 TP : 73256669 ! outstanding  AD : 99 FT : 12667 TP : 20641 ! 
+Question: paid TP?
+Answer: 73256669
+
+Context: paid  AD : 780 FT : 338160708 TP : 73256669 ! outstanding  AD : 99 FT : 12667 TP : 20641 ! 
+Question: outstanding AD?
+Answer: 99
+
+Context: paid  AD : 780 FT : 338160708 TP : 73256669 ! outstanding  AD : 99 FT : 12667 TP : 20641 ! 
+Question: outstanding FT?
+Answer: 12667
+
+Context: paid  AD : 780 FT : 338160708 TP : 73256669 ! outstanding  AD : 99 FT : 12667 TP : 20641 ! 
+Question: outstanding TP?
+Answer: 20641
+
+Context: paid  TP : 122041 AD : 570022679 FT : 482011 ! outstanding  TP : 46 AD : 3270390 FT : 717586621 ! 
+Question: paid TP?
+Answer: 122041
+
+Context: paid  TP : 122041 AD : 570022679 FT : 482011 ! outstanding  TP : 46 AD : 3270390 FT : 717586621 ! 
+Question: paid AD?
+Answer: 570022679
+
+Context: paid  TP : 122041 AD : 570022679 FT : 482011 ! outstanding  TP : 46 AD : 3270390 FT : 717586621 ! 
+Question: paid FT?
+Answer: 482011
+
+Context: paid  TP : 122041 AD : 570022679 FT : 482011 ! outstanding  TP : 46 AD : 3270390 FT : 717586621 ! 
+Question: outstanding TP?
+Answer: 46 ad : 3270390 ft : 717586621
+
+Context: paid  TP : 122041 AD : 570022679 FT : 482011 ! outstanding  TP : 46 AD : 3270390 FT : 717586621 ! 
+Question: outstanding AD?
+Answer: 3270390
+
+Context: paid  TP : 122041 AD : 570022679 FT : 482011 ! outstanding  TP : 46 AD : 3270390 FT : 717586621 ! 
+Question: outstanding FT?
+Answer: 717586621
+
+Context: paid  AD : 896708 FT : 775449809 TP : 0 ! outstanding  AD : 84 FT : 5700756225 TP : 244 ! 
+Question: paid AD?
+Answer: 896708
+
+Context: paid  AD : 896708 FT : 775449809 TP : 0 ! outstanding  AD : 84 FT : 5700756225 TP : 244 ! 
+Question: paid FT?
+Answer: 775449809
+
+Context: paid  AD : 896708 FT : 775449809 TP : 0 ! outstanding  AD : 84 FT : 5700756225 TP : 244 ! 
+Question: paid TP?
+Answer: 0
+
+Context: paid  AD : 896708 FT : 775449809 TP : 0 ! outstanding  AD : 84 FT : 5700756225 TP : 244 ! 
+Question: outstanding AD?
+Answer: 84
+
+Context: paid  AD : 896708 FT : 775449809 TP : 0 ! outstanding  AD : 84 FT : 5700756225 TP : 244 ! 
+Question: outstanding FT?
+Answer: 5700756225
+
+Context: paid  AD : 896708 FT : 775449809 TP : 0 ! outstanding  AD : 84 FT : 5700756225 TP : 244 ! 
+Question: outstanding TP?
+Answer: 0 ! outstanding ad : 84 ft : 5700756225 tp : 244
+
+Context: paid  FT : 9074883463 AD : 1418292453 TP : 0 ! outstanding  FT : 7901 AD : 3411158933 TP : 13 ! 
+Question: paid FT?
+Answer: 9074883463
+
+Context: paid  FT : 9074883463 AD : 1418292453 TP : 0 ! outstanding  FT : 7901 AD : 3411158933 TP : 13 ! 
+Question: paid AD?
+Answer: 1418292453
+
+Context: paid  FT : 9074883463 AD : 1418292453 TP : 0 ! outstanding  FT : 7901 AD : 3411158933 TP : 13 ! 
+Question: paid TP?
+Answer: 0
+
+Context: paid  FT : 9074883463 AD : 1418292453 TP : 0 ! outstanding  FT : 7901 AD : 3411158933 TP : 13 ! 
+Question: outstanding FT?
+Answer: 7901
+
+Context: paid  FT : 9074883463 AD : 1418292453 TP : 0 ! outstanding  FT : 7901 AD : 3411158933 TP : 13 ! 
+Question: outstanding AD?
+Answer: 3411158933
+
+Context: paid  FT : 9074883463 AD : 1418292453 TP : 0 ! outstanding  FT : 7901 AD : 3411158933 TP : 13 ! 
+Question: outstanding TP?
+Answer: 0 ! outstanding ft : 7901 ad : 3411158933 tp : 13
+
+Context: paid  AD : 84762 FT : 228426 TP : 74 ! outstanding  AD : 2 FT : 376957 TP : 26521 ! 
+Question: paid AD?
+Answer: 84762
+
+Context: paid  AD : 84762 FT : 228426 TP : 74 ! outstanding  AD : 2 FT : 376957 TP : 26521 ! 
+Question: paid FT?
+Answer: 228426
+
+Context: paid  AD : 84762 FT : 228426 TP : 74 ! outstanding  AD : 2 FT : 376957 TP : 26521 ! 
+Question: paid TP?
+Answer: 74
+
+Context: paid  AD : 84762 FT : 228426 TP : 74 ! outstanding  AD : 2 FT : 376957 TP : 26521 ! 
+Question: outstanding AD?
+Answer: 2
+
+Context: paid  AD : 84762 FT : 228426 TP : 74 ! outstanding  AD : 2 FT : 376957 TP : 26521 ! 
+Question: outstanding FT?
+Answer: 376957
+
+Context: paid  AD : 84762 FT : 228426 TP : 74 ! outstanding  AD : 2 FT : 376957 TP : 26521 ! 
+Question: outstanding TP?
+Answer: 26521
+
+Context: paid  TP : 3 FT : 328524001 AD : 464820 ! outstanding  TP : 4786062 FT : 959289735 AD : 9 ! 
+Question: paid TP?
+Answer: 3
+
+Context: paid  TP : 3 FT : 328524001 AD : 464820 ! outstanding  TP : 4786062 FT : 959289735 AD : 9 ! 
+Question: paid FT?
+Answer: 328524001
+
+Context: paid  TP : 3 FT : 328524001 AD : 464820 ! outstanding  TP : 4786062 FT : 959289735 AD : 9 ! 
+Question: paid AD?
+Answer: 464820
+
+Context: paid  TP : 3 FT : 328524001 AD : 464820 ! outstanding  TP : 4786062 FT : 959289735 AD : 9 ! 
+Question: outstanding TP?
+Answer: 4786062
+
+Context: paid  TP : 3 FT : 328524001 AD : 464820 ! outstanding  TP : 4786062 FT : 959289735 AD : 9 ! 
+Question: outstanding FT?
+Answer: 959289735
+
+Context: paid  TP : 3 FT : 328524001 AD : 464820 ! outstanding  TP : 4786062 FT : 959289735 AD : 9 ! 
+Question: outstanding AD?
+Answer: 9
+
+Context: paid  FT : 997 TP : 87094 AD : 48344938 ! outstanding  FT : 63760 TP : 890 AD : 137279 ! 
+Question: paid FT?
+Answer: 997
+
+Context: paid  FT : 997 TP : 87094 AD : 48344938 ! outstanding  FT : 63760 TP : 890 AD : 137279 ! 
+Question: paid TP?
+Answer: 87094
+
+Context: paid  FT : 997 TP : 87094 AD : 48344938 ! outstanding  FT : 63760 TP : 890 AD : 137279 ! 
+Question: paid AD?
+Answer: 48344938
+
+Context: paid  FT : 997 TP : 87094 AD : 48344938 ! outstanding  FT : 63760 TP : 890 AD : 137279 ! 
+Question: outstanding FT?
+Answer: 63760
+
+Context: paid  FT : 997 TP : 87094 AD : 48344938 ! outstanding  FT : 63760 TP : 890 AD : 137279 ! 
+Question: outstanding TP?
+Answer: 890
+
+Context: paid  FT : 997 TP : 87094 AD : 48344938 ! outstanding  FT : 63760 TP : 890 AD : 137279 ! 
+Question: outstanding AD?
+Answer: 63760 tp : 890 ad : 137279
+
+Context: paid  AD : 54127153 TP : 69 FT : 6379 ! outstanding  AD : 4570390 TP : 385476144 FT : 113981112 ! 
+Question: paid AD?
+Answer: 54127153
+
+Context: paid  AD : 54127153 TP : 69 FT : 6379 ! outstanding  AD : 4570390 TP : 385476144 FT : 113981112 ! 
+Question: paid TP?
+Answer: 69
+
+Context: paid  AD : 54127153 TP : 69 FT : 6379 ! outstanding  AD : 4570390 TP : 385476144 FT : 113981112 ! 
+Question: paid FT?
+Answer: 6379
+
+Context: paid  AD : 54127153 TP : 69 FT : 6379 ! outstanding  AD : 4570390 TP : 385476144 FT : 113981112 ! 
+Question: outstanding AD?
+Answer: 4570390 tp : 385476144 ft : 113981112
+
+Context: paid  AD : 54127153 TP : 69 FT : 6379 ! outstanding  AD : 4570390 TP : 385476144 FT : 113981112 ! 
+Question: outstanding TP?
+Answer: 385476144
+
+Context: paid  AD : 54127153 TP : 69 FT : 6379 ! outstanding  AD : 4570390 TP : 385476144 FT : 113981112 ! 
+Question: outstanding FT?
+Answer: 113981112
+
+Context: paid  FT : 896182 TP : 554513127 AD : 253 ! outstanding  FT : 01416468 TP : 227 AD : 53 ! 
+Question: paid FT?
+Answer: 896182
+
+Context: paid  FT : 896182 TP : 554513127 AD : 253 ! outstanding  FT : 01416468 TP : 227 AD : 53 ! 
+Question: paid TP?
+Answer: 554513127
+
+Context: paid  FT : 896182 TP : 554513127 AD : 253 ! outstanding  FT : 01416468 TP : 227 AD : 53 ! 
+Question: paid AD?
+Answer: 253
+
+Context: paid  FT : 896182 TP : 554513127 AD : 253 ! outstanding  FT : 01416468 TP : 227 AD : 53 ! 
+Question: outstanding FT?
+Answer: 01416468
+
+Context: paid  FT : 896182 TP : 554513127 AD : 253 ! outstanding  FT : 01416468 TP : 227 AD : 53 ! 
+Question: outstanding TP?
+Answer: 227
+
+Context: paid  FT : 896182 TP : 554513127 AD : 253 ! outstanding  FT : 01416468 TP : 227 AD : 53 ! 
+Question: outstanding AD?
+Answer: 53
+
+Context: paid  TP : 6414663 AD : 5 FT : 8503157 ! outstanding  TP : 84257 AD : 44329484 FT : 93088056 ! 
+Question: paid TP?
+Answer: 6414663
+
+Context: paid  TP : 6414663 AD : 5 FT : 8503157 ! outstanding  TP : 84257 AD : 44329484 FT : 93088056 ! 
+Question: paid AD?
+Answer: 5
+
+Context: paid  TP : 6414663 AD : 5 FT : 8503157 ! outstanding  TP : 84257 AD : 44329484 FT : 93088056 ! 
+Question: paid FT?
+Answer: 8503157
+
+Context: paid  TP : 6414663 AD : 5 FT : 8503157 ! outstanding  TP : 84257 AD : 44329484 FT : 93088056 ! 
+Question: outstanding TP?
+Answer: 84257
+
+Context: paid  TP : 6414663 AD : 5 FT : 8503157 ! outstanding  TP : 84257 AD : 44329484 FT : 93088056 ! 
+Question: outstanding AD?
+Answer: 44329484
+
+Context: paid  TP : 6414663 AD : 5 FT : 8503157 ! outstanding  TP : 84257 AD : 44329484 FT : 93088056 ! 
+Question: outstanding FT?
+Answer: 93088056
+
+Context: paid  FT : 80 TP : 6 AD : 45725620 ! outstanding  FT : 9906879524 TP : 262897 AD : 3936 ! 
+Question: paid FT?
+Answer: 80
+
+Context: paid  FT : 80 TP : 6 AD : 45725620 ! outstanding  FT : 9906879524 TP : 262897 AD : 3936 ! 
+Question: paid TP?
+Answer: empty
+
+Context: paid  FT : 80 TP : 6 AD : 45725620 ! outstanding  FT : 9906879524 TP : 262897 AD : 3936 ! 
+Question: paid AD?
+Answer: 45725620
+
+Context: paid  FT : 80 TP : 6 AD : 45725620 ! outstanding  FT : 9906879524 TP : 262897 AD : 3936 ! 
+Question: outstanding FT?
+Answer: 9906879524
+
+Context: paid  FT : 80 TP : 6 AD : 45725620 ! outstanding  FT : 9906879524 TP : 262897 AD : 3936 ! 
+Question: outstanding TP?
+Answer: 262897
+
+Context: paid  FT : 80 TP : 6 AD : 45725620 ! outstanding  FT : 9906879524 TP : 262897 AD : 3936 ! 
+Question: outstanding AD?
+Answer: 3936
+
+Context: paid  FT : 86 TP : 996 AD : 9878 ! outstanding  FT : 1673 TP : 0016128 AD : 26115026 ! 
+Question: paid FT?
+Answer: 1673
+
+Context: paid  FT : 86 TP : 996 AD : 9878 ! outstanding  FT : 1673 TP : 0016128 AD : 26115026 ! 
+Question: paid TP?
+Answer: 0016128
+
+Context: paid  FT : 86 TP : 996 AD : 9878 ! outstanding  FT : 1673 TP : 0016128 AD : 26115026 ! 
+Question: paid AD?
+Answer: 9878
+
+Context: paid  FT : 86 TP : 996 AD : 9878 ! outstanding  FT : 1673 TP : 0016128 AD : 26115026 ! 
+Question: outstanding FT?
+Answer: 1673
+
+Context: paid  FT : 86 TP : 996 AD : 9878 ! outstanding  FT : 1673 TP : 0016128 AD : 26115026 ! 
+Question: outstanding TP?
+Answer: 0016128
+
+Context: paid  FT : 86 TP : 996 AD : 9878 ! outstanding  FT : 1673 TP : 0016128 AD : 26115026 ! 
+Question: outstanding AD?
+Answer: 26115026
+
+Context: paid  FT : 95 TP : 884739 AD : 259680 ! outstanding  FT : 365544733 TP : 896221837 AD : 66232 ! 
+Question: paid FT?
+Answer: 365544733
+
+Context: paid  FT : 95 TP : 884739 AD : 259680 ! outstanding  FT : 365544733 TP : 896221837 AD : 66232 ! 
+Question: paid TP?
+Answer: 884739
+
+Context: paid  FT : 95 TP : 884739 AD : 259680 ! outstanding  FT : 365544733 TP : 896221837 AD : 66232 ! 
+Question: paid AD?
+Answer: 259680
+
+Context: paid  FT : 95 TP : 884739 AD : 259680 ! outstanding  FT : 365544733 TP : 896221837 AD : 66232 ! 
+Question: outstanding FT?
+Answer: 365544733
+
+Context: paid  FT : 95 TP : 884739 AD : 259680 ! outstanding  FT : 365544733 TP : 896221837 AD : 66232 ! 
+Question: outstanding TP?
+Answer: 896221837
+
+Context: paid  FT : 95 TP : 884739 AD : 259680 ! outstanding  FT : 365544733 TP : 896221837 AD : 66232 ! 
+Question: outstanding AD?
+Answer: 66232
+
+Context: paid  FT : 071406 AD : 02420406 TP : 74395 ! outstanding  FT : 21 AD : 4481742 TP : 887231 ! 
+Question: paid FT?
+Answer: 071406
+
+Context: paid  FT : 071406 AD : 02420406 TP : 74395 ! outstanding  FT : 21 AD : 4481742 TP : 887231 ! 
+Question: paid AD?
+Answer: 02420406
+
+Context: paid  FT : 071406 AD : 02420406 TP : 74395 ! outstanding  FT : 21 AD : 4481742 TP : 887231 ! 
+Question: paid TP?
+Answer: 74395
+
+Context: paid  FT : 071406 AD : 02420406 TP : 74395 ! outstanding  FT : 21 AD : 4481742 TP : 887231 ! 
+Question: outstanding FT?
+Answer: 21
+
+Context: paid  FT : 071406 AD : 02420406 TP : 74395 ! outstanding  FT : 21 AD : 4481742 TP : 887231 ! 
+Question: outstanding AD?
+Answer: 21 ad : 4481742
+
+Context: paid  FT : 071406 AD : 02420406 TP : 74395 ! outstanding  FT : 21 AD : 4481742 TP : 887231 ! 
+Question: outstanding TP?
+Answer: 887231
+
+Context: paid  AD : 648 FT : 54 TP : 05 ! outstanding  AD : 0 FT : 030511 TP : 6572441891 ! 
+Question: paid AD?
+Answer: 648
+
+Context: paid  AD : 648 FT : 54 TP : 05 ! outstanding  AD : 0 FT : 030511 TP : 6572441891 ! 
+Question: paid FT?
+Answer: 54
+
+Context: paid  AD : 648 FT : 54 TP : 05 ! outstanding  AD : 0 FT : 030511 TP : 6572441891 ! 
+Question: paid TP?
+Answer: 05
+
+Context: paid  AD : 648 FT : 54 TP : 05 ! outstanding  AD : 0 FT : 030511 TP : 6572441891 ! 
+Question: outstanding AD?
+Answer: 0
+
+Context: paid  AD : 648 FT : 54 TP : 05 ! outstanding  AD : 0 FT : 030511 TP : 6572441891 ! 
+Question: outstanding FT?
+Answer: 030511
+
+Context: paid  AD : 648 FT : 54 TP : 05 ! outstanding  AD : 0 FT : 030511 TP : 6572441891 ! 
+Question: outstanding TP?
+Answer: 6572441891
+
+Context: paid  AD : 6846 TP : 6389 FT : 04465800 ! outstanding  AD : 03047 TP : 6 FT : 78400128 ! 
+Question: paid AD?
+Answer: 6846
+
+Context: paid  AD : 6846 TP : 6389 FT : 04465800 ! outstanding  AD : 03047 TP : 6 FT : 78400128 ! 
+Question: paid TP?
+Answer: 6389
+
+Context: paid  AD : 6846 TP : 6389 FT : 04465800 ! outstanding  AD : 03047 TP : 6 FT : 78400128 ! 
+Question: paid FT?
+Answer: 04465800
+
+Context: paid  AD : 6846 TP : 6389 FT : 04465800 ! outstanding  AD : 03047 TP : 6 FT : 78400128 ! 
+Question: outstanding AD?
+Answer: 03047
+
+Context: paid  AD : 6846 TP : 6389 FT : 04465800 ! outstanding  AD : 03047 TP : 6 FT : 78400128 ! 
+Question: outstanding TP?
+Answer: 6
+
+Context: paid  AD : 6846 TP : 6389 FT : 04465800 ! outstanding  AD : 03047 TP : 6 FT : 78400128 ! 
+Question: outstanding FT?
+Answer: 78400128
+
+Context: paid  TP : 634 FT : 7312371 AD : 4 ! outstanding  TP : 8 FT : 2207311408 AD : 165612 ! 
+Question: paid TP?
+Answer: 634
+
+Context: paid  TP : 634 FT : 7312371 AD : 4 ! outstanding  TP : 8 FT : 2207311408 AD : 165612 ! 
+Question: paid FT?
+Answer: 7312371
+
+Context: paid  TP : 634 FT : 7312371 AD : 4 ! outstanding  TP : 8 FT : 2207311408 AD : 165612 ! 
+Question: paid AD?
+Answer: 4
+
+Context: paid  TP : 634 FT : 7312371 AD : 4 ! outstanding  TP : 8 FT : 2207311408 AD : 165612 ! 
+Question: outstanding TP?
+Answer: 8
+
+Context: paid  TP : 634 FT : 7312371 AD : 4 ! outstanding  TP : 8 FT : 2207311408 AD : 165612 ! 
+Question: outstanding FT?
+Answer: 2207311408
+
+Context: paid  TP : 634 FT : 7312371 AD : 4 ! outstanding  TP : 8 FT : 2207311408 AD : 165612 ! 
+Question: outstanding AD?
+Answer: 165612
+
+Context: paid  AD : 0403307746 TP : 6267 FT : 124171 ! outstanding  AD : 4 TP : 09 FT : 84 ! 
+Question: paid AD?
+Answer: 0403307746
+
+Context: paid  AD : 0403307746 TP : 6267 FT : 124171 ! outstanding  AD : 4 TP : 09 FT : 84 ! 
+Question: paid TP?
+Answer: 6267
+
+Context: paid  AD : 0403307746 TP : 6267 FT : 124171 ! outstanding  AD : 4 TP : 09 FT : 84 ! 
+Question: paid FT?
+Answer: 124171
+
+Context: paid  AD : 0403307746 TP : 6267 FT : 124171 ! outstanding  AD : 4 TP : 09 FT : 84 ! 
+Question: outstanding AD?
+Answer: 4
+
+Context: paid  AD : 0403307746 TP : 6267 FT : 124171 ! outstanding  AD : 4 TP : 09 FT : 84 ! 
+Question: outstanding TP?
+Answer: empty
+
+Context: paid  AD : 0403307746 TP : 6267 FT : 124171 ! outstanding  AD : 4 TP : 09 FT : 84 ! 
+Question: outstanding FT?
+Answer: empty
+
+----------------------------------------------------------------------------------------------
+
+ f1 score: 89.27314814814812

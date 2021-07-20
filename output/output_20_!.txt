@@ -1,0 +1,32 @@
+Context: total reserves : 1999 200 !
+Question: total?
+Answer: 1999
+
+Context: reserves total : 10 9956422 !
+Question: reserves?
+Answer: 10
+
+Context: total reserves : 45127 0 !
+Question: reserves?
+Answer: empty
+
+Context: reserves total : 0 10 !
+Question: total?
+Answer: 10
+
+Context: reserves total : 6 0 !
+Question: reserves?
+Answer: 6
+
+Context: reserves total : 60 !
+Question: reserves total?
+Answer: 60
+
+Context: reserves : 874 ! total : 9562 !
+Question: total?
+Answer: empty
+
+Context: reserves : 74 ! total : 62 !
+Question: reserves?
+Answer: 74
+

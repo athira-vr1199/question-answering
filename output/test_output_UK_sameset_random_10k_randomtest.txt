@@ -1,0 +1,123 @@
+Context: sport CGNS : 04572 NWZ : 341724 JQB : 339 ! profile CGNS : 146428941 NWZ : 035639 JQB : 572 ! 
+Question: sport CGNS?
+Answer: 04572
+
+Context: sport CGNS : 04572 NWZ : 341724 JQB : 339 ! profile CGNS : 146428941 NWZ : 035639 JQB : 572 ! 
+Question: sport NWZ?
+Answer: 341724
+
+Context: sport CGNS : 04572 NWZ : 341724 JQB : 339 ! profile CGNS : 146428941 NWZ : 035639 JQB : 572 ! 
+Question: sport JQB?
+Answer: 04572 nwz : 341724
+
+Context: sport CGNS : 04572 NWZ : 341724 JQB : 339 ! profile CGNS : 146428941 NWZ : 035639 JQB : 572 ! 
+Question: profile CGNS?
+Answer: empty
+
+Context: sport CGNS : 04572 NWZ : 341724 JQB : 339 ! profile CGNS : 146428941 NWZ : 035639 JQB : 572 ! 
+Question: profile NWZ?
+Answer: empty
+
+Context: sport CGNS : 04572 NWZ : 341724 JQB : 339 ! profile CGNS : 146428941 NWZ : 035639 JQB : 572 ! 
+Question: profile JQB?
+Answer: empty
+
+Context: administration G : 946630613 XYMS : 16783789 BG : 366270 ! table G : 42925740 XYMS : 917786470 BG : 18438 ! 
+Question: administration G?
+Answer: 946630613
+
+Context: administration G : 946630613 XYMS : 16783789 BG : 366270 ! table G : 42925740 XYMS : 917786470 BG : 18438 ! 
+Question: administration XYMS?
+Answer: empty
+
+Context: administration G : 946630613 XYMS : 16783789 BG : 366270 ! table G : 42925740 XYMS : 917786470 BG : 18438 ! 
+Question: administration BG?
+Answer: 366270
+
+Context: administration G : 946630613 XYMS : 16783789 BG : 366270 ! table G : 42925740 XYMS : 917786470 BG : 18438 ! 
+Question: table G?
+Answer: 42925740
+
+Context: administration G : 946630613 XYMS : 16783789 BG : 366270 ! table G : 42925740 XYMS : 917786470 BG : 18438 ! 
+Question: table XYMS?
+Answer: 366270
+
+Context: administration G : 946630613 XYMS : 16783789 BG : 366270 ! table G : 42925740 XYMS : 917786470 BG : 18438 ! 
+Question: table BG?
+Answer: 366270
+
+Context: concert U : 5 XK : 3289360 OMO : 67 ! quarter U : 346680776 XK : 2750986629 OMO : 55831169 ! 
+Question: concert U?
+Answer: 5
+
+Context: concert U : 5 XK : 3289360 OMO : 67 ! quarter U : 346680776 XK : 2750986629 OMO : 55831169 ! 
+Question: concert XK?
+Answer: 3289360
+
+Context: concert U : 5 XK : 3289360 OMO : 67 ! quarter U : 346680776 XK : 2750986629 OMO : 55831169 ! 
+Question: concert OMO?
+Answer: 67
+
+Context: concert U : 5 XK : 3289360 OMO : 67 ! quarter U : 346680776 XK : 2750986629 OMO : 55831169 ! 
+Question: quarter U?
+Answer: 346680776
+
+Context: concert U : 5 XK : 3289360 OMO : 67 ! quarter U : 346680776 XK : 2750986629 OMO : 55831169 ! 
+Question: quarter XK?
+Answer: 2750986629
+
+Context: concert U : 5 XK : 3289360 OMO : 67 ! quarter U : 346680776 XK : 2750986629 OMO : 55831169 ! 
+Question: quarter OMO?
+Answer: 55831169
+
+Context: cause RRUD : 49 WQE : 52357015 VMIE : 8 ! towel RRUD : 59176936 WQE : 53431612 VMIE : 308039 ! 
+Question: cause RRUD?
+Answer: 52357015
+
+Context: cause RRUD : 49 WQE : 52357015 VMIE : 8 ! towel RRUD : 59176936 WQE : 53431612 VMIE : 308039 ! 
+Question: cause WQE?
+Answer: 52357015
+
+Context: cause RRUD : 49 WQE : 52357015 VMIE : 8 ! towel RRUD : 59176936 WQE : 53431612 VMIE : 308039 ! 
+Question: cause VMIE?
+Answer: 8
+
+Context: cause RRUD : 49 WQE : 52357015 VMIE : 8 ! towel RRUD : 59176936 WQE : 53431612 VMIE : 308039 ! 
+Question: towel RRUD?
+Answer: 59176936
+
+Context: cause RRUD : 49 WQE : 52357015 VMIE : 8 ! towel RRUD : 59176936 WQE : 53431612 VMIE : 308039 ! 
+Question: towel WQE?
+Answer: 52357015
+
+Context: cause RRUD : 49 WQE : 52357015 VMIE : 8 ! towel RRUD : 59176936 WQE : 53431612 VMIE : 308039 ! 
+Question: towel VMIE?
+Answer: 8
+
+Context: try YT : 7 KIE : 242614 VUAA : 22868881 ! lay YT : 013627883 KIE : 9834308 VUAA : 2214480 ! 
+Question: try YT?
+Answer: 22868881
+
+Context: try YT : 7 KIE : 242614 VUAA : 22868881 ! lay YT : 013627883 KIE : 9834308 VUAA : 2214480 ! 
+Question: try KIE?
+Answer: 242614
+
+Context: try YT : 7 KIE : 242614 VUAA : 22868881 ! lay YT : 013627883 KIE : 9834308 VUAA : 2214480 ! 
+Question: try VUAA?
+Answer: 22868881
+
+Context: try YT : 7 KIE : 242614 VUAA : 22868881 ! lay YT : 013627883 KIE : 9834308 VUAA : 2214480 ! 
+Question: lay YT?
+Answer: 013627883
+
+Context: try YT : 7 KIE : 242614 VUAA : 22868881 ! lay YT : 013627883 KIE : 9834308 VUAA : 2214480 ! 
+Question: lay KIE?
+Answer: empty
+
+Context: try YT : 7 KIE : 242614 VUAA : 22868881 ! lay YT : 013627883 KIE : 9834308 VUAA : 2214480 ! 
+Question: lay VUAA?
+Answer: 2214480
+
+----------------------------------------------------------------------------------------------
+
+ f1 score: 60.0

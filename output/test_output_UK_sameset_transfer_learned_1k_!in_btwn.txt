@@ -1,0 +1,2403 @@
+Context: Claims Paid  TP : 232 ! FT : 12858121 ! AD : 165010477 ! Claims Outstanding  TP : 0444176 ! FT : 37491661 ! AD : 599490433 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 232 ! FT : 12858121 ! AD : 165010477 ! Claims Outstanding  TP : 0444176 ! FT : 37491661 ! AD : 599490433 ! 
+Question: Claims Paid FT?
+Answer: 12858121
+
+Context: Claims Paid  TP : 232 ! FT : 12858121 ! AD : 165010477 ! Claims Outstanding  TP : 0444176 ! FT : 37491661 ! AD : 599490433 ! 
+Question: Claims Paid AD?
+Answer: 165010477
+
+Context: Claims Paid  TP : 232 ! FT : 12858121 ! AD : 165010477 ! Claims Outstanding  TP : 0444176 ! FT : 37491661 ! AD : 599490433 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 232 ! FT : 12858121 ! AD : 165010477 ! Claims Outstanding  TP : 0444176 ! FT : 37491661 ! AD : 599490433 ! 
+Question: Claims Outstanding FT?
+Answer: 37491661
+
+Context: Claims Paid  TP : 232 ! FT : 12858121 ! AD : 165010477 ! Claims Outstanding  TP : 0444176 ! FT : 37491661 ! AD : 599490433 ! 
+Question: Claims Outstanding AD?
+Answer: 599490433
+
+Context: Claims Paid  AD : 981837 ! FT : 050397 ! TP : 5561 ! Claims Outstanding  AD : 6 ! FT : 5661366995 ! TP : 30 ! 
+Question: Claims Paid AD?
+Answer: 981837
+
+Context: Claims Paid  AD : 981837 ! FT : 050397 ! TP : 5561 ! Claims Outstanding  AD : 6 ! FT : 5661366995 ! TP : 30 ! 
+Question: Claims Paid FT?
+Answer: 050397
+
+Context: Claims Paid  AD : 981837 ! FT : 050397 ! TP : 5561 ! Claims Outstanding  AD : 6 ! FT : 5661366995 ! TP : 30 ! 
+Question: Claims Paid TP?
+Answer: 5561
+
+Context: Claims Paid  AD : 981837 ! FT : 050397 ! TP : 5561 ! Claims Outstanding  AD : 6 ! FT : 5661366995 ! TP : 30 ! 
+Question: Claims Outstanding AD?
+Answer: 981837
+
+Context: Claims Paid  AD : 981837 ! FT : 050397 ! TP : 5561 ! Claims Outstanding  AD : 6 ! FT : 5661366995 ! TP : 30 ! 
+Question: Claims Outstanding FT?
+Answer: 5661366995
+
+Context: Claims Paid  AD : 981837 ! FT : 050397 ! TP : 5561 ! Claims Outstanding  AD : 6 ! FT : 5661366995 ! TP : 30 ! 
+Question: Claims Outstanding TP?
+Answer: 1
+
+Context: Claims Paid  AD : 453030 ! TP : 85 ! FT : 6443 ! Claims Outstanding  AD : 73229 ! TP : 878 ! FT : 7059 ! 
+Question: Claims Paid AD?
+Answer: 453030
+
+Context: Claims Paid  AD : 453030 ! TP : 85 ! FT : 6443 ! Claims Outstanding  AD : 73229 ! TP : 878 ! FT : 7059 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 453030 ! TP : 85 ! FT : 6443 ! Claims Outstanding  AD : 73229 ! TP : 878 ! FT : 7059 ! 
+Question: Claims Paid FT?
+Answer: 6443
+
+Context: Claims Paid  AD : 453030 ! TP : 85 ! FT : 6443 ! Claims Outstanding  AD : 73229 ! TP : 878 ! FT : 7059 ! 
+Question: Claims Outstanding AD?
+Answer: 73229
+
+Context: Claims Paid  AD : 453030 ! TP : 85 ! FT : 6443 ! Claims Outstanding  AD : 73229 ! TP : 878 ! FT : 7059 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  AD : 453030 ! TP : 85 ! FT : 6443 ! Claims Outstanding  AD : 73229 ! TP : 878 ! FT : 7059 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  TP : 4613 ! FT : 6424 ! AD : 41 ! Claims Outstanding  TP : 01 ! FT : 58670 ! AD : 202 ! 
+Question: Claims Paid TP?
+Answer: 41
+
+Context: Claims Paid  TP : 4613 ! FT : 6424 ! AD : 41 ! Claims Outstanding  TP : 01 ! FT : 58670 ! AD : 202 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  TP : 4613 ! FT : 6424 ! AD : 41 ! Claims Outstanding  TP : 01 ! FT : 58670 ! AD : 202 ! 
+Question: Claims Paid AD?
+Answer: 41
+
+Context: Claims Paid  TP : 4613 ! FT : 6424 ! AD : 41 ! Claims Outstanding  TP : 01 ! FT : 58670 ! AD : 202 ! 
+Question: Claims Outstanding TP?
+Answer: 41
+
+Context: Claims Paid  TP : 4613 ! FT : 6424 ! AD : 41 ! Claims Outstanding  TP : 01 ! FT : 58670 ! AD : 202 ! 
+Question: Claims Outstanding FT?
+Answer: 70
+
+Context: Claims Paid  TP : 4613 ! FT : 6424 ! AD : 41 ! Claims Outstanding  TP : 01 ! FT : 58670 ! AD : 202 ! 
+Question: Claims Outstanding AD?
+Answer: 41
+
+Context: Claims Paid  AD : 5890 ! FT : 30637031 ! TP : 622615572 ! Claims Outstanding  AD : 65623176 ! FT : 200578 ! TP : 118 ! 
+Question: Claims Paid AD?
+Answer: 5890
+
+Context: Claims Paid  AD : 5890 ! FT : 30637031 ! TP : 622615572 ! Claims Outstanding  AD : 65623176 ! FT : 200578 ! TP : 118 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  AD : 5890 ! FT : 30637031 ! TP : 622615572 ! Claims Outstanding  AD : 65623176 ! FT : 200578 ! TP : 118 ! 
+Question: Claims Paid TP?
+Answer: 622615572
+
+Context: Claims Paid  AD : 5890 ! FT : 30637031 ! TP : 622615572 ! Claims Outstanding  AD : 65623176 ! FT : 200578 ! TP : 118 ! 
+Question: Claims Outstanding AD?
+Answer: 65623176
+
+Context: Claims Paid  AD : 5890 ! FT : 30637031 ! TP : 622615572 ! Claims Outstanding  AD : 65623176 ! FT : 200578 ! TP : 118 ! 
+Question: Claims Outstanding FT?
+Answer: 200578
+
+Context: Claims Paid  AD : 5890 ! FT : 30637031 ! TP : 622615572 ! Claims Outstanding  AD : 65623176 ! FT : 200578 ! TP : 118 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  FT : 1 ! TP : 8909649585 ! AD : 2152066251 ! Claims Outstanding  FT : 97 ! TP : 10246177 ! AD : 4356 ! 
+Question: Claims Paid FT?
+Answer: 97
+
+Context: Claims Paid  FT : 1 ! TP : 8909649585 ! AD : 2152066251 ! Claims Outstanding  FT : 97 ! TP : 10246177 ! AD : 4356 ! 
+Question: Claims Paid TP?
+Answer: 2152066251
+
+Context: Claims Paid  FT : 1 ! TP : 8909649585 ! AD : 2152066251 ! Claims Outstanding  FT : 97 ! TP : 10246177 ! AD : 4356 ! 
+Question: Claims Paid AD?
+Answer: 2152066251
+
+Context: Claims Paid  FT : 1 ! TP : 8909649585 ! AD : 2152066251 ! Claims Outstanding  FT : 97 ! TP : 10246177 ! AD : 4356 ! 
+Question: Claims Outstanding FT?
+Answer: 97
+
+Context: Claims Paid  FT : 1 ! TP : 8909649585 ! AD : 2152066251 ! Claims Outstanding  FT : 97 ! TP : 10246177 ! AD : 4356 ! 
+Question: Claims Outstanding TP?
+Answer: 2152066251
+
+Context: Claims Paid  FT : 1 ! TP : 8909649585 ! AD : 2152066251 ! Claims Outstanding  FT : 97 ! TP : 10246177 ! AD : 4356 ! 
+Question: Claims Outstanding AD?
+Answer: 2152066251
+
+Context: Claims Paid  FT : 21 ! TP : 298768 ! AD : 7165 ! Claims Outstanding  FT : 8358 ! TP : 89317 ! AD : 51820 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 21 ! TP : 298768 ! AD : 7165 ! Claims Outstanding  FT : 8358 ! TP : 89317 ! AD : 51820 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  FT : 21 ! TP : 298768 ! AD : 7165 ! Claims Outstanding  FT : 8358 ! TP : 89317 ! AD : 51820 ! 
+Question: Claims Paid AD?
+Answer: 7165
+
+Context: Claims Paid  FT : 21 ! TP : 298768 ! AD : 7165 ! Claims Outstanding  FT : 8358 ! TP : 89317 ! AD : 51820 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  FT : 21 ! TP : 298768 ! AD : 7165 ! Claims Outstanding  FT : 8358 ! TP : 89317 ! AD : 51820 ! 
+Question: Claims Outstanding TP?
+Answer: 7165
+
+Context: Claims Paid  FT : 21 ! TP : 298768 ! AD : 7165 ! Claims Outstanding  FT : 8358 ! TP : 89317 ! AD : 51820 ! 
+Question: Claims Outstanding AD?
+Answer: 7165
+
+Context: Claims Paid  FT : 90592 ! AD : 363422519 ! TP : 5 ! Claims Outstanding  FT : 00 ! AD : 979 ! TP : 338 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 90592 ! AD : 363422519 ! TP : 5 ! Claims Outstanding  FT : 00 ! AD : 979 ! TP : 338 ! 
+Question: Claims Paid AD?
+Answer: 363422519
+
+Context: Claims Paid  FT : 90592 ! AD : 363422519 ! TP : 5 ! Claims Outstanding  FT : 00 ! AD : 979 ! TP : 338 ! 
+Question: Claims Paid TP?
+Answer: 5
+
+Context: Claims Paid  FT : 90592 ! AD : 363422519 ! TP : 5 ! Claims Outstanding  FT : 00 ! AD : 979 ! TP : 338 ! 
+Question: Claims Outstanding FT?
+Answer: 00
+
+Context: Claims Paid  FT : 90592 ! AD : 363422519 ! TP : 5 ! Claims Outstanding  FT : 00 ! AD : 979 ! TP : 338 ! 
+Question: Claims Outstanding AD?
+Answer: 363422519
+
+Context: Claims Paid  FT : 90592 ! AD : 363422519 ! TP : 5 ! Claims Outstanding  FT : 00 ! AD : 979 ! TP : 338 ! 
+Question: Claims Outstanding TP?
+Answer: 5
+
+Context: Claims Paid  AD : 381 ! TP : 456632830 ! FT : 655058 ! Claims Outstanding  AD : 22273 ! TP : 78741471 ! FT : 944355180 ! 
+Question: Claims Paid AD?
+Answer: 381
+
+Context: Claims Paid  AD : 381 ! TP : 456632830 ! FT : 655058 ! Claims Outstanding  AD : 22273 ! TP : 78741471 ! FT : 944355180 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 381 ! TP : 456632830 ! FT : 655058 ! Claims Outstanding  AD : 22273 ! TP : 78741471 ! FT : 944355180 ! 
+Question: Claims Paid FT?
+Answer: 655058
+
+Context: Claims Paid  AD : 381 ! TP : 456632830 ! FT : 655058 ! Claims Outstanding  AD : 22273 ! TP : 78741471 ! FT : 944355180 ! 
+Question: Claims Outstanding AD?
+Answer: 22273
+
+Context: Claims Paid  AD : 381 ! TP : 456632830 ! FT : 655058 ! Claims Outstanding  AD : 22273 ! TP : 78741471 ! FT : 944355180 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  AD : 381 ! TP : 456632830 ! FT : 655058 ! Claims Outstanding  AD : 22273 ! TP : 78741471 ! FT : 944355180 ! 
+Question: Claims Outstanding FT?
+Answer: 944355180
+
+Context: Claims Paid  TP : 19112 ! FT : 9036765 ! AD : 6021 ! Claims Outstanding  TP : 521534 ! FT : 931 ! AD : 0133870489 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 19112 ! FT : 9036765 ! AD : 6021 ! Claims Outstanding  TP : 521534 ! FT : 931 ! AD : 0133870489 ! 
+Question: Claims Paid FT?
+Answer: 9036765
+
+Context: Claims Paid  TP : 19112 ! FT : 9036765 ! AD : 6021 ! Claims Outstanding  TP : 521534 ! FT : 931 ! AD : 0133870489 ! 
+Question: Claims Paid AD?
+Answer: 6021
+
+Context: Claims Paid  TP : 19112 ! FT : 9036765 ! AD : 6021 ! Claims Outstanding  TP : 521534 ! FT : 931 ! AD : 0133870489 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 19112 ! FT : 9036765 ! AD : 6021 ! Claims Outstanding  TP : 521534 ! FT : 931 ! AD : 0133870489 ! 
+Question: Claims Outstanding FT?
+Answer: 931
+
+Context: Claims Paid  TP : 19112 ! FT : 9036765 ! AD : 6021 ! Claims Outstanding  TP : 521534 ! FT : 931 ! AD : 0133870489 ! 
+Question: Claims Outstanding AD?
+Answer: 6021
+
+Context: Claims Paid  FT : 68249403 ! AD : 260 ! TP : 11 ! Claims Outstanding  FT : 296745834 ! AD : 9 ! TP : 99999 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 68249403 ! AD : 260 ! TP : 11 ! Claims Outstanding  FT : 296745834 ! AD : 9 ! TP : 99999 ! 
+Question: Claims Paid AD?
+Answer: 260
+
+Context: Claims Paid  FT : 68249403 ! AD : 260 ! TP : 11 ! Claims Outstanding  FT : 296745834 ! AD : 9 ! TP : 99999 ! 
+Question: Claims Paid TP?
+Answer: 11
+
+Context: Claims Paid  FT : 68249403 ! AD : 260 ! TP : 11 ! Claims Outstanding  FT : 296745834 ! AD : 9 ! TP : 99999 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  FT : 68249403 ! AD : 260 ! TP : 11 ! Claims Outstanding  FT : 296745834 ! AD : 9 ! TP : 99999 ! 
+Question: Claims Outstanding AD?
+Answer: 260
+
+Context: Claims Paid  FT : 68249403 ! AD : 260 ! TP : 11 ! Claims Outstanding  FT : 296745834 ! AD : 9 ! TP : 99999 ! 
+Question: Claims Outstanding TP?
+Answer: 11
+
+Context: Claims Paid  AD : 441632824 ! TP : 270184929 ! FT : 38624124 ! Claims Outstanding  AD : 4338227895 ! TP : 6669 ! FT : 3 ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  AD : 441632824 ! TP : 270184929 ! FT : 38624124 ! Claims Outstanding  AD : 4338227895 ! TP : 6669 ! FT : 3 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 441632824 ! TP : 270184929 ! FT : 38624124 ! Claims Outstanding  AD : 4338227895 ! TP : 6669 ! FT : 3 ! 
+Question: Claims Paid FT?
+Answer: 38624124
+
+Context: Claims Paid  AD : 441632824 ! TP : 270184929 ! FT : 38624124 ! Claims Outstanding  AD : 4338227895 ! TP : 6669 ! FT : 3 ! 
+Question: Claims Outstanding AD?
+Answer: 4338227895
+
+Context: Claims Paid  AD : 441632824 ! TP : 270184929 ! FT : 38624124 ! Claims Outstanding  AD : 4338227895 ! TP : 6669 ! FT : 3 ! 
+Question: Claims Outstanding TP?
+Answer: 9
+
+Context: Claims Paid  AD : 441632824 ! TP : 270184929 ! FT : 38624124 ! Claims Outstanding  AD : 4338227895 ! TP : 6669 ! FT : 3 ! 
+Question: Claims Outstanding FT?
+Answer: 3
+
+Context: Claims Paid  AD : 998 ! FT : 624743678 ! TP : 72960 ! Claims Outstanding  AD : 9 ! FT : 5905399 ! TP : 480 ! 
+Question: Claims Paid AD?
+Answer: 998
+
+Context: Claims Paid  AD : 998 ! FT : 624743678 ! TP : 72960 ! Claims Outstanding  AD : 9 ! FT : 5905399 ! TP : 480 ! 
+Question: Claims Paid FT?
+Answer: 5905399
+
+Context: Claims Paid  AD : 998 ! FT : 624743678 ! TP : 72960 ! Claims Outstanding  AD : 9 ! FT : 5905399 ! TP : 480 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 998 ! FT : 624743678 ! TP : 72960 ! Claims Outstanding  AD : 9 ! FT : 5905399 ! TP : 480 ! 
+Question: Claims Outstanding AD?
+Answer: empty
+
+Context: Claims Paid  AD : 998 ! FT : 624743678 ! TP : 72960 ! Claims Outstanding  AD : 9 ! FT : 5905399 ! TP : 480 ! 
+Question: Claims Outstanding FT?
+Answer: 5905399
+
+Context: Claims Paid  AD : 998 ! FT : 624743678 ! TP : 72960 ! Claims Outstanding  AD : 9 ! FT : 5905399 ! TP : 480 ! 
+Question: Claims Outstanding TP?
+Answer: 72960
+
+Context: Claims Paid  FT : 3669 ! AD : 389276 ! TP : 13244740 ! Claims Outstanding  FT : 8 ! AD : 1 ! TP : 9787 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 3669 ! AD : 389276 ! TP : 13244740 ! Claims Outstanding  FT : 8 ! AD : 1 ! TP : 9787 ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  FT : 3669 ! AD : 389276 ! TP : 13244740 ! Claims Outstanding  FT : 8 ! AD : 1 ! TP : 9787 ! 
+Question: Claims Paid TP?
+Answer: 13244740
+
+Context: Claims Paid  FT : 3669 ! AD : 389276 ! TP : 13244740 ! Claims Outstanding  FT : 8 ! AD : 1 ! TP : 9787 ! 
+Question: Claims Outstanding FT?
+Answer: 8
+
+Context: Claims Paid  FT : 3669 ! AD : 389276 ! TP : 13244740 ! Claims Outstanding  FT : 8 ! AD : 1 ! TP : 9787 ! 
+Question: Claims Outstanding AD?
+Answer: 389276
+
+Context: Claims Paid  FT : 3669 ! AD : 389276 ! TP : 13244740 ! Claims Outstanding  FT : 8 ! AD : 1 ! TP : 9787 ! 
+Question: Claims Outstanding TP?
+Answer: 13244740
+
+Context: Claims Paid  TP : 431328006 ! AD : 681590 ! FT : 2183021374 ! Claims Outstanding  TP : 318 ! AD : 65088 ! FT : 615193333 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 431328006 ! AD : 681590 ! FT : 2183021374 ! Claims Outstanding  TP : 318 ! AD : 65088 ! FT : 615193333 ! 
+Question: Claims Paid AD?
+Answer: 681590
+
+Context: Claims Paid  TP : 431328006 ! AD : 681590 ! FT : 2183021374 ! Claims Outstanding  TP : 318 ! AD : 65088 ! FT : 615193333 ! 
+Question: Claims Paid FT?
+Answer: 2183021374
+
+Context: Claims Paid  TP : 431328006 ! AD : 681590 ! FT : 2183021374 ! Claims Outstanding  TP : 318 ! AD : 65088 ! FT : 615193333 ! 
+Question: Claims Outstanding TP?
+Answer: 318
+
+Context: Claims Paid  TP : 431328006 ! AD : 681590 ! FT : 2183021374 ! Claims Outstanding  TP : 318 ! AD : 65088 ! FT : 615193333 ! 
+Question: Claims Outstanding AD?
+Answer: 65088
+
+Context: Claims Paid  TP : 431328006 ! AD : 681590 ! FT : 2183021374 ! Claims Outstanding  TP : 318 ! AD : 65088 ! FT : 615193333 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  FT : 34776 ! TP : 219242148 ! AD : 622 ! Claims Outstanding  FT : 2916656209 ! TP : 51435 ! AD : 30968482 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 34776 ! TP : 219242148 ! AD : 622 ! Claims Outstanding  FT : 2916656209 ! TP : 51435 ! AD : 30968482 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  FT : 34776 ! TP : 219242148 ! AD : 622 ! Claims Outstanding  FT : 2916656209 ! TP : 51435 ! AD : 30968482 ! 
+Question: Claims Paid AD?
+Answer: 622
+
+Context: Claims Paid  FT : 34776 ! TP : 219242148 ! AD : 622 ! Claims Outstanding  FT : 2916656209 ! TP : 51435 ! AD : 30968482 ! 
+Question: Claims Outstanding FT?
+Answer: 2916656209
+
+Context: Claims Paid  FT : 34776 ! TP : 219242148 ! AD : 622 ! Claims Outstanding  FT : 2916656209 ! TP : 51435 ! AD : 30968482 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  FT : 34776 ! TP : 219242148 ! AD : 622 ! Claims Outstanding  FT : 2916656209 ! TP : 51435 ! AD : 30968482 ! 
+Question: Claims Outstanding AD?
+Answer: 622
+
+Context: Claims Paid  AD : 2787295003 ! FT : 4018617883 ! TP : 432292 ! Claims Outstanding  AD : 534469 ! FT : 5403817 ! TP : 2497 ! 
+Question: Claims Paid AD?
+Answer: 534469
+
+Context: Claims Paid  AD : 2787295003 ! FT : 4018617883 ! TP : 432292 ! Claims Outstanding  AD : 534469 ! FT : 5403817 ! TP : 2497 ! 
+Question: Claims Paid FT?
+Answer: 17
+
+Context: Claims Paid  AD : 2787295003 ! FT : 4018617883 ! TP : 432292 ! Claims Outstanding  AD : 534469 ! FT : 5403817 ! TP : 2497 ! 
+Question: Claims Paid TP?
+Answer: 2
+
+Context: Claims Paid  AD : 2787295003 ! FT : 4018617883 ! TP : 432292 ! Claims Outstanding  AD : 534469 ! FT : 5403817 ! TP : 2497 ! 
+Question: Claims Outstanding AD?
+Answer: 534469
+
+Context: Claims Paid  AD : 2787295003 ! FT : 4018617883 ! TP : 432292 ! Claims Outstanding  AD : 534469 ! FT : 5403817 ! TP : 2497 ! 
+Question: Claims Outstanding FT?
+Answer: 5403817
+
+Context: Claims Paid  AD : 2787295003 ! FT : 4018617883 ! TP : 432292 ! Claims Outstanding  AD : 534469 ! FT : 5403817 ! TP : 2497 ! 
+Question: Claims Outstanding TP?
+Answer: 2
+
+Context: Claims Paid  TP : 2 ! AD : 0149494143 ! FT : 335 ! Claims Outstanding  TP : 0022119 ! AD : 6978689836 ! FT : 54683 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 2 ! AD : 0149494143 ! FT : 335 ! Claims Outstanding  TP : 0022119 ! AD : 6978689836 ! FT : 54683 ! 
+Question: Claims Paid AD?
+Answer: 0149494143
+
+Context: Claims Paid  TP : 2 ! AD : 0149494143 ! FT : 335 ! Claims Outstanding  TP : 0022119 ! AD : 6978689836 ! FT : 54683 ! 
+Question: Claims Paid FT?
+Answer: 335
+
+Context: Claims Paid  TP : 2 ! AD : 0149494143 ! FT : 335 ! Claims Outstanding  TP : 0022119 ! AD : 6978689836 ! FT : 54683 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 2 ! AD : 0149494143 ! FT : 335 ! Claims Outstanding  TP : 0022119 ! AD : 6978689836 ! FT : 54683 ! 
+Question: Claims Outstanding AD?
+Answer: 6978689836
+
+Context: Claims Paid  TP : 2 ! AD : 0149494143 ! FT : 335 ! Claims Outstanding  TP : 0022119 ! AD : 6978689836 ! FT : 54683 ! 
+Question: Claims Outstanding FT?
+Answer: 54683
+
+Context: Claims Paid  TP : 9796699 ! FT : 032882 ! AD : 7695968 ! Claims Outstanding  TP : 72580 ! FT : 6333704147 ! AD : 9508913 ! 
+Question: Claims Paid TP?
+Answer: 7695968
+
+Context: Claims Paid  TP : 9796699 ! FT : 032882 ! AD : 7695968 ! Claims Outstanding  TP : 72580 ! FT : 6333704147 ! AD : 9508913 ! 
+Question: Claims Paid FT?
+Answer: 6333704147
+
+Context: Claims Paid  TP : 9796699 ! FT : 032882 ! AD : 7695968 ! Claims Outstanding  TP : 72580 ! FT : 6333704147 ! AD : 9508913 ! 
+Question: Claims Paid AD?
+Answer: 7695968
+
+Context: Claims Paid  TP : 9796699 ! FT : 032882 ! AD : 7695968 ! Claims Outstanding  TP : 72580 ! FT : 6333704147 ! AD : 9508913 ! 
+Question: Claims Outstanding TP?
+Answer: 7695968
+
+Context: Claims Paid  TP : 9796699 ! FT : 032882 ! AD : 7695968 ! Claims Outstanding  TP : 72580 ! FT : 6333704147 ! AD : 9508913 ! 
+Question: Claims Outstanding FT?
+Answer: 6333704147
+
+Context: Claims Paid  TP : 9796699 ! FT : 032882 ! AD : 7695968 ! Claims Outstanding  TP : 72580 ! FT : 6333704147 ! AD : 9508913 ! 
+Question: Claims Outstanding AD?
+Answer: 7695968
+
+Context: Claims Paid  TP : 3490532 ! FT : 0474 ! AD : 167 ! Claims Outstanding  TP : 413 ! FT : 2814891339 ! AD : 18 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 3490532 ! FT : 0474 ! AD : 167 ! Claims Outstanding  TP : 413 ! FT : 2814891339 ! AD : 18 ! 
+Question: Claims Paid FT?
+Answer: 167
+
+Context: Claims Paid  TP : 3490532 ! FT : 0474 ! AD : 167 ! Claims Outstanding  TP : 413 ! FT : 2814891339 ! AD : 18 ! 
+Question: Claims Paid AD?
+Answer: 167
+
+Context: Claims Paid  TP : 3490532 ! FT : 0474 ! AD : 167 ! Claims Outstanding  TP : 413 ! FT : 2814891339 ! AD : 18 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 3490532 ! FT : 0474 ! AD : 167 ! Claims Outstanding  TP : 413 ! FT : 2814891339 ! AD : 18 ! 
+Question: Claims Outstanding FT?
+Answer: 2814891339
+
+Context: Claims Paid  TP : 3490532 ! FT : 0474 ! AD : 167 ! Claims Outstanding  TP : 413 ! FT : 2814891339 ! AD : 18 ! 
+Question: Claims Outstanding AD?
+Answer: 167
+
+Context: Claims Paid  AD : 35695617 ! TP : 435378 ! FT : 358577582 ! Claims Outstanding  AD : 11 ! TP : 2423578689 ! FT : 734694 ! 
+Question: Claims Paid AD?
+Answer: 35695617
+
+Context: Claims Paid  AD : 35695617 ! TP : 435378 ! FT : 358577582 ! Claims Outstanding  AD : 11 ! TP : 2423578689 ! FT : 734694 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 35695617 ! TP : 435378 ! FT : 358577582 ! Claims Outstanding  AD : 11 ! TP : 2423578689 ! FT : 734694 ! 
+Question: Claims Paid FT?
+Answer: 358577582
+
+Context: Claims Paid  AD : 35695617 ! TP : 435378 ! FT : 358577582 ! Claims Outstanding  AD : 11 ! TP : 2423578689 ! FT : 734694 ! 
+Question: Claims Outstanding AD?
+Answer: 11
+
+Context: Claims Paid  AD : 35695617 ! TP : 435378 ! FT : 358577582 ! Claims Outstanding  AD : 11 ! TP : 2423578689 ! FT : 734694 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  AD : 35695617 ! TP : 435378 ! FT : 358577582 ! Claims Outstanding  AD : 11 ! TP : 2423578689 ! FT : 734694 ! 
+Question: Claims Outstanding FT?
+Answer: 734694
+
+Context: Claims Paid  FT : 280521227 ! AD : 3291 ! TP : 391 ! Claims Outstanding  FT : 79151777 ! AD : 4 ! TP : 785199284 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 280521227 ! AD : 3291 ! TP : 391 ! Claims Outstanding  FT : 79151777 ! AD : 4 ! TP : 785199284 ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  FT : 280521227 ! AD : 3291 ! TP : 391 ! Claims Outstanding  FT : 79151777 ! AD : 4 ! TP : 785199284 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  FT : 280521227 ! AD : 3291 ! TP : 391 ! Claims Outstanding  FT : 79151777 ! AD : 4 ! TP : 785199284 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  FT : 280521227 ! AD : 3291 ! TP : 391 ! Claims Outstanding  FT : 79151777 ! AD : 4 ! TP : 785199284 ! 
+Question: Claims Outstanding AD?
+Answer: empty
+
+Context: Claims Paid  FT : 280521227 ! AD : 3291 ! TP : 391 ! Claims Outstanding  FT : 79151777 ! AD : 4 ! TP : 785199284 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  AD : 3373234 ! TP : 853235 ! FT : 552 ! Claims Outstanding  AD : 3 ! TP : 593 ! FT : 14 ! 
+Question: Claims Paid AD?
+Answer: 3373234
+
+Context: Claims Paid  AD : 3373234 ! TP : 853235 ! FT : 552 ! Claims Outstanding  AD : 3 ! TP : 593 ! FT : 14 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 3373234 ! TP : 853235 ! FT : 552 ! Claims Outstanding  AD : 3 ! TP : 593 ! FT : 14 ! 
+Question: Claims Paid FT?
+Answer: 552
+
+Context: Claims Paid  AD : 3373234 ! TP : 853235 ! FT : 552 ! Claims Outstanding  AD : 3 ! TP : 593 ! FT : 14 ! 
+Question: Claims Outstanding AD?
+Answer: 3373234
+
+Context: Claims Paid  AD : 3373234 ! TP : 853235 ! FT : 552 ! Claims Outstanding  AD : 3 ! TP : 593 ! FT : 14 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  AD : 3373234 ! TP : 853235 ! FT : 552 ! Claims Outstanding  AD : 3 ! TP : 593 ! FT : 14 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  TP : 9 ! FT : 4081211 ! AD : 57647 ! Claims Outstanding  TP : 0727620941 ! FT : 77831034 ! AD : 786052127 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 9 ! FT : 4081211 ! AD : 57647 ! Claims Outstanding  TP : 0727620941 ! FT : 77831034 ! AD : 786052127 ! 
+Question: Claims Paid FT?
+Answer: 4081211
+
+Context: Claims Paid  TP : 9 ! FT : 4081211 ! AD : 57647 ! Claims Outstanding  TP : 0727620941 ! FT : 77831034 ! AD : 786052127 ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  TP : 9 ! FT : 4081211 ! AD : 57647 ! Claims Outstanding  TP : 0727620941 ! FT : 77831034 ! AD : 786052127 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 9 ! FT : 4081211 ! AD : 57647 ! Claims Outstanding  TP : 0727620941 ! FT : 77831034 ! AD : 786052127 ! 
+Question: Claims Outstanding FT?
+Answer: 77831034
+
+Context: Claims Paid  TP : 9 ! FT : 4081211 ! AD : 57647 ! Claims Outstanding  TP : 0727620941 ! FT : 77831034 ! AD : 786052127 ! 
+Question: Claims Outstanding AD?
+Answer: 786052127
+
+Context: Claims Paid  FT : 1 ! TP : 69 ! AD : 55 ! Claims Outstanding  FT : 03154 ! TP : 6803069677 ! AD : 70793204 ! 
+Question: Claims Paid FT?
+Answer: 1
+
+Context: Claims Paid  FT : 1 ! TP : 69 ! AD : 55 ! Claims Outstanding  FT : 03154 ! TP : 6803069677 ! AD : 70793204 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  FT : 1 ! TP : 69 ! AD : 55 ! Claims Outstanding  FT : 03154 ! TP : 6803069677 ! AD : 70793204 ! 
+Question: Claims Paid AD?
+Answer: 55
+
+Context: Claims Paid  FT : 1 ! TP : 69 ! AD : 55 ! Claims Outstanding  FT : 03154 ! TP : 6803069677 ! AD : 70793204 ! 
+Question: Claims Outstanding FT?
+Answer: 03154
+
+Context: Claims Paid  FT : 1 ! TP : 69 ! AD : 55 ! Claims Outstanding  FT : 03154 ! TP : 6803069677 ! AD : 70793204 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  FT : 1 ! TP : 69 ! AD : 55 ! Claims Outstanding  FT : 03154 ! TP : 6803069677 ! AD : 70793204 ! 
+Question: Claims Outstanding AD?
+Answer: 55
+
+Context: Claims Paid  FT : 478 ! TP : 251240 ! AD : 36490 ! Claims Outstanding  FT : 60385 ! TP : 59 ! AD : 1908 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 478 ! TP : 251240 ! AD : 36490 ! Claims Outstanding  FT : 60385 ! TP : 59 ! AD : 1908 ! 
+Question: Claims Paid TP?
+Answer: 36490
+
+Context: Claims Paid  FT : 478 ! TP : 251240 ! AD : 36490 ! Claims Outstanding  FT : 60385 ! TP : 59 ! AD : 1908 ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  FT : 478 ! TP : 251240 ! AD : 36490 ! Claims Outstanding  FT : 60385 ! TP : 59 ! AD : 1908 ! 
+Question: Claims Outstanding FT?
+Answer: 36490
+
+Context: Claims Paid  FT : 478 ! TP : 251240 ! AD : 36490 ! Claims Outstanding  FT : 60385 ! TP : 59 ! AD : 1908 ! 
+Question: Claims Outstanding TP?
+Answer: 36490
+
+Context: Claims Paid  FT : 478 ! TP : 251240 ! AD : 36490 ! Claims Outstanding  FT : 60385 ! TP : 59 ! AD : 1908 ! 
+Question: Claims Outstanding AD?
+Answer: 36490
+
+Context: Claims Paid  AD : 9109635425 ! FT : 59 ! TP : 712 ! Claims Outstanding  AD : 9222 ! FT : 1036596 ! TP : 301215839 ! 
+Question: Claims Paid AD?
+Answer: 9109635425
+
+Context: Claims Paid  AD : 9109635425 ! FT : 59 ! TP : 712 ! Claims Outstanding  AD : 9222 ! FT : 1036596 ! TP : 301215839 ! 
+Question: Claims Paid FT?
+Answer: 59
+
+Context: Claims Paid  AD : 9109635425 ! FT : 59 ! TP : 712 ! Claims Outstanding  AD : 9222 ! FT : 1036596 ! TP : 301215839 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 9109635425 ! FT : 59 ! TP : 712 ! Claims Outstanding  AD : 9222 ! FT : 1036596 ! TP : 301215839 ! 
+Question: Claims Outstanding AD?
+Answer: empty
+
+Context: Claims Paid  AD : 9109635425 ! FT : 59 ! TP : 712 ! Claims Outstanding  AD : 9222 ! FT : 1036596 ! TP : 301215839 ! 
+Question: Claims Outstanding FT?
+Answer: 1036596
+
+Context: Claims Paid  AD : 9109635425 ! FT : 59 ! TP : 712 ! Claims Outstanding  AD : 9222 ! FT : 1036596 ! TP : 301215839 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  AD : 3 ! TP : 7 ! FT : 72 ! Claims Outstanding  AD : 141504 ! TP : 03360479 ! FT : 4 ! 
+Question: Claims Paid AD?
+Answer: 3
+
+Context: Claims Paid  AD : 3 ! TP : 7 ! FT : 72 ! Claims Outstanding  AD : 141504 ! TP : 03360479 ! FT : 4 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 3 ! TP : 7 ! FT : 72 ! Claims Outstanding  AD : 141504 ! TP : 03360479 ! FT : 4 ! 
+Question: Claims Paid FT?
+Answer: 72
+
+Context: Claims Paid  AD : 3 ! TP : 7 ! FT : 72 ! Claims Outstanding  AD : 141504 ! TP : 03360479 ! FT : 4 ! 
+Question: Claims Outstanding AD?
+Answer: 141504
+
+Context: Claims Paid  AD : 3 ! TP : 7 ! FT : 72 ! Claims Outstanding  AD : 141504 ! TP : 03360479 ! FT : 4 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  AD : 3 ! TP : 7 ! FT : 72 ! Claims Outstanding  AD : 141504 ! TP : 03360479 ! FT : 4 ! 
+Question: Claims Outstanding FT?
+Answer: 4
+
+Context: Claims Paid  TP : 788027484 ! FT : 05215844 ! AD : 1 ! Claims Outstanding  TP : 0039256 ! FT : 399241 ! AD : 9 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 788027484 ! FT : 05215844 ! AD : 1 ! Claims Outstanding  TP : 0039256 ! FT : 399241 ! AD : 9 ! 
+Question: Claims Paid FT?
+Answer: 05215844
+
+Context: Claims Paid  TP : 788027484 ! FT : 05215844 ! AD : 1 ! Claims Outstanding  TP : 0039256 ! FT : 399241 ! AD : 9 ! 
+Question: Claims Paid AD?
+Answer: 1
+
+Context: Claims Paid  TP : 788027484 ! FT : 05215844 ! AD : 1 ! Claims Outstanding  TP : 0039256 ! FT : 399241 ! AD : 9 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 788027484 ! FT : 05215844 ! AD : 1 ! Claims Outstanding  TP : 0039256 ! FT : 399241 ! AD : 9 ! 
+Question: Claims Outstanding FT?
+Answer: 399241
+
+Context: Claims Paid  TP : 788027484 ! FT : 05215844 ! AD : 1 ! Claims Outstanding  TP : 0039256 ! FT : 399241 ! AD : 9 ! 
+Question: Claims Outstanding AD?
+Answer: 1
+
+Context: Claims Paid  AD : 8977 ! FT : 49 ! TP : 4513053 ! Claims Outstanding  AD : 6 ! FT : 14 ! TP : 285801685 ! 
+Question: Claims Paid AD?
+Answer: 8977
+
+Context: Claims Paid  AD : 8977 ! FT : 49 ! TP : 4513053 ! Claims Outstanding  AD : 6 ! FT : 14 ! TP : 285801685 ! 
+Question: Claims Paid FT?
+Answer: 14
+
+Context: Claims Paid  AD : 8977 ! FT : 49 ! TP : 4513053 ! Claims Outstanding  AD : 6 ! FT : 14 ! TP : 285801685 ! 
+Question: Claims Paid TP?
+Answer: 4513053
+
+Context: Claims Paid  AD : 8977 ! FT : 49 ! TP : 4513053 ! Claims Outstanding  AD : 6 ! FT : 14 ! TP : 285801685 ! 
+Question: Claims Outstanding AD?
+Answer: 8977
+
+Context: Claims Paid  AD : 8977 ! FT : 49 ! TP : 4513053 ! Claims Outstanding  AD : 6 ! FT : 14 ! TP : 285801685 ! 
+Question: Claims Outstanding FT?
+Answer: 14
+
+Context: Claims Paid  AD : 8977 ! FT : 49 ! TP : 4513053 ! Claims Outstanding  AD : 6 ! FT : 14 ! TP : 285801685 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  AD : 918 ! TP : 85932419 ! FT : 387 ! Claims Outstanding  AD : 00783695 ! TP : 419 ! FT : 31 ! 
+Question: Claims Paid AD?
+Answer: 918
+
+Context: Claims Paid  AD : 918 ! TP : 85932419 ! FT : 387 ! Claims Outstanding  AD : 00783695 ! TP : 419 ! FT : 31 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 918 ! TP : 85932419 ! FT : 387 ! Claims Outstanding  AD : 00783695 ! TP : 419 ! FT : 31 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  AD : 918 ! TP : 85932419 ! FT : 387 ! Claims Outstanding  AD : 00783695 ! TP : 419 ! FT : 31 ! 
+Question: Claims Outstanding AD?
+Answer: 00783695
+
+Context: Claims Paid  AD : 918 ! TP : 85932419 ! FT : 387 ! Claims Outstanding  AD : 00783695 ! TP : 419 ! FT : 31 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  AD : 918 ! TP : 85932419 ! FT : 387 ! Claims Outstanding  AD : 00783695 ! TP : 419 ! FT : 31 ! 
+Question: Claims Outstanding FT?
+Answer: 31
+
+Context: Claims Paid  AD : 77771273 ! FT : 456698590 ! TP : 58 ! Claims Outstanding  AD : 65300050 ! FT : 61 ! TP : 95 ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  AD : 77771273 ! FT : 456698590 ! TP : 58 ! Claims Outstanding  AD : 65300050 ! FT : 61 ! TP : 95 ! 
+Question: Claims Paid FT?
+Answer: 61
+
+Context: Claims Paid  AD : 77771273 ! FT : 456698590 ! TP : 58 ! Claims Outstanding  AD : 65300050 ! FT : 61 ! TP : 95 ! 
+Question: Claims Paid TP?
+Answer: 58
+
+Context: Claims Paid  AD : 77771273 ! FT : 456698590 ! TP : 58 ! Claims Outstanding  AD : 65300050 ! FT : 61 ! TP : 95 ! 
+Question: Claims Outstanding AD?
+Answer: 65300050
+
+Context: Claims Paid  AD : 77771273 ! FT : 456698590 ! TP : 58 ! Claims Outstanding  AD : 65300050 ! FT : 61 ! TP : 95 ! 
+Question: Claims Outstanding FT?
+Answer: 61
+
+Context: Claims Paid  AD : 77771273 ! FT : 456698590 ! TP : 58 ! Claims Outstanding  AD : 65300050 ! FT : 61 ! TP : 95 ! 
+Question: Claims Outstanding TP?
+Answer: 58
+
+Context: Claims Paid  AD : 7912785 ! TP : 16 ! FT : 5898063845 ! Claims Outstanding  AD : 735348330 ! TP : 71548481 ! FT : 6112003318 ! 
+Question: Claims Paid AD?
+Answer: 7912785
+
+Context: Claims Paid  AD : 7912785 ! TP : 16 ! FT : 5898063845 ! Claims Outstanding  AD : 735348330 ! TP : 71548481 ! FT : 6112003318 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 7912785 ! TP : 16 ! FT : 5898063845 ! Claims Outstanding  AD : 735348330 ! TP : 71548481 ! FT : 6112003318 ! 
+Question: Claims Paid FT?
+Answer: 6112003318
+
+Context: Claims Paid  AD : 7912785 ! TP : 16 ! FT : 5898063845 ! Claims Outstanding  AD : 735348330 ! TP : 71548481 ! FT : 6112003318 ! 
+Question: Claims Outstanding AD?
+Answer: 735348330
+
+Context: Claims Paid  AD : 7912785 ! TP : 16 ! FT : 5898063845 ! Claims Outstanding  AD : 735348330 ! TP : 71548481 ! FT : 6112003318 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  AD : 7912785 ! TP : 16 ! FT : 5898063845 ! Claims Outstanding  AD : 735348330 ! TP : 71548481 ! FT : 6112003318 ! 
+Question: Claims Outstanding FT?
+Answer: 6112003318
+
+Context: Claims Paid  FT : 065297 ! AD : 610978 ! TP : 0603293 ! Claims Outstanding  FT : 94 ! AD : 0344630301 ! TP : 329446917 ! 
+Question: Claims Paid FT?
+Answer: 94
+
+Context: Claims Paid  FT : 065297 ! AD : 610978 ! TP : 0603293 ! Claims Outstanding  FT : 94 ! AD : 0344630301 ! TP : 329446917 ! 
+Question: Claims Paid AD?
+Answer: 0344630301
+
+Context: Claims Paid  FT : 065297 ! AD : 610978 ! TP : 0603293 ! Claims Outstanding  FT : 94 ! AD : 0344630301 ! TP : 329446917 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  FT : 065297 ! AD : 610978 ! TP : 0603293 ! Claims Outstanding  FT : 94 ! AD : 0344630301 ! TP : 329446917 ! 
+Question: Claims Outstanding FT?
+Answer: 94
+
+Context: Claims Paid  FT : 065297 ! AD : 610978 ! TP : 0603293 ! Claims Outstanding  FT : 94 ! AD : 0344630301 ! TP : 329446917 ! 
+Question: Claims Outstanding AD?
+Answer: 0344630301
+
+Context: Claims Paid  FT : 065297 ! AD : 610978 ! TP : 0603293 ! Claims Outstanding  FT : 94 ! AD : 0344630301 ! TP : 329446917 ! 
+Question: Claims Outstanding TP?
+Answer: 17
+
+Context: Claims Paid  FT : 26 ! AD : 455 ! TP : 4033817472 ! Claims Outstanding  FT : 5148512263 ! AD : 54751 ! TP : 281 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 26 ! AD : 455 ! TP : 4033817472 ! Claims Outstanding  FT : 5148512263 ! AD : 54751 ! TP : 281 ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  FT : 26 ! AD : 455 ! TP : 4033817472 ! Claims Outstanding  FT : 5148512263 ! AD : 54751 ! TP : 281 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  FT : 26 ! AD : 455 ! TP : 4033817472 ! Claims Outstanding  FT : 5148512263 ! AD : 54751 ! TP : 281 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  FT : 26 ! AD : 455 ! TP : 4033817472 ! Claims Outstanding  FT : 5148512263 ! AD : 54751 ! TP : 281 ! 
+Question: Claims Outstanding AD?
+Answer: 54751
+
+Context: Claims Paid  FT : 26 ! AD : 455 ! TP : 4033817472 ! Claims Outstanding  FT : 5148512263 ! AD : 54751 ! TP : 281 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  FT : 95 ! TP : 8 ! AD : 040715 ! Claims Outstanding  FT : 232 ! TP : 64 ! AD : 1 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 95 ! TP : 8 ! AD : 040715 ! Claims Outstanding  FT : 232 ! TP : 64 ! AD : 1 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  FT : 95 ! TP : 8 ! AD : 040715 ! Claims Outstanding  FT : 232 ! TP : 64 ! AD : 1 ! 
+Question: Claims Paid AD?
+Answer: 040715
+
+Context: Claims Paid  FT : 95 ! TP : 8 ! AD : 040715 ! Claims Outstanding  FT : 232 ! TP : 64 ! AD : 1 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  FT : 95 ! TP : 8 ! AD : 040715 ! Claims Outstanding  FT : 232 ! TP : 64 ! AD : 1 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  FT : 95 ! TP : 8 ! AD : 040715 ! Claims Outstanding  FT : 232 ! TP : 64 ! AD : 1 ! 
+Question: Claims Outstanding AD?
+Answer: 040715
+
+Context: Claims Paid  TP : 6059976794 ! AD : 141 ! FT : 1 ! Claims Outstanding  TP : 283526 ! AD : 44504 ! FT : 4231682144 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 6059976794 ! AD : 141 ! FT : 1 ! Claims Outstanding  TP : 283526 ! AD : 44504 ! FT : 4231682144 ! 
+Question: Claims Paid AD?
+Answer: 141
+
+Context: Claims Paid  TP : 6059976794 ! AD : 141 ! FT : 1 ! Claims Outstanding  TP : 283526 ! AD : 44504 ! FT : 4231682144 ! 
+Question: Claims Paid FT?
+Answer: 1
+
+Context: Claims Paid  TP : 6059976794 ! AD : 141 ! FT : 1 ! Claims Outstanding  TP : 283526 ! AD : 44504 ! FT : 4231682144 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 6059976794 ! AD : 141 ! FT : 1 ! Claims Outstanding  TP : 283526 ! AD : 44504 ! FT : 4231682144 ! 
+Question: Claims Outstanding AD?
+Answer: 44504
+
+Context: Claims Paid  TP : 6059976794 ! AD : 141 ! FT : 1 ! Claims Outstanding  TP : 283526 ! AD : 44504 ! FT : 4231682144 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  AD : 430170 ! TP : 346527270 ! FT : 7360198 ! Claims Outstanding  AD : 0955640 ! TP : 04500956 ! FT : 730030186 ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  AD : 430170 ! TP : 346527270 ! FT : 7360198 ! Claims Outstanding  AD : 0955640 ! TP : 04500956 ! FT : 730030186 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 430170 ! TP : 346527270 ! FT : 7360198 ! Claims Outstanding  AD : 0955640 ! TP : 04500956 ! FT : 730030186 ! 
+Question: Claims Paid FT?
+Answer: 730030186
+
+Context: Claims Paid  AD : 430170 ! TP : 346527270 ! FT : 7360198 ! Claims Outstanding  AD : 0955640 ! TP : 04500956 ! FT : 730030186 ! 
+Question: Claims Outstanding AD?
+Answer: 0955640
+
+Context: Claims Paid  AD : 430170 ! TP : 346527270 ! FT : 7360198 ! Claims Outstanding  AD : 0955640 ! TP : 04500956 ! FT : 730030186 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  AD : 430170 ! TP : 346527270 ! FT : 7360198 ! Claims Outstanding  AD : 0955640 ! TP : 04500956 ! FT : 730030186 ! 
+Question: Claims Outstanding FT?
+Answer: 730030186
+
+Context: Claims Paid  AD : 58656 ! FT : 787 ! TP : 5663 ! Claims Outstanding  AD : 6369947276 ! FT : 802498707 ! TP : 069980 ! 
+Question: Claims Paid AD?
+Answer: 58656
+
+Context: Claims Paid  AD : 58656 ! FT : 787 ! TP : 5663 ! Claims Outstanding  AD : 6369947276 ! FT : 802498707 ! TP : 069980 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  AD : 58656 ! FT : 787 ! TP : 5663 ! Claims Outstanding  AD : 6369947276 ! FT : 802498707 ! TP : 069980 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 58656 ! FT : 787 ! TP : 5663 ! Claims Outstanding  AD : 6369947276 ! FT : 802498707 ! TP : 069980 ! 
+Question: Claims Outstanding AD?
+Answer: 6369947276
+
+Context: Claims Paid  AD : 58656 ! FT : 787 ! TP : 5663 ! Claims Outstanding  AD : 6369947276 ! FT : 802498707 ! TP : 069980 ! 
+Question: Claims Outstanding FT?
+Answer: 802498707
+
+Context: Claims Paid  AD : 58656 ! FT : 787 ! TP : 5663 ! Claims Outstanding  AD : 6369947276 ! FT : 802498707 ! TP : 069980 ! 
+Question: Claims Outstanding TP?
+Answer: 069980
+
+Context: Claims Paid  FT : 137852 ! TP : 32 ! AD : 3398628365 ! Claims Outstanding  FT : 877630529 ! TP : 13 ! AD : 717475 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 137852 ! TP : 32 ! AD : 3398628365 ! Claims Outstanding  FT : 877630529 ! TP : 13 ! AD : 717475 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  FT : 137852 ! TP : 32 ! AD : 3398628365 ! Claims Outstanding  FT : 877630529 ! TP : 13 ! AD : 717475 ! 
+Question: Claims Paid AD?
+Answer: 3398628365
+
+Context: Claims Paid  FT : 137852 ! TP : 32 ! AD : 3398628365 ! Claims Outstanding  FT : 877630529 ! TP : 13 ! AD : 717475 ! 
+Question: Claims Outstanding FT?
+Answer: 877630529
+
+Context: Claims Paid  FT : 137852 ! TP : 32 ! AD : 3398628365 ! Claims Outstanding  FT : 877630529 ! TP : 13 ! AD : 717475 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  FT : 137852 ! TP : 32 ! AD : 3398628365 ! Claims Outstanding  FT : 877630529 ! TP : 13 ! AD : 717475 ! 
+Question: Claims Outstanding AD?
+Answer: 3398628365
+
+Context: Claims Paid  TP : 683 ! FT : 5484732 ! AD : 13578176 ! Claims Outstanding  TP : 41053 ! FT : 89388 ! AD : 31359 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 683 ! FT : 5484732 ! AD : 13578176 ! Claims Outstanding  TP : 41053 ! FT : 89388 ! AD : 31359 ! 
+Question: Claims Paid FT?
+Answer: 89388
+
+Context: Claims Paid  TP : 683 ! FT : 5484732 ! AD : 13578176 ! Claims Outstanding  TP : 41053 ! FT : 89388 ! AD : 31359 ! 
+Question: Claims Paid AD?
+Answer: 13578176
+
+Context: Claims Paid  TP : 683 ! FT : 5484732 ! AD : 13578176 ! Claims Outstanding  TP : 41053 ! FT : 89388 ! AD : 31359 ! 
+Question: Claims Outstanding TP?
+Answer: 13578176
+
+Context: Claims Paid  TP : 683 ! FT : 5484732 ! AD : 13578176 ! Claims Outstanding  TP : 41053 ! FT : 89388 ! AD : 31359 ! 
+Question: Claims Outstanding FT?
+Answer: 89388
+
+Context: Claims Paid  TP : 683 ! FT : 5484732 ! AD : 13578176 ! Claims Outstanding  TP : 41053 ! FT : 89388 ! AD : 31359 ! 
+Question: Claims Outstanding AD?
+Answer: 13578176
+
+Context: Claims Paid  FT : 350 ! TP : 9750808592 ! AD : 74830167 ! Claims Outstanding  FT : 651589270 ! TP : 8 ! AD : 20 ! 
+Question: Claims Paid FT?
+Answer: 651589270
+
+Context: Claims Paid  FT : 350 ! TP : 9750808592 ! AD : 74830167 ! Claims Outstanding  FT : 651589270 ! TP : 8 ! AD : 20 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  FT : 350 ! TP : 9750808592 ! AD : 74830167 ! Claims Outstanding  FT : 651589270 ! TP : 8 ! AD : 20 ! 
+Question: Claims Paid AD?
+Answer: 74830167
+
+Context: Claims Paid  FT : 350 ! TP : 9750808592 ! AD : 74830167 ! Claims Outstanding  FT : 651589270 ! TP : 8 ! AD : 20 ! 
+Question: Claims Outstanding FT?
+Answer: 651589270
+
+Context: Claims Paid  FT : 350 ! TP : 9750808592 ! AD : 74830167 ! Claims Outstanding  FT : 651589270 ! TP : 8 ! AD : 20 ! 
+Question: Claims Outstanding TP?
+Answer: 8
+
+Context: Claims Paid  FT : 350 ! TP : 9750808592 ! AD : 74830167 ! Claims Outstanding  FT : 651589270 ! TP : 8 ! AD : 20 ! 
+Question: Claims Outstanding AD?
+Answer: 74830167
+
+Context: Claims Paid  FT : 244 ! TP : 7787853970 ! AD : 402772604 ! Claims Outstanding  FT : 104958378 ! TP : 26 ! AD : 1676 ! 
+Question: Claims Paid FT?
+Answer: 104958378
+
+Context: Claims Paid  FT : 244 ! TP : 7787853970 ! AD : 402772604 ! Claims Outstanding  FT : 104958378 ! TP : 26 ! AD : 1676 ! 
+Question: Claims Paid TP?
+Answer: 26
+
+Context: Claims Paid  FT : 244 ! TP : 7787853970 ! AD : 402772604 ! Claims Outstanding  FT : 104958378 ! TP : 26 ! AD : 1676 ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  FT : 244 ! TP : 7787853970 ! AD : 402772604 ! Claims Outstanding  FT : 104958378 ! TP : 26 ! AD : 1676 ! 
+Question: Claims Outstanding FT?
+Answer: 104958378
+
+Context: Claims Paid  FT : 244 ! TP : 7787853970 ! AD : 402772604 ! Claims Outstanding  FT : 104958378 ! TP : 26 ! AD : 1676 ! 
+Question: Claims Outstanding TP?
+Answer: 26
+
+Context: Claims Paid  FT : 244 ! TP : 7787853970 ! AD : 402772604 ! Claims Outstanding  FT : 104958378 ! TP : 26 ! AD : 1676 ! 
+Question: Claims Outstanding AD?
+Answer: 402772604
+
+Context: Claims Paid  FT : 58467524 ! TP : 686861 ! AD : 316561105 ! Claims Outstanding  FT : 7 ! TP : 5863207 ! AD : 90313 ! 
+Question: Claims Paid FT?
+Answer: 7
+
+Context: Claims Paid  FT : 58467524 ! TP : 686861 ! AD : 316561105 ! Claims Outstanding  FT : 7 ! TP : 5863207 ! AD : 90313 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  FT : 58467524 ! TP : 686861 ! AD : 316561105 ! Claims Outstanding  FT : 7 ! TP : 5863207 ! AD : 90313 ! 
+Question: Claims Paid AD?
+Answer: 316561105
+
+Context: Claims Paid  FT : 58467524 ! TP : 686861 ! AD : 316561105 ! Claims Outstanding  FT : 7 ! TP : 5863207 ! AD : 90313 ! 
+Question: Claims Outstanding FT?
+Answer: 7
+
+Context: Claims Paid  FT : 58467524 ! TP : 686861 ! AD : 316561105 ! Claims Outstanding  FT : 7 ! TP : 5863207 ! AD : 90313 ! 
+Question: Claims Outstanding TP?
+Answer: 316561105
+
+Context: Claims Paid  FT : 58467524 ! TP : 686861 ! AD : 316561105 ! Claims Outstanding  FT : 7 ! TP : 5863207 ! AD : 90313 ! 
+Question: Claims Outstanding AD?
+Answer: 316561105
+
+Context: Claims Paid  AD : 48307139 ! FT : 5991 ! TP : 3540212300 ! Claims Outstanding  AD : 955 ! FT : 5994 ! TP : 7 ! 
+Question: Claims Paid AD?
+Answer: 48307139
+
+Context: Claims Paid  AD : 48307139 ! FT : 5991 ! TP : 3540212300 ! Claims Outstanding  AD : 955 ! FT : 5994 ! TP : 7 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  AD : 48307139 ! FT : 5991 ! TP : 3540212300 ! Claims Outstanding  AD : 955 ! FT : 5994 ! TP : 7 ! 
+Question: Claims Paid TP?
+Answer: 3540212300
+
+Context: Claims Paid  AD : 48307139 ! FT : 5991 ! TP : 3540212300 ! Claims Outstanding  AD : 955 ! FT : 5994 ! TP : 7 ! 
+Question: Claims Outstanding AD?
+Answer: empty
+
+Context: Claims Paid  AD : 48307139 ! FT : 5991 ! TP : 3540212300 ! Claims Outstanding  AD : 955 ! FT : 5994 ! TP : 7 ! 
+Question: Claims Outstanding FT?
+Answer: 5994
+
+Context: Claims Paid  AD : 48307139 ! FT : 5991 ! TP : 3540212300 ! Claims Outstanding  AD : 955 ! FT : 5994 ! TP : 7 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  AD : 1631618 ! FT : 33811 ! TP : 783053711 ! Claims Outstanding  AD : 0814936130 ! FT : 658618 ! TP : 561034 ! 
+Question: Claims Paid AD?
+Answer: 1631618
+
+Context: Claims Paid  AD : 1631618 ! FT : 33811 ! TP : 783053711 ! Claims Outstanding  AD : 0814936130 ! FT : 658618 ! TP : 561034 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  AD : 1631618 ! FT : 33811 ! TP : 783053711 ! Claims Outstanding  AD : 0814936130 ! FT : 658618 ! TP : 561034 ! 
+Question: Claims Paid TP?
+Answer: 783053711
+
+Context: Claims Paid  AD : 1631618 ! FT : 33811 ! TP : 783053711 ! Claims Outstanding  AD : 0814936130 ! FT : 658618 ! TP : 561034 ! 
+Question: Claims Outstanding AD?
+Answer: 0814936130
+
+Context: Claims Paid  AD : 1631618 ! FT : 33811 ! TP : 783053711 ! Claims Outstanding  AD : 0814936130 ! FT : 658618 ! TP : 561034 ! 
+Question: Claims Outstanding FT?
+Answer: 658618
+
+Context: Claims Paid  AD : 1631618 ! FT : 33811 ! TP : 783053711 ! Claims Outstanding  AD : 0814936130 ! FT : 658618 ! TP : 561034 ! 
+Question: Claims Outstanding TP?
+Answer: 34
+
+Context: Claims Paid  AD : 38830010 ! FT : 76 ! TP : 5 ! Claims Outstanding  AD : 7017323 ! FT : 34 ! TP : 60022779 ! 
+Question: Claims Paid AD?
+Answer: 38830010
+
+Context: Claims Paid  AD : 38830010 ! FT : 76 ! TP : 5 ! Claims Outstanding  AD : 7017323 ! FT : 34 ! TP : 60022779 ! 
+Question: Claims Paid FT?
+Answer: 34
+
+Context: Claims Paid  AD : 38830010 ! FT : 76 ! TP : 5 ! Claims Outstanding  AD : 7017323 ! FT : 34 ! TP : 60022779 ! 
+Question: Claims Paid TP?
+Answer: 5
+
+Context: Claims Paid  AD : 38830010 ! FT : 76 ! TP : 5 ! Claims Outstanding  AD : 7017323 ! FT : 34 ! TP : 60022779 ! 
+Question: Claims Outstanding AD?
+Answer: 7017323
+
+Context: Claims Paid  AD : 38830010 ! FT : 76 ! TP : 5 ! Claims Outstanding  AD : 7017323 ! FT : 34 ! TP : 60022779 ! 
+Question: Claims Outstanding FT?
+Answer: 34
+
+Context: Claims Paid  AD : 38830010 ! FT : 76 ! TP : 5 ! Claims Outstanding  AD : 7017323 ! FT : 34 ! TP : 60022779 ! 
+Question: Claims Outstanding TP?
+Answer: 5
+
+Context: Claims Paid  AD : 4433 ! FT : 6165 ! TP : 6623 ! Claims Outstanding  AD : 6173837 ! FT : 9389112 ! TP : 8 ! 
+Question: Claims Paid AD?
+Answer: 4433
+
+Context: Claims Paid  AD : 4433 ! FT : 6165 ! TP : 6623 ! Claims Outstanding  AD : 6173837 ! FT : 9389112 ! TP : 8 ! 
+Question: Claims Paid FT?
+Answer: 9389112
+
+Context: Claims Paid  AD : 4433 ! FT : 6165 ! TP : 6623 ! Claims Outstanding  AD : 6173837 ! FT : 9389112 ! TP : 8 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 4433 ! FT : 6165 ! TP : 6623 ! Claims Outstanding  AD : 6173837 ! FT : 9389112 ! TP : 8 ! 
+Question: Claims Outstanding AD?
+Answer: 6173837
+
+Context: Claims Paid  AD : 4433 ! FT : 6165 ! TP : 6623 ! Claims Outstanding  AD : 6173837 ! FT : 9389112 ! TP : 8 ! 
+Question: Claims Outstanding FT?
+Answer: 9389112
+
+Context: Claims Paid  AD : 4433 ! FT : 6165 ! TP : 6623 ! Claims Outstanding  AD : 6173837 ! FT : 9389112 ! TP : 8 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 3106 ! FT : 4 ! AD : 039 ! Claims Outstanding  TP : 14065688 ! FT : 92929257 ! AD : 448985638 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 3106 ! FT : 4 ! AD : 039 ! Claims Outstanding  TP : 14065688 ! FT : 92929257 ! AD : 448985638 ! 
+Question: Claims Paid FT?
+Answer: 4
+
+Context: Claims Paid  TP : 3106 ! FT : 4 ! AD : 039 ! Claims Outstanding  TP : 14065688 ! FT : 92929257 ! AD : 448985638 ! 
+Question: Claims Paid AD?
+Answer: 039
+
+Context: Claims Paid  TP : 3106 ! FT : 4 ! AD : 039 ! Claims Outstanding  TP : 14065688 ! FT : 92929257 ! AD : 448985638 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 3106 ! FT : 4 ! AD : 039 ! Claims Outstanding  TP : 14065688 ! FT : 92929257 ! AD : 448985638 ! 
+Question: Claims Outstanding FT?
+Answer: 92929257
+
+Context: Claims Paid  TP : 3106 ! FT : 4 ! AD : 039 ! Claims Outstanding  TP : 14065688 ! FT : 92929257 ! AD : 448985638 ! 
+Question: Claims Outstanding AD?
+Answer: 448985638
+
+Context: Claims Paid  TP : 318 ! FT : 4438 ! AD : 248662 ! Claims Outstanding  TP : 3 ! FT : 31076304 ! AD : 4605963174 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 318 ! FT : 4438 ! AD : 248662 ! Claims Outstanding  TP : 3 ! FT : 31076304 ! AD : 4605963174 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  TP : 318 ! FT : 4438 ! AD : 248662 ! Claims Outstanding  TP : 3 ! FT : 31076304 ! AD : 4605963174 ! 
+Question: Claims Paid AD?
+Answer: 248662
+
+Context: Claims Paid  TP : 318 ! FT : 4438 ! AD : 248662 ! Claims Outstanding  TP : 3 ! FT : 31076304 ! AD : 4605963174 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 318 ! FT : 4438 ! AD : 248662 ! Claims Outstanding  TP : 3 ! FT : 31076304 ! AD : 4605963174 ! 
+Question: Claims Outstanding FT?
+Answer: 31076304
+
+Context: Claims Paid  TP : 318 ! FT : 4438 ! AD : 248662 ! Claims Outstanding  TP : 3 ! FT : 31076304 ! AD : 4605963174 ! 
+Question: Claims Outstanding AD?
+Answer: empty
+
+Context: Claims Paid  TP : 6473090260 ! FT : 324 ! AD : 7850 ! Claims Outstanding  TP : 419 ! FT : 53694221 ! AD : 3 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 6473090260 ! FT : 324 ! AD : 7850 ! Claims Outstanding  TP : 419 ! FT : 53694221 ! AD : 3 ! 
+Question: Claims Paid FT?
+Answer: 324
+
+Context: Claims Paid  TP : 6473090260 ! FT : 324 ! AD : 7850 ! Claims Outstanding  TP : 419 ! FT : 53694221 ! AD : 3 ! 
+Question: Claims Paid AD?
+Answer: 7850
+
+Context: Claims Paid  TP : 6473090260 ! FT : 324 ! AD : 7850 ! Claims Outstanding  TP : 419 ! FT : 53694221 ! AD : 3 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 6473090260 ! FT : 324 ! AD : 7850 ! Claims Outstanding  TP : 419 ! FT : 53694221 ! AD : 3 ! 
+Question: Claims Outstanding FT?
+Answer: 53694221
+
+Context: Claims Paid  TP : 6473090260 ! FT : 324 ! AD : 7850 ! Claims Outstanding  TP : 419 ! FT : 53694221 ! AD : 3 ! 
+Question: Claims Outstanding AD?
+Answer: 7850
+
+Context: Claims Paid  FT : 243412 ! TP : 7323019196 ! AD : 824 ! Claims Outstanding  FT : 7266197 ! TP : 9616 ! AD : 064 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 243412 ! TP : 7323019196 ! AD : 824 ! Claims Outstanding  FT : 7266197 ! TP : 9616 ! AD : 064 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  FT : 243412 ! TP : 7323019196 ! AD : 824 ! Claims Outstanding  FT : 7266197 ! TP : 9616 ! AD : 064 ! 
+Question: Claims Paid AD?
+Answer: 824
+
+Context: Claims Paid  FT : 243412 ! TP : 7323019196 ! AD : 824 ! Claims Outstanding  FT : 7266197 ! TP : 9616 ! AD : 064 ! 
+Question: Claims Outstanding FT?
+Answer: 7266197
+
+Context: Claims Paid  FT : 243412 ! TP : 7323019196 ! AD : 824 ! Claims Outstanding  FT : 7266197 ! TP : 9616 ! AD : 064 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  FT : 243412 ! TP : 7323019196 ! AD : 824 ! Claims Outstanding  FT : 7266197 ! TP : 9616 ! AD : 064 ! 
+Question: Claims Outstanding AD?
+Answer: 824
+
+Context: Claims Paid  AD : 6 ! FT : 94298738 ! TP : 0594966427 ! Claims Outstanding  AD : 03 ! FT : 43 ! TP : 5298250 ! 
+Question: Claims Paid AD?
+Answer: 6
+
+Context: Claims Paid  AD : 6 ! FT : 94298738 ! TP : 0594966427 ! Claims Outstanding  AD : 03 ! FT : 43 ! TP : 5298250 ! 
+Question: Claims Paid FT?
+Answer: 43
+
+Context: Claims Paid  AD : 6 ! FT : 94298738 ! TP : 0594966427 ! Claims Outstanding  AD : 03 ! FT : 43 ! TP : 5298250 ! 
+Question: Claims Paid TP?
+Answer: 7
+
+Context: Claims Paid  AD : 6 ! FT : 94298738 ! TP : 0594966427 ! Claims Outstanding  AD : 03 ! FT : 43 ! TP : 5298250 ! 
+Question: Claims Outstanding AD?
+Answer: 03
+
+Context: Claims Paid  AD : 6 ! FT : 94298738 ! TP : 0594966427 ! Claims Outstanding  AD : 03 ! FT : 43 ! TP : 5298250 ! 
+Question: Claims Outstanding FT?
+Answer: 43
+
+Context: Claims Paid  AD : 6 ! FT : 94298738 ! TP : 0594966427 ! Claims Outstanding  AD : 03 ! FT : 43 ! TP : 5298250 ! 
+Question: Claims Outstanding TP?
+Answer: 0594966427
+
+Context: Claims Paid  FT : 71918 ! AD : 739547 ! TP : 7 ! Claims Outstanding  FT : 61878233 ! AD : 283498285 ! TP : 9024 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 71918 ! AD : 739547 ! TP : 7 ! Claims Outstanding  FT : 61878233 ! AD : 283498285 ! TP : 9024 ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  FT : 71918 ! AD : 739547 ! TP : 7 ! Claims Outstanding  FT : 61878233 ! AD : 283498285 ! TP : 9024 ! 
+Question: Claims Paid TP?
+Answer: 7
+
+Context: Claims Paid  FT : 71918 ! AD : 739547 ! TP : 7 ! Claims Outstanding  FT : 61878233 ! AD : 283498285 ! TP : 9024 ! 
+Question: Claims Outstanding FT?
+Answer: 61878233
+
+Context: Claims Paid  FT : 71918 ! AD : 739547 ! TP : 7 ! Claims Outstanding  FT : 61878233 ! AD : 283498285 ! TP : 9024 ! 
+Question: Claims Outstanding AD?
+Answer: 283498285
+
+Context: Claims Paid  FT : 71918 ! AD : 739547 ! TP : 7 ! Claims Outstanding  FT : 61878233 ! AD : 283498285 ! TP : 9024 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  FT : 7288604 ! AD : 6937 ! TP : 137441215 ! Claims Outstanding  FT : 64776 ! AD : 227753 ! TP : 9340 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 7288604 ! AD : 6937 ! TP : 137441215 ! Claims Outstanding  FT : 64776 ! AD : 227753 ! TP : 9340 ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  FT : 7288604 ! AD : 6937 ! TP : 137441215 ! Claims Outstanding  FT : 64776 ! AD : 227753 ! TP : 9340 ! 
+Question: Claims Paid TP?
+Answer: 15
+
+Context: Claims Paid  FT : 7288604 ! AD : 6937 ! TP : 137441215 ! Claims Outstanding  FT : 64776 ! AD : 227753 ! TP : 9340 ! 
+Question: Claims Outstanding FT?
+Answer: 64776
+
+Context: Claims Paid  FT : 7288604 ! AD : 6937 ! TP : 137441215 ! Claims Outstanding  FT : 64776 ! AD : 227753 ! TP : 9340 ! 
+Question: Claims Outstanding AD?
+Answer: empty
+
+Context: Claims Paid  FT : 7288604 ! AD : 6937 ! TP : 137441215 ! Claims Outstanding  FT : 64776 ! AD : 227753 ! TP : 9340 ! 
+Question: Claims Outstanding TP?
+Answer: 15
+
+Context: Claims Paid  AD : 832893157 ! FT : 4 ! TP : 392279 ! Claims Outstanding  AD : 934 ! FT : 85795 ! TP : 9793 ! 
+Question: Claims Paid AD?
+Answer: 832893157
+
+Context: Claims Paid  AD : 832893157 ! FT : 4 ! TP : 392279 ! Claims Outstanding  AD : 934 ! FT : 85795 ! TP : 9793 ! 
+Question: Claims Paid FT?
+Answer: 85795
+
+Context: Claims Paid  AD : 832893157 ! FT : 4 ! TP : 392279 ! Claims Outstanding  AD : 934 ! FT : 85795 ! TP : 9793 ! 
+Question: Claims Paid TP?
+Answer: 392279
+
+Context: Claims Paid  AD : 832893157 ! FT : 4 ! TP : 392279 ! Claims Outstanding  AD : 934 ! FT : 85795 ! TP : 9793 ! 
+Question: Claims Outstanding AD?
+Answer: empty
+
+Context: Claims Paid  AD : 832893157 ! FT : 4 ! TP : 392279 ! Claims Outstanding  AD : 934 ! FT : 85795 ! TP : 9793 ! 
+Question: Claims Outstanding FT?
+Answer: 85795
+
+Context: Claims Paid  AD : 832893157 ! FT : 4 ! TP : 392279 ! Claims Outstanding  AD : 934 ! FT : 85795 ! TP : 9793 ! 
+Question: Claims Outstanding TP?
+Answer: 392279
+
+Context: Claims Paid  AD : 35 ! FT : 6650515022 ! TP : 2896 ! Claims Outstanding  AD : 34 ! FT : 04061 ! TP : 5163482 ! 
+Question: Claims Paid AD?
+Answer: 35
+
+Context: Claims Paid  AD : 35 ! FT : 6650515022 ! TP : 2896 ! Claims Outstanding  AD : 34 ! FT : 04061 ! TP : 5163482 ! 
+Question: Claims Paid FT?
+Answer: 6650515022
+
+Context: Claims Paid  AD : 35 ! FT : 6650515022 ! TP : 2896 ! Claims Outstanding  AD : 34 ! FT : 04061 ! TP : 5163482 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 35 ! FT : 6650515022 ! TP : 2896 ! Claims Outstanding  AD : 34 ! FT : 04061 ! TP : 5163482 ! 
+Question: Claims Outstanding AD?
+Answer: 35
+
+Context: Claims Paid  AD : 35 ! FT : 6650515022 ! TP : 2896 ! Claims Outstanding  AD : 34 ! FT : 04061 ! TP : 5163482 ! 
+Question: Claims Outstanding FT?
+Answer: 04061
+
+Context: Claims Paid  AD : 35 ! FT : 6650515022 ! TP : 2896 ! Claims Outstanding  AD : 34 ! FT : 04061 ! TP : 5163482 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 12 ! AD : 19583563 ! FT : 8763518 ! Claims Outstanding  TP : 53 ! AD : 4 ! FT : 5 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 12 ! AD : 19583563 ! FT : 8763518 ! Claims Outstanding  TP : 53 ! AD : 4 ! FT : 5 ! 
+Question: Claims Paid AD?
+Answer: 19583563
+
+Context: Claims Paid  TP : 12 ! AD : 19583563 ! FT : 8763518 ! Claims Outstanding  TP : 53 ! AD : 4 ! FT : 5 ! 
+Question: Claims Paid FT?
+Answer: 8763518
+
+Context: Claims Paid  TP : 12 ! AD : 19583563 ! FT : 8763518 ! Claims Outstanding  TP : 53 ! AD : 4 ! FT : 5 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 12 ! AD : 19583563 ! FT : 8763518 ! Claims Outstanding  TP : 53 ! AD : 4 ! FT : 5 ! 
+Question: Claims Outstanding AD?
+Answer: empty
+
+Context: Claims Paid  TP : 12 ! AD : 19583563 ! FT : 8763518 ! Claims Outstanding  TP : 53 ! AD : 4 ! FT : 5 ! 
+Question: Claims Outstanding FT?
+Answer: 8763518
+
+Context: Claims Paid  TP : 0054881 ! FT : 4079 ! AD : 4 ! Claims Outstanding  TP : 40785 ! FT : 296 ! AD : 7 ! 
+Question: Claims Paid TP?
+Answer: 4
+
+Context: Claims Paid  TP : 0054881 ! FT : 4079 ! AD : 4 ! Claims Outstanding  TP : 40785 ! FT : 296 ! AD : 7 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  TP : 0054881 ! FT : 4079 ! AD : 4 ! Claims Outstanding  TP : 40785 ! FT : 296 ! AD : 7 ! 
+Question: Claims Paid AD?
+Answer: 4
+
+Context: Claims Paid  TP : 0054881 ! FT : 4079 ! AD : 4 ! Claims Outstanding  TP : 40785 ! FT : 296 ! AD : 7 ! 
+Question: Claims Outstanding TP?
+Answer: 4
+
+Context: Claims Paid  TP : 0054881 ! FT : 4079 ! AD : 4 ! Claims Outstanding  TP : 40785 ! FT : 296 ! AD : 7 ! 
+Question: Claims Outstanding FT?
+Answer: 296
+
+Context: Claims Paid  TP : 0054881 ! FT : 4079 ! AD : 4 ! Claims Outstanding  TP : 40785 ! FT : 296 ! AD : 7 ! 
+Question: Claims Outstanding AD?
+Answer: 4
+
+Context: Claims Paid  FT : 759 ! TP : 54 ! AD : 54 ! Claims Outstanding  FT : 23801451 ! TP : 6325252639 ! AD : 499 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 759 ! TP : 54 ! AD : 54 ! Claims Outstanding  FT : 23801451 ! TP : 6325252639 ! AD : 499 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  FT : 759 ! TP : 54 ! AD : 54 ! Claims Outstanding  FT : 23801451 ! TP : 6325252639 ! AD : 499 ! 
+Question: Claims Paid AD?
+Answer: 54
+
+Context: Claims Paid  FT : 759 ! TP : 54 ! AD : 54 ! Claims Outstanding  FT : 23801451 ! TP : 6325252639 ! AD : 499 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  FT : 759 ! TP : 54 ! AD : 54 ! Claims Outstanding  FT : 23801451 ! TP : 6325252639 ! AD : 499 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  FT : 759 ! TP : 54 ! AD : 54 ! Claims Outstanding  FT : 23801451 ! TP : 6325252639 ! AD : 499 ! 
+Question: Claims Outstanding AD?
+Answer: 54
+
+Context: Claims Paid  TP : 699 ! FT : 3801187369 ! AD : 281 ! Claims Outstanding  TP : 9106348 ! FT : 776 ! AD : 73980 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 699 ! FT : 3801187369 ! AD : 281 ! Claims Outstanding  TP : 9106348 ! FT : 776 ! AD : 73980 ! 
+Question: Claims Paid FT?
+Answer: 3801187369
+
+Context: Claims Paid  TP : 699 ! FT : 3801187369 ! AD : 281 ! Claims Outstanding  TP : 9106348 ! FT : 776 ! AD : 73980 ! 
+Question: Claims Paid AD?
+Answer: 281
+
+Context: Claims Paid  TP : 699 ! FT : 3801187369 ! AD : 281 ! Claims Outstanding  TP : 9106348 ! FT : 776 ! AD : 73980 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 699 ! FT : 3801187369 ! AD : 281 ! Claims Outstanding  TP : 9106348 ! FT : 776 ! AD : 73980 ! 
+Question: Claims Outstanding FT?
+Answer: 776
+
+Context: Claims Paid  TP : 699 ! FT : 3801187369 ! AD : 281 ! Claims Outstanding  TP : 9106348 ! FT : 776 ! AD : 73980 ! 
+Question: Claims Outstanding AD?
+Answer: 281
+
+Context: Claims Paid  FT : 884 ! AD : 71469428 ! TP : 82830869 ! Claims Outstanding  FT : 85017 ! AD : 89370699 ! TP : 76192 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 884 ! AD : 71469428 ! TP : 82830869 ! Claims Outstanding  FT : 85017 ! AD : 89370699 ! TP : 76192 ! 
+Question: Claims Paid AD?
+Answer: 89370699
+
+Context: Claims Paid  FT : 884 ! AD : 71469428 ! TP : 82830869 ! Claims Outstanding  FT : 85017 ! AD : 89370699 ! TP : 76192 ! 
+Question: Claims Paid TP?
+Answer: 82830869
+
+Context: Claims Paid  FT : 884 ! AD : 71469428 ! TP : 82830869 ! Claims Outstanding  FT : 85017 ! AD : 89370699 ! TP : 76192 ! 
+Question: Claims Outstanding FT?
+Answer: 85017
+
+Context: Claims Paid  FT : 884 ! AD : 71469428 ! TP : 82830869 ! Claims Outstanding  FT : 85017 ! AD : 89370699 ! TP : 76192 ! 
+Question: Claims Outstanding AD?
+Answer: 89370699
+
+Context: Claims Paid  FT : 884 ! AD : 71469428 ! TP : 82830869 ! Claims Outstanding  FT : 85017 ! AD : 89370699 ! TP : 76192 ! 
+Question: Claims Outstanding TP?
+Answer: 76192
+
+Context: Claims Paid  AD : 3 ! FT : 03811 ! TP : 877079 ! Claims Outstanding  AD : 5670144 ! FT : 22 ! TP : 0667246387 ! 
+Question: Claims Paid AD?
+Answer: 3
+
+Context: Claims Paid  AD : 3 ! FT : 03811 ! TP : 877079 ! Claims Outstanding  AD : 5670144 ! FT : 22 ! TP : 0667246387 ! 
+Question: Claims Paid FT?
+Answer: 22
+
+Context: Claims Paid  AD : 3 ! FT : 03811 ! TP : 877079 ! Claims Outstanding  AD : 5670144 ! FT : 22 ! TP : 0667246387 ! 
+Question: Claims Paid TP?
+Answer: 877079
+
+Context: Claims Paid  AD : 3 ! FT : 03811 ! TP : 877079 ! Claims Outstanding  AD : 5670144 ! FT : 22 ! TP : 0667246387 ! 
+Question: Claims Outstanding AD?
+Answer: 5670144
+
+Context: Claims Paid  AD : 3 ! FT : 03811 ! TP : 877079 ! Claims Outstanding  AD : 5670144 ! FT : 22 ! TP : 0667246387 ! 
+Question: Claims Outstanding FT?
+Answer: 22
+
+Context: Claims Paid  AD : 3 ! FT : 03811 ! TP : 877079 ! Claims Outstanding  AD : 5670144 ! FT : 22 ! TP : 0667246387 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  FT : 74937 ! AD : 51 ! TP : 507457 ! Claims Outstanding  FT : 0258489649 ! AD : 7851045385 ! TP : 45919 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 74937 ! AD : 51 ! TP : 507457 ! Claims Outstanding  FT : 0258489649 ! AD : 7851045385 ! TP : 45919 ! 
+Question: Claims Paid AD?
+Answer: 51
+
+Context: Claims Paid  FT : 74937 ! AD : 51 ! TP : 507457 ! Claims Outstanding  FT : 0258489649 ! AD : 7851045385 ! TP : 45919 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  FT : 74937 ! AD : 51 ! TP : 507457 ! Claims Outstanding  FT : 0258489649 ! AD : 7851045385 ! TP : 45919 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  FT : 74937 ! AD : 51 ! TP : 507457 ! Claims Outstanding  FT : 0258489649 ! AD : 7851045385 ! TP : 45919 ! 
+Question: Claims Outstanding AD?
+Answer: 7851045385
+
+Context: Claims Paid  FT : 74937 ! AD : 51 ! TP : 507457 ! Claims Outstanding  FT : 0258489649 ! AD : 7851045385 ! TP : 45919 ! 
+Question: Claims Outstanding TP?
+Answer: 19
+
+Context: Claims Paid  FT : 4522086 ! AD : 590 ! TP : 43929054 ! Claims Outstanding  FT : 9 ! AD : 632094 ! TP : 11528 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 4522086 ! AD : 590 ! TP : 43929054 ! Claims Outstanding  FT : 9 ! AD : 632094 ! TP : 11528 ! 
+Question: Claims Paid AD?
+Answer: 590
+
+Context: Claims Paid  FT : 4522086 ! AD : 590 ! TP : 43929054 ! Claims Outstanding  FT : 9 ! AD : 632094 ! TP : 11528 ! 
+Question: Claims Paid TP?
+Answer: 43929054
+
+Context: Claims Paid  FT : 4522086 ! AD : 590 ! TP : 43929054 ! Claims Outstanding  FT : 9 ! AD : 632094 ! TP : 11528 ! 
+Question: Claims Outstanding FT?
+Answer: 9
+
+Context: Claims Paid  FT : 4522086 ! AD : 590 ! TP : 43929054 ! Claims Outstanding  FT : 9 ! AD : 632094 ! TP : 11528 ! 
+Question: Claims Outstanding AD?
+Answer: 590
+
+Context: Claims Paid  FT : 4522086 ! AD : 590 ! TP : 43929054 ! Claims Outstanding  FT : 9 ! AD : 632094 ! TP : 11528 ! 
+Question: Claims Outstanding TP?
+Answer: 43929054
+
+Context: Claims Paid  AD : 983076 ! TP : 325519822 ! FT : 186 ! Claims Outstanding  AD : 0590649073 ! TP : 19 ! FT : 152203331 ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  AD : 983076 ! TP : 325519822 ! FT : 186 ! Claims Outstanding  AD : 0590649073 ! TP : 19 ! FT : 152203331 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 983076 ! TP : 325519822 ! FT : 186 ! Claims Outstanding  AD : 0590649073 ! TP : 19 ! FT : 152203331 ! 
+Question: Claims Paid FT?
+Answer: 186
+
+Context: Claims Paid  AD : 983076 ! TP : 325519822 ! FT : 186 ! Claims Outstanding  AD : 0590649073 ! TP : 19 ! FT : 152203331 ! 
+Question: Claims Outstanding AD?
+Answer: 0590649073
+
+Context: Claims Paid  AD : 983076 ! TP : 325519822 ! FT : 186 ! Claims Outstanding  AD : 0590649073 ! TP : 19 ! FT : 152203331 ! 
+Question: Claims Outstanding TP?
+Answer: 19
+
+Context: Claims Paid  AD : 983076 ! TP : 325519822 ! FT : 186 ! Claims Outstanding  AD : 0590649073 ! TP : 19 ! FT : 152203331 ! 
+Question: Claims Outstanding FT?
+Answer: 186
+
+Context: Claims Paid  TP : 16027 ! FT : 851 ! AD : 47038 ! Claims Outstanding  TP : 832840308 ! FT : 591873 ! AD : 26 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 16027 ! FT : 851 ! AD : 47038 ! Claims Outstanding  TP : 832840308 ! FT : 591873 ! AD : 26 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  TP : 16027 ! FT : 851 ! AD : 47038 ! Claims Outstanding  TP : 832840308 ! FT : 591873 ! AD : 26 ! 
+Question: Claims Paid AD?
+Answer: 47038
+
+Context: Claims Paid  TP : 16027 ! FT : 851 ! AD : 47038 ! Claims Outstanding  TP : 832840308 ! FT : 591873 ! AD : 26 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 16027 ! FT : 851 ! AD : 47038 ! Claims Outstanding  TP : 832840308 ! FT : 591873 ! AD : 26 ! 
+Question: Claims Outstanding FT?
+Answer: 591873
+
+Context: Claims Paid  TP : 16027 ! FT : 851 ! AD : 47038 ! Claims Outstanding  TP : 832840308 ! FT : 591873 ! AD : 26 ! 
+Question: Claims Outstanding AD?
+Answer: empty
+
+Context: Claims Paid  FT : 826938428 ! AD : 82513960 ! TP : 5 ! Claims Outstanding  FT : 3658874 ! AD : 09 ! TP : 79368 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 826938428 ! AD : 82513960 ! TP : 5 ! Claims Outstanding  FT : 3658874 ! AD : 09 ! TP : 79368 ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  FT : 826938428 ! AD : 82513960 ! TP : 5 ! Claims Outstanding  FT : 3658874 ! AD : 09 ! TP : 79368 ! 
+Question: Claims Paid TP?
+Answer: 5
+
+Context: Claims Paid  FT : 826938428 ! AD : 82513960 ! TP : 5 ! Claims Outstanding  FT : 3658874 ! AD : 09 ! TP : 79368 ! 
+Question: Claims Outstanding FT?
+Answer: 3658874
+
+Context: Claims Paid  FT : 826938428 ! AD : 82513960 ! TP : 5 ! Claims Outstanding  FT : 3658874 ! AD : 09 ! TP : 79368 ! 
+Question: Claims Outstanding AD?
+Answer: 82513960
+
+Context: Claims Paid  FT : 826938428 ! AD : 82513960 ! TP : 5 ! Claims Outstanding  FT : 3658874 ! AD : 09 ! TP : 79368 ! 
+Question: Claims Outstanding TP?
+Answer: 5
+
+Context: Claims Paid  TP : 991586 ! FT : 635889 ! AD : 474200 ! Claims Outstanding  TP : 4 ! FT : 334 ! AD : 487 ! 
+Question: Claims Paid TP?
+Answer: 474200
+
+Context: Claims Paid  TP : 991586 ! FT : 635889 ! AD : 474200 ! Claims Outstanding  TP : 4 ! FT : 334 ! AD : 487 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  TP : 991586 ! FT : 635889 ! AD : 474200 ! Claims Outstanding  TP : 4 ! FT : 334 ! AD : 487 ! 
+Question: Claims Paid AD?
+Answer: 474200
+
+Context: Claims Paid  TP : 991586 ! FT : 635889 ! AD : 474200 ! Claims Outstanding  TP : 4 ! FT : 334 ! AD : 487 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 991586 ! FT : 635889 ! AD : 474200 ! Claims Outstanding  TP : 4 ! FT : 334 ! AD : 487 ! 
+Question: Claims Outstanding FT?
+Answer: 334
+
+Context: Claims Paid  TP : 991586 ! FT : 635889 ! AD : 474200 ! Claims Outstanding  TP : 4 ! FT : 334 ! AD : 487 ! 
+Question: Claims Outstanding AD?
+Answer: 474200
+
+Context: Claims Paid  TP : 6065 ! AD : 64866860 ! FT : 5682798671 ! Claims Outstanding  TP : 3561 ! AD : 2 ! FT : 7537052 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 6065 ! AD : 64866860 ! FT : 5682798671 ! Claims Outstanding  TP : 3561 ! AD : 2 ! FT : 7537052 ! 
+Question: Claims Paid AD?
+Answer: 2
+
+Context: Claims Paid  TP : 6065 ! AD : 64866860 ! FT : 5682798671 ! Claims Outstanding  TP : 3561 ! AD : 2 ! FT : 7537052 ! 
+Question: Claims Paid FT?
+Answer: 5682798671
+
+Context: Claims Paid  TP : 6065 ! AD : 64866860 ! FT : 5682798671 ! Claims Outstanding  TP : 3561 ! AD : 2 ! FT : 7537052 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 6065 ! AD : 64866860 ! FT : 5682798671 ! Claims Outstanding  TP : 3561 ! AD : 2 ! FT : 7537052 ! 
+Question: Claims Outstanding AD?
+Answer: 2
+
+Context: Claims Paid  TP : 6065 ! AD : 64866860 ! FT : 5682798671 ! Claims Outstanding  TP : 3561 ! AD : 2 ! FT : 7537052 ! 
+Question: Claims Outstanding FT?
+Answer: 7537052
+
+Context: Claims Paid  AD : 85111598 ! FT : 35165 ! TP : 9606374 ! Claims Outstanding  AD : 7946 ! FT : 923166 ! TP : 597 ! 
+Question: Claims Paid AD?
+Answer: 85111598
+
+Context: Claims Paid  AD : 85111598 ! FT : 35165 ! TP : 9606374 ! Claims Outstanding  AD : 7946 ! FT : 923166 ! TP : 597 ! 
+Question: Claims Paid FT?
+Answer: 923166
+
+Context: Claims Paid  AD : 85111598 ! FT : 35165 ! TP : 9606374 ! Claims Outstanding  AD : 7946 ! FT : 923166 ! TP : 597 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 85111598 ! FT : 35165 ! TP : 9606374 ! Claims Outstanding  AD : 7946 ! FT : 923166 ! TP : 597 ! 
+Question: Claims Outstanding AD?
+Answer: 7946
+
+Context: Claims Paid  AD : 85111598 ! FT : 35165 ! TP : 9606374 ! Claims Outstanding  AD : 7946 ! FT : 923166 ! TP : 597 ! 
+Question: Claims Outstanding FT?
+Answer: 923166
+
+Context: Claims Paid  AD : 85111598 ! FT : 35165 ! TP : 9606374 ! Claims Outstanding  AD : 7946 ! FT : 923166 ! TP : 597 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 154 ! FT : 28542 ! AD : 8071693581 ! Claims Outstanding  TP : 785285 ! FT : 7 ! AD : 9113 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 154 ! FT : 28542 ! AD : 8071693581 ! Claims Outstanding  TP : 785285 ! FT : 7 ! AD : 9113 ! 
+Question: Claims Paid FT?
+Answer: 7
+
+Context: Claims Paid  TP : 154 ! FT : 28542 ! AD : 8071693581 ! Claims Outstanding  TP : 785285 ! FT : 7 ! AD : 9113 ! 
+Question: Claims Paid AD?
+Answer: 8071693581
+
+Context: Claims Paid  TP : 154 ! FT : 28542 ! AD : 8071693581 ! Claims Outstanding  TP : 785285 ! FT : 7 ! AD : 9113 ! 
+Question: Claims Outstanding TP?
+Answer: 8071693581 ! claims outstanding tp : 785285
+
+Context: Claims Paid  TP : 154 ! FT : 28542 ! AD : 8071693581 ! Claims Outstanding  TP : 785285 ! FT : 7 ! AD : 9113 ! 
+Question: Claims Outstanding FT?
+Answer: 7
+
+Context: Claims Paid  TP : 154 ! FT : 28542 ! AD : 8071693581 ! Claims Outstanding  TP : 785285 ! FT : 7 ! AD : 9113 ! 
+Question: Claims Outstanding AD?
+Answer: 8071693581
+
+Context: Claims Paid  TP : 15 ! FT : 962790 ! AD : 169277 ! Claims Outstanding  TP : 449 ! FT : 24 ! AD : 63 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 15 ! FT : 962790 ! AD : 169277 ! Claims Outstanding  TP : 449 ! FT : 24 ! AD : 63 ! 
+Question: Claims Paid FT?
+Answer: 24
+
+Context: Claims Paid  TP : 15 ! FT : 962790 ! AD : 169277 ! Claims Outstanding  TP : 449 ! FT : 24 ! AD : 63 ! 
+Question: Claims Paid AD?
+Answer: 169277
+
+Context: Claims Paid  TP : 15 ! FT : 962790 ! AD : 169277 ! Claims Outstanding  TP : 449 ! FT : 24 ! AD : 63 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 15 ! FT : 962790 ! AD : 169277 ! Claims Outstanding  TP : 449 ! FT : 24 ! AD : 63 ! 
+Question: Claims Outstanding FT?
+Answer: 24
+
+Context: Claims Paid  TP : 15 ! FT : 962790 ! AD : 169277 ! Claims Outstanding  TP : 449 ! FT : 24 ! AD : 63 ! 
+Question: Claims Outstanding AD?
+Answer: 169277
+
+Context: Claims Paid  FT : 227 ! TP : 009859 ! AD : 94 ! Claims Outstanding  FT : 80558 ! TP : 5 ! AD : 2 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 227 ! TP : 009859 ! AD : 94 ! Claims Outstanding  FT : 80558 ! TP : 5 ! AD : 2 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  FT : 227 ! TP : 009859 ! AD : 94 ! Claims Outstanding  FT : 80558 ! TP : 5 ! AD : 2 ! 
+Question: Claims Paid AD?
+Answer: 94
+
+Context: Claims Paid  FT : 227 ! TP : 009859 ! AD : 94 ! Claims Outstanding  FT : 80558 ! TP : 5 ! AD : 2 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  FT : 227 ! TP : 009859 ! AD : 94 ! Claims Outstanding  FT : 80558 ! TP : 5 ! AD : 2 ! 
+Question: Claims Outstanding TP?
+Answer: 94
+
+Context: Claims Paid  FT : 227 ! TP : 009859 ! AD : 94 ! Claims Outstanding  FT : 80558 ! TP : 5 ! AD : 2 ! 
+Question: Claims Outstanding AD?
+Answer: 94
+
+Context: Claims Paid  AD : 26943 ! FT : 09775 ! TP : 94656201 ! Claims Outstanding  AD : 82534675 ! FT : 11916 ! TP : 250742 ! 
+Question: Claims Paid AD?
+Answer: 26943
+
+Context: Claims Paid  AD : 26943 ! FT : 09775 ! TP : 94656201 ! Claims Outstanding  AD : 82534675 ! FT : 11916 ! TP : 250742 ! 
+Question: Claims Paid FT?
+Answer: 11916
+
+Context: Claims Paid  AD : 26943 ! FT : 09775 ! TP : 94656201 ! Claims Outstanding  AD : 82534675 ! FT : 11916 ! TP : 250742 ! 
+Question: Claims Paid TP?
+Answer: 94656201
+
+Context: Claims Paid  AD : 26943 ! FT : 09775 ! TP : 94656201 ! Claims Outstanding  AD : 82534675 ! FT : 11916 ! TP : 250742 ! 
+Question: Claims Outstanding AD?
+Answer: 82534675
+
+Context: Claims Paid  AD : 26943 ! FT : 09775 ! TP : 94656201 ! Claims Outstanding  AD : 82534675 ! FT : 11916 ! TP : 250742 ! 
+Question: Claims Outstanding FT?
+Answer: 11916
+
+Context: Claims Paid  AD : 26943 ! FT : 09775 ! TP : 94656201 ! Claims Outstanding  AD : 82534675 ! FT : 11916 ! TP : 250742 ! 
+Question: Claims Outstanding TP?
+Answer: 94656201
+
+Context: Claims Paid  TP : 86747400 ! AD : 12725 ! FT : 6178 ! Claims Outstanding  TP : 68393 ! AD : 820 ! FT : 5010 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 86747400 ! AD : 12725 ! FT : 6178 ! Claims Outstanding  TP : 68393 ! AD : 820 ! FT : 5010 ! 
+Question: Claims Paid AD?
+Answer: 12725
+
+Context: Claims Paid  TP : 86747400 ! AD : 12725 ! FT : 6178 ! Claims Outstanding  TP : 68393 ! AD : 820 ! FT : 5010 ! 
+Question: Claims Paid FT?
+Answer: 6178
+
+Context: Claims Paid  TP : 86747400 ! AD : 12725 ! FT : 6178 ! Claims Outstanding  TP : 68393 ! AD : 820 ! FT : 5010 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 86747400 ! AD : 12725 ! FT : 6178 ! Claims Outstanding  TP : 68393 ! AD : 820 ! FT : 5010 ! 
+Question: Claims Outstanding AD?
+Answer: empty
+
+Context: Claims Paid  TP : 86747400 ! AD : 12725 ! FT : 6178 ! Claims Outstanding  TP : 68393 ! AD : 820 ! FT : 5010 ! 
+Question: Claims Outstanding FT?
+Answer: 6178
+
+Context: Claims Paid  TP : 23 ! FT : 6154614 ! AD : 96705 ! Claims Outstanding  TP : 358184912 ! FT : 4 ! AD : 653 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 23 ! FT : 6154614 ! AD : 96705 ! Claims Outstanding  TP : 358184912 ! FT : 4 ! AD : 653 ! 
+Question: Claims Paid FT?
+Answer: 4
+
+Context: Claims Paid  TP : 23 ! FT : 6154614 ! AD : 96705 ! Claims Outstanding  TP : 358184912 ! FT : 4 ! AD : 653 ! 
+Question: Claims Paid AD?
+Answer: 96705
+
+Context: Claims Paid  TP : 23 ! FT : 6154614 ! AD : 96705 ! Claims Outstanding  TP : 358184912 ! FT : 4 ! AD : 653 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 23 ! FT : 6154614 ! AD : 96705 ! Claims Outstanding  TP : 358184912 ! FT : 4 ! AD : 653 ! 
+Question: Claims Outstanding FT?
+Answer: 4
+
+Context: Claims Paid  TP : 23 ! FT : 6154614 ! AD : 96705 ! Claims Outstanding  TP : 358184912 ! FT : 4 ! AD : 653 ! 
+Question: Claims Outstanding AD?
+Answer: empty
+
+Context: Claims Paid  FT : 99914049 ! AD : 4917172419 ! TP : 26308373 ! Claims Outstanding  FT : 9287 ! AD : 2508 ! TP : 9573 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 99914049 ! AD : 4917172419 ! TP : 26308373 ! Claims Outstanding  FT : 9287 ! AD : 2508 ! TP : 9573 ! 
+Question: Claims Paid AD?
+Answer: 2508
+
+Context: Claims Paid  FT : 99914049 ! AD : 4917172419 ! TP : 26308373 ! Claims Outstanding  FT : 9287 ! AD : 2508 ! TP : 9573 ! 
+Question: Claims Paid TP?
+Answer: 3
+
+Context: Claims Paid  FT : 99914049 ! AD : 4917172419 ! TP : 26308373 ! Claims Outstanding  FT : 9287 ! AD : 2508 ! TP : 9573 ! 
+Question: Claims Outstanding FT?
+Answer: 9287
+
+Context: Claims Paid  FT : 99914049 ! AD : 4917172419 ! TP : 26308373 ! Claims Outstanding  FT : 9287 ! AD : 2508 ! TP : 9573 ! 
+Question: Claims Outstanding AD?
+Answer: 4917172419
+
+Context: Claims Paid  FT : 99914049 ! AD : 4917172419 ! TP : 26308373 ! Claims Outstanding  FT : 9287 ! AD : 2508 ! TP : 9573 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  AD : 59754637 ! TP : 139074100 ! FT : 121359 ! Claims Outstanding  AD : 74 ! TP : 9 ! FT : 03546620 ! 
+Question: Claims Paid AD?
+Answer: 59754637
+
+Context: Claims Paid  AD : 59754637 ! TP : 139074100 ! FT : 121359 ! Claims Outstanding  AD : 74 ! TP : 9 ! FT : 03546620 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 59754637 ! TP : 139074100 ! FT : 121359 ! Claims Outstanding  AD : 74 ! TP : 9 ! FT : 03546620 ! 
+Question: Claims Paid FT?
+Answer: 121359
+
+Context: Claims Paid  AD : 59754637 ! TP : 139074100 ! FT : 121359 ! Claims Outstanding  AD : 74 ! TP : 9 ! FT : 03546620 ! 
+Question: Claims Outstanding AD?
+Answer: 74
+
+Context: Claims Paid  AD : 59754637 ! TP : 139074100 ! FT : 121359 ! Claims Outstanding  AD : 74 ! TP : 9 ! FT : 03546620 ! 
+Question: Claims Outstanding TP?
+Answer: 9
+
+Context: Claims Paid  AD : 59754637 ! TP : 139074100 ! FT : 121359 ! Claims Outstanding  AD : 74 ! TP : 9 ! FT : 03546620 ! 
+Question: Claims Outstanding FT?
+Answer: 121359
+
+Context: Claims Paid  FT : 858689 ! AD : 04 ! TP : 5 ! Claims Outstanding  FT : 05 ! AD : 375218 ! TP : 434 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 858689 ! AD : 04 ! TP : 5 ! Claims Outstanding  FT : 05 ! AD : 375218 ! TP : 434 ! 
+Question: Claims Paid AD?
+Answer: 04
+
+Context: Claims Paid  FT : 858689 ! AD : 04 ! TP : 5 ! Claims Outstanding  FT : 05 ! AD : 375218 ! TP : 434 ! 
+Question: Claims Paid TP?
+Answer: 5
+
+Context: Claims Paid  FT : 858689 ! AD : 04 ! TP : 5 ! Claims Outstanding  FT : 05 ! AD : 375218 ! TP : 434 ! 
+Question: Claims Outstanding FT?
+Answer: 05
+
+Context: Claims Paid  FT : 858689 ! AD : 04 ! TP : 5 ! Claims Outstanding  FT : 05 ! AD : 375218 ! TP : 434 ! 
+Question: Claims Outstanding AD?
+Answer: 04 ! tp : 5 ! claims outstanding ft : 05 ! ad : 375218
+
+Context: Claims Paid  FT : 858689 ! AD : 04 ! TP : 5 ! Claims Outstanding  FT : 05 ! AD : 375218 ! TP : 434 ! 
+Question: Claims Outstanding TP?
+Answer: 5
+
+Context: Claims Paid  TP : 585506215 ! AD : 6582 ! FT : 5157 ! Claims Outstanding  TP : 0885 ! AD : 578 ! FT : 445773709 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 585506215 ! AD : 6582 ! FT : 5157 ! Claims Outstanding  TP : 0885 ! AD : 578 ! FT : 445773709 ! 
+Question: Claims Paid AD?
+Answer: 6582
+
+Context: Claims Paid  TP : 585506215 ! AD : 6582 ! FT : 5157 ! Claims Outstanding  TP : 0885 ! AD : 578 ! FT : 445773709 ! 
+Question: Claims Paid FT?
+Answer: 5157
+
+Context: Claims Paid  TP : 585506215 ! AD : 6582 ! FT : 5157 ! Claims Outstanding  TP : 0885 ! AD : 578 ! FT : 445773709 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 585506215 ! AD : 6582 ! FT : 5157 ! Claims Outstanding  TP : 0885 ! AD : 578 ! FT : 445773709 ! 
+Question: Claims Outstanding AD?
+Answer: 578
+
+Context: Claims Paid  TP : 585506215 ! AD : 6582 ! FT : 5157 ! Claims Outstanding  TP : 0885 ! AD : 578 ! FT : 445773709 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  FT : 1686 ! TP : 4711920 ! AD : 59381190 ! Claims Outstanding  FT : 563 ! TP : 8 ! AD : 816 ! 
+Question: Claims Paid FT?
+Answer: 59381190
+
+Context: Claims Paid  FT : 1686 ! TP : 4711920 ! AD : 59381190 ! Claims Outstanding  FT : 563 ! TP : 8 ! AD : 816 ! 
+Question: Claims Paid TP?
+Answer: 59381190
+
+Context: Claims Paid  FT : 1686 ! TP : 4711920 ! AD : 59381190 ! Claims Outstanding  FT : 563 ! TP : 8 ! AD : 816 ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  FT : 1686 ! TP : 4711920 ! AD : 59381190 ! Claims Outstanding  FT : 563 ! TP : 8 ! AD : 816 ! 
+Question: Claims Outstanding FT?
+Answer: 59381190
+
+Context: Claims Paid  FT : 1686 ! TP : 4711920 ! AD : 59381190 ! Claims Outstanding  FT : 563 ! TP : 8 ! AD : 816 ! 
+Question: Claims Outstanding TP?
+Answer: 59381190
+
+Context: Claims Paid  FT : 1686 ! TP : 4711920 ! AD : 59381190 ! Claims Outstanding  FT : 563 ! TP : 8 ! AD : 816 ! 
+Question: Claims Outstanding AD?
+Answer: 59381190
+
+Context: Claims Paid  AD : 810 ! TP : 243 ! FT : 5616 ! Claims Outstanding  AD : 241513 ! TP : 29680 ! FT : 54148581 ! 
+Question: Claims Paid AD?
+Answer: 810
+
+Context: Claims Paid  AD : 810 ! TP : 243 ! FT : 5616 ! Claims Outstanding  AD : 241513 ! TP : 29680 ! FT : 54148581 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 810 ! TP : 243 ! FT : 5616 ! Claims Outstanding  AD : 241513 ! TP : 29680 ! FT : 54148581 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  AD : 810 ! TP : 243 ! FT : 5616 ! Claims Outstanding  AD : 241513 ! TP : 29680 ! FT : 54148581 ! 
+Question: Claims Outstanding AD?
+Answer: 241513
+
+Context: Claims Paid  AD : 810 ! TP : 243 ! FT : 5616 ! Claims Outstanding  AD : 241513 ! TP : 29680 ! FT : 54148581 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  AD : 810 ! TP : 243 ! FT : 5616 ! Claims Outstanding  AD : 241513 ! TP : 29680 ! FT : 54148581 ! 
+Question: Claims Outstanding FT?
+Answer: 54148581
+
+Context: Claims Paid  TP : 07660 ! FT : 559 ! AD : 95 ! Claims Outstanding  TP : 365575517 ! FT : 512 ! AD : 935439772 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 07660 ! FT : 559 ! AD : 95 ! Claims Outstanding  TP : 365575517 ! FT : 512 ! AD : 935439772 ! 
+Question: Claims Paid FT?
+Answer: 512
+
+Context: Claims Paid  TP : 07660 ! FT : 559 ! AD : 95 ! Claims Outstanding  TP : 365575517 ! FT : 512 ! AD : 935439772 ! 
+Question: Claims Paid AD?
+Answer: 95
+
+Context: Claims Paid  TP : 07660 ! FT : 559 ! AD : 95 ! Claims Outstanding  TP : 365575517 ! FT : 512 ! AD : 935439772 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 07660 ! FT : 559 ! AD : 95 ! Claims Outstanding  TP : 365575517 ! FT : 512 ! AD : 935439772 ! 
+Question: Claims Outstanding FT?
+Answer: 512
+
+Context: Claims Paid  TP : 07660 ! FT : 559 ! AD : 95 ! Claims Outstanding  TP : 365575517 ! FT : 512 ! AD : 935439772 ! 
+Question: Claims Outstanding AD?
+Answer: 95
+
+Context: Claims Paid  TP : 265994 ! FT : 1054117 ! AD : 2342308793 ! Claims Outstanding  TP : 1001701447 ! FT : 58 ! AD : 5686393 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 265994 ! FT : 1054117 ! AD : 2342308793 ! Claims Outstanding  TP : 1001701447 ! FT : 58 ! AD : 5686393 ! 
+Question: Claims Paid FT?
+Answer: 58
+
+Context: Claims Paid  TP : 265994 ! FT : 1054117 ! AD : 2342308793 ! Claims Outstanding  TP : 1001701447 ! FT : 58 ! AD : 5686393 ! 
+Question: Claims Paid AD?
+Answer: 2342308793
+
+Context: Claims Paid  TP : 265994 ! FT : 1054117 ! AD : 2342308793 ! Claims Outstanding  TP : 1001701447 ! FT : 58 ! AD : 5686393 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 265994 ! FT : 1054117 ! AD : 2342308793 ! Claims Outstanding  TP : 1001701447 ! FT : 58 ! AD : 5686393 ! 
+Question: Claims Outstanding FT?
+Answer: 58
+
+Context: Claims Paid  TP : 265994 ! FT : 1054117 ! AD : 2342308793 ! Claims Outstanding  TP : 1001701447 ! FT : 58 ! AD : 5686393 ! 
+Question: Claims Outstanding AD?
+Answer: 2342308793
+
+Context: Claims Paid  AD : 26 ! FT : 050912829 ! TP : 2 ! Claims Outstanding  AD : 3048824639 ! FT : 86259 ! TP : 32 ! 
+Question: Claims Paid AD?
+Answer: 26
+
+Context: Claims Paid  AD : 26 ! FT : 050912829 ! TP : 2 ! Claims Outstanding  AD : 3048824639 ! FT : 86259 ! TP : 32 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  AD : 26 ! FT : 050912829 ! TP : 2 ! Claims Outstanding  AD : 3048824639 ! FT : 86259 ! TP : 32 ! 
+Question: Claims Paid TP?
+Answer: 2
+
+Context: Claims Paid  AD : 26 ! FT : 050912829 ! TP : 2 ! Claims Outstanding  AD : 3048824639 ! FT : 86259 ! TP : 32 ! 
+Question: Claims Outstanding AD?
+Answer: 3048824639
+
+Context: Claims Paid  AD : 26 ! FT : 050912829 ! TP : 2 ! Claims Outstanding  AD : 3048824639 ! FT : 86259 ! TP : 32 ! 
+Question: Claims Outstanding FT?
+Answer: 86259
+
+Context: Claims Paid  AD : 26 ! FT : 050912829 ! TP : 2 ! Claims Outstanding  AD : 3048824639 ! FT : 86259 ! TP : 32 ! 
+Question: Claims Outstanding TP?
+Answer: 2
+
+Context: Claims Paid  AD : 347980 ! TP : 46 ! FT : 47390 ! Claims Outstanding  AD : 3 ! TP : 1 ! FT : 89829 ! 
+Question: Claims Paid AD?
+Answer: 347980
+
+Context: Claims Paid  AD : 347980 ! TP : 46 ! FT : 47390 ! Claims Outstanding  AD : 3 ! TP : 1 ! FT : 89829 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 347980 ! TP : 46 ! FT : 47390 ! Claims Outstanding  AD : 3 ! TP : 1 ! FT : 89829 ! 
+Question: Claims Paid FT?
+Answer: 47390
+
+Context: Claims Paid  AD : 347980 ! TP : 46 ! FT : 47390 ! Claims Outstanding  AD : 3 ! TP : 1 ! FT : 89829 ! 
+Question: Claims Outstanding AD?
+Answer: 347980
+
+Context: Claims Paid  AD : 347980 ! TP : 46 ! FT : 47390 ! Claims Outstanding  AD : 3 ! TP : 1 ! FT : 89829 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  AD : 347980 ! TP : 46 ! FT : 47390 ! Claims Outstanding  AD : 3 ! TP : 1 ! FT : 89829 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  AD : 916143 ! TP : 493840288 ! FT : 73 ! Claims Outstanding  AD : 84097 ! TP : 329546310 ! FT : 3627574 ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  AD : 916143 ! TP : 493840288 ! FT : 73 ! Claims Outstanding  AD : 84097 ! TP : 329546310 ! FT : 3627574 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 916143 ! TP : 493840288 ! FT : 73 ! Claims Outstanding  AD : 84097 ! TP : 329546310 ! FT : 3627574 ! 
+Question: Claims Paid FT?
+Answer: 73
+
+Context: Claims Paid  AD : 916143 ! TP : 493840288 ! FT : 73 ! Claims Outstanding  AD : 84097 ! TP : 329546310 ! FT : 3627574 ! 
+Question: Claims Outstanding AD?
+Answer: 84097
+
+Context: Claims Paid  AD : 916143 ! TP : 493840288 ! FT : 73 ! Claims Outstanding  AD : 84097 ! TP : 329546310 ! FT : 3627574 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  AD : 916143 ! TP : 493840288 ! FT : 73 ! Claims Outstanding  AD : 84097 ! TP : 329546310 ! FT : 3627574 ! 
+Question: Claims Outstanding FT?
+Answer: 73
+
+Context: Claims Paid  AD : 34624 ! FT : 897 ! TP : 32296 ! Claims Outstanding  AD : 29 ! FT : 67089 ! TP : 616 ! 
+Question: Claims Paid AD?
+Answer: 34624
+
+Context: Claims Paid  AD : 34624 ! FT : 897 ! TP : 32296 ! Claims Outstanding  AD : 29 ! FT : 67089 ! TP : 616 ! 
+Question: Claims Paid FT?
+Answer: 897
+
+Context: Claims Paid  AD : 34624 ! FT : 897 ! TP : 32296 ! Claims Outstanding  AD : 29 ! FT : 67089 ! TP : 616 ! 
+Question: Claims Paid TP?
+Answer: 32296
+
+Context: Claims Paid  AD : 34624 ! FT : 897 ! TP : 32296 ! Claims Outstanding  AD : 29 ! FT : 67089 ! TP : 616 ! 
+Question: Claims Outstanding AD?
+Answer: 34624
+
+Context: Claims Paid  AD : 34624 ! FT : 897 ! TP : 32296 ! Claims Outstanding  AD : 29 ! FT : 67089 ! TP : 616 ! 
+Question: Claims Outstanding FT?
+Answer: 67089
+
+Context: Claims Paid  AD : 34624 ! FT : 897 ! TP : 32296 ! Claims Outstanding  AD : 29 ! FT : 67089 ! TP : 616 ! 
+Question: Claims Outstanding TP?
+Answer: 32296
+
+Context: Claims Paid  AD : 4736899851 ! FT : 1 ! TP : 14044796 ! Claims Outstanding  AD : 2858 ! FT : 7 ! TP : 592 ! 
+Question: Claims Paid AD?
+Answer: 4736899851
+
+Context: Claims Paid  AD : 4736899851 ! FT : 1 ! TP : 14044796 ! Claims Outstanding  AD : 2858 ! FT : 7 ! TP : 592 ! 
+Question: Claims Paid FT?
+Answer: 7
+
+Context: Claims Paid  AD : 4736899851 ! FT : 1 ! TP : 14044796 ! Claims Outstanding  AD : 2858 ! FT : 7 ! TP : 592 ! 
+Question: Claims Paid TP?
+Answer: 6
+
+Context: Claims Paid  AD : 4736899851 ! FT : 1 ! TP : 14044796 ! Claims Outstanding  AD : 2858 ! FT : 7 ! TP : 592 ! 
+Question: Claims Outstanding AD?
+Answer: 2858
+
+Context: Claims Paid  AD : 4736899851 ! FT : 1 ! TP : 14044796 ! Claims Outstanding  AD : 2858 ! FT : 7 ! TP : 592 ! 
+Question: Claims Outstanding FT?
+Answer: 7
+
+Context: Claims Paid  AD : 4736899851 ! FT : 1 ! TP : 14044796 ! Claims Outstanding  AD : 2858 ! FT : 7 ! TP : 592 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  FT : 1906 ! AD : 6102 ! TP : 61132792 ! Claims Outstanding  FT : 82281870 ! AD : 2 ! TP : 09 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 1906 ! AD : 6102 ! TP : 61132792 ! Claims Outstanding  FT : 82281870 ! AD : 2 ! TP : 09 ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  FT : 1906 ! AD : 6102 ! TP : 61132792 ! Claims Outstanding  FT : 82281870 ! AD : 2 ! TP : 09 ! 
+Question: Claims Paid TP?
+Answer: 61132792
+
+Context: Claims Paid  FT : 1906 ! AD : 6102 ! TP : 61132792 ! Claims Outstanding  FT : 82281870 ! AD : 2 ! TP : 09 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  FT : 1906 ! AD : 6102 ! TP : 61132792 ! Claims Outstanding  FT : 82281870 ! AD : 2 ! TP : 09 ! 
+Question: Claims Outstanding AD?
+Answer: 2
+
+Context: Claims Paid  FT : 1906 ! AD : 6102 ! TP : 61132792 ! Claims Outstanding  FT : 82281870 ! AD : 2 ! TP : 09 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  FT : 7888457 ! AD : 5529023037 ! TP : 7569783 ! Claims Outstanding  FT : 5663 ! AD : 25856 ! TP : 807112 ! 
+Question: Claims Paid FT?
+Answer: 5663
+
+Context: Claims Paid  FT : 7888457 ! AD : 5529023037 ! TP : 7569783 ! Claims Outstanding  FT : 5663 ! AD : 25856 ! TP : 807112 ! 
+Question: Claims Paid AD?
+Answer: 25856
+
+Context: Claims Paid  FT : 7888457 ! AD : 5529023037 ! TP : 7569783 ! Claims Outstanding  FT : 5663 ! AD : 25856 ! TP : 807112 ! 
+Question: Claims Paid TP?
+Answer: 3
+
+Context: Claims Paid  FT : 7888457 ! AD : 5529023037 ! TP : 7569783 ! Claims Outstanding  FT : 5663 ! AD : 25856 ! TP : 807112 ! 
+Question: Claims Outstanding FT?
+Answer: 5663
+
+Context: Claims Paid  FT : 7888457 ! AD : 5529023037 ! TP : 7569783 ! Claims Outstanding  FT : 5663 ! AD : 25856 ! TP : 807112 ! 
+Question: Claims Outstanding AD?
+Answer: 25856
+
+Context: Claims Paid  FT : 7888457 ! AD : 5529023037 ! TP : 7569783 ! Claims Outstanding  FT : 5663 ! AD : 25856 ! TP : 807112 ! 
+Question: Claims Outstanding TP?
+Answer: 7569783
+
+Context: Claims Paid  TP : 1833 ! AD : 64168 ! FT : 4 ! Claims Outstanding  TP : 05381 ! AD : 2102782 ! FT : 5301865993 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 1833 ! AD : 64168 ! FT : 4 ! Claims Outstanding  TP : 05381 ! AD : 2102782 ! FT : 5301865993 ! 
+Question: Claims Paid AD?
+Answer: 64168
+
+Context: Claims Paid  TP : 1833 ! AD : 64168 ! FT : 4 ! Claims Outstanding  TP : 05381 ! AD : 2102782 ! FT : 5301865993 ! 
+Question: Claims Paid FT?
+Answer: 4
+
+Context: Claims Paid  TP : 1833 ! AD : 64168 ! FT : 4 ! Claims Outstanding  TP : 05381 ! AD : 2102782 ! FT : 5301865993 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 1833 ! AD : 64168 ! FT : 4 ! Claims Outstanding  TP : 05381 ! AD : 2102782 ! FT : 5301865993 ! 
+Question: Claims Outstanding AD?
+Answer: 2102782
+
+Context: Claims Paid  TP : 1833 ! AD : 64168 ! FT : 4 ! Claims Outstanding  TP : 05381 ! AD : 2102782 ! FT : 5301865993 ! 
+Question: Claims Outstanding FT?
+Answer: 4
+
+Context: Claims Paid  TP : 51 ! FT : 355 ! AD : 71 ! Claims Outstanding  TP : 52957 ! FT : 054227 ! AD : 59 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 51 ! FT : 355 ! AD : 71 ! Claims Outstanding  TP : 52957 ! FT : 054227 ! AD : 59 ! 
+Question: Claims Paid FT?
+Answer: 355
+
+Context: Claims Paid  TP : 51 ! FT : 355 ! AD : 71 ! Claims Outstanding  TP : 52957 ! FT : 054227 ! AD : 59 ! 
+Question: Claims Paid AD?
+Answer: 71
+
+Context: Claims Paid  TP : 51 ! FT : 355 ! AD : 71 ! Claims Outstanding  TP : 52957 ! FT : 054227 ! AD : 59 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 51 ! FT : 355 ! AD : 71 ! Claims Outstanding  TP : 52957 ! FT : 054227 ! AD : 59 ! 
+Question: Claims Outstanding FT?
+Answer: 054227
+
+Context: Claims Paid  TP : 51 ! FT : 355 ! AD : 71 ! Claims Outstanding  TP : 52957 ! FT : 054227 ! AD : 59 ! 
+Question: Claims Outstanding AD?
+Answer: 71
+
+Context: Claims Paid  TP : 6853 ! FT : 64763868 ! AD : 81268591 ! Claims Outstanding  TP : 7130 ! FT : 0 ! AD : 311767 ! 
+Question: Claims Paid TP?
+Answer: 81268591
+
+Context: Claims Paid  TP : 6853 ! FT : 64763868 ! AD : 81268591 ! Claims Outstanding  TP : 7130 ! FT : 0 ! AD : 311767 ! 
+Question: Claims Paid FT?
+Answer: 0
+
+Context: Claims Paid  TP : 6853 ! FT : 64763868 ! AD : 81268591 ! Claims Outstanding  TP : 7130 ! FT : 0 ! AD : 311767 ! 
+Question: Claims Paid AD?
+Answer: 81268591
+
+Context: Claims Paid  TP : 6853 ! FT : 64763868 ! AD : 81268591 ! Claims Outstanding  TP : 7130 ! FT : 0 ! AD : 311767 ! 
+Question: Claims Outstanding TP?
+Answer: 81268591 ! claims outstanding tp : 7130
+
+Context: Claims Paid  TP : 6853 ! FT : 64763868 ! AD : 81268591 ! Claims Outstanding  TP : 7130 ! FT : 0 ! AD : 311767 ! 
+Question: Claims Outstanding FT?
+Answer: 0
+
+Context: Claims Paid  TP : 6853 ! FT : 64763868 ! AD : 81268591 ! Claims Outstanding  TP : 7130 ! FT : 0 ! AD : 311767 ! 
+Question: Claims Outstanding AD?
+Answer: 81268591
+
+Context: Claims Paid  TP : 90578 ! AD : 63664 ! FT : 20814 ! Claims Outstanding  TP : 2 ! AD : 395 ! FT : 77026 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 90578 ! AD : 63664 ! FT : 20814 ! Claims Outstanding  TP : 2 ! AD : 395 ! FT : 77026 ! 
+Question: Claims Paid AD?
+Answer: 63664
+
+Context: Claims Paid  TP : 90578 ! AD : 63664 ! FT : 20814 ! Claims Outstanding  TP : 2 ! AD : 395 ! FT : 77026 ! 
+Question: Claims Paid FT?
+Answer: 20814
+
+Context: Claims Paid  TP : 90578 ! AD : 63664 ! FT : 20814 ! Claims Outstanding  TP : 2 ! AD : 395 ! FT : 77026 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 90578 ! AD : 63664 ! FT : 20814 ! Claims Outstanding  TP : 2 ! AD : 395 ! FT : 77026 ! 
+Question: Claims Outstanding AD?
+Answer: 63664
+
+Context: Claims Paid  TP : 90578 ! AD : 63664 ! FT : 20814 ! Claims Outstanding  TP : 2 ! AD : 395 ! FT : 77026 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  FT : 31145404 ! TP : 03 ! AD : 9603550 ! Claims Outstanding  FT : 688 ! TP : 50119 ! AD : 34 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 31145404 ! TP : 03 ! AD : 9603550 ! Claims Outstanding  FT : 688 ! TP : 50119 ! AD : 34 ! 
+Question: Claims Paid TP?
+Answer: 9603550
+
+Context: Claims Paid  FT : 31145404 ! TP : 03 ! AD : 9603550 ! Claims Outstanding  FT : 688 ! TP : 50119 ! AD : 34 ! 
+Question: Claims Paid AD?
+Answer: 9603550
+
+Context: Claims Paid  FT : 31145404 ! TP : 03 ! AD : 9603550 ! Claims Outstanding  FT : 688 ! TP : 50119 ! AD : 34 ! 
+Question: Claims Outstanding FT?
+Answer: empty
+
+Context: Claims Paid  FT : 31145404 ! TP : 03 ! AD : 9603550 ! Claims Outstanding  FT : 688 ! TP : 50119 ! AD : 34 ! 
+Question: Claims Outstanding TP?
+Answer: 9603550
+
+Context: Claims Paid  FT : 31145404 ! TP : 03 ! AD : 9603550 ! Claims Outstanding  FT : 688 ! TP : 50119 ! AD : 34 ! 
+Question: Claims Outstanding AD?
+Answer: 9603550
+
+Context: Claims Paid  AD : 13 ! FT : 091851386 ! TP : 01699 ! Claims Outstanding  AD : 691098 ! FT : 5863132586 ! TP : 9154 ! 
+Question: Claims Paid AD?
+Answer: 13
+
+Context: Claims Paid  AD : 13 ! FT : 091851386 ! TP : 01699 ! Claims Outstanding  AD : 691098 ! FT : 5863132586 ! TP : 9154 ! 
+Question: Claims Paid FT?
+Answer: 5863132586
+
+Context: Claims Paid  AD : 13 ! FT : 091851386 ! TP : 01699 ! Claims Outstanding  AD : 691098 ! FT : 5863132586 ! TP : 9154 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  AD : 13 ! FT : 091851386 ! TP : 01699 ! Claims Outstanding  AD : 691098 ! FT : 5863132586 ! TP : 9154 ! 
+Question: Claims Outstanding AD?
+Answer: empty
+
+Context: Claims Paid  AD : 13 ! FT : 091851386 ! TP : 01699 ! Claims Outstanding  AD : 691098 ! FT : 5863132586 ! TP : 9154 ! 
+Question: Claims Outstanding FT?
+Answer: 58
+
+Context: Claims Paid  AD : 13 ! FT : 091851386 ! TP : 01699 ! Claims Outstanding  AD : 691098 ! FT : 5863132586 ! TP : 9154 ! 
+Question: Claims Outstanding TP?
+Answer: 54
+
+Context: Claims Paid  FT : 81525 ! TP : 5600240908 ! AD : 49 ! Claims Outstanding  FT : 377678321 ! TP : 73 ! AD : 2925254 ! 
+Question: Claims Paid FT?
+Answer: empty
+
+Context: Claims Paid  FT : 81525 ! TP : 5600240908 ! AD : 49 ! Claims Outstanding  FT : 377678321 ! TP : 73 ! AD : 2925254 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  FT : 81525 ! TP : 5600240908 ! AD : 49 ! Claims Outstanding  FT : 377678321 ! TP : 73 ! AD : 2925254 ! 
+Question: Claims Paid AD?
+Answer: 49
+
+Context: Claims Paid  FT : 81525 ! TP : 5600240908 ! AD : 49 ! Claims Outstanding  FT : 377678321 ! TP : 73 ! AD : 2925254 ! 
+Question: Claims Outstanding FT?
+Answer: 377678321
+
+Context: Claims Paid  FT : 81525 ! TP : 5600240908 ! AD : 49 ! Claims Outstanding  FT : 377678321 ! TP : 73 ! AD : 2925254 ! 
+Question: Claims Outstanding TP?
+Answer: 49
+
+Context: Claims Paid  FT : 81525 ! TP : 5600240908 ! AD : 49 ! Claims Outstanding  FT : 377678321 ! TP : 73 ! AD : 2925254 ! 
+Question: Claims Outstanding AD?
+Answer: 49
+
+Context: Claims Paid  TP : 8030704 ! AD : 106062 ! FT : 259268 ! Claims Outstanding  TP : 928 ! AD : 28 ! FT : 1339903 ! 
+Question: Claims Paid TP?
+Answer: empty
+
+Context: Claims Paid  TP : 8030704 ! AD : 106062 ! FT : 259268 ! Claims Outstanding  TP : 928 ! AD : 28 ! FT : 1339903 ! 
+Question: Claims Paid AD?
+Answer: 106062
+
+Context: Claims Paid  TP : 8030704 ! AD : 106062 ! FT : 259268 ! Claims Outstanding  TP : 928 ! AD : 28 ! FT : 1339903 ! 
+Question: Claims Paid FT?
+Answer: 259268
+
+Context: Claims Paid  TP : 8030704 ! AD : 106062 ! FT : 259268 ! Claims Outstanding  TP : 928 ! AD : 28 ! FT : 1339903 ! 
+Question: Claims Outstanding TP?
+Answer: empty
+
+Context: Claims Paid  TP : 8030704 ! AD : 106062 ! FT : 259268 ! Claims Outstanding  TP : 928 ! AD : 28 ! FT : 1339903 ! 
+Question: Claims Outstanding AD?
+Answer: empty
+
+Context: Claims Paid  TP : 8030704 ! AD : 106062 ! FT : 259268 ! Claims Outstanding  TP : 928 ! AD : 28 ! FT : 1339903 ! 
+Question: Claims Outstanding FT?
+Answer: 1339903
+
+----------------------------------------------------------------------------------------------
+
+ f1 score: 42.31111111111111

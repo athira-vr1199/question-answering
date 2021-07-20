@@ -1,0 +1,12 @@
+Context: Claims Paid  TP : 1709297394 AD : 30 FT : 1732  ! Claims Outstanding  TP : 2381592 AD : 15437659 FT : 407  ! 
+Question: Claims Paid TP?
+Answer: 1709297394
+
+Context: Claims Paid  TP : 1709297394 AD : 30 FT : 1732  ! Claims Outstanding  TP : 2381592 AD : 15437659 FT : 407  ! 
+Question: Claims Paid AD?
+Answer: empty
+
+Context: Claims Paid  TP : 1709297394 AD : 30 FT : 1732  ! Claims Outstanding  TP : 2381592 AD : 15437659 FT : 407  ! 
+Question: Claims Paid FT?
+Answer: 1732
+

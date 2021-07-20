@@ -1,0 +1,32 @@
+Context: Name:Athira ! amount:2000 ! date place : 07/06/2021 Kerala ! 
+Question: place?
+Answer: kerala
+
+Context: Name:Athira ! amount:2000 !  place date: Kerala  07/06/2021 ! 
+Question: place?
+Answer: kerala
+
+Context: SC-Aufwand reserve:188700 5000 ! Usrache: Sachschaden ! Versicherungsschutz : KH ! Schadentag: 16/6/2008 !
+Question: reserve
+Answer: 5000
+
+Context: SC-Aufwand reserve:188700 5000 ! Usrache: Sachschaden ! Versicherungsschutz : KH ! Schadentag: 16/6/2008 !
+Question: Usrache
+Answer: sachschaden
+
+Context: SC-Aufwand reserve:188700 5000 ! Usrache: Sachschaden ! Versicherungsschutz : KH ! Schadentag: 16/6/2008 !
+Question: Schadentag
+Answer: 16/6/2008
+
+Context: total amount : 1999 89 ! country : India !
+Question: amount?
+Answer: 89
+
+Context: total amount : 1999 89 ! country : India !
+Question: total?
+Answer: 1999
+
+Context: total amount : 1999 89 ! country : India !
+Question: country?
+Answer: india
+

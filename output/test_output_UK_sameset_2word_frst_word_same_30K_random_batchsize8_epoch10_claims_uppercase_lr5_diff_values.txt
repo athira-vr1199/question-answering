@@ -1,0 +1,2403 @@
+Context: claims paid  AD : 50379 FT : 5 TP : 21 ! claims outstanding  AD : 73264 FT : 1056083278 TP : 69527 ! 
+Question: claims paid AD?
+Answer: 50379
+
+Context: claims paid  AD : 50379 FT : 5 TP : 21 ! claims outstanding  AD : 73264 FT : 1056083278 TP : 69527 ! 
+Question: claims paid FT?
+Answer: 5
+
+Context: claims paid  AD : 50379 FT : 5 TP : 21 ! claims outstanding  AD : 73264 FT : 1056083278 TP : 69527 ! 
+Question: claims paid TP?
+Answer: 21
+
+Context: claims paid  AD : 50379 FT : 5 TP : 21 ! claims outstanding  AD : 73264 FT : 1056083278 TP : 69527 ! 
+Question: claims outstanding AD?
+Answer: 73264
+
+Context: claims paid  AD : 50379 FT : 5 TP : 21 ! claims outstanding  AD : 73264 FT : 1056083278 TP : 69527 ! 
+Question: claims outstanding FT?
+Answer: 1056083278
+
+Context: claims paid  AD : 50379 FT : 5 TP : 21 ! claims outstanding  AD : 73264 FT : 1056083278 TP : 69527 ! 
+Question: claims outstanding TP?
+Answer: 69527
+
+Context: claims paid  AD : 9449417158 TP : 041693467 FT : 46286 ! claims outstanding  AD : 8873214189 TP : 2 FT : 3533 ! 
+Question: claims paid AD?
+Answer: 9449417158 tp : 041693467 ft : 46286 - Wrong answer
+
+Context: claims paid  AD : 9449417158 TP : 041693467 FT : 46286 ! claims outstanding  AD : 8873214189 TP : 2 FT : 3533 ! 
+Question: claims paid TP?
+Answer: 041693467
+
+Context: claims paid  AD : 9449417158 TP : 041693467 FT : 46286 ! claims outstanding  AD : 8873214189 TP : 2 FT : 3533 ! 
+Question: claims paid FT?
+Answer: 46286
+
+Context: claims paid  AD : 9449417158 TP : 041693467 FT : 46286 ! claims outstanding  AD : 8873214189 TP : 2 FT : 3533 ! 
+Question: claims outstanding AD?
+Answer: empty - Wrong answer
+
+Context: claims paid  AD : 9449417158 TP : 041693467 FT : 46286 ! claims outstanding  AD : 8873214189 TP : 2 FT : 3533 ! 
+Question: claims outstanding TP?
+Answer: 2
+
+Context: claims paid  AD : 9449417158 TP : 041693467 FT : 46286 ! claims outstanding  AD : 8873214189 TP : 2 FT : 3533 ! 
+Question: claims outstanding FT?
+Answer: 3533
+
+Context: claims paid  FT : 0 AD : 68923811 TP : 6813641159 ! claims outstanding  FT : 040 AD : 5562477 TP : 890381318 ! 
+Question: claims paid FT?
+Answer: 0
+
+Context: claims paid  FT : 0 AD : 68923811 TP : 6813641159 ! claims outstanding  FT : 040 AD : 5562477 TP : 890381318 ! 
+Question: claims paid AD?
+Answer: 68923811
+
+Context: claims paid  FT : 0 AD : 68923811 TP : 6813641159 ! claims outstanding  FT : 040 AD : 5562477 TP : 890381318 ! 
+Question: claims paid TP?
+Answer: 6813641159
+
+Context: claims paid  FT : 0 AD : 68923811 TP : 6813641159 ! claims outstanding  FT : 040 AD : 5562477 TP : 890381318 ! 
+Question: claims outstanding FT?
+Answer: 040
+
+Context: claims paid  FT : 0 AD : 68923811 TP : 6813641159 ! claims outstanding  FT : 040 AD : 5562477 TP : 890381318 ! 
+Question: claims outstanding AD?
+Answer: empty - Wrong answer
+
+Context: claims paid  FT : 0 AD : 68923811 TP : 6813641159 ! claims outstanding  FT : 040 AD : 5562477 TP : 890381318 ! 
+Question: claims outstanding TP?
+Answer: 890381318
+
+Context: claims paid  FT : 3520996 TP : 740081064 AD : 811246243 ! claims outstanding  FT : 22175482 TP : 38996145 AD : 2168 ! 
+Question: claims paid FT?
+Answer: 3520996
+
+Context: claims paid  FT : 3520996 TP : 740081064 AD : 811246243 ! claims outstanding  FT : 22175482 TP : 38996145 AD : 2168 ! 
+Question: claims paid TP?
+Answer: 740081064
+
+Context: claims paid  FT : 3520996 TP : 740081064 AD : 811246243 ! claims outstanding  FT : 22175482 TP : 38996145 AD : 2168 ! 
+Question: claims paid AD?
+Answer: 811246243
+
+Context: claims paid  FT : 3520996 TP : 740081064 AD : 811246243 ! claims outstanding  FT : 22175482 TP : 38996145 AD : 2168 ! 
+Question: claims outstanding FT?
+Answer: 22175482
+
+Context: claims paid  FT : 3520996 TP : 740081064 AD : 811246243 ! claims outstanding  FT : 22175482 TP : 38996145 AD : 2168 ! 
+Question: claims outstanding TP?
+Answer: empty - Wrong answer
+
+Context: claims paid  FT : 3520996 TP : 740081064 AD : 811246243 ! claims outstanding  FT : 22175482 TP : 38996145 AD : 2168 ! 
+Question: claims outstanding AD?
+Answer: 2168
+
+Context: claims paid  TP : 390364 AD : 046 FT : 34495 ! claims outstanding  TP : 1579 AD : 39438 FT : 4399325934 ! 
+Question: claims paid TP?
+Answer: 390364
+
+Context: claims paid  TP : 390364 AD : 046 FT : 34495 ! claims outstanding  TP : 1579 AD : 39438 FT : 4399325934 ! 
+Question: claims paid AD?
+Answer: 046
+
+Context: claims paid  TP : 390364 AD : 046 FT : 34495 ! claims outstanding  TP : 1579 AD : 39438 FT : 4399325934 ! 
+Question: claims paid FT?
+Answer: 34495
+
+Context: claims paid  TP : 390364 AD : 046 FT : 34495 ! claims outstanding  TP : 1579 AD : 39438 FT : 4399325934 ! 
+Question: claims outstanding TP?
+Answer: 1579
+
+Context: claims paid  TP : 390364 AD : 046 FT : 34495 ! claims outstanding  TP : 1579 AD : 39438 FT : 4399325934 ! 
+Question: claims outstanding AD?
+Answer: 39438
+
+Context: claims paid  TP : 390364 AD : 046 FT : 34495 ! claims outstanding  TP : 1579 AD : 39438 FT : 4399325934 ! 
+Question: claims outstanding FT?
+Answer: 4399325934
+
+Context: claims paid  AD : 9746989924 FT : 56947071 TP : 7336540956 ! claims outstanding  AD : 146 FT : 192 TP : 521 ! 
+Question: claims paid AD?
+Answer: empty - Wrong answer
+
+Context: claims paid  AD : 9746989924 FT : 56947071 TP : 7336540956 ! claims outstanding  AD : 146 FT : 192 TP : 521 ! 
+Question: claims paid FT?
+Answer: 56947071
+
+Context: claims paid  AD : 9746989924 FT : 56947071 TP : 7336540956 ! claims outstanding  AD : 146 FT : 192 TP : 521 ! 
+Question: claims paid TP?
+Answer: 7336540956
+
+Context: claims paid  AD : 9746989924 FT : 56947071 TP : 7336540956 ! claims outstanding  AD : 146 FT : 192 TP : 521 ! 
+Question: claims outstanding AD?
+Answer: 146
+
+Context: claims paid  AD : 9746989924 FT : 56947071 TP : 7336540956 ! claims outstanding  AD : 146 FT : 192 TP : 521 ! 
+Question: claims outstanding FT?
+Answer: 192
+
+Context: claims paid  AD : 9746989924 FT : 56947071 TP : 7336540956 ! claims outstanding  AD : 146 FT : 192 TP : 521 ! 
+Question: claims outstanding TP?
+Answer: 7336540956 ! claims outstanding ad : 146 ft : 192 tp : 521 - Wrong answer
+
+Context: claims paid  TP : 709265 AD : 941 FT : 0708 ! claims outstanding  TP : 981255424 AD : 5 FT : 0078781242 ! 
+Question: claims paid TP?
+Answer: 709265
+
+Context: claims paid  TP : 709265 AD : 941 FT : 0708 ! claims outstanding  TP : 981255424 AD : 5 FT : 0078781242 ! 
+Question: claims paid AD?
+Answer: 941
+
+Context: claims paid  TP : 709265 AD : 941 FT : 0708 ! claims outstanding  TP : 981255424 AD : 5 FT : 0078781242 ! 
+Question: claims paid FT?
+Answer: 0708
+
+Context: claims paid  TP : 709265 AD : 941 FT : 0708 ! claims outstanding  TP : 981255424 AD : 5 FT : 0078781242 ! 
+Question: claims outstanding TP?
+Answer: 981255424
+
+Context: claims paid  TP : 709265 AD : 941 FT : 0708 ! claims outstanding  TP : 981255424 AD : 5 FT : 0078781242 ! 
+Question: claims outstanding AD?
+Answer: 5
+
+Context: claims paid  TP : 709265 AD : 941 FT : 0708 ! claims outstanding  TP : 981255424 AD : 5 FT : 0078781242 ! 
+Question: claims outstanding FT?
+Answer: empty - Wrong answer
+
+Context: claims paid  FT : 70785 TP : 2445788 AD : 4377427421 ! claims outstanding  FT : 33800 TP : 062799 AD : 40749 ! 
+Question: claims paid FT?
+Answer: 70785
+
+Context: claims paid  FT : 70785 TP : 2445788 AD : 4377427421 ! claims outstanding  FT : 33800 TP : 062799 AD : 40749 ! 
+Question: claims paid TP?
+Answer: 2445788
+
+Context: claims paid  FT : 70785 TP : 2445788 AD : 4377427421 ! claims outstanding  FT : 33800 TP : 062799 AD : 40749 ! 
+Question: claims paid AD?
+Answer: 4377427421
+
+Context: claims paid  FT : 70785 TP : 2445788 AD : 4377427421 ! claims outstanding  FT : 33800 TP : 062799 AD : 40749 ! 
+Question: claims outstanding FT?
+Answer: empty - Wrong answer
+
+Context: claims paid  FT : 70785 TP : 2445788 AD : 4377427421 ! claims outstanding  FT : 33800 TP : 062799 AD : 40749 ! 
+Question: claims outstanding TP?
+Answer: empty - Wrong answer
+
+Context: claims paid  FT : 70785 TP : 2445788 AD : 4377427421 ! claims outstanding  FT : 33800 TP : 062799 AD : 40749 ! 
+Question: claims outstanding AD?
+Answer: empty - Wrong answer
+
+Context: claims paid  TP : 020 AD : 994 FT : 926275649 ! claims outstanding  TP : 71149038 AD : 199612 FT : 27 ! 
+Question: claims paid TP?
+Answer: 020
+
+Context: claims paid  TP : 020 AD : 994 FT : 926275649 ! claims outstanding  TP : 71149038 AD : 199612 FT : 27 ! 
+Question: claims paid AD?
+Answer: 994
+
+Context: claims paid  TP : 020 AD : 994 FT : 926275649 ! claims outstanding  TP : 71149038 AD : 199612 FT : 27 ! 
+Question: claims paid FT?
+Answer: 926275649
+
+Context: claims paid  TP : 020 AD : 994 FT : 926275649 ! claims outstanding  TP : 71149038 AD : 199612 FT : 27 ! 
+Question: claims outstanding TP?
+Answer: 71149038
+
+Context: claims paid  TP : 020 AD : 994 FT : 926275649 ! claims outstanding  TP : 71149038 AD : 199612 FT : 27 ! 
+Question: claims outstanding AD?
+Answer: 199612
+
+Context: claims paid  TP : 020 AD : 994 FT : 926275649 ! claims outstanding  TP : 71149038 AD : 199612 FT : 27 ! 
+Question: claims outstanding FT?
+Answer: 27
+
+Context: claims paid  FT : 661 TP : 21 AD : 478444429 ! claims outstanding  FT : 42296981 TP : 84621420 AD : 078117997 ! 
+Question: claims paid FT?
+Answer: 661 tp : 21 - Wrong answer
+
+Context: claims paid  FT : 661 TP : 21 AD : 478444429 ! claims outstanding  FT : 42296981 TP : 84621420 AD : 078117997 ! 
+Question: claims paid TP?
+Answer: 21
+
+Context: claims paid  FT : 661 TP : 21 AD : 478444429 ! claims outstanding  FT : 42296981 TP : 84621420 AD : 078117997 ! 
+Question: claims paid AD?
+Answer: 478444429
+
+Context: claims paid  FT : 661 TP : 21 AD : 478444429 ! claims outstanding  FT : 42296981 TP : 84621420 AD : 078117997 ! 
+Question: claims outstanding FT?
+Answer: 42296981
+
+Context: claims paid  FT : 661 TP : 21 AD : 478444429 ! claims outstanding  FT : 42296981 TP : 84621420 AD : 078117997 ! 
+Question: claims outstanding TP?
+Answer: 84621420
+
+Context: claims paid  FT : 661 TP : 21 AD : 478444429 ! claims outstanding  FT : 42296981 TP : 84621420 AD : 078117997 ! 
+Question: claims outstanding AD?
+Answer: 078117997
+
+Context: claims paid  TP : 253833147 AD : 529079697 FT : 05471 ! claims outstanding  TP : 575071635 AD : 13678803 FT : 143 ! 
+Question: claims paid TP?
+Answer: 05471 - Wrong answer
+
+Context: claims paid  TP : 253833147 AD : 529079697 FT : 05471 ! claims outstanding  TP : 575071635 AD : 13678803 FT : 143 ! 
+Question: claims paid AD?
+Answer: 05471 - Wrong answer
+
+Context: claims paid  TP : 253833147 AD : 529079697 FT : 05471 ! claims outstanding  TP : 575071635 AD : 13678803 FT : 143 ! 
+Question: claims paid FT?
+Answer: 05471
+
+Context: claims paid  TP : 253833147 AD : 529079697 FT : 05471 ! claims outstanding  TP : 575071635 AD : 13678803 FT : 143 ! 
+Question: claims outstanding TP?
+Answer: 575071635
+
+Context: claims paid  TP : 253833147 AD : 529079697 FT : 05471 ! claims outstanding  TP : 575071635 AD : 13678803 FT : 143 ! 
+Question: claims outstanding AD?
+Answer: 13678803
+
+Context: claims paid  TP : 253833147 AD : 529079697 FT : 05471 ! claims outstanding  TP : 575071635 AD : 13678803 FT : 143 ! 
+Question: claims outstanding FT?
+Answer: 143
+
+Context: claims paid  FT : 34633733 TP : 16140705 AD : 011233 ! claims outstanding  FT : 0 TP : 71578538 AD : 6061537 ! 
+Question: claims paid FT?
+Answer: 34633733
+
+Context: claims paid  FT : 34633733 TP : 16140705 AD : 011233 ! claims outstanding  FT : 0 TP : 71578538 AD : 6061537 ! 
+Question: claims paid TP?
+Answer: 16140705
+
+Context: claims paid  FT : 34633733 TP : 16140705 AD : 011233 ! claims outstanding  FT : 0 TP : 71578538 AD : 6061537 ! 
+Question: claims paid AD?
+Answer: 011233
+
+Context: claims paid  FT : 34633733 TP : 16140705 AD : 011233 ! claims outstanding  FT : 0 TP : 71578538 AD : 6061537 ! 
+Question: claims outstanding FT?
+Answer: 0
+
+Context: claims paid  FT : 34633733 TP : 16140705 AD : 011233 ! claims outstanding  FT : 0 TP : 71578538 AD : 6061537 ! 
+Question: claims outstanding TP?
+Answer: 71578538
+
+Context: claims paid  FT : 34633733 TP : 16140705 AD : 011233 ! claims outstanding  FT : 0 TP : 71578538 AD : 6061537 ! 
+Question: claims outstanding AD?
+Answer: empty - Wrong answer
+
+Context: claims paid  AD : 7510436 TP : 125580 FT : 043531 ! claims outstanding  AD : 807 TP : 77886 FT : 746973 ! 
+Question: claims paid AD?
+Answer: 7510436
+
+Context: claims paid  AD : 7510436 TP : 125580 FT : 043531 ! claims outstanding  AD : 807 TP : 77886 FT : 746973 ! 
+Question: claims paid TP?
+Answer: 125580
+
+Context: claims paid  AD : 7510436 TP : 125580 FT : 043531 ! claims outstanding  AD : 807 TP : 77886 FT : 746973 ! 
+Question: claims paid FT?
+Answer: 043531
+
+Context: claims paid  AD : 7510436 TP : 125580 FT : 043531 ! claims outstanding  AD : 807 TP : 77886 FT : 746973 ! 
+Question: claims outstanding AD?
+Answer: 807
+
+Context: claims paid  AD : 7510436 TP : 125580 FT : 043531 ! claims outstanding  AD : 807 TP : 77886 FT : 746973 ! 
+Question: claims outstanding TP?
+Answer: 77886
+
+Context: claims paid  AD : 7510436 TP : 125580 FT : 043531 ! claims outstanding  AD : 807 TP : 77886 FT : 746973 ! 
+Question: claims outstanding FT?
+Answer: empty - Wrong answer
+
+Context: claims paid  FT : 98526 TP : 13 AD : 770973 ! claims outstanding  FT : 07485 TP : 516 AD : 605343252 ! 
+Question: claims paid FT?
+Answer: 98526
+
+Context: claims paid  FT : 98526 TP : 13 AD : 770973 ! claims outstanding  FT : 07485 TP : 516 AD : 605343252 ! 
+Question: claims paid TP?
+Answer: 13
+
+Context: claims paid  FT : 98526 TP : 13 AD : 770973 ! claims outstanding  FT : 07485 TP : 516 AD : 605343252 ! 
+Question: claims paid AD?
+Answer: 770973
+
+Context: claims paid  FT : 98526 TP : 13 AD : 770973 ! claims outstanding  FT : 07485 TP : 516 AD : 605343252 ! 
+Question: claims outstanding FT?
+Answer: 07485
+
+Context: claims paid  FT : 98526 TP : 13 AD : 770973 ! claims outstanding  FT : 07485 TP : 516 AD : 605343252 ! 
+Question: claims outstanding TP?
+Answer: empty - Wrong answer
+
+Context: claims paid  FT : 98526 TP : 13 AD : 770973 ! claims outstanding  FT : 07485 TP : 516 AD : 605343252 ! 
+Question: claims outstanding AD?
+Answer: 605343252
+
+Context: claims paid  AD : 60 FT : 46819 TP : 967382 ! claims outstanding  AD : 0433 FT : 6216 TP : 4857740 ! 
+Question: claims paid AD?
+Answer: 60
+
+Context: claims paid  AD : 60 FT : 46819 TP : 967382 ! claims outstanding  AD : 0433 FT : 6216 TP : 4857740 ! 
+Question: claims paid FT?
+Answer: 46819
+
+Context: claims paid  AD : 60 FT : 46819 TP : 967382 ! claims outstanding  AD : 0433 FT : 6216 TP : 4857740 ! 
+Question: claims paid TP?
+Answer: 967382
+
+Context: claims paid  AD : 60 FT : 46819 TP : 967382 ! claims outstanding  AD : 0433 FT : 6216 TP : 4857740 ! 
+Question: claims outstanding AD?
+Answer: 0433
+
+Context: claims paid  AD : 60 FT : 46819 TP : 967382 ! claims outstanding  AD : 0433 FT : 6216 TP : 4857740 ! 
+Question: claims outstanding FT?
+Answer: 6216
+
+Context: claims paid  AD : 60 FT : 46819 TP : 967382 ! claims outstanding  AD : 0433 FT : 6216 TP : 4857740 ! 
+Question: claims outstanding TP?
+Answer: 4857740
+
+Context: claims paid  TP : 266 FT : 1 AD : 0841418 ! claims outstanding  TP : 49907 FT : 43 AD : 057 ! 
+Question: claims paid TP?
+Answer: 266
+
+Context: claims paid  TP : 266 FT : 1 AD : 0841418 ! claims outstanding  TP : 49907 FT : 43 AD : 057 ! 
+Question: claims paid FT?
+Answer: 1
+
+Context: claims paid  TP : 266 FT : 1 AD : 0841418 ! claims outstanding  TP : 49907 FT : 43 AD : 057 ! 
+Question: claims paid AD?
+Answer: 0841418
+
+Context: claims paid  TP : 266 FT : 1 AD : 0841418 ! claims outstanding  TP : 49907 FT : 43 AD : 057 ! 
+Question: claims outstanding TP?
+Answer: 49907
+
+Context: claims paid  TP : 266 FT : 1 AD : 0841418 ! claims outstanding  TP : 49907 FT : 43 AD : 057 ! 
+Question: claims outstanding FT?
+Answer: 43
+
+Context: claims paid  TP : 266 FT : 1 AD : 0841418 ! claims outstanding  TP : 49907 FT : 43 AD : 057 ! 
+Question: claims outstanding AD?
+Answer: empty - Wrong answer
+
+Context: claims paid  TP : 4554 FT : 3033 AD : 081793 ! claims outstanding  TP : 1524962 FT : 53324179 AD : 6 ! 
+Question: claims paid TP?
+Answer: 4554
+
+Context: claims paid  TP : 4554 FT : 3033 AD : 081793 ! claims outstanding  TP : 1524962 FT : 53324179 AD : 6 ! 
+Question: claims paid FT?
+Answer: 3033
+
+Context: claims paid  TP : 4554 FT : 3033 AD : 081793 ! claims outstanding  TP : 1524962 FT : 53324179 AD : 6 ! 
+Question: claims paid AD?
+Answer: 081793
+
+Context: claims paid  TP : 4554 FT : 3033 AD : 081793 ! claims outstanding  TP : 1524962 FT : 53324179 AD : 6 ! 
+Question: claims outstanding TP?
+Answer: 1524962
+
+Context: claims paid  TP : 4554 FT : 3033 AD : 081793 ! claims outstanding  TP : 1524962 FT : 53324179 AD : 6 ! 
+Question: claims outstanding FT?
+Answer: 53324179
+
+Context: claims paid  TP : 4554 FT : 3033 AD : 081793 ! claims outstanding  TP : 1524962 FT : 53324179 AD : 6 ! 
+Question: claims outstanding AD?
+Answer: 6
+
+Context: claims paid  TP : 95812148 FT : 1020 AD : 37459712 ! claims outstanding  TP : 7782355071 FT : 3012492999 AD : 7112642 ! 
+Question: claims paid TP?
+Answer: 95812148
+
+Context: claims paid  TP : 95812148 FT : 1020 AD : 37459712 ! claims outstanding  TP : 7782355071 FT : 3012492999 AD : 7112642 ! 
+Question: claims paid FT?
+Answer: 1020
+
+Context: claims paid  TP : 95812148 FT : 1020 AD : 37459712 ! claims outstanding  TP : 7782355071 FT : 3012492999 AD : 7112642 ! 
+Question: claims paid AD?
+Answer: 37459712
+
+Context: claims paid  TP : 95812148 FT : 1020 AD : 37459712 ! claims outstanding  TP : 7782355071 FT : 3012492999 AD : 7112642 ! 
+Question: claims outstanding TP?
+Answer: 7782355071
+
+Context: claims paid  TP : 95812148 FT : 1020 AD : 37459712 ! claims outstanding  TP : 7782355071 FT : 3012492999 AD : 7112642 ! 
+Question: claims outstanding FT?
+Answer: 3012492999
+
+Context: claims paid  TP : 95812148 FT : 1020 AD : 37459712 ! claims outstanding  TP : 7782355071 FT : 3012492999 AD : 7112642 ! 
+Question: claims outstanding AD?
+Answer: 7112642
+
+Context: claims paid  FT : 208074 TP : 50 AD : 8931 ! claims outstanding  FT : 87 TP : 641416 AD : 701 ! 
+Question: claims paid FT?
+Answer: 208074
+
+Context: claims paid  FT : 208074 TP : 50 AD : 8931 ! claims outstanding  FT : 87 TP : 641416 AD : 701 ! 
+Question: claims paid TP?
+Answer: 50
+
+Context: claims paid  FT : 208074 TP : 50 AD : 8931 ! claims outstanding  FT : 87 TP : 641416 AD : 701 ! 
+Question: claims paid AD?
+Answer: 8931
+
+Context: claims paid  FT : 208074 TP : 50 AD : 8931 ! claims outstanding  FT : 87 TP : 641416 AD : 701 ! 
+Question: claims outstanding FT?
+Answer: 87
+
+Context: claims paid  FT : 208074 TP : 50 AD : 8931 ! claims outstanding  FT : 87 TP : 641416 AD : 701 ! 
+Question: claims outstanding TP?
+Answer: 641416
+
+Context: claims paid  FT : 208074 TP : 50 AD : 8931 ! claims outstanding  FT : 87 TP : 641416 AD : 701 ! 
+Question: claims outstanding AD?
+Answer: 701
+
+Context: claims paid  TP : 748361 AD : 445745470 FT : 7625 ! claims outstanding  TP : 0541759 AD : 2276 FT : 80405 ! 
+Question: claims paid TP?
+Answer: 748361
+
+Context: claims paid  TP : 748361 AD : 445745470 FT : 7625 ! claims outstanding  TP : 0541759 AD : 2276 FT : 80405 ! 
+Question: claims paid AD?
+Answer: 445745470
+
+Context: claims paid  TP : 748361 AD : 445745470 FT : 7625 ! claims outstanding  TP : 0541759 AD : 2276 FT : 80405 ! 
+Question: claims paid FT?
+Answer: 7625
+
+Context: claims paid  TP : 748361 AD : 445745470 FT : 7625 ! claims outstanding  TP : 0541759 AD : 2276 FT : 80405 ! 
+Question: claims outstanding TP?
+Answer: empty - Wrong answer
+
+Context: claims paid  TP : 748361 AD : 445745470 FT : 7625 ! claims outstanding  TP : 0541759 AD : 2276 FT : 80405 ! 
+Question: claims outstanding AD?
+Answer: 2276
+
+Context: claims paid  TP : 748361 AD : 445745470 FT : 7625 ! claims outstanding  TP : 0541759 AD : 2276 FT : 80405 ! 
+Question: claims outstanding FT?
+Answer: 80405
+
+Context: claims paid  AD : 111949 FT : 6324424 TP : 7 ! claims outstanding  AD : 692421176 FT : 66559 TP : 4 ! 
+Question: claims paid AD?
+Answer: 111949
+
+Context: claims paid  AD : 111949 FT : 6324424 TP : 7 ! claims outstanding  AD : 692421176 FT : 66559 TP : 4 ! 
+Question: claims paid FT?
+Answer: 6324424
+
+Context: claims paid  AD : 111949 FT : 6324424 TP : 7 ! claims outstanding  AD : 692421176 FT : 66559 TP : 4 ! 
+Question: claims paid TP?
+Answer: 7
+
+Context: claims paid  AD : 111949 FT : 6324424 TP : 7 ! claims outstanding  AD : 692421176 FT : 66559 TP : 4 ! 
+Question: claims outstanding AD?
+Answer: 692421176
+
+Context: claims paid  AD : 111949 FT : 6324424 TP : 7 ! claims outstanding  AD : 692421176 FT : 66559 TP : 4 ! 
+Question: claims outstanding FT?
+Answer: 66559
+
+Context: claims paid  AD : 111949 FT : 6324424 TP : 7 ! claims outstanding  AD : 692421176 FT : 66559 TP : 4 ! 
+Question: claims outstanding TP?
+Answer: 4
+
+Context: claims paid  TP : 44 FT : 645944939 AD : 963 ! claims outstanding  TP : 81836659 FT : 2973123 AD : 63372809 ! 
+Question: claims paid TP?
+Answer: 44
+
+Context: claims paid  TP : 44 FT : 645944939 AD : 963 ! claims outstanding  TP : 81836659 FT : 2973123 AD : 63372809 ! 
+Question: claims paid FT?
+Answer: 645944939
+
+Context: claims paid  TP : 44 FT : 645944939 AD : 963 ! claims outstanding  TP : 81836659 FT : 2973123 AD : 63372809 ! 
+Question: claims paid AD?
+Answer: 963
+
+Context: claims paid  TP : 44 FT : 645944939 AD : 963 ! claims outstanding  TP : 81836659 FT : 2973123 AD : 63372809 ! 
+Question: claims outstanding TP?
+Answer: 81836659
+
+Context: claims paid  TP : 44 FT : 645944939 AD : 963 ! claims outstanding  TP : 81836659 FT : 2973123 AD : 63372809 ! 
+Question: claims outstanding FT?
+Answer: 2973123
+
+Context: claims paid  TP : 44 FT : 645944939 AD : 963 ! claims outstanding  TP : 81836659 FT : 2973123 AD : 63372809 ! 
+Question: claims outstanding AD?
+Answer: empty - Wrong answer
+
+Context: claims paid  TP : 53 AD : 722706506 FT : 260115106 ! claims outstanding  TP : 68 AD : 07700777 FT : 18 ! 
+Question: claims paid TP?
+Answer: 53
+
+Context: claims paid  TP : 53 AD : 722706506 FT : 260115106 ! claims outstanding  TP : 68 AD : 07700777 FT : 18 ! 
+Question: claims paid AD?
+Answer: 722706506
+
+Context: claims paid  TP : 53 AD : 722706506 FT : 260115106 ! claims outstanding  TP : 68 AD : 07700777 FT : 18 ! 
+Question: claims paid FT?
+Answer: 260115106
+
+Context: claims paid  TP : 53 AD : 722706506 FT : 260115106 ! claims outstanding  TP : 68 AD : 07700777 FT : 18 ! 
+Question: claims outstanding TP?
+Answer: 68
+
+Context: claims paid  TP : 53 AD : 722706506 FT : 260115106 ! claims outstanding  TP : 68 AD : 07700777 FT : 18 ! 
+Question: claims outstanding AD?
+Answer: 07700777
+
+Context: claims paid  TP : 53 AD : 722706506 FT : 260115106 ! claims outstanding  TP : 68 AD : 07700777 FT : 18 ! 
+Question: claims outstanding FT?
+Answer: 18
+
+Context: claims paid  FT : 39 AD : 075944 TP : 1309432 ! claims outstanding  FT : 81064 AD : 396410558 TP : 5104108368 ! 
+Question: claims paid FT?
+Answer: 39
+
+Context: claims paid  FT : 39 AD : 075944 TP : 1309432 ! claims outstanding  FT : 81064 AD : 396410558 TP : 5104108368 ! 
+Question: claims paid AD?
+Answer: 075944
+
+Context: claims paid  FT : 39 AD : 075944 TP : 1309432 ! claims outstanding  FT : 81064 AD : 396410558 TP : 5104108368 ! 
+Question: claims paid TP?
+Answer: 1309432
+
+Context: claims paid  FT : 39 AD : 075944 TP : 1309432 ! claims outstanding  FT : 81064 AD : 396410558 TP : 5104108368 ! 
+Question: claims outstanding FT?
+Answer: 81064
+
+Context: claims paid  FT : 39 AD : 075944 TP : 1309432 ! claims outstanding  FT : 81064 AD : 396410558 TP : 5104108368 ! 
+Question: claims outstanding AD?
+Answer: empty - Wrong answer
+
+Context: claims paid  FT : 39 AD : 075944 TP : 1309432 ! claims outstanding  FT : 81064 AD : 396410558 TP : 5104108368 ! 
+Question: claims outstanding TP?
+Answer: 5104108368
+
+Context: claims paid  FT : 6634 TP : 520833 AD : 676 ! claims outstanding  FT : 549 TP : 99423 AD : 435700122 ! 
+Question: claims paid FT?
+Answer: 6634
+
+Context: claims paid  FT : 6634 TP : 520833 AD : 676 ! claims outstanding  FT : 549 TP : 99423 AD : 435700122 ! 
+Question: claims paid TP?
+Answer: 520833
+
+Context: claims paid  FT : 6634 TP : 520833 AD : 676 ! claims outstanding  FT : 549 TP : 99423 AD : 435700122 ! 
+Question: claims paid AD?
+Answer: 676
+
+Context: claims paid  FT : 6634 TP : 520833 AD : 676 ! claims outstanding  FT : 549 TP : 99423 AD : 435700122 ! 
+Question: claims outstanding FT?
+Answer: 549
+
+Context: claims paid  FT : 6634 TP : 520833 AD : 676 ! claims outstanding  FT : 549 TP : 99423 AD : 435700122 ! 
+Question: claims outstanding TP?
+Answer: 520833 ad : 676 ! claims outstanding ft : 549 tp : 99423 - Wrong answer
+
+Context: claims paid  FT : 6634 TP : 520833 AD : 676 ! claims outstanding  FT : 549 TP : 99423 AD : 435700122 ! 
+Question: claims outstanding AD?
+Answer: 435700122
+
+Context: claims paid  TP : 6 FT : 0905 AD : 0 ! claims outstanding  TP : 5 FT : 4914 AD : 370700693 ! 
+Question: claims paid TP?
+Answer: 6
+
+Context: claims paid  TP : 6 FT : 0905 AD : 0 ! claims outstanding  TP : 5 FT : 4914 AD : 370700693 ! 
+Question: claims paid FT?
+Answer: 0905
+
+Context: claims paid  TP : 6 FT : 0905 AD : 0 ! claims outstanding  TP : 5 FT : 4914 AD : 370700693 ! 
+Question: claims paid AD?
+Answer: 0
+
+Context: claims paid  TP : 6 FT : 0905 AD : 0 ! claims outstanding  TP : 5 FT : 4914 AD : 370700693 ! 
+Question: claims outstanding TP?
+Answer: 5
+
+Context: claims paid  TP : 6 FT : 0905 AD : 0 ! claims outstanding  TP : 5 FT : 4914 AD : 370700693 ! 
+Question: claims outstanding FT?
+Answer: 4914
+
+Context: claims paid  TP : 6 FT : 0905 AD : 0 ! claims outstanding  TP : 5 FT : 4914 AD : 370700693 ! 
+Question: claims outstanding AD?
+Answer: 370700693
+
+Context: claims paid  FT : 1682288 TP : 260433273 AD : 63812553 ! claims outstanding  FT : 597865 TP : 3956128 AD : 7751824 ! 
+Question: claims paid FT?
+Answer: 1682288
+
+Context: claims paid  FT : 1682288 TP : 260433273 AD : 63812553 ! claims outstanding  FT : 597865 TP : 3956128 AD : 7751824 ! 
+Question: claims paid TP?
+Answer: 260433273
+
+Context: claims paid  FT : 1682288 TP : 260433273 AD : 63812553 ! claims outstanding  FT : 597865 TP : 3956128 AD : 7751824 ! 
+Question: claims paid AD?
+Answer: 63812553
+
+Context: claims paid  FT : 1682288 TP : 260433273 AD : 63812553 ! claims outstanding  FT : 597865 TP : 3956128 AD : 7751824 ! 
+Question: claims outstanding FT?
+Answer: 597865
+
+Context: claims paid  FT : 1682288 TP : 260433273 AD : 63812553 ! claims outstanding  FT : 597865 TP : 3956128 AD : 7751824 ! 
+Question: claims outstanding TP?
+Answer: empty - Wrong answer
+
+Context: claims paid  FT : 1682288 TP : 260433273 AD : 63812553 ! claims outstanding  FT : 597865 TP : 3956128 AD : 7751824 ! 
+Question: claims outstanding AD?
+Answer: 7751824
+
+Context: claims paid  FT : 1889888093 AD : 0 TP : 4103202476 ! claims outstanding  FT : 81225 AD : 35338 TP : 1 ! 
+Question: claims paid FT?
+Answer: 1889888093
+
+Context: claims paid  FT : 1889888093 AD : 0 TP : 4103202476 ! claims outstanding  FT : 81225 AD : 35338 TP : 1 ! 
+Question: claims paid AD?
+Answer: 0
+
+Context: claims paid  FT : 1889888093 AD : 0 TP : 4103202476 ! claims outstanding  FT : 81225 AD : 35338 TP : 1 ! 
+Question: claims paid TP?
+Answer: 4103202476
+
+Context: claims paid  FT : 1889888093 AD : 0 TP : 4103202476 ! claims outstanding  FT : 81225 AD : 35338 TP : 1 ! 
+Question: claims outstanding FT?
+Answer: 81225
+
+Context: claims paid  FT : 1889888093 AD : 0 TP : 4103202476 ! claims outstanding  FT : 81225 AD : 35338 TP : 1 ! 
+Question: claims outstanding AD?
+Answer: 35338
+
+Context: claims paid  FT : 1889888093 AD : 0 TP : 4103202476 ! claims outstanding  FT : 81225 AD : 35338 TP : 1 ! 
+Question: claims outstanding TP?
+Answer: empty - Wrong answer
+
+Context: claims paid  FT : 1082047037 TP : 7695373884 AD : 6 ! claims outstanding  FT : 43 TP : 3 AD : 3546764331 ! 
+Question: claims paid FT?
+Answer: 1082047037 tp : 7695373884 ad : 6 - Wrong answer
+
+Context: claims paid  FT : 1082047037 TP : 7695373884 AD : 6 ! claims outstanding  FT : 43 TP : 3 AD : 3546764331 ! 
+Question: claims paid TP?
+Answer: 7695373884 ad : 6 - Wrong answer
+
+Context: claims paid  FT : 1082047037 TP : 7695373884 AD : 6 ! claims outstanding  FT : 43 TP : 3 AD : 3546764331 ! 
+Question: claims paid AD?
+Answer: 6
+
+Context: claims paid  FT : 1082047037 TP : 7695373884 AD : 6 ! claims outstanding  FT : 43 TP : 3 AD : 3546764331 ! 
+Question: claims outstanding FT?
+Answer: 43
+
+Context: claims paid  FT : 1082047037 TP : 7695373884 AD : 6 ! claims outstanding  FT : 43 TP : 3 AD : 3546764331 ! 
+Question: claims outstanding TP?
+Answer: 3
+
+Context: claims paid  FT : 1082047037 TP : 7695373884 AD : 6 ! claims outstanding  FT : 43 TP : 3 AD : 3546764331 ! 
+Question: claims outstanding AD?
+Answer: 6 - Wrong answer
+
+Context: claims paid  FT : 4 TP : 4 AD : 0979585 ! claims outstanding  FT : 125 TP : 844407 AD : 154 ! 
+Question: claims paid FT?
+Answer: 4
+
+Context: claims paid  FT : 4 TP : 4 AD : 0979585 ! claims outstanding  FT : 125 TP : 844407 AD : 154 ! 
+Question: claims paid TP?
+Answer: 4
+
+Context: claims paid  FT : 4 TP : 4 AD : 0979585 ! claims outstanding  FT : 125 TP : 844407 AD : 154 ! 
+Question: claims paid AD?
+Answer: 0979585
+
+Context: claims paid  FT : 4 TP : 4 AD : 0979585 ! claims outstanding  FT : 125 TP : 844407 AD : 154 ! 
+Question: claims outstanding FT?
+Answer: 125
+
+Context: claims paid  FT : 4 TP : 4 AD : 0979585 ! claims outstanding  FT : 125 TP : 844407 AD : 154 ! 
+Question: claims outstanding TP?
+Answer: empty - Wrong answer
+
+Context: claims paid  FT : 4 TP : 4 AD : 0979585 ! claims outstanding  FT : 125 TP : 844407 AD : 154 ! 
+Question: claims outstanding AD?
+Answer: 154
+
+Context: claims paid  TP : 0 FT : 71210 AD : 476 ! claims outstanding  TP : 39 FT : 23095 AD : 667710566 ! 
+Question: claims paid TP?
+Answer: 0
+
+Context: claims paid  TP : 0 FT : 71210 AD : 476 ! claims outstanding  TP : 39 FT : 23095 AD : 667710566 ! 
+Question: claims paid FT?
+Answer: 71210
+
+Context: claims paid  TP : 0 FT : 71210 AD : 476 ! claims outstanding  TP : 39 FT : 23095 AD : 667710566 ! 
+Question: claims paid AD?
+Answer: 476
+
+Context: claims paid  TP : 0 FT : 71210 AD : 476 ! claims outstanding  TP : 39 FT : 23095 AD : 667710566 ! 
+Question: claims outstanding TP?
+Answer: 39
+
+Context: claims paid  TP : 0 FT : 71210 AD : 476 ! claims outstanding  TP : 39 FT : 23095 AD : 667710566 ! 
+Question: claims outstanding FT?
+Answer: 23095
+
+Context: claims paid  TP : 0 FT : 71210 AD : 476 ! claims outstanding  TP : 39 FT : 23095 AD : 667710566 ! 
+Question: claims outstanding AD?
+Answer: empty - Wrong answer
+
+Context: claims paid  FT : 1852582 AD : 149 TP : 68 ! claims outstanding  FT : 318 AD : 29 TP : 106239169 ! 
+Question: claims paid FT?
+Answer: 1852582
+
+Context: claims paid  FT : 1852582 AD : 149 TP : 68 ! claims outstanding  FT : 318 AD : 29 TP : 106239169 ! 
+Question: claims paid AD?
+Answer: 149
+
+Context: claims paid  FT : 1852582 AD : 149 TP : 68 ! claims outstanding  FT : 318 AD : 29 TP : 106239169 ! 
+Question: claims paid TP?
+Answer: 68
+
+Context: claims paid  FT : 1852582 AD : 149 TP : 68 ! claims outstanding  FT : 318 AD : 29 TP : 106239169 ! 
+Question: claims outstanding FT?
+Answer: 318
+
+Context: claims paid  FT : 1852582 AD : 149 TP : 68 ! claims outstanding  FT : 318 AD : 29 TP : 106239169 ! 
+Question: claims outstanding AD?
+Answer: 29
+
+Context: claims paid  FT : 1852582 AD : 149 TP : 68 ! claims outstanding  FT : 318 AD : 29 TP : 106239169 ! 
+Question: claims outstanding TP?
+Answer: empty - Wrong answer
+
+Context: claims paid  AD : 9585107129 FT : 40 TP : 090 ! claims outstanding  AD : 2614422262 FT : 13378843 TP : 212 ! 
+Question: claims paid AD?
+Answer: 9585107129
+
+Context: claims paid  AD : 9585107129 FT : 40 TP : 090 ! claims outstanding  AD : 2614422262 FT : 13378843 TP : 212 ! 
+Question: claims paid FT?
+Answer: 40
+
+Context: claims paid  AD : 9585107129 FT : 40 TP : 090 ! claims outstanding  AD : 2614422262 FT : 13378843 TP : 212 ! 
+Question: claims paid TP?
+Answer: 090
+
+Context: claims paid  AD : 9585107129 FT : 40 TP : 090 ! claims outstanding  AD : 2614422262 FT : 13378843 TP : 212 ! 
+Question: claims outstanding AD?
+Answer: 2614422262
+
+Context: claims paid  AD : 9585107129 FT : 40 TP : 090 ! claims outstanding  AD : 2614422262 FT : 13378843 TP : 212 ! 
+Question: claims outstanding FT?
+Answer: 13378843
+
+Context: claims paid  AD : 9585107129 FT : 40 TP : 090 ! claims outstanding  AD : 2614422262 FT : 13378843 TP : 212 ! 
+Question: claims outstanding TP?
+Answer: 212
+
+Context: claims paid  T.P. : 5934 F+T : 6583208 ADFT&W/S : 5042 ! claims outstanding  T.P. : 3398744 F+T : 63 ADFT&W/S : 03874 ! 
+Question: claims paid T.P.?
+Answer: 5042 - Wrong answer
+
+Context: claims paid  T.P. : 5934 F+T : 6583208 ADFT&W/S : 5042 ! claims outstanding  T.P. : 3398744 F+T : 63 ADFT&W/S : 03874 ! 
+Question: claims paid F+T?
+Answer: 5042 - Wrong answer
+
+Context: claims paid  T.P. : 5934 F+T : 6583208 ADFT&W/S : 5042 ! claims outstanding  T.P. : 3398744 F+T : 63 ADFT&W/S : 03874 ! 
+Question: claims paid ADFT&W/S?
+Answer: 5042
+
+Context: claims paid  T.P. : 5934 F+T : 6583208 ADFT&W/S : 5042 ! claims outstanding  T.P. : 3398744 F+T : 63 ADFT&W/S : 03874 ! 
+Question: claims outstanding T.P.?
+Answer: 5042 - Wrong answer
+
+Context: claims paid  T.P. : 5934 F+T : 6583208 ADFT&W/S : 5042 ! claims outstanding  T.P. : 3398744 F+T : 63 ADFT&W/S : 03874 ! 
+Question: claims outstanding F+T?
+Answer: 5042 - Wrong answer
+
+Context: claims paid  T.P. : 5934 F+T : 6583208 ADFT&W/S : 5042 ! claims outstanding  T.P. : 3398744 F+T : 63 ADFT&W/S : 03874 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: empty - Wrong answer
+
+Context: claims paid  ADFT&W/S : 78558 T.P. : 36 F+T : 3080992373 ! claims outstanding  ADFT&W/S : 73459 T.P. : 71 F+T : 256897041 ! 
+Question: claims paid ADFT&W/S?
+Answer: 36 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 78558 T.P. : 36 F+T : 3080992373 ! claims outstanding  ADFT&W/S : 73459 T.P. : 71 F+T : 256897041 ! 
+Question: claims paid T.P.?
+Answer: 36
+
+Context: claims paid  ADFT&W/S : 78558 T.P. : 36 F+T : 3080992373 ! claims outstanding  ADFT&W/S : 73459 T.P. : 71 F+T : 256897041 ! 
+Question: claims paid F+T?
+Answer: 36 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 78558 T.P. : 36 F+T : 3080992373 ! claims outstanding  ADFT&W/S : 73459 T.P. : 71 F+T : 256897041 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 36 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 78558 T.P. : 36 F+T : 3080992373 ! claims outstanding  ADFT&W/S : 73459 T.P. : 71 F+T : 256897041 ! 
+Question: claims outstanding T.P.?
+Answer: 36 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 78558 T.P. : 36 F+T : 3080992373 ! claims outstanding  ADFT&W/S : 73459 T.P. : 71 F+T : 256897041 ! 
+Question: claims outstanding F+T?
+Answer: 3080992373 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 1 T.P. : 8036301 F+T : 736550 ! claims outstanding  ADFT&W/S : 75322 T.P. : 946338 F+T : 0 ! 
+Question: claims paid ADFT&W/S?
+Answer: 736550 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 1 T.P. : 8036301 F+T : 736550 ! claims outstanding  ADFT&W/S : 75322 T.P. : 946338 F+T : 0 ! 
+Question: claims paid T.P.?
+Answer: 736550 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 1 T.P. : 8036301 F+T : 736550 ! claims outstanding  ADFT&W/S : 75322 T.P. : 946338 F+T : 0 ! 
+Question: claims paid F+T?
+Answer: 736550
+
+Context: claims paid  ADFT&W/S : 1 T.P. : 8036301 F+T : 736550 ! claims outstanding  ADFT&W/S : 75322 T.P. : 946338 F+T : 0 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 736550 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 1 T.P. : 8036301 F+T : 736550 ! claims outstanding  ADFT&W/S : 75322 T.P. : 946338 F+T : 0 ! 
+Question: claims outstanding T.P.?
+Answer: 736550 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 1 T.P. : 8036301 F+T : 736550 ! claims outstanding  ADFT&W/S : 75322 T.P. : 946338 F+T : 0 ! 
+Question: claims outstanding F+T?
+Answer: 736550 - Wrong answer
+
+Context: claims paid  T.P. : 9 F+T : 7733 ADFT&W/S : 97652 ! claims outstanding  T.P. : 48985608 F+T : 76045 ADFT&W/S : 64296 ! 
+Question: claims paid T.P.?
+Answer: 9
+
+Context: claims paid  T.P. : 9 F+T : 7733 ADFT&W/S : 97652 ! claims outstanding  T.P. : 48985608 F+T : 76045 ADFT&W/S : 64296 ! 
+Question: claims paid F+T?
+Answer: 97652 - Wrong answer
+
+Context: claims paid  T.P. : 9 F+T : 7733 ADFT&W/S : 97652 ! claims outstanding  T.P. : 48985608 F+T : 76045 ADFT&W/S : 64296 ! 
+Question: claims paid ADFT&W/S?
+Answer: 97652
+
+Context: claims paid  T.P. : 9 F+T : 7733 ADFT&W/S : 97652 ! claims outstanding  T.P. : 48985608 F+T : 76045 ADFT&W/S : 64296 ! 
+Question: claims outstanding T.P.?
+Answer: 97652 - Wrong answer
+
+Context: claims paid  T.P. : 9 F+T : 7733 ADFT&W/S : 97652 ! claims outstanding  T.P. : 48985608 F+T : 76045 ADFT&W/S : 64296 ! 
+Question: claims outstanding F+T?
+Answer: 97652 - Wrong answer
+
+Context: claims paid  T.P. : 9 F+T : 7733 ADFT&W/S : 97652 ! claims outstanding  T.P. : 48985608 F+T : 76045 ADFT&W/S : 64296 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 97652 - Wrong answer
+
+Context: claims paid  F+T : 0780313 ADFT&W/S : 59 T.P. : 77271465 ! claims outstanding  F+T : 4155 ADFT&W/S : 64912457 T.P. : 375586 ! 
+Question: claims paid F+T?
+Answer: 77271465 - Wrong answer
+
+Context: claims paid  F+T : 0780313 ADFT&W/S : 59 T.P. : 77271465 ! claims outstanding  F+T : 4155 ADFT&W/S : 64912457 T.P. : 375586 ! 
+Question: claims paid ADFT&W/S?
+Answer: 59
+
+Context: claims paid  F+T : 0780313 ADFT&W/S : 59 T.P. : 77271465 ! claims outstanding  F+T : 4155 ADFT&W/S : 64912457 T.P. : 375586 ! 
+Question: claims paid T.P.?
+Answer: 77271465
+
+Context: claims paid  F+T : 0780313 ADFT&W/S : 59 T.P. : 77271465 ! claims outstanding  F+T : 4155 ADFT&W/S : 64912457 T.P. : 375586 ! 
+Question: claims outstanding F+T?
+Answer: 77271465 - Wrong answer
+
+Context: claims paid  F+T : 0780313 ADFT&W/S : 59 T.P. : 77271465 ! claims outstanding  F+T : 4155 ADFT&W/S : 64912457 T.P. : 375586 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 59 - Wrong answer
+
+Context: claims paid  F+T : 0780313 ADFT&W/S : 59 T.P. : 77271465 ! claims outstanding  F+T : 4155 ADFT&W/S : 64912457 T.P. : 375586 ! 
+Question: claims outstanding T.P.?
+Answer: 77271465 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 9343 F+T : 24356 T.P. : 0058843 ! claims outstanding  ADFT&W/S : 5843108923 F+T : 46 T.P. : 5242 ! 
+Question: claims paid ADFT&W/S?
+Answer: 24356 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 9343 F+T : 24356 T.P. : 0058843 ! claims outstanding  ADFT&W/S : 5843108923 F+T : 46 T.P. : 5242 ! 
+Question: claims paid F+T?
+Answer: 24356
+
+Context: claims paid  ADFT&W/S : 9343 F+T : 24356 T.P. : 0058843 ! claims outstanding  ADFT&W/S : 5843108923 F+T : 46 T.P. : 5242 ! 
+Question: claims paid T.P.?
+Answer: 24356 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 9343 F+T : 24356 T.P. : 0058843 ! claims outstanding  ADFT&W/S : 5843108923 F+T : 46 T.P. : 5242 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 0058843 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 9343 F+T : 24356 T.P. : 0058843 ! claims outstanding  ADFT&W/S : 5843108923 F+T : 46 T.P. : 5242 ! 
+Question: claims outstanding F+T?
+Answer: empty - Wrong answer
+
+Context: claims paid  ADFT&W/S : 9343 F+T : 24356 T.P. : 0058843 ! claims outstanding  ADFT&W/S : 5843108923 F+T : 46 T.P. : 5242 ! 
+Question: claims outstanding T.P.?
+Answer: empty - Wrong answer
+
+Context: claims paid  ADFT&W/S : 5286460 F+T : 5 T.P. : 6674090900 ! claims outstanding  ADFT&W/S : 4713176 F+T : 16 T.P. : 05217 ! 
+Question: claims paid ADFT&W/S?
+Answer: 5 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 5286460 F+T : 5 T.P. : 6674090900 ! claims outstanding  ADFT&W/S : 4713176 F+T : 16 T.P. : 05217 ! 
+Question: claims paid F+T?
+Answer: 5
+
+Context: claims paid  ADFT&W/S : 5286460 F+T : 5 T.P. : 6674090900 ! claims outstanding  ADFT&W/S : 4713176 F+T : 16 T.P. : 05217 ! 
+Question: claims paid T.P.?
+Answer: 5 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 5286460 F+T : 5 T.P. : 6674090900 ! claims outstanding  ADFT&W/S : 4713176 F+T : 16 T.P. : 05217 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 5 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 5286460 F+T : 5 T.P. : 6674090900 ! claims outstanding  ADFT&W/S : 4713176 F+T : 16 T.P. : 05217 ! 
+Question: claims outstanding F+T?
+Answer: empty - Wrong answer
+
+Context: claims paid  ADFT&W/S : 5286460 F+T : 5 T.P. : 6674090900 ! claims outstanding  ADFT&W/S : 4713176 F+T : 16 T.P. : 05217 ! 
+Question: claims outstanding T.P.?
+Answer: empty - Wrong answer
+
+Context: claims paid  ADFT&W/S : 448 F+T : 341672 T.P. : 111619 ! claims outstanding  ADFT&W/S : 33694793 F+T : 77615020 T.P. : 037412 ! 
+Question: claims paid ADFT&W/S?
+Answer: 341672 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 448 F+T : 341672 T.P. : 111619 ! claims outstanding  ADFT&W/S : 33694793 F+T : 77615020 T.P. : 037412 ! 
+Question: claims paid F+T?
+Answer: 341672
+
+Context: claims paid  ADFT&W/S : 448 F+T : 341672 T.P. : 111619 ! claims outstanding  ADFT&W/S : 33694793 F+T : 77615020 T.P. : 037412 ! 
+Question: claims paid T.P.?
+Answer: 341672 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 448 F+T : 341672 T.P. : 111619 ! claims outstanding  ADFT&W/S : 33694793 F+T : 77615020 T.P. : 037412 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 111619 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 448 F+T : 341672 T.P. : 111619 ! claims outstanding  ADFT&W/S : 33694793 F+T : 77615020 T.P. : 037412 ! 
+Question: claims outstanding F+T?
+Answer: 111619 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 448 F+T : 341672 T.P. : 111619 ! claims outstanding  ADFT&W/S : 33694793 F+T : 77615020 T.P. : 037412 ! 
+Question: claims outstanding T.P.?
+Answer: 111619 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 61286933 F+T : 4938736548 T.P. : 9 ! claims outstanding  ADFT&W/S : 7163441 F+T : 066 T.P. : 5110 ! 
+Question: claims paid ADFT&W/S?
+Answer: 4938736548 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 61286933 F+T : 4938736548 T.P. : 9 ! claims outstanding  ADFT&W/S : 7163441 F+T : 066 T.P. : 5110 ! 
+Question: claims paid F+T?
+Answer: 9 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 61286933 F+T : 4938736548 T.P. : 9 ! claims outstanding  ADFT&W/S : 7163441 F+T : 066 T.P. : 5110 ! 
+Question: claims paid T.P.?
+Answer: 4938736548 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 61286933 F+T : 4938736548 T.P. : 9 ! claims outstanding  ADFT&W/S : 7163441 F+T : 066 T.P. : 5110 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 4938736548 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 61286933 F+T : 4938736548 T.P. : 9 ! claims outstanding  ADFT&W/S : 7163441 F+T : 066 T.P. : 5110 ! 
+Question: claims outstanding F+T?
+Answer: 9 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 61286933 F+T : 4938736548 T.P. : 9 ! claims outstanding  ADFT&W/S : 7163441 F+T : 066 T.P. : 5110 ! 
+Question: claims outstanding T.P.?
+Answer: 9 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 75062449 T.P. : 8814337 F+T : 3 ! claims outstanding  ADFT&W/S : 3748814631 T.P. : 0689999 F+T : 6 ! 
+Question: claims paid ADFT&W/S?
+Answer: 3 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 75062449 T.P. : 8814337 F+T : 3 ! claims outstanding  ADFT&W/S : 3748814631 T.P. : 0689999 F+T : 6 ! 
+Question: claims paid T.P.?
+Answer: 3 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 75062449 T.P. : 8814337 F+T : 3 ! claims outstanding  ADFT&W/S : 3748814631 T.P. : 0689999 F+T : 6 ! 
+Question: claims paid F+T?
+Answer: 3
+
+Context: claims paid  ADFT&W/S : 75062449 T.P. : 8814337 F+T : 3 ! claims outstanding  ADFT&W/S : 3748814631 T.P. : 0689999 F+T : 6 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 3 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 75062449 T.P. : 8814337 F+T : 3 ! claims outstanding  ADFT&W/S : 3748814631 T.P. : 0689999 F+T : 6 ! 
+Question: claims outstanding T.P.?
+Answer: 3 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 75062449 T.P. : 8814337 F+T : 3 ! claims outstanding  ADFT&W/S : 3748814631 T.P. : 0689999 F+T : 6 ! 
+Question: claims outstanding F+T?
+Answer: 3 - Wrong answer
+
+Context: claims paid  F+T : 9996318 ADFT&W/S : 89032 T.P. : 18160 ! claims outstanding  F+T : 59774129 ADFT&W/S : 9158 T.P. : 671241628 ! 
+Question: claims paid F+T?
+Answer: 18160 - Wrong answer
+
+Context: claims paid  F+T : 9996318 ADFT&W/S : 89032 T.P. : 18160 ! claims outstanding  F+T : 59774129 ADFT&W/S : 9158 T.P. : 671241628 ! 
+Question: claims paid ADFT&W/S?
+Answer: 9996318 - Wrong answer
+
+Context: claims paid  F+T : 9996318 ADFT&W/S : 89032 T.P. : 18160 ! claims outstanding  F+T : 59774129 ADFT&W/S : 9158 T.P. : 671241628 ! 
+Question: claims paid T.P.?
+Answer: 18160
+
+Context: claims paid  F+T : 9996318 ADFT&W/S : 89032 T.P. : 18160 ! claims outstanding  F+T : 59774129 ADFT&W/S : 9158 T.P. : 671241628 ! 
+Question: claims outstanding F+T?
+Answer: 18160 - Wrong answer
+
+Context: claims paid  F+T : 9996318 ADFT&W/S : 89032 T.P. : 18160 ! claims outstanding  F+T : 59774129 ADFT&W/S : 9158 T.P. : 671241628 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 59774129 - Wrong answer
+
+Context: claims paid  F+T : 9996318 ADFT&W/S : 89032 T.P. : 18160 ! claims outstanding  F+T : 59774129 ADFT&W/S : 9158 T.P. : 671241628 ! 
+Question: claims outstanding T.P.?
+Answer: empty - Wrong answer
+
+Context: claims paid  T.P. : 30 ADFT&W/S : 2028968 F+T : 09299454 ! claims outstanding  T.P. : 05 ADFT&W/S : 30378187 F+T : 063076624 ! 
+Question: claims paid T.P.?
+Answer: 30
+
+Context: claims paid  T.P. : 30 ADFT&W/S : 2028968 F+T : 09299454 ! claims outstanding  T.P. : 05 ADFT&W/S : 30378187 F+T : 063076624 ! 
+Question: claims paid ADFT&W/S?
+Answer: 2028968
+
+Context: claims paid  T.P. : 30 ADFT&W/S : 2028968 F+T : 09299454 ! claims outstanding  T.P. : 05 ADFT&W/S : 30378187 F+T : 063076624 ! 
+Question: claims paid F+T?
+Answer: 09299454
+
+Context: claims paid  T.P. : 30 ADFT&W/S : 2028968 F+T : 09299454 ! claims outstanding  T.P. : 05 ADFT&W/S : 30378187 F+T : 063076624 ! 
+Question: claims outstanding T.P.?
+Answer: 09299454 ! claims outstanding t.p. : 05 - Wrong answer
+
+Context: claims paid  T.P. : 30 ADFT&W/S : 2028968 F+T : 09299454 ! claims outstanding  T.P. : 05 ADFT&W/S : 30378187 F+T : 063076624 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 2028968 - Wrong answer
+
+Context: claims paid  T.P. : 30 ADFT&W/S : 2028968 F+T : 09299454 ! claims outstanding  T.P. : 05 ADFT&W/S : 30378187 F+T : 063076624 ! 
+Question: claims outstanding F+T?
+Answer: 09299454 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 94566 F+T : 801 T.P. : 627900094 ! claims outstanding  ADFT&W/S : 24247844 F+T : 34638161 T.P. : 0656 ! 
+Question: claims paid ADFT&W/S?
+Answer: 801 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 94566 F+T : 801 T.P. : 627900094 ! claims outstanding  ADFT&W/S : 24247844 F+T : 34638161 T.P. : 0656 ! 
+Question: claims paid F+T?
+Answer: 801 t.p. : 627900094 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 94566 F+T : 801 T.P. : 627900094 ! claims outstanding  ADFT&W/S : 24247844 F+T : 34638161 T.P. : 0656 ! 
+Question: claims paid T.P.?
+Answer: 801 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 94566 F+T : 801 T.P. : 627900094 ! claims outstanding  ADFT&W/S : 24247844 F+T : 34638161 T.P. : 0656 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 801 t.p. : 627900094 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 94566 F+T : 801 T.P. : 627900094 ! claims outstanding  ADFT&W/S : 24247844 F+T : 34638161 T.P. : 0656 ! 
+Question: claims outstanding F+T?
+Answer: 627900094 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 94566 F+T : 801 T.P. : 627900094 ! claims outstanding  ADFT&W/S : 24247844 F+T : 34638161 T.P. : 0656 ! 
+Question: claims outstanding T.P.?
+Answer: 627900094 - Wrong answer
+
+Context: claims paid  F+T : 86185 T.P. : 806500611 ADFT&W/S : 442220 ! claims outstanding  F+T : 7 T.P. : 1199087324 ADFT&W/S : 5500216 ! 
+Question: claims paid F+T?
+Answer: 442220 - Wrong answer
+
+Context: claims paid  F+T : 86185 T.P. : 806500611 ADFT&W/S : 442220 ! claims outstanding  F+T : 7 T.P. : 1199087324 ADFT&W/S : 5500216 ! 
+Question: claims paid T.P.?
+Answer: 806500611
+
+Context: claims paid  F+T : 86185 T.P. : 806500611 ADFT&W/S : 442220 ! claims outstanding  F+T : 7 T.P. : 1199087324 ADFT&W/S : 5500216 ! 
+Question: claims paid ADFT&W/S?
+Answer: empty - Wrong answer
+
+Context: claims paid  F+T : 86185 T.P. : 806500611 ADFT&W/S : 442220 ! claims outstanding  F+T : 7 T.P. : 1199087324 ADFT&W/S : 5500216 ! 
+Question: claims outstanding F+T?
+Answer: 442220 ! claims outstanding f+t : 7 - Wrong answer
+
+Context: claims paid  F+T : 86185 T.P. : 806500611 ADFT&W/S : 442220 ! claims outstanding  F+T : 7 T.P. : 1199087324 ADFT&W/S : 5500216 ! 
+Question: claims outstanding T.P.?
+Answer: empty - Wrong answer
+
+Context: claims paid  F+T : 86185 T.P. : 806500611 ADFT&W/S : 442220 ! claims outstanding  F+T : 7 T.P. : 1199087324 ADFT&W/S : 5500216 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 806500611 - Wrong answer
+
+Context: claims paid  F+T : 9729 ADFT&W/S : 56351647 T.P. : 642 ! claims outstanding  F+T : 8 ADFT&W/S : 20141993 T.P. : 896691863 ! 
+Question: claims paid F+T?
+Answer: 642 - Wrong answer
+
+Context: claims paid  F+T : 9729 ADFT&W/S : 56351647 T.P. : 642 ! claims outstanding  F+T : 8 ADFT&W/S : 20141993 T.P. : 896691863 ! 
+Question: claims paid ADFT&W/S?
+Answer: 642 - Wrong answer
+
+Context: claims paid  F+T : 9729 ADFT&W/S : 56351647 T.P. : 642 ! claims outstanding  F+T : 8 ADFT&W/S : 20141993 T.P. : 896691863 ! 
+Question: claims paid T.P.?
+Answer: 642
+
+Context: claims paid  F+T : 9729 ADFT&W/S : 56351647 T.P. : 642 ! claims outstanding  F+T : 8 ADFT&W/S : 20141993 T.P. : 896691863 ! 
+Question: claims outstanding F+T?
+Answer: 8
+
+Context: claims paid  F+T : 9729 ADFT&W/S : 56351647 T.P. : 642 ! claims outstanding  F+T : 8 ADFT&W/S : 20141993 T.P. : 896691863 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 642 - Wrong answer
+
+Context: claims paid  F+T : 9729 ADFT&W/S : 56351647 T.P. : 642 ! claims outstanding  F+T : 8 ADFT&W/S : 20141993 T.P. : 896691863 ! 
+Question: claims outstanding T.P.?
+Answer: 642 ! claims outstanding f+t : 8 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 6547 T.P. : 85 F+T : 876471 ! claims outstanding  ADFT&W/S : 4594366 T.P. : 530 F+T : 26382 ! 
+Question: claims paid ADFT&W/S?
+Answer: 876471 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 6547 T.P. : 85 F+T : 876471 ! claims outstanding  ADFT&W/S : 4594366 T.P. : 530 F+T : 26382 ! 
+Question: claims paid T.P.?
+Answer: 85
+
+Context: claims paid  ADFT&W/S : 6547 T.P. : 85 F+T : 876471 ! claims outstanding  ADFT&W/S : 4594366 T.P. : 530 F+T : 26382 ! 
+Question: claims paid F+T?
+Answer: 876471
+
+Context: claims paid  ADFT&W/S : 6547 T.P. : 85 F+T : 876471 ! claims outstanding  ADFT&W/S : 4594366 T.P. : 530 F+T : 26382 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 876471 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 6547 T.P. : 85 F+T : 876471 ! claims outstanding  ADFT&W/S : 4594366 T.P. : 530 F+T : 26382 ! 
+Question: claims outstanding T.P.?
+Answer: 85 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 6547 T.P. : 85 F+T : 876471 ! claims outstanding  ADFT&W/S : 4594366 T.P. : 530 F+T : 26382 ! 
+Question: claims outstanding F+T?
+Answer: 876471 - Wrong answer
+
+Context: claims paid  F+T : 8 ADFT&W/S : 426380 T.P. : 30 ! claims outstanding  F+T : 0 ADFT&W/S : 66420 T.P. : 047575 ! 
+Question: claims paid F+T?
+Answer: 8
+
+Context: claims paid  F+T : 8 ADFT&W/S : 426380 T.P. : 30 ! claims outstanding  F+T : 0 ADFT&W/S : 66420 T.P. : 047575 ! 
+Question: claims paid ADFT&W/S?
+Answer: empty - Wrong answer
+
+Context: claims paid  F+T : 8 ADFT&W/S : 426380 T.P. : 30 ! claims outstanding  F+T : 0 ADFT&W/S : 66420 T.P. : 047575 ! 
+Question: claims paid T.P.?
+Answer: 8 - Wrong answer
+
+Context: claims paid  F+T : 8 ADFT&W/S : 426380 T.P. : 30 ! claims outstanding  F+T : 0 ADFT&W/S : 66420 T.P. : 047575 ! 
+Question: claims outstanding F+T?
+Answer: 0
+
+Context: claims paid  F+T : 8 ADFT&W/S : 426380 T.P. : 30 ! claims outstanding  F+T : 0 ADFT&W/S : 66420 T.P. : 047575 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 30 - Wrong answer
+
+Context: claims paid  F+T : 8 ADFT&W/S : 426380 T.P. : 30 ! claims outstanding  F+T : 0 ADFT&W/S : 66420 T.P. : 047575 ! 
+Question: claims outstanding T.P.?
+Answer: 30 - Wrong answer
+
+Context: claims paid  T.P. : 9188855 ADFT&W/S : 2663 F+T : 9 ! claims outstanding  T.P. : 95613 ADFT&W/S : 7767265 F+T : 103 ! 
+Question: claims paid T.P.?
+Answer: 9 - Wrong answer
+
+Context: claims paid  T.P. : 9188855 ADFT&W/S : 2663 F+T : 9 ! claims outstanding  T.P. : 95613 ADFT&W/S : 7767265 F+T : 103 ! 
+Question: claims paid ADFT&W/S?
+Answer: 9 - Wrong answer
+
+Context: claims paid  T.P. : 9188855 ADFT&W/S : 2663 F+T : 9 ! claims outstanding  T.P. : 95613 ADFT&W/S : 7767265 F+T : 103 ! 
+Question: claims paid F+T?
+Answer: 9
+
+Context: claims paid  T.P. : 9188855 ADFT&W/S : 2663 F+T : 9 ! claims outstanding  T.P. : 95613 ADFT&W/S : 7767265 F+T : 103 ! 
+Question: claims outstanding T.P.?
+Answer: 9 - Wrong answer
+
+Context: claims paid  T.P. : 9188855 ADFT&W/S : 2663 F+T : 9 ! claims outstanding  T.P. : 95613 ADFT&W/S : 7767265 F+T : 103 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 2663 - Wrong answer
+
+Context: claims paid  T.P. : 9188855 ADFT&W/S : 2663 F+T : 9 ! claims outstanding  T.P. : 95613 ADFT&W/S : 7767265 F+T : 103 ! 
+Question: claims outstanding F+T?
+Answer: 9 - Wrong answer
+
+Context: claims paid  F+T : 65547343 ADFT&W/S : 1247775 T.P. : 685 ! claims outstanding  F+T : 392537833 ADFT&W/S : 1 T.P. : 8731665317 ! 
+Question: claims paid F+T?
+Answer: 685 - Wrong answer
+
+Context: claims paid  F+T : 65547343 ADFT&W/S : 1247775 T.P. : 685 ! claims outstanding  F+T : 392537833 ADFT&W/S : 1 T.P. : 8731665317 ! 
+Question: claims paid ADFT&W/S?
+Answer: 1247775
+
+Context: claims paid  F+T : 65547343 ADFT&W/S : 1247775 T.P. : 685 ! claims outstanding  F+T : 392537833 ADFT&W/S : 1 T.P. : 8731665317 ! 
+Question: claims paid T.P.?
+Answer: 685
+
+Context: claims paid  F+T : 65547343 ADFT&W/S : 1247775 T.P. : 685 ! claims outstanding  F+T : 392537833 ADFT&W/S : 1 T.P. : 8731665317 ! 
+Question: claims outstanding F+T?
+Answer: 685 - Wrong answer
+
+Context: claims paid  F+T : 65547343 ADFT&W/S : 1247775 T.P. : 685 ! claims outstanding  F+T : 392537833 ADFT&W/S : 1 T.P. : 8731665317 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 1247775 t.p. : 685 - Wrong answer
+
+Context: claims paid  F+T : 65547343 ADFT&W/S : 1247775 T.P. : 685 ! claims outstanding  F+T : 392537833 ADFT&W/S : 1 T.P. : 8731665317 ! 
+Question: claims outstanding T.P.?
+Answer: empty - Wrong answer
+
+Context: claims paid  T.P. : 340267 F+T : 65 ADFT&W/S : 405466426 ! claims outstanding  T.P. : 558390 F+T : 0159113994 ADFT&W/S : 76 ! 
+Question: claims paid T.P.?
+Answer: 405466426 - Wrong answer
+
+Context: claims paid  T.P. : 340267 F+T : 65 ADFT&W/S : 405466426 ! claims outstanding  T.P. : 558390 F+T : 0159113994 ADFT&W/S : 76 ! 
+Question: claims paid F+T?
+Answer: 405466426 - Wrong answer
+
+Context: claims paid  T.P. : 340267 F+T : 65 ADFT&W/S : 405466426 ! claims outstanding  T.P. : 558390 F+T : 0159113994 ADFT&W/S : 76 ! 
+Question: claims paid ADFT&W/S?
+Answer: 405466426
+
+Context: claims paid  T.P. : 340267 F+T : 65 ADFT&W/S : 405466426 ! claims outstanding  T.P. : 558390 F+T : 0159113994 ADFT&W/S : 76 ! 
+Question: claims outstanding T.P.?
+Answer: 405466426 - Wrong answer
+
+Context: claims paid  T.P. : 340267 F+T : 65 ADFT&W/S : 405466426 ! claims outstanding  T.P. : 558390 F+T : 0159113994 ADFT&W/S : 76 ! 
+Question: claims outstanding F+T?
+Answer: 405466426 - Wrong answer
+
+Context: claims paid  T.P. : 340267 F+T : 65 ADFT&W/S : 405466426 ! claims outstanding  T.P. : 558390 F+T : 0159113994 ADFT&W/S : 76 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 405466426 - Wrong answer
+
+Context: claims paid  F+T : 43007342 ADFT&W/S : 596 T.P. : 92205 ! claims outstanding  F+T : 548887 ADFT&W/S : 215467 T.P. : 5945 ! 
+Question: claims paid F+T?
+Answer: 92205 - Wrong answer
+
+Context: claims paid  F+T : 43007342 ADFT&W/S : 596 T.P. : 92205 ! claims outstanding  F+T : 548887 ADFT&W/S : 215467 T.P. : 5945 ! 
+Question: claims paid ADFT&W/S?
+Answer: 596
+
+Context: claims paid  F+T : 43007342 ADFT&W/S : 596 T.P. : 92205 ! claims outstanding  F+T : 548887 ADFT&W/S : 215467 T.P. : 5945 ! 
+Question: claims paid T.P.?
+Answer: 92205
+
+Context: claims paid  F+T : 43007342 ADFT&W/S : 596 T.P. : 92205 ! claims outstanding  F+T : 548887 ADFT&W/S : 215467 T.P. : 5945 ! 
+Question: claims outstanding F+T?
+Answer: 92205 - Wrong answer
+
+Context: claims paid  F+T : 43007342 ADFT&W/S : 596 T.P. : 92205 ! claims outstanding  F+T : 548887 ADFT&W/S : 215467 T.P. : 5945 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 596 - Wrong answer
+
+Context: claims paid  F+T : 43007342 ADFT&W/S : 596 T.P. : 92205 ! claims outstanding  F+T : 548887 ADFT&W/S : 215467 T.P. : 5945 ! 
+Question: claims outstanding T.P.?
+Answer: 92205 - Wrong answer
+
+Context: claims paid  T.P. : 494288639 ADFT&W/S : 134905 F+T : 368217655 ! claims outstanding  T.P. : 4441 ADFT&W/S : 5210896 F+T : 7 ! 
+Question: claims paid T.P.?
+Answer: 368217655 - Wrong answer
+
+Context: claims paid  T.P. : 494288639 ADFT&W/S : 134905 F+T : 368217655 ! claims outstanding  T.P. : 4441 ADFT&W/S : 5210896 F+T : 7 ! 
+Question: claims paid ADFT&W/S?
+Answer: 134905
+
+Context: claims paid  T.P. : 494288639 ADFT&W/S : 134905 F+T : 368217655 ! claims outstanding  T.P. : 4441 ADFT&W/S : 5210896 F+T : 7 ! 
+Question: claims paid F+T?
+Answer: empty - Wrong answer
+
+Context: claims paid  T.P. : 494288639 ADFT&W/S : 134905 F+T : 368217655 ! claims outstanding  T.P. : 4441 ADFT&W/S : 5210896 F+T : 7 ! 
+Question: claims outstanding T.P.?
+Answer: 368217655 - Wrong answer
+
+Context: claims paid  T.P. : 494288639 ADFT&W/S : 134905 F+T : 368217655 ! claims outstanding  T.P. : 4441 ADFT&W/S : 5210896 F+T : 7 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 134905 f+t : 368217655 - Wrong answer
+
+Context: claims paid  T.P. : 494288639 ADFT&W/S : 134905 F+T : 368217655 ! claims outstanding  T.P. : 4441 ADFT&W/S : 5210896 F+T : 7 ! 
+Question: claims outstanding F+T?
+Answer: 368217655 - Wrong answer
+
+Context: claims paid  T.P. : 561967 F+T : 00335732 ADFT&W/S : 1178690190 ! claims outstanding  T.P. : 975 F+T : 713595946 ADFT&W/S : 118790 ! 
+Question: claims paid T.P.?
+Answer: 00335732 - Wrong answer
+
+Context: claims paid  T.P. : 561967 F+T : 00335732 ADFT&W/S : 1178690190 ! claims outstanding  T.P. : 975 F+T : 713595946 ADFT&W/S : 118790 ! 
+Question: claims paid F+T?
+Answer: 00335732
+
+Context: claims paid  T.P. : 561967 F+T : 00335732 ADFT&W/S : 1178690190 ! claims outstanding  T.P. : 975 F+T : 713595946 ADFT&W/S : 118790 ! 
+Question: claims paid ADFT&W/S?
+Answer: empty - Wrong answer
+
+Context: claims paid  T.P. : 561967 F+T : 00335732 ADFT&W/S : 1178690190 ! claims outstanding  T.P. : 975 F+T : 713595946 ADFT&W/S : 118790 ! 
+Question: claims outstanding T.P.?
+Answer: 00335732 - Wrong answer
+
+Context: claims paid  T.P. : 561967 F+T : 00335732 ADFT&W/S : 1178690190 ! claims outstanding  T.P. : 975 F+T : 713595946 ADFT&W/S : 118790 ! 
+Question: claims outstanding F+T?
+Answer: 00335732 - Wrong answer
+
+Context: claims paid  T.P. : 561967 F+T : 00335732 ADFT&W/S : 1178690190 ! claims outstanding  T.P. : 975 F+T : 713595946 ADFT&W/S : 118790 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 1178690190 - Wrong answer
+
+Context: claims paid  T.P. : 959831548 F+T : 115829 ADFT&W/S : 1089165 ! claims outstanding  T.P. : 1455588770 F+T : 057697322 ADFT&W/S : 65 ! 
+Question: claims paid T.P.?
+Answer: 1089165 - Wrong answer
+
+Context: claims paid  T.P. : 959831548 F+T : 115829 ADFT&W/S : 1089165 ! claims outstanding  T.P. : 1455588770 F+T : 057697322 ADFT&W/S : 65 ! 
+Question: claims paid F+T?
+Answer: 1089165 - Wrong answer
+
+Context: claims paid  T.P. : 959831548 F+T : 115829 ADFT&W/S : 1089165 ! claims outstanding  T.P. : 1455588770 F+T : 057697322 ADFT&W/S : 65 ! 
+Question: claims paid ADFT&W/S?
+Answer: 1089165
+
+Context: claims paid  T.P. : 959831548 F+T : 115829 ADFT&W/S : 1089165 ! claims outstanding  T.P. : 1455588770 F+T : 057697322 ADFT&W/S : 65 ! 
+Question: claims outstanding T.P.?
+Answer: 1089165 - Wrong answer
+
+Context: claims paid  T.P. : 959831548 F+T : 115829 ADFT&W/S : 1089165 ! claims outstanding  T.P. : 1455588770 F+T : 057697322 ADFT&W/S : 65 ! 
+Question: claims outstanding F+T?
+Answer: 1089165 - Wrong answer
+
+Context: claims paid  T.P. : 959831548 F+T : 115829 ADFT&W/S : 1089165 ! claims outstanding  T.P. : 1455588770 F+T : 057697322 ADFT&W/S : 65 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 65
+
+Context: claims paid  ADFT&W/S : 1670108 F+T : 6 T.P. : 21233 ! claims outstanding  ADFT&W/S : 470 F+T : 973783 T.P. : 9250849262 ! 
+Question: claims paid ADFT&W/S?
+Answer: 6 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 1670108 F+T : 6 T.P. : 21233 ! claims outstanding  ADFT&W/S : 470 F+T : 973783 T.P. : 9250849262 ! 
+Question: claims paid F+T?
+Answer: 6
+
+Context: claims paid  ADFT&W/S : 1670108 F+T : 6 T.P. : 21233 ! claims outstanding  ADFT&W/S : 470 F+T : 973783 T.P. : 9250849262 ! 
+Question: claims paid T.P.?
+Answer: 6 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 1670108 F+T : 6 T.P. : 21233 ! claims outstanding  ADFT&W/S : 470 F+T : 973783 T.P. : 9250849262 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 21233 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 1670108 F+T : 6 T.P. : 21233 ! claims outstanding  ADFT&W/S : 470 F+T : 973783 T.P. : 9250849262 ! 
+Question: claims outstanding F+T?
+Answer: 6 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 1670108 F+T : 6 T.P. : 21233 ! claims outstanding  ADFT&W/S : 470 F+T : 973783 T.P. : 9250849262 ! 
+Question: claims outstanding T.P.?
+Answer: 9250849262
+
+Context: claims paid  T.P. : 7820568460 ADFT&W/S : 24950389 F+T : 5176290 ! claims outstanding  T.P. : 515726312 ADFT&W/S : 73236457 F+T : 079327072 ! 
+Question: claims paid T.P.?
+Answer: 5176290 - Wrong answer
+
+Context: claims paid  T.P. : 7820568460 ADFT&W/S : 24950389 F+T : 5176290 ! claims outstanding  T.P. : 515726312 ADFT&W/S : 73236457 F+T : 079327072 ! 
+Question: claims paid ADFT&W/S?
+Answer: 5176290 - Wrong answer
+
+Context: claims paid  T.P. : 7820568460 ADFT&W/S : 24950389 F+T : 5176290 ! claims outstanding  T.P. : 515726312 ADFT&W/S : 73236457 F+T : 079327072 ! 
+Question: claims paid F+T?
+Answer: 5176290
+
+Context: claims paid  T.P. : 7820568460 ADFT&W/S : 24950389 F+T : 5176290 ! claims outstanding  T.P. : 515726312 ADFT&W/S : 73236457 F+T : 079327072 ! 
+Question: claims outstanding T.P.?
+Answer: 5176290 - Wrong answer
+
+Context: claims paid  T.P. : 7820568460 ADFT&W/S : 24950389 F+T : 5176290 ! claims outstanding  T.P. : 515726312 ADFT&W/S : 73236457 F+T : 079327072 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 5176290 - Wrong answer
+
+Context: claims paid  T.P. : 7820568460 ADFT&W/S : 24950389 F+T : 5176290 ! claims outstanding  T.P. : 515726312 ADFT&W/S : 73236457 F+T : 079327072 ! 
+Question: claims outstanding F+T?
+Answer: 5176290 - Wrong answer
+
+Context: claims paid  T.P. : 754 ADFT&W/S : 282873530 F+T : 0775988642 ! claims outstanding  T.P. : 802 ADFT&W/S : 1884593 F+T : 920342297 ! 
+Question: claims paid T.P.?
+Answer: 0775988642 - Wrong answer
+
+Context: claims paid  T.P. : 754 ADFT&W/S : 282873530 F+T : 0775988642 ! claims outstanding  T.P. : 802 ADFT&W/S : 1884593 F+T : 920342297 ! 
+Question: claims paid ADFT&W/S?
+Answer: 282873530
+
+Context: claims paid  T.P. : 754 ADFT&W/S : 282873530 F+T : 0775988642 ! claims outstanding  T.P. : 802 ADFT&W/S : 1884593 F+T : 920342297 ! 
+Question: claims paid F+T?
+Answer: 0775988642
+
+Context: claims paid  T.P. : 754 ADFT&W/S : 282873530 F+T : 0775988642 ! claims outstanding  T.P. : 802 ADFT&W/S : 1884593 F+T : 920342297 ! 
+Question: claims outstanding T.P.?
+Answer: 0775988642 - Wrong answer
+
+Context: claims paid  T.P. : 754 ADFT&W/S : 282873530 F+T : 0775988642 ! claims outstanding  T.P. : 802 ADFT&W/S : 1884593 F+T : 920342297 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 282873530 - Wrong answer
+
+Context: claims paid  T.P. : 754 ADFT&W/S : 282873530 F+T : 0775988642 ! claims outstanding  T.P. : 802 ADFT&W/S : 1884593 F+T : 920342297 ! 
+Question: claims outstanding F+T?
+Answer: 0775988642 - Wrong answer
+
+Context: claims paid  T.P. : 89 F+T : 87432221 ADFT&W/S : 891100469 ! claims outstanding  T.P. : 761 F+T : 75582 ADFT&W/S : 87498214 ! 
+Question: claims paid T.P.?
+Answer: 891100469 - Wrong answer
+
+Context: claims paid  T.P. : 89 F+T : 87432221 ADFT&W/S : 891100469 ! claims outstanding  T.P. : 761 F+T : 75582 ADFT&W/S : 87498214 ! 
+Question: claims paid F+T?
+Answer: 891100469 - Wrong answer
+
+Context: claims paid  T.P. : 89 F+T : 87432221 ADFT&W/S : 891100469 ! claims outstanding  T.P. : 761 F+T : 75582 ADFT&W/S : 87498214 ! 
+Question: claims paid ADFT&W/S?
+Answer: 891100469
+
+Context: claims paid  T.P. : 89 F+T : 87432221 ADFT&W/S : 891100469 ! claims outstanding  T.P. : 761 F+T : 75582 ADFT&W/S : 87498214 ! 
+Question: claims outstanding T.P.?
+Answer: 891100469 - Wrong answer
+
+Context: claims paid  T.P. : 89 F+T : 87432221 ADFT&W/S : 891100469 ! claims outstanding  T.P. : 761 F+T : 75582 ADFT&W/S : 87498214 ! 
+Question: claims outstanding F+T?
+Answer: 891100469 - Wrong answer
+
+Context: claims paid  T.P. : 89 F+T : 87432221 ADFT&W/S : 891100469 ! claims outstanding  T.P. : 761 F+T : 75582 ADFT&W/S : 87498214 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 891100469 - Wrong answer
+
+Context: claims paid  F+T : 60698893 T.P. : 74906993 ADFT&W/S : 1987350 ! claims outstanding  F+T : 16261 T.P. : 9375252 ADFT&W/S : 197120717 ! 
+Question: claims paid F+T?
+Answer: 74906993 - Wrong answer
+
+Context: claims paid  F+T : 60698893 T.P. : 74906993 ADFT&W/S : 1987350 ! claims outstanding  F+T : 16261 T.P. : 9375252 ADFT&W/S : 197120717 ! 
+Question: claims paid T.P.?
+Answer: 74906993
+
+Context: claims paid  F+T : 60698893 T.P. : 74906993 ADFT&W/S : 1987350 ! claims outstanding  F+T : 16261 T.P. : 9375252 ADFT&W/S : 197120717 ! 
+Question: claims paid ADFT&W/S?
+Answer: 1987350
+
+Context: claims paid  F+T : 60698893 T.P. : 74906993 ADFT&W/S : 1987350 ! claims outstanding  F+T : 16261 T.P. : 9375252 ADFT&W/S : 197120717 ! 
+Question: claims outstanding F+T?
+Answer: 74906993 - Wrong answer
+
+Context: claims paid  F+T : 60698893 T.P. : 74906993 ADFT&W/S : 1987350 ! claims outstanding  F+T : 16261 T.P. : 9375252 ADFT&W/S : 197120717 ! 
+Question: claims outstanding T.P.?
+Answer: 74906993 - Wrong answer
+
+Context: claims paid  F+T : 60698893 T.P. : 74906993 ADFT&W/S : 1987350 ! claims outstanding  F+T : 16261 T.P. : 9375252 ADFT&W/S : 197120717 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 74906993 - Wrong answer
+
+Context: claims paid  T.P. : 2421103390 ADFT&W/S : 18542365 F+T : 143161071 ! claims outstanding  T.P. : 617078 ADFT&W/S : 7 F+T : 9117479721 ! 
+Question: claims paid T.P.?
+Answer: 143161071 - Wrong answer
+
+Context: claims paid  T.P. : 2421103390 ADFT&W/S : 18542365 F+T : 143161071 ! claims outstanding  T.P. : 617078 ADFT&W/S : 7 F+T : 9117479721 ! 
+Question: claims paid ADFT&W/S?
+Answer: 18542365
+
+Context: claims paid  T.P. : 2421103390 ADFT&W/S : 18542365 F+T : 143161071 ! claims outstanding  T.P. : 617078 ADFT&W/S : 7 F+T : 9117479721 ! 
+Question: claims paid F+T?
+Answer: 143161071
+
+Context: claims paid  T.P. : 2421103390 ADFT&W/S : 18542365 F+T : 143161071 ! claims outstanding  T.P. : 617078 ADFT&W/S : 7 F+T : 9117479721 ! 
+Question: claims outstanding T.P.?
+Answer: 143161071 - Wrong answer
+
+Context: claims paid  T.P. : 2421103390 ADFT&W/S : 18542365 F+T : 143161071 ! claims outstanding  T.P. : 617078 ADFT&W/S : 7 F+T : 9117479721 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 18542365 - Wrong answer
+
+Context: claims paid  T.P. : 2421103390 ADFT&W/S : 18542365 F+T : 143161071 ! claims outstanding  T.P. : 617078 ADFT&W/S : 7 F+T : 9117479721 ! 
+Question: claims outstanding F+T?
+Answer: 143161071 - Wrong answer
+
+Context: claims paid  F+T : 4646549729 ADFT&W/S : 85196 T.P. : 5690557 ! claims outstanding  F+T : 846704360 ADFT&W/S : 591346553 T.P. : 01528 ! 
+Question: claims paid F+T?
+Answer: 5690557 - Wrong answer
+
+Context: claims paid  F+T : 4646549729 ADFT&W/S : 85196 T.P. : 5690557 ! claims outstanding  F+T : 846704360 ADFT&W/S : 591346553 T.P. : 01528 ! 
+Question: claims paid ADFT&W/S?
+Answer: 5690557 - Wrong answer
+
+Context: claims paid  F+T : 4646549729 ADFT&W/S : 85196 T.P. : 5690557 ! claims outstanding  F+T : 846704360 ADFT&W/S : 591346553 T.P. : 01528 ! 
+Question: claims paid T.P.?
+Answer: 5690557
+
+Context: claims paid  F+T : 4646549729 ADFT&W/S : 85196 T.P. : 5690557 ! claims outstanding  F+T : 846704360 ADFT&W/S : 591346553 T.P. : 01528 ! 
+Question: claims outstanding F+T?
+Answer: 5690557 - Wrong answer
+
+Context: claims paid  F+T : 4646549729 ADFT&W/S : 85196 T.P. : 5690557 ! claims outstanding  F+T : 846704360 ADFT&W/S : 591346553 T.P. : 01528 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 5690557 - Wrong answer
+
+Context: claims paid  F+T : 4646549729 ADFT&W/S : 85196 T.P. : 5690557 ! claims outstanding  F+T : 846704360 ADFT&W/S : 591346553 T.P. : 01528 ! 
+Question: claims outstanding T.P.?
+Answer: 5690557 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 169150112 F+T : 33 T.P. : 73059526 ! claims outstanding  ADFT&W/S : 96 F+T : 739422 T.P. : 84757 ! 
+Question: claims paid ADFT&W/S?
+Answer: 33 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 169150112 F+T : 33 T.P. : 73059526 ! claims outstanding  ADFT&W/S : 96 F+T : 739422 T.P. : 84757 ! 
+Question: claims paid F+T?
+Answer: 33
+
+Context: claims paid  ADFT&W/S : 169150112 F+T : 33 T.P. : 73059526 ! claims outstanding  ADFT&W/S : 96 F+T : 739422 T.P. : 84757 ! 
+Question: claims paid T.P.?
+Answer: 33 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 169150112 F+T : 33 T.P. : 73059526 ! claims outstanding  ADFT&W/S : 96 F+T : 739422 T.P. : 84757 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: empty - Wrong answer
+
+Context: claims paid  ADFT&W/S : 169150112 F+T : 33 T.P. : 73059526 ! claims outstanding  ADFT&W/S : 96 F+T : 739422 T.P. : 84757 ! 
+Question: claims outstanding F+T?
+Answer: 73059526 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 169150112 F+T : 33 T.P. : 73059526 ! claims outstanding  ADFT&W/S : 96 F+T : 739422 T.P. : 84757 ! 
+Question: claims outstanding T.P.?
+Answer: 73059526 - Wrong answer
+
+Context: claims paid  F+T : 11120854 T.P. : 4873304 ADFT&W/S : 2526 ! claims outstanding  F+T : 48901104 T.P. : 36818392 ADFT&W/S : 1574336066 ! 
+Question: claims paid F+T?
+Answer: 11120854
+
+Context: claims paid  F+T : 11120854 T.P. : 4873304 ADFT&W/S : 2526 ! claims outstanding  F+T : 48901104 T.P. : 36818392 ADFT&W/S : 1574336066 ! 
+Question: claims paid T.P.?
+Answer: 4873304
+
+Context: claims paid  F+T : 11120854 T.P. : 4873304 ADFT&W/S : 2526 ! claims outstanding  F+T : 48901104 T.P. : 36818392 ADFT&W/S : 1574336066 ! 
+Question: claims paid ADFT&W/S?
+Answer: empty - Wrong answer
+
+Context: claims paid  F+T : 11120854 T.P. : 4873304 ADFT&W/S : 2526 ! claims outstanding  F+T : 48901104 T.P. : 36818392 ADFT&W/S : 1574336066 ! 
+Question: claims outstanding F+T?
+Answer: 2526 ! claims outstanding f+t : 48901104 - Wrong answer
+
+Context: claims paid  F+T : 11120854 T.P. : 4873304 ADFT&W/S : 2526 ! claims outstanding  F+T : 48901104 T.P. : 36818392 ADFT&W/S : 1574336066 ! 
+Question: claims outstanding T.P.?
+Answer: 4873304 - Wrong answer
+
+Context: claims paid  F+T : 11120854 T.P. : 4873304 ADFT&W/S : 2526 ! claims outstanding  F+T : 48901104 T.P. : 36818392 ADFT&W/S : 1574336066 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 4873304 - Wrong answer
+
+Context: claims paid  F+T : 242395 T.P. : 4543323 ADFT&W/S : 805 ! claims outstanding  F+T : 31652 T.P. : 027 ADFT&W/S : 548 ! 
+Question: claims paid F+T?
+Answer: 805 - Wrong answer
+
+Context: claims paid  F+T : 242395 T.P. : 4543323 ADFT&W/S : 805 ! claims outstanding  F+T : 31652 T.P. : 027 ADFT&W/S : 548 ! 
+Question: claims paid T.P.?
+Answer: 4543323
+
+Context: claims paid  F+T : 242395 T.P. : 4543323 ADFT&W/S : 805 ! claims outstanding  F+T : 31652 T.P. : 027 ADFT&W/S : 548 ! 
+Question: claims paid ADFT&W/S?
+Answer: empty - Wrong answer
+
+Context: claims paid  F+T : 242395 T.P. : 4543323 ADFT&W/S : 805 ! claims outstanding  F+T : 31652 T.P. : 027 ADFT&W/S : 548 ! 
+Question: claims outstanding F+T?
+Answer: 805 - Wrong answer
+
+Context: claims paid  F+T : 242395 T.P. : 4543323 ADFT&W/S : 805 ! claims outstanding  F+T : 31652 T.P. : 027 ADFT&W/S : 548 ! 
+Question: claims outstanding T.P.?
+Answer: 4543323 - Wrong answer
+
+Context: claims paid  F+T : 242395 T.P. : 4543323 ADFT&W/S : 805 ! claims outstanding  F+T : 31652 T.P. : 027 ADFT&W/S : 548 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 548
+
+Context: claims paid  ADFT&W/S : 5 T.P. : 0348551 F+T : 2290631190 ! claims outstanding  ADFT&W/S : 559652 T.P. : 945773 F+T : 335189 ! 
+Question: claims paid ADFT&W/S?
+Answer: empty - Wrong answer
+
+Context: claims paid  ADFT&W/S : 5 T.P. : 0348551 F+T : 2290631190 ! claims outstanding  ADFT&W/S : 559652 T.P. : 945773 F+T : 335189 ! 
+Question: claims paid T.P.?
+Answer: 0348551 f+t : 2290631190 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 5 T.P. : 0348551 F+T : 2290631190 ! claims outstanding  ADFT&W/S : 559652 T.P. : 945773 F+T : 335189 ! 
+Question: claims paid F+T?
+Answer: 2290631190
+
+Context: claims paid  ADFT&W/S : 5 T.P. : 0348551 F+T : 2290631190 ! claims outstanding  ADFT&W/S : 559652 T.P. : 945773 F+T : 335189 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 2290631190 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 5 T.P. : 0348551 F+T : 2290631190 ! claims outstanding  ADFT&W/S : 559652 T.P. : 945773 F+T : 335189 ! 
+Question: claims outstanding T.P.?
+Answer: 2290631190 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 5 T.P. : 0348551 F+T : 2290631190 ! claims outstanding  ADFT&W/S : 559652 T.P. : 945773 F+T : 335189 ! 
+Question: claims outstanding F+T?
+Answer: 2290631190 - Wrong answer
+
+Context: claims paid  F+T : 667345 T.P. : 113832 ADFT&W/S : 62 ! claims outstanding  F+T : 86630 T.P. : 90990691 ADFT&W/S : 0881618 ! 
+Question: claims paid F+T?
+Answer: 62 - Wrong answer
+
+Context: claims paid  F+T : 667345 T.P. : 113832 ADFT&W/S : 62 ! claims outstanding  F+T : 86630 T.P. : 90990691 ADFT&W/S : 0881618 ! 
+Question: claims paid T.P.?
+Answer: 62 - Wrong answer
+
+Context: claims paid  F+T : 667345 T.P. : 113832 ADFT&W/S : 62 ! claims outstanding  F+T : 86630 T.P. : 90990691 ADFT&W/S : 0881618 ! 
+Question: claims paid ADFT&W/S?
+Answer: 62
+
+Context: claims paid  F+T : 667345 T.P. : 113832 ADFT&W/S : 62 ! claims outstanding  F+T : 86630 T.P. : 90990691 ADFT&W/S : 0881618 ! 
+Question: claims outstanding F+T?
+Answer: 62 - Wrong answer
+
+Context: claims paid  F+T : 667345 T.P. : 113832 ADFT&W/S : 62 ! claims outstanding  F+T : 86630 T.P. : 90990691 ADFT&W/S : 0881618 ! 
+Question: claims outstanding T.P.?
+Answer: empty - Wrong answer
+
+Context: claims paid  F+T : 667345 T.P. : 113832 ADFT&W/S : 62 ! claims outstanding  F+T : 86630 T.P. : 90990691 ADFT&W/S : 0881618 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 62 - Wrong answer
+
+Context: claims paid  F+T : 95 ADFT&W/S : 284 T.P. : 161024831 ! claims outstanding  F+T : 0 ADFT&W/S : 415092 T.P. : 7456 ! 
+Question: claims paid F+T?
+Answer: 95
+
+Context: claims paid  F+T : 95 ADFT&W/S : 284 T.P. : 161024831 ! claims outstanding  F+T : 0 ADFT&W/S : 415092 T.P. : 7456 ! 
+Question: claims paid ADFT&W/S?
+Answer: 95 - Wrong answer
+
+Context: claims paid  F+T : 95 ADFT&W/S : 284 T.P. : 161024831 ! claims outstanding  F+T : 0 ADFT&W/S : 415092 T.P. : 7456 ! 
+Question: claims paid T.P.?
+Answer: 161024831
+
+Context: claims paid  F+T : 95 ADFT&W/S : 284 T.P. : 161024831 ! claims outstanding  F+T : 0 ADFT&W/S : 415092 T.P. : 7456 ! 
+Question: claims outstanding F+T?
+Answer: 0
+
+Context: claims paid  F+T : 95 ADFT&W/S : 284 T.P. : 161024831 ! claims outstanding  F+T : 0 ADFT&W/S : 415092 T.P. : 7456 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 161024831 - Wrong answer
+
+Context: claims paid  F+T : 95 ADFT&W/S : 284 T.P. : 161024831 ! claims outstanding  F+T : 0 ADFT&W/S : 415092 T.P. : 7456 ! 
+Question: claims outstanding T.P.?
+Answer: 161024831 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 6 F+T : 49737770 T.P. : 2638412524 ! claims outstanding  ADFT&W/S : 49 F+T : 685 T.P. : 60 ! 
+Question: claims paid ADFT&W/S?
+Answer: 49737770 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 6 F+T : 49737770 T.P. : 2638412524 ! claims outstanding  ADFT&W/S : 49 F+T : 685 T.P. : 60 ! 
+Question: claims paid F+T?
+Answer: 49737770 t.p. : 2638412524 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 6 F+T : 49737770 T.P. : 2638412524 ! claims outstanding  ADFT&W/S : 49 F+T : 685 T.P. : 60 ! 
+Question: claims paid T.P.?
+Answer: 49737770 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 6 F+T : 49737770 T.P. : 2638412524 ! claims outstanding  ADFT&W/S : 49 F+T : 685 T.P. : 60 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 49737770 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 6 F+T : 49737770 T.P. : 2638412524 ! claims outstanding  ADFT&W/S : 49 F+T : 685 T.P. : 60 ! 
+Question: claims outstanding F+T?
+Answer: 2638412524 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 6 F+T : 49737770 T.P. : 2638412524 ! claims outstanding  ADFT&W/S : 49 F+T : 685 T.P. : 60 ! 
+Question: claims outstanding T.P.?
+Answer: 2638412524 - Wrong answer
+
+Context: claims paid  F+T : 7308 ADFT&W/S : 701 T.P. : 065131 ! claims outstanding  F+T : 312 ADFT&W/S : 955399 T.P. : 5 ! 
+Question: claims paid F+T?
+Answer: empty - Wrong answer
+
+Context: claims paid  F+T : 7308 ADFT&W/S : 701 T.P. : 065131 ! claims outstanding  F+T : 312 ADFT&W/S : 955399 T.P. : 5 ! 
+Question: claims paid ADFT&W/S?
+Answer: 065131 - Wrong answer
+
+Context: claims paid  F+T : 7308 ADFT&W/S : 701 T.P. : 065131 ! claims outstanding  F+T : 312 ADFT&W/S : 955399 T.P. : 5 ! 
+Question: claims paid T.P.?
+Answer: 5 - Wrong answer
+
+Context: claims paid  F+T : 7308 ADFT&W/S : 701 T.P. : 065131 ! claims outstanding  F+T : 312 ADFT&W/S : 955399 T.P. : 5 ! 
+Question: claims outstanding F+T?
+Answer: 312
+
+Context: claims paid  F+T : 7308 ADFT&W/S : 701 T.P. : 065131 ! claims outstanding  F+T : 312 ADFT&W/S : 955399 T.P. : 5 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 065131 - Wrong answer
+
+Context: claims paid  F+T : 7308 ADFT&W/S : 701 T.P. : 065131 ! claims outstanding  F+T : 312 ADFT&W/S : 955399 T.P. : 5 ! 
+Question: claims outstanding T.P.?
+Answer: 5
+
+Context: claims paid  ADFT&W/S : 5313996 F+T : 4 T.P. : 93823166 ! claims outstanding  ADFT&W/S : 7 F+T : 48 T.P. : 7033674836 ! 
+Question: claims paid ADFT&W/S?
+Answer: 4 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 5313996 F+T : 4 T.P. : 93823166 ! claims outstanding  ADFT&W/S : 7 F+T : 48 T.P. : 7033674836 ! 
+Question: claims paid F+T?
+Answer: 4
+
+Context: claims paid  ADFT&W/S : 5313996 F+T : 4 T.P. : 93823166 ! claims outstanding  ADFT&W/S : 7 F+T : 48 T.P. : 7033674836 ! 
+Question: claims paid T.P.?
+Answer: 4 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 5313996 F+T : 4 T.P. : 93823166 ! claims outstanding  ADFT&W/S : 7 F+T : 48 T.P. : 7033674836 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: empty - Wrong answer
+
+Context: claims paid  ADFT&W/S : 5313996 F+T : 4 T.P. : 93823166 ! claims outstanding  ADFT&W/S : 7 F+T : 48 T.P. : 7033674836 ! 
+Question: claims outstanding F+T?
+Answer: empty - Wrong answer
+
+Context: claims paid  ADFT&W/S : 5313996 F+T : 4 T.P. : 93823166 ! claims outstanding  ADFT&W/S : 7 F+T : 48 T.P. : 7033674836 ! 
+Question: claims outstanding T.P.?
+Answer: empty - Wrong answer
+
+Context: claims paid  T.P. : 96052 F+T : 1007586162 ADFT&W/S : 21965 ! claims outstanding  T.P. : 23 F+T : 22 ADFT&W/S : 1 ! 
+Question: claims paid T.P.?
+Answer: 21965 - Wrong answer
+
+Context: claims paid  T.P. : 96052 F+T : 1007586162 ADFT&W/S : 21965 ! claims outstanding  T.P. : 23 F+T : 22 ADFT&W/S : 1 ! 
+Question: claims paid F+T?
+Answer: 21965 - Wrong answer
+
+Context: claims paid  T.P. : 96052 F+T : 1007586162 ADFT&W/S : 21965 ! claims outstanding  T.P. : 23 F+T : 22 ADFT&W/S : 1 ! 
+Question: claims paid ADFT&W/S?
+Answer: 21965
+
+Context: claims paid  T.P. : 96052 F+T : 1007586162 ADFT&W/S : 21965 ! claims outstanding  T.P. : 23 F+T : 22 ADFT&W/S : 1 ! 
+Question: claims outstanding T.P.?
+Answer: 21965 - Wrong answer
+
+Context: claims paid  T.P. : 96052 F+T : 1007586162 ADFT&W/S : 21965 ! claims outstanding  T.P. : 23 F+T : 22 ADFT&W/S : 1 ! 
+Question: claims outstanding F+T?
+Answer: 21965 - Wrong answer
+
+Context: claims paid  T.P. : 96052 F+T : 1007586162 ADFT&W/S : 21965 ! claims outstanding  T.P. : 23 F+T : 22 ADFT&W/S : 1 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 21965 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 2263890419 T.P. : 757354273 F+T : 5601 ! claims outstanding  ADFT&W/S : 109 T.P. : 338603 F+T : 8194994 ! 
+Question: claims paid ADFT&W/S?
+Answer: 757354273 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 2263890419 T.P. : 757354273 F+T : 5601 ! claims outstanding  ADFT&W/S : 109 T.P. : 338603 F+T : 8194994 ! 
+Question: claims paid T.P.?
+Answer: 5601 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 2263890419 T.P. : 757354273 F+T : 5601 ! claims outstanding  ADFT&W/S : 109 T.P. : 338603 F+T : 8194994 ! 
+Question: claims paid F+T?
+Answer: 5601
+
+Context: claims paid  ADFT&W/S : 2263890419 T.P. : 757354273 F+T : 5601 ! claims outstanding  ADFT&W/S : 109 T.P. : 338603 F+T : 8194994 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 757354273 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 2263890419 T.P. : 757354273 F+T : 5601 ! claims outstanding  ADFT&W/S : 109 T.P. : 338603 F+T : 8194994 ! 
+Question: claims outstanding T.P.?
+Answer: 5601 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 2263890419 T.P. : 757354273 F+T : 5601 ! claims outstanding  ADFT&W/S : 109 T.P. : 338603 F+T : 8194994 ! 
+Question: claims outstanding F+T?
+Answer: 5601 - Wrong answer
+
+Context: claims paid  T.P. : 16 F+T : 9847 ADFT&W/S : 545224 ! claims outstanding  T.P. : 8515758 F+T : 2 ADFT&W/S : 6628 ! 
+Question: claims paid T.P.?
+Answer: 16
+
+Context: claims paid  T.P. : 16 F+T : 9847 ADFT&W/S : 545224 ! claims outstanding  T.P. : 8515758 F+T : 2 ADFT&W/S : 6628 ! 
+Question: claims paid F+T?
+Answer: 545224 - Wrong answer
+
+Context: claims paid  T.P. : 16 F+T : 9847 ADFT&W/S : 545224 ! claims outstanding  T.P. : 8515758 F+T : 2 ADFT&W/S : 6628 ! 
+Question: claims paid ADFT&W/S?
+Answer: 545224
+
+Context: claims paid  T.P. : 16 F+T : 9847 ADFT&W/S : 545224 ! claims outstanding  T.P. : 8515758 F+T : 2 ADFT&W/S : 6628 ! 
+Question: claims outstanding T.P.?
+Answer: 545224 - Wrong answer
+
+Context: claims paid  T.P. : 16 F+T : 9847 ADFT&W/S : 545224 ! claims outstanding  T.P. : 8515758 F+T : 2 ADFT&W/S : 6628 ! 
+Question: claims outstanding F+T?
+Answer: 545224 - Wrong answer
+
+Context: claims paid  T.P. : 16 F+T : 9847 ADFT&W/S : 545224 ! claims outstanding  T.P. : 8515758 F+T : 2 ADFT&W/S : 6628 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 545224 - Wrong answer
+
+Context: claims paid  F+T : 228764 T.P. : 183 ADFT&W/S : 89570673 ! claims outstanding  F+T : 4 T.P. : 18 ADFT&W/S : 32107461 ! 
+Question: claims paid F+T?
+Answer: 89570673 - Wrong answer
+
+Context: claims paid  F+T : 228764 T.P. : 183 ADFT&W/S : 89570673 ! claims outstanding  F+T : 4 T.P. : 18 ADFT&W/S : 32107461 ! 
+Question: claims paid T.P.?
+Answer: 183
+
+Context: claims paid  F+T : 228764 T.P. : 183 ADFT&W/S : 89570673 ! claims outstanding  F+T : 4 T.P. : 18 ADFT&W/S : 32107461 ! 
+Question: claims paid ADFT&W/S?
+Answer: 89570673
+
+Context: claims paid  F+T : 228764 T.P. : 183 ADFT&W/S : 89570673 ! claims outstanding  F+T : 4 T.P. : 18 ADFT&W/S : 32107461 ! 
+Question: claims outstanding F+T?
+Answer: 89570673 - Wrong answer
+
+Context: claims paid  F+T : 228764 T.P. : 183 ADFT&W/S : 89570673 ! claims outstanding  F+T : 4 T.P. : 18 ADFT&W/S : 32107461 ! 
+Question: claims outstanding T.P.?
+Answer: 183 - Wrong answer
+
+Context: claims paid  F+T : 228764 T.P. : 183 ADFT&W/S : 89570673 ! claims outstanding  F+T : 4 T.P. : 18 ADFT&W/S : 32107461 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 89570673 - Wrong answer
+
+Context: claims paid  T.P. : 6 ADFT&W/S : 464112114 F+T : 3977832 ! claims outstanding  T.P. : 759 ADFT&W/S : 0764541521 F+T : 20 ! 
+Question: claims paid T.P.?
+Answer: 3977832 - Wrong answer
+
+Context: claims paid  T.P. : 6 ADFT&W/S : 464112114 F+T : 3977832 ! claims outstanding  T.P. : 759 ADFT&W/S : 0764541521 F+T : 20 ! 
+Question: claims paid ADFT&W/S?
+Answer: 464112114
+
+Context: claims paid  T.P. : 6 ADFT&W/S : 464112114 F+T : 3977832 ! claims outstanding  T.P. : 759 ADFT&W/S : 0764541521 F+T : 20 ! 
+Question: claims paid F+T?
+Answer: 3977832
+
+Context: claims paid  T.P. : 6 ADFT&W/S : 464112114 F+T : 3977832 ! claims outstanding  T.P. : 759 ADFT&W/S : 0764541521 F+T : 20 ! 
+Question: claims outstanding T.P.?
+Answer: 3977832 - Wrong answer
+
+Context: claims paid  T.P. : 6 ADFT&W/S : 464112114 F+T : 3977832 ! claims outstanding  T.P. : 759 ADFT&W/S : 0764541521 F+T : 20 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 464112114 - Wrong answer
+
+Context: claims paid  T.P. : 6 ADFT&W/S : 464112114 F+T : 3977832 ! claims outstanding  T.P. : 759 ADFT&W/S : 0764541521 F+T : 20 ! 
+Question: claims outstanding F+T?
+Answer: 3977832 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 3 F+T : 7315 T.P. : 3699 ! claims outstanding  ADFT&W/S : 45658 F+T : 7571539 T.P. : 921 ! 
+Question: claims paid ADFT&W/S?
+Answer: 7315 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 3 F+T : 7315 T.P. : 3699 ! claims outstanding  ADFT&W/S : 45658 F+T : 7571539 T.P. : 921 ! 
+Question: claims paid F+T?
+Answer: 3699 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 3 F+T : 7315 T.P. : 3699 ! claims outstanding  ADFT&W/S : 45658 F+T : 7571539 T.P. : 921 ! 
+Question: claims paid T.P.?
+Answer: 3699
+
+Context: claims paid  ADFT&W/S : 3 F+T : 7315 T.P. : 3699 ! claims outstanding  ADFT&W/S : 45658 F+T : 7571539 T.P. : 921 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: empty - Wrong answer
+
+Context: claims paid  ADFT&W/S : 3 F+T : 7315 T.P. : 3699 ! claims outstanding  ADFT&W/S : 45658 F+T : 7571539 T.P. : 921 ! 
+Question: claims outstanding F+T?
+Answer: 3699 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 3 F+T : 7315 T.P. : 3699 ! claims outstanding  ADFT&W/S : 45658 F+T : 7571539 T.P. : 921 ! 
+Question: claims outstanding T.P.?
+Answer: empty - Wrong answer
+
+Context: claims paid  T.P. : 3643 ADFT&W/S : 23875 F+T : 6324080666 ! claims outstanding  T.P. : 0808285487 ADFT&W/S : 78 F+T : 67 ! 
+Question: claims paid T.P.?
+Answer: 6324080666 - Wrong answer
+
+Context: claims paid  T.P. : 3643 ADFT&W/S : 23875 F+T : 6324080666 ! claims outstanding  T.P. : 0808285487 ADFT&W/S : 78 F+T : 67 ! 
+Question: claims paid ADFT&W/S?
+Answer: 23875
+
+Context: claims paid  T.P. : 3643 ADFT&W/S : 23875 F+T : 6324080666 ! claims outstanding  T.P. : 0808285487 ADFT&W/S : 78 F+T : 67 ! 
+Question: claims paid F+T?
+Answer: 6324080666
+
+Context: claims paid  T.P. : 3643 ADFT&W/S : 23875 F+T : 6324080666 ! claims outstanding  T.P. : 0808285487 ADFT&W/S : 78 F+T : 67 ! 
+Question: claims outstanding T.P.?
+Answer: 6324080666 - Wrong answer
+
+Context: claims paid  T.P. : 3643 ADFT&W/S : 23875 F+T : 6324080666 ! claims outstanding  T.P. : 0808285487 ADFT&W/S : 78 F+T : 67 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 23875 - Wrong answer
+
+Context: claims paid  T.P. : 3643 ADFT&W/S : 23875 F+T : 6324080666 ! claims outstanding  T.P. : 0808285487 ADFT&W/S : 78 F+T : 67 ! 
+Question: claims outstanding F+T?
+Answer: 6324080666 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 2732 F+T : 9801083636 T.P. : 5535 ! claims outstanding  ADFT&W/S : 566672 F+T : 578802 T.P. : 31569 ! 
+Question: claims paid ADFT&W/S?
+Answer: 9801083636 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 2732 F+T : 9801083636 T.P. : 5535 ! claims outstanding  ADFT&W/S : 566672 F+T : 578802 T.P. : 31569 ! 
+Question: claims paid F+T?
+Answer: 9801083636
+
+Context: claims paid  ADFT&W/S : 2732 F+T : 9801083636 T.P. : 5535 ! claims outstanding  ADFT&W/S : 566672 F+T : 578802 T.P. : 31569 ! 
+Question: claims paid T.P.?
+Answer: empty - Wrong answer
+
+Context: claims paid  ADFT&W/S : 2732 F+T : 9801083636 T.P. : 5535 ! claims outstanding  ADFT&W/S : 566672 F+T : 578802 T.P. : 31569 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 5535 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 2732 F+T : 9801083636 T.P. : 5535 ! claims outstanding  ADFT&W/S : 566672 F+T : 578802 T.P. : 31569 ! 
+Question: claims outstanding F+T?
+Answer: 5535 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 2732 F+T : 9801083636 T.P. : 5535 ! claims outstanding  ADFT&W/S : 566672 F+T : 578802 T.P. : 31569 ! 
+Question: claims outstanding T.P.?
+Answer: 5535 - Wrong answer
+
+Context: claims paid  F+T : 24486584 ADFT&W/S : 44708 T.P. : 9 ! claims outstanding  F+T : 38981 ADFT&W/S : 46696201 T.P. : 4 ! 
+Question: claims paid F+T?
+Answer: 9 - Wrong answer
+
+Context: claims paid  F+T : 24486584 ADFT&W/S : 44708 T.P. : 9 ! claims outstanding  F+T : 38981 ADFT&W/S : 46696201 T.P. : 4 ! 
+Question: claims paid ADFT&W/S?
+Answer: 9 - Wrong answer
+
+Context: claims paid  F+T : 24486584 ADFT&W/S : 44708 T.P. : 9 ! claims outstanding  F+T : 38981 ADFT&W/S : 46696201 T.P. : 4 ! 
+Question: claims paid T.P.?
+Answer: 9
+
+Context: claims paid  F+T : 24486584 ADFT&W/S : 44708 T.P. : 9 ! claims outstanding  F+T : 38981 ADFT&W/S : 46696201 T.P. : 4 ! 
+Question: claims outstanding F+T?
+Answer: 9 - Wrong answer
+
+Context: claims paid  F+T : 24486584 ADFT&W/S : 44708 T.P. : 9 ! claims outstanding  F+T : 38981 ADFT&W/S : 46696201 T.P. : 4 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 9 - Wrong answer
+
+Context: claims paid  F+T : 24486584 ADFT&W/S : 44708 T.P. : 9 ! claims outstanding  F+T : 38981 ADFT&W/S : 46696201 T.P. : 4 ! 
+Question: claims outstanding T.P.?
+Answer: 9 - Wrong answer
+
+Context: claims paid  T.P. : 7520 ADFT&W/S : 783571 F+T : 619 ! claims outstanding  T.P. : 72 ADFT&W/S : 3185965 F+T : 41784003 ! 
+Question: claims paid T.P.?
+Answer: 619 - Wrong answer
+
+Context: claims paid  T.P. : 7520 ADFT&W/S : 783571 F+T : 619 ! claims outstanding  T.P. : 72 ADFT&W/S : 3185965 F+T : 41784003 ! 
+Question: claims paid ADFT&W/S?
+Answer: 783571
+
+Context: claims paid  T.P. : 7520 ADFT&W/S : 783571 F+T : 619 ! claims outstanding  T.P. : 72 ADFT&W/S : 3185965 F+T : 41784003 ! 
+Question: claims paid F+T?
+Answer: 619
+
+Context: claims paid  T.P. : 7520 ADFT&W/S : 783571 F+T : 619 ! claims outstanding  T.P. : 72 ADFT&W/S : 3185965 F+T : 41784003 ! 
+Question: claims outstanding T.P.?
+Answer: empty - Wrong answer
+
+Context: claims paid  T.P. : 7520 ADFT&W/S : 783571 F+T : 619 ! claims outstanding  T.P. : 72 ADFT&W/S : 3185965 F+T : 41784003 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 783571 - Wrong answer
+
+Context: claims paid  T.P. : 7520 ADFT&W/S : 783571 F+T : 619 ! claims outstanding  T.P. : 72 ADFT&W/S : 3185965 F+T : 41784003 ! 
+Question: claims outstanding F+T?
+Answer: 41784003
+
+Context: claims paid  T.P. : 86511 F+T : 7747 ADFT&W/S : 1 ! claims outstanding  T.P. : 28725262 F+T : 265408 ADFT&W/S : 8165706221 ! 
+Question: claims paid T.P.?
+Answer: 1 - Wrong answer
+
+Context: claims paid  T.P. : 86511 F+T : 7747 ADFT&W/S : 1 ! claims outstanding  T.P. : 28725262 F+T : 265408 ADFT&W/S : 8165706221 ! 
+Question: claims paid F+T?
+Answer: 1 - Wrong answer
+
+Context: claims paid  T.P. : 86511 F+T : 7747 ADFT&W/S : 1 ! claims outstanding  T.P. : 28725262 F+T : 265408 ADFT&W/S : 8165706221 ! 
+Question: claims paid ADFT&W/S?
+Answer: 1
+
+Context: claims paid  T.P. : 86511 F+T : 7747 ADFT&W/S : 1 ! claims outstanding  T.P. : 28725262 F+T : 265408 ADFT&W/S : 8165706221 ! 
+Question: claims outstanding T.P.?
+Answer: empty - Wrong answer
+
+Context: claims paid  T.P. : 86511 F+T : 7747 ADFT&W/S : 1 ! claims outstanding  T.P. : 28725262 F+T : 265408 ADFT&W/S : 8165706221 ! 
+Question: claims outstanding F+T?
+Answer: empty - Wrong answer
+
+Context: claims paid  T.P. : 86511 F+T : 7747 ADFT&W/S : 1 ! claims outstanding  T.P. : 28725262 F+T : 265408 ADFT&W/S : 8165706221 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 1 - Wrong answer
+
+Context: claims paid  T.P. : 92192468 ADFT&W/S : 2 F+T : 18194 ! claims outstanding  T.P. : 0 ADFT&W/S : 1 F+T : 4443 ! 
+Question: claims paid T.P.?
+Answer: 18194 - Wrong answer
+
+Context: claims paid  T.P. : 92192468 ADFT&W/S : 2 F+T : 18194 ! claims outstanding  T.P. : 0 ADFT&W/S : 1 F+T : 4443 ! 
+Question: claims paid ADFT&W/S?
+Answer: 2
+
+Context: claims paid  T.P. : 92192468 ADFT&W/S : 2 F+T : 18194 ! claims outstanding  T.P. : 0 ADFT&W/S : 1 F+T : 4443 ! 
+Question: claims paid F+T?
+Answer: 18194
+
+Context: claims paid  T.P. : 92192468 ADFT&W/S : 2 F+T : 18194 ! claims outstanding  T.P. : 0 ADFT&W/S : 1 F+T : 4443 ! 
+Question: claims outstanding T.P.?
+Answer: 18194 - Wrong answer
+
+Context: claims paid  T.P. : 92192468 ADFT&W/S : 2 F+T : 18194 ! claims outstanding  T.P. : 0 ADFT&W/S : 1 F+T : 4443 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 2 - Wrong answer
+
+Context: claims paid  T.P. : 92192468 ADFT&W/S : 2 F+T : 18194 ! claims outstanding  T.P. : 0 ADFT&W/S : 1 F+T : 4443 ! 
+Question: claims outstanding F+T?
+Answer: 18194 - Wrong answer
+
+Context: claims paid  F+T : 360128559 ADFT&W/S : 348 T.P. : 5 ! claims outstanding  F+T : 537 ADFT&W/S : 7896494 T.P. : 04891165 ! 
+Question: claims paid F+T?
+Answer: 5 - Wrong answer
+
+Context: claims paid  F+T : 360128559 ADFT&W/S : 348 T.P. : 5 ! claims outstanding  F+T : 537 ADFT&W/S : 7896494 T.P. : 04891165 ! 
+Question: claims paid ADFT&W/S?
+Answer: 5 - Wrong answer
+
+Context: claims paid  F+T : 360128559 ADFT&W/S : 348 T.P. : 5 ! claims outstanding  F+T : 537 ADFT&W/S : 7896494 T.P. : 04891165 ! 
+Question: claims paid T.P.?
+Answer: 5
+
+Context: claims paid  F+T : 360128559 ADFT&W/S : 348 T.P. : 5 ! claims outstanding  F+T : 537 ADFT&W/S : 7896494 T.P. : 04891165 ! 
+Question: claims outstanding F+T?
+Answer: empty - Wrong answer
+
+Context: claims paid  F+T : 360128559 ADFT&W/S : 348 T.P. : 5 ! claims outstanding  F+T : 537 ADFT&W/S : 7896494 T.P. : 04891165 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 5 - Wrong answer
+
+Context: claims paid  F+T : 360128559 ADFT&W/S : 348 T.P. : 5 ! claims outstanding  F+T : 537 ADFT&W/S : 7896494 T.P. : 04891165 ! 
+Question: claims outstanding T.P.?
+Answer: 5 - Wrong answer
+
+Context: claims paid  F+T : 47 ADFT&W/S : 0618057302 T.P. : 98 ! claims outstanding  F+T : 7719 ADFT&W/S : 445005 T.P. : 61738969 ! 
+Question: claims paid F+T?
+Answer: 98 - Wrong answer
+
+Context: claims paid  F+T : 47 ADFT&W/S : 0618057302 T.P. : 98 ! claims outstanding  F+T : 7719 ADFT&W/S : 445005 T.P. : 61738969 ! 
+Question: claims paid ADFT&W/S?
+Answer: 98 - Wrong answer
+
+Context: claims paid  F+T : 47 ADFT&W/S : 0618057302 T.P. : 98 ! claims outstanding  F+T : 7719 ADFT&W/S : 445005 T.P. : 61738969 ! 
+Question: claims paid T.P.?
+Answer: 98
+
+Context: claims paid  F+T : 47 ADFT&W/S : 0618057302 T.P. : 98 ! claims outstanding  F+T : 7719 ADFT&W/S : 445005 T.P. : 61738969 ! 
+Question: claims outstanding F+T?
+Answer: empty - Wrong answer
+
+Context: claims paid  F+T : 47 ADFT&W/S : 0618057302 T.P. : 98 ! claims outstanding  F+T : 7719 ADFT&W/S : 445005 T.P. : 61738969 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 98 - Wrong answer
+
+Context: claims paid  F+T : 47 ADFT&W/S : 0618057302 T.P. : 98 ! claims outstanding  F+T : 7719 ADFT&W/S : 445005 T.P. : 61738969 ! 
+Question: claims outstanding T.P.?
+Answer: empty - Wrong answer
+
+Context: claims paid  ADFT&W/S : 8232342717 T.P. : 0363442438 F+T : 4040802 ! claims outstanding  ADFT&W/S : 7146761 T.P. : 74 F+T : 22 ! 
+Question: claims paid ADFT&W/S?
+Answer: 4040802 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 8232342717 T.P. : 0363442438 F+T : 4040802 ! claims outstanding  ADFT&W/S : 7146761 T.P. : 74 F+T : 22 ! 
+Question: claims paid T.P.?
+Answer: 4040802 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 8232342717 T.P. : 0363442438 F+T : 4040802 ! claims outstanding  ADFT&W/S : 7146761 T.P. : 74 F+T : 22 ! 
+Question: claims paid F+T?
+Answer: empty - Wrong answer
+
+Context: claims paid  ADFT&W/S : 8232342717 T.P. : 0363442438 F+T : 4040802 ! claims outstanding  ADFT&W/S : 7146761 T.P. : 74 F+T : 22 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 4040802 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 8232342717 T.P. : 0363442438 F+T : 4040802 ! claims outstanding  ADFT&W/S : 7146761 T.P. : 74 F+T : 22 ! 
+Question: claims outstanding T.P.?
+Answer: 4040802 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 8232342717 T.P. : 0363442438 F+T : 4040802 ! claims outstanding  ADFT&W/S : 7146761 T.P. : 74 F+T : 22 ! 
+Question: claims outstanding F+T?
+Answer: empty - Wrong answer
+
+Context: claims paid  F+T : 922 ADFT&W/S : 344647207 T.P. : 6980398776 ! claims outstanding  F+T : 5522957529 ADFT&W/S : 686558 T.P. : 79 ! 
+Question: claims paid F+T?
+Answer: 6980398776 - Wrong answer
+
+Context: claims paid  F+T : 922 ADFT&W/S : 344647207 T.P. : 6980398776 ! claims outstanding  F+T : 5522957529 ADFT&W/S : 686558 T.P. : 79 ! 
+Question: claims paid ADFT&W/S?
+Answer: 344647207
+
+Context: claims paid  F+T : 922 ADFT&W/S : 344647207 T.P. : 6980398776 ! claims outstanding  F+T : 5522957529 ADFT&W/S : 686558 T.P. : 79 ! 
+Question: claims paid T.P.?
+Answer: 6980398776
+
+Context: claims paid  F+T : 922 ADFT&W/S : 344647207 T.P. : 6980398776 ! claims outstanding  F+T : 5522957529 ADFT&W/S : 686558 T.P. : 79 ! 
+Question: claims outstanding F+T?
+Answer: 6980398776 - Wrong answer
+
+Context: claims paid  F+T : 922 ADFT&W/S : 344647207 T.P. : 6980398776 ! claims outstanding  F+T : 5522957529 ADFT&W/S : 686558 T.P. : 79 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 6980398776 ! claims outstanding f+t : 5522957529 - Wrong answer
+
+Context: claims paid  F+T : 922 ADFT&W/S : 344647207 T.P. : 6980398776 ! claims outstanding  F+T : 5522957529 ADFT&W/S : 686558 T.P. : 79 ! 
+Question: claims outstanding T.P.?
+Answer: empty - Wrong answer
+
+Context: claims paid  T.P. : 160098 F+T : 42496 ADFT&W/S : 2678972 ! claims outstanding  T.P. : 108293 F+T : 7040176935 ADFT&W/S : 4301313 ! 
+Question: claims paid T.P.?
+Answer: empty - Wrong answer
+
+Context: claims paid  T.P. : 160098 F+T : 42496 ADFT&W/S : 2678972 ! claims outstanding  T.P. : 108293 F+T : 7040176935 ADFT&W/S : 4301313 ! 
+Question: claims paid F+T?
+Answer: 2678972 - Wrong answer
+
+Context: claims paid  T.P. : 160098 F+T : 42496 ADFT&W/S : 2678972 ! claims outstanding  T.P. : 108293 F+T : 7040176935 ADFT&W/S : 4301313 ! 
+Question: claims paid ADFT&W/S?
+Answer: 2678972
+
+Context: claims paid  T.P. : 160098 F+T : 42496 ADFT&W/S : 2678972 ! claims outstanding  T.P. : 108293 F+T : 7040176935 ADFT&W/S : 4301313 ! 
+Question: claims outstanding T.P.?
+Answer: 2678972 - Wrong answer
+
+Context: claims paid  T.P. : 160098 F+T : 42496 ADFT&W/S : 2678972 ! claims outstanding  T.P. : 108293 F+T : 7040176935 ADFT&W/S : 4301313 ! 
+Question: claims outstanding F+T?
+Answer: 2678972 - Wrong answer
+
+Context: claims paid  T.P. : 160098 F+T : 42496 ADFT&W/S : 2678972 ! claims outstanding  T.P. : 108293 F+T : 7040176935 ADFT&W/S : 4301313 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 2678972 - Wrong answer
+
+Context: claims paid  T.P. : 320347981 ADFT&W/S : 94 F+T : 10711 ! claims outstanding  T.P. : 0 ADFT&W/S : 2566262170 F+T : 3793583224 ! 
+Question: claims paid T.P.?
+Answer: empty - Wrong answer
+
+Context: claims paid  T.P. : 320347981 ADFT&W/S : 94 F+T : 10711 ! claims outstanding  T.P. : 0 ADFT&W/S : 2566262170 F+T : 3793583224 ! 
+Question: claims paid ADFT&W/S?
+Answer: 94
+
+Context: claims paid  T.P. : 320347981 ADFT&W/S : 94 F+T : 10711 ! claims outstanding  T.P. : 0 ADFT&W/S : 2566262170 F+T : 3793583224 ! 
+Question: claims paid F+T?
+Answer: 10711
+
+Context: claims paid  T.P. : 320347981 ADFT&W/S : 94 F+T : 10711 ! claims outstanding  T.P. : 0 ADFT&W/S : 2566262170 F+T : 3793583224 ! 
+Question: claims outstanding T.P.?
+Answer: 0
+
+Context: claims paid  T.P. : 320347981 ADFT&W/S : 94 F+T : 10711 ! claims outstanding  T.P. : 0 ADFT&W/S : 2566262170 F+T : 3793583224 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 94 - Wrong answer
+
+Context: claims paid  T.P. : 320347981 ADFT&W/S : 94 F+T : 10711 ! claims outstanding  T.P. : 0 ADFT&W/S : 2566262170 F+T : 3793583224 ! 
+Question: claims outstanding F+T?
+Answer: 3793583224
+
+Context: claims paid  F+T : 039993 ADFT&W/S : 7 T.P. : 9679 ! claims outstanding  F+T : 71384 ADFT&W/S : 9311200 T.P. : 4153963732 ! 
+Question: claims paid F+T?
+Answer: 9679 - Wrong answer
+
+Context: claims paid  F+T : 039993 ADFT&W/S : 7 T.P. : 9679 ! claims outstanding  F+T : 71384 ADFT&W/S : 9311200 T.P. : 4153963732 ! 
+Question: claims paid ADFT&W/S?
+Answer: 7
+
+Context: claims paid  F+T : 039993 ADFT&W/S : 7 T.P. : 9679 ! claims outstanding  F+T : 71384 ADFT&W/S : 9311200 T.P. : 4153963732 ! 
+Question: claims paid T.P.?
+Answer: 9679
+
+Context: claims paid  F+T : 039993 ADFT&W/S : 7 T.P. : 9679 ! claims outstanding  F+T : 71384 ADFT&W/S : 9311200 T.P. : 4153963732 ! 
+Question: claims outstanding F+T?
+Answer: 9679 - Wrong answer
+
+Context: claims paid  F+T : 039993 ADFT&W/S : 7 T.P. : 9679 ! claims outstanding  F+T : 71384 ADFT&W/S : 9311200 T.P. : 4153963732 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: empty - Wrong answer
+
+Context: claims paid  F+T : 039993 ADFT&W/S : 7 T.P. : 9679 ! claims outstanding  F+T : 71384 ADFT&W/S : 9311200 T.P. : 4153963732 ! 
+Question: claims outstanding T.P.?
+Answer: 9679 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 2 T.P. : 789 F+T : 38348 ! claims outstanding  ADFT&W/S : 4531592 T.P. : 87203402 F+T : 5713 ! 
+Question: claims paid ADFT&W/S?
+Answer: 38348 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 2 T.P. : 789 F+T : 38348 ! claims outstanding  ADFT&W/S : 4531592 T.P. : 87203402 F+T : 5713 ! 
+Question: claims paid T.P.?
+Answer: 38348 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 2 T.P. : 789 F+T : 38348 ! claims outstanding  ADFT&W/S : 4531592 T.P. : 87203402 F+T : 5713 ! 
+Question: claims paid F+T?
+Answer: 38348
+
+Context: claims paid  ADFT&W/S : 2 T.P. : 789 F+T : 38348 ! claims outstanding  ADFT&W/S : 4531592 T.P. : 87203402 F+T : 5713 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 38348 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 2 T.P. : 789 F+T : 38348 ! claims outstanding  ADFT&W/S : 4531592 T.P. : 87203402 F+T : 5713 ! 
+Question: claims outstanding T.P.?
+Answer: 38348 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 2 T.P. : 789 F+T : 38348 ! claims outstanding  ADFT&W/S : 4531592 T.P. : 87203402 F+T : 5713 ! 
+Question: claims outstanding F+T?
+Answer: empty - Wrong answer
+
+Context: claims paid  F+T : 7657013985 ADFT&W/S : 43938571 T.P. : 3693552970 ! claims outstanding  F+T : 18071124 ADFT&W/S : 2897582952 T.P. : 36788 ! 
+Question: claims paid F+T?
+Answer: 3693552970 - Wrong answer
+
+Context: claims paid  F+T : 7657013985 ADFT&W/S : 43938571 T.P. : 3693552970 ! claims outstanding  F+T : 18071124 ADFT&W/S : 2897582952 T.P. : 36788 ! 
+Question: claims paid ADFT&W/S?
+Answer: 43938571
+
+Context: claims paid  F+T : 7657013985 ADFT&W/S : 43938571 T.P. : 3693552970 ! claims outstanding  F+T : 18071124 ADFT&W/S : 2897582952 T.P. : 36788 ! 
+Question: claims paid T.P.?
+Answer: 3693552970
+
+Context: claims paid  F+T : 7657013985 ADFT&W/S : 43938571 T.P. : 3693552970 ! claims outstanding  F+T : 18071124 ADFT&W/S : 2897582952 T.P. : 36788 ! 
+Question: claims outstanding F+T?
+Answer: 3693552970 - Wrong answer
+
+Context: claims paid  F+T : 7657013985 ADFT&W/S : 43938571 T.P. : 3693552970 ! claims outstanding  F+T : 18071124 ADFT&W/S : 2897582952 T.P. : 36788 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 3693552970 - Wrong answer
+
+Context: claims paid  F+T : 7657013985 ADFT&W/S : 43938571 T.P. : 3693552970 ! claims outstanding  F+T : 18071124 ADFT&W/S : 2897582952 T.P. : 36788 ! 
+Question: claims outstanding T.P.?
+Answer: 18071124 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 6866 T.P. : 2016800369 F+T : 49685615 ! claims outstanding  ADFT&W/S : 29 T.P. : 35 F+T : 1844350509 ! 
+Question: claims paid ADFT&W/S?
+Answer: 49685615 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 6866 T.P. : 2016800369 F+T : 49685615 ! claims outstanding  ADFT&W/S : 29 T.P. : 35 F+T : 1844350509 ! 
+Question: claims paid T.P.?
+Answer: 49685615 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 6866 T.P. : 2016800369 F+T : 49685615 ! claims outstanding  ADFT&W/S : 29 T.P. : 35 F+T : 1844350509 ! 
+Question: claims paid F+T?
+Answer: 49685615
+
+Context: claims paid  ADFT&W/S : 6866 T.P. : 2016800369 F+T : 49685615 ! claims outstanding  ADFT&W/S : 29 T.P. : 35 F+T : 1844350509 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 49685615 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 6866 T.P. : 2016800369 F+T : 49685615 ! claims outstanding  ADFT&W/S : 29 T.P. : 35 F+T : 1844350509 ! 
+Question: claims outstanding T.P.?
+Answer: empty - Wrong answer
+
+Context: claims paid  ADFT&W/S : 6866 T.P. : 2016800369 F+T : 49685615 ! claims outstanding  ADFT&W/S : 29 T.P. : 35 F+T : 1844350509 ! 
+Question: claims outstanding F+T?
+Answer: 49685615 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 148596 F+T : 55872410 T.P. : 4309469033 ! claims outstanding  ADFT&W/S : 914286980 F+T : 3 T.P. : 0488 ! 
+Question: claims paid ADFT&W/S?
+Answer: 55872410 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 148596 F+T : 55872410 T.P. : 4309469033 ! claims outstanding  ADFT&W/S : 914286980 F+T : 3 T.P. : 0488 ! 
+Question: claims paid F+T?
+Answer: 55872410
+
+Context: claims paid  ADFT&W/S : 148596 F+T : 55872410 T.P. : 4309469033 ! claims outstanding  ADFT&W/S : 914286980 F+T : 3 T.P. : 0488 ! 
+Question: claims paid T.P.?
+Answer: 55872410 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 148596 F+T : 55872410 T.P. : 4309469033 ! claims outstanding  ADFT&W/S : 914286980 F+T : 3 T.P. : 0488 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 55872410 - Wrong answer
+
+Context: claims paid  ADFT&W/S : 148596 F+T : 55872410 T.P. : 4309469033 ! claims outstanding  ADFT&W/S : 914286980 F+T : 3 T.P. : 0488 ! 
+Question: claims outstanding F+T?
+Answer: empty - Wrong answer
+
+Context: claims paid  ADFT&W/S : 148596 F+T : 55872410 T.P. : 4309469033 ! claims outstanding  ADFT&W/S : 914286980 F+T : 3 T.P. : 0488 ! 
+Question: claims outstanding T.P.?
+Answer: 55872410 - Wrong answer
+
+Context: claims paid  T.P. : 65857 F+T : 32 ADFT&W/S : 7590923 ! claims outstanding  T.P. : 84 F+T : 291976743 ADFT&W/S : 01871641 ! 
+Question: claims paid T.P.?
+Answer: 7590923 - Wrong answer
+
+Context: claims paid  T.P. : 65857 F+T : 32 ADFT&W/S : 7590923 ! claims outstanding  T.P. : 84 F+T : 291976743 ADFT&W/S : 01871641 ! 
+Question: claims paid F+T?
+Answer: 7590923 - Wrong answer
+
+Context: claims paid  T.P. : 65857 F+T : 32 ADFT&W/S : 7590923 ! claims outstanding  T.P. : 84 F+T : 291976743 ADFT&W/S : 01871641 ! 
+Question: claims paid ADFT&W/S?
+Answer: 7590923
+
+Context: claims paid  T.P. : 65857 F+T : 32 ADFT&W/S : 7590923 ! claims outstanding  T.P. : 84 F+T : 291976743 ADFT&W/S : 01871641 ! 
+Question: claims outstanding T.P.?
+Answer: 7590923 - Wrong answer
+
+Context: claims paid  T.P. : 65857 F+T : 32 ADFT&W/S : 7590923 ! claims outstanding  T.P. : 84 F+T : 291976743 ADFT&W/S : 01871641 ! 
+Question: claims outstanding F+T?
+Answer: 7590923 - Wrong answer
+
+Context: claims paid  T.P. : 65857 F+T : 32 ADFT&W/S : 7590923 ! claims outstanding  T.P. : 84 F+T : 291976743 ADFT&W/S : 01871641 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 7590923 - Wrong answer
+
+Context: claims paid  F+T : 2798 T.P. : 067177126 ADFT&W/S : 081198 ! claims outstanding  F+T : 1762 T.P. : 624 ADFT&W/S : 65072299 ! 
+Question: claims paid F+T?
+Answer: 081198 - Wrong answer
+
+Context: claims paid  F+T : 2798 T.P. : 067177126 ADFT&W/S : 081198 ! claims outstanding  F+T : 1762 T.P. : 624 ADFT&W/S : 65072299 ! 
+Question: claims paid T.P.?
+Answer: 067177126
+
+Context: claims paid  F+T : 2798 T.P. : 067177126 ADFT&W/S : 081198 ! claims outstanding  F+T : 1762 T.P. : 624 ADFT&W/S : 65072299 ! 
+Question: claims paid ADFT&W/S?
+Answer: empty - Wrong answer
+
+Context: claims paid  F+T : 2798 T.P. : 067177126 ADFT&W/S : 081198 ! claims outstanding  F+T : 1762 T.P. : 624 ADFT&W/S : 65072299 ! 
+Question: claims outstanding F+T?
+Answer: 081198 - Wrong answer
+
+Context: claims paid  F+T : 2798 T.P. : 067177126 ADFT&W/S : 081198 ! claims outstanding  F+T : 1762 T.P. : 624 ADFT&W/S : 65072299 ! 
+Question: claims outstanding T.P.?
+Answer: 067177126 - Wrong answer
+
+Context: claims paid  F+T : 2798 T.P. : 067177126 ADFT&W/S : 081198 ! claims outstanding  F+T : 1762 T.P. : 624 ADFT&W/S : 65072299 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: empty - Wrong answer
+
+Context: claims paid  F+T : 75543 ADFT&W/S : 6207 T.P. : 028673887 ! claims outstanding  F+T : 951930 ADFT&W/S : 883508643 T.P. : 99288 ! 
+Question: claims paid F+T?
+Answer: 028673887 - Wrong answer
+
+Context: claims paid  F+T : 75543 ADFT&W/S : 6207 T.P. : 028673887 ! claims outstanding  F+T : 951930 ADFT&W/S : 883508643 T.P. : 99288 ! 
+Question: claims paid ADFT&W/S?
+Answer: 6207 t.p. : 028673887 - Wrong answer
+
+Context: claims paid  F+T : 75543 ADFT&W/S : 6207 T.P. : 028673887 ! claims outstanding  F+T : 951930 ADFT&W/S : 883508643 T.P. : 99288 ! 
+Question: claims paid T.P.?
+Answer: 028673887
+
+Context: claims paid  F+T : 75543 ADFT&W/S : 6207 T.P. : 028673887 ! claims outstanding  F+T : 951930 ADFT&W/S : 883508643 T.P. : 99288 ! 
+Question: claims outstanding F+T?
+Answer: 028673887 - Wrong answer
+
+Context: claims paid  F+T : 75543 ADFT&W/S : 6207 T.P. : 028673887 ! claims outstanding  F+T : 951930 ADFT&W/S : 883508643 T.P. : 99288 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 028673887 - Wrong answer
+
+Context: claims paid  F+T : 75543 ADFT&W/S : 6207 T.P. : 028673887 ! claims outstanding  F+T : 951930 ADFT&W/S : 883508643 T.P. : 99288 ! 
+Question: claims outstanding T.P.?
+Answer: 028673887 - Wrong answer
+
+Context: claims paid  T.P. : 63 ADFT&W/S : 733376 F+T : 899 ! claims outstanding  T.P. : 452816 ADFT&W/S : 69065 F+T : 318403708 ! 
+Question: claims paid T.P.?
+Answer: 63
+
+Context: claims paid  T.P. : 63 ADFT&W/S : 733376 F+T : 899 ! claims outstanding  T.P. : 452816 ADFT&W/S : 69065 F+T : 318403708 ! 
+Question: claims paid ADFT&W/S?
+Answer: 733376
+
+Context: claims paid  T.P. : 63 ADFT&W/S : 733376 F+T : 899 ! claims outstanding  T.P. : 452816 ADFT&W/S : 69065 F+T : 318403708 ! 
+Question: claims paid F+T?
+Answer: 899
+
+Context: claims paid  T.P. : 63 ADFT&W/S : 733376 F+T : 899 ! claims outstanding  T.P. : 452816 ADFT&W/S : 69065 F+T : 318403708 ! 
+Question: claims outstanding T.P.?
+Answer: 899 - Wrong answer
+
+Context: claims paid  T.P. : 63 ADFT&W/S : 733376 F+T : 899 ! claims outstanding  T.P. : 452816 ADFT&W/S : 69065 F+T : 318403708 ! 
+Question: claims outstanding ADFT&W/S?
+Answer: 733376 - Wrong answer
+
+Context: claims paid  T.P. : 63 ADFT&W/S : 733376 F+T : 899 ! claims outstanding  T.P. : 452816 ADFT&W/S : 69065 F+T : 318403708 ! 
+Question: claims outstanding F+T?
+Answer: empty - Wrong answer
+
+----------------------------------------------------------------------------------------------
+
+ f1 score: 45.17777777777779

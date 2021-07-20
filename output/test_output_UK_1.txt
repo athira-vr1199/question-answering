@@ -1,0 +1,28 @@
+Context: Claims Paid AD : 1000  FT : 14011  TP : 3979 ! Claims Outstanding AD : 77 FT : 56 TP : 6198 !
+Question: Claims Paid AD
+Answer: 14011
+
+Context: Claims Paid AD : 1000 FT : 14011 TP : 3979 ! Claims Outstanding AD : 77 FT : 56 TP : 6198 !
+Question: Claims Paid FT
+Answer: 14011
+
+Context: Claims Paid AD : 1000 FT : 14011 TP : 3979 ! Claims Outstanding AD : 77 FT : 56 TP : 6198 !
+Question: Claims Paid TP
+Answer: 3979 ! claims outstanding ad : 77 ft : 56 tp : 6198
+
+Context: Claims Paid AD : 1000 FT : 14011 TP : 3979 ! Claims Outstanding AD : 77 FT : 56 TP : 6198 !
+Question: Claims Outstanding FT
+Answer: empty
+
+Context: Claims Paid AD : 1000 FT : 14011 TP : 3979 ! Claims Outstanding AD : 77 FT : 56 TP : 6198 !
+Question: Claims Outstanding TP
+Answer: 6198
+
+Context: Claims Paid AD : 1000 FT : 14011 TP : 3979 ! Claims Outstanding AD : 77 FT : 56 TP : 6198 !
+Question: Claims Outstanding AD
+Answer: empty
+
+Context: Claims Paid AD : 8 FT : 14011 TP : 3979 ! Claims Outstanding AD : 77 FT : 56 TP : 6198 !
+Question: Claims Paid AD
+Answer: empty
+

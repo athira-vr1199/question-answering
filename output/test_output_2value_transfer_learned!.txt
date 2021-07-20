@@ -1,0 +1,803 @@
+Context: reserves : 222739932 ! total : 935 ! 
+Question: reserves?
+Answer: 222739932
+
+Context: reserves : 222739932 ! total : 935 ! 
+Question: total?
+Answer: 935
+
+Context: total : 909148 ! reserves : 137 ! 
+Question: total?
+Answer: 909148
+
+Context: total : 909148 ! reserves : 137 ! 
+Question: reserves?
+Answer: 137
+
+Context: reserves : 711561582 ! total : 45538153 ! 
+Question: reserves?
+Answer: 711561582
+
+Context: reserves : 711561582 ! total : 45538153 ! 
+Question: total?
+Answer: 45538153
+
+Context: reserves : 954449 ! total : 791 ! 
+Question: reserves?
+Answer: 954449
+
+Context: reserves : 954449 ! total : 791 ! 
+Question: total?
+Answer: 791
+
+Context: total : 1903 ! reserves : 7294 ! 
+Question: total?
+Answer: 1903
+
+Context: total : 1903 ! reserves : 7294 ! 
+Question: reserves?
+Answer: 7294
+
+Context: reserves : 003 ! total : 9677 ! 
+Question: reserves?
+Answer: 003
+
+Context: reserves : 003 ! total : 9677 ! 
+Question: total?
+Answer: 9677
+
+Context: reserves : 66752 ! total : 07495959 ! 
+Question: reserves?
+Answer: 66752
+
+Context: reserves : 66752 ! total : 07495959 ! 
+Question: total?
+Answer: 07495959
+
+Context: reserves : 1325416276 ! total : 594 ! 
+Question: reserves?
+Answer: 1325416276
+
+Context: reserves : 1325416276 ! total : 594 ! 
+Question: total?
+Answer: 594
+
+Context: total : 2545213 ! reserves : 06524 ! 
+Question: total?
+Answer: 2545213
+
+Context: total : 2545213 ! reserves : 06524 ! 
+Question: reserves?
+Answer: 06524
+
+Context: total : 80953806 ! reserves : 91156967 ! 
+Question: total?
+Answer: 80953806
+
+Context: total : 80953806 ! reserves : 91156967 ! 
+Question: reserves?
+Answer: 91156967
+
+Context: total : 092170 ! reserves : 271938548 ! 
+Question: total?
+Answer: 092170
+
+Context: total : 092170 ! reserves : 271938548 ! 
+Question: reserves?
+Answer: 271938548
+
+Context: reserves : 061 ! total : 3 ! 
+Question: reserves?
+Answer: 061
+
+Context: reserves : 061 ! total : 3 ! 
+Question: total?
+Answer: 3
+
+Context: total : 371999 ! reserves : 65759 ! 
+Question: total?
+Answer: 371999
+
+Context: total : 371999 ! reserves : 65759 ! 
+Question: reserves?
+Answer: 65759
+
+Context: total : 0391695334 ! reserves : 93 ! 
+Question: total?
+Answer: 0391695334
+
+Context: total : 0391695334 ! reserves : 93 ! 
+Question: reserves?
+Answer: 93
+
+Context: reserves : 2570787 ! total : 5 ! 
+Question: reserves?
+Answer: 2570787
+
+Context: reserves : 2570787 ! total : 5 ! 
+Question: total?
+Answer: 5
+
+Context: total : 275 ! reserves : 26336091 ! 
+Question: total?
+Answer: 275
+
+Context: total : 275 ! reserves : 26336091 ! 
+Question: reserves?
+Answer: 26336091
+
+Context: reserves : 36 ! total : 07 ! 
+Question: reserves?
+Answer: 36
+
+Context: reserves : 36 ! total : 07 ! 
+Question: total?
+Answer: 07
+
+Context: reserves : 215247213 ! total : 710 ! 
+Question: reserves?
+Answer: 215247213
+
+Context: reserves : 215247213 ! total : 710 ! 
+Question: total?
+Answer: 710
+
+Context: reserves : 4642 ! total : 3 ! 
+Question: reserves?
+Answer: 4642
+
+Context: reserves : 4642 ! total : 3 ! 
+Question: total?
+Answer: 3
+
+Context: total : 8202824905 ! reserves : 204998 ! 
+Question: total?
+Answer: 8202824905
+
+Context: total : 8202824905 ! reserves : 204998 ! 
+Question: reserves?
+Answer: 204998
+
+Context: total : 47265606 ! reserves : 8101580 ! 
+Question: total?
+Answer: 47265606
+
+Context: total : 47265606 ! reserves : 8101580 ! 
+Question: reserves?
+Answer: 8101580
+
+Context: total : 3 ! reserves : 5045 ! 
+Question: total?
+Answer: 3
+
+Context: total : 3 ! reserves : 5045 ! 
+Question: reserves?
+Answer: 5045
+
+Context: reserves : 1768 ! total : 3 ! 
+Question: reserves?
+Answer: 1768
+
+Context: reserves : 1768 ! total : 3 ! 
+Question: total?
+Answer: 3
+
+Context: reserves : 591111631 ! total : 474 ! 
+Question: reserves?
+Answer: 591111631
+
+Context: reserves : 591111631 ! total : 474 ! 
+Question: total?
+Answer: 474
+
+Context: total : 63 ! reserves : 610512 ! 
+Question: total?
+Answer: 63
+
+Context: total : 63 ! reserves : 610512 ! 
+Question: reserves?
+Answer: 610512
+
+Context: reserves : 8523163 ! total : 4332 ! 
+Question: reserves?
+Answer: 8523163
+
+Context: reserves : 8523163 ! total : 4332 ! 
+Question: total?
+Answer: 4332
+
+Context: total : 056 ! reserves : 8415729500 ! 
+Question: total?
+Answer: 056
+
+Context: total : 056 ! reserves : 8415729500 ! 
+Question: reserves?
+Answer: 8415729500
+
+Context: total : 6794887689 ! reserves : 2625910 ! 
+Question: total?
+Answer: 6794887689
+
+Context: total : 6794887689 ! reserves : 2625910 ! 
+Question: reserves?
+Answer: 2625910
+
+Context: reserves : 418445 ! total : 7356161 ! 
+Question: reserves?
+Answer: 418445
+
+Context: reserves : 418445 ! total : 7356161 ! 
+Question: total?
+Answer: 7356161
+
+Context: reserves : 72 ! total : 19776786 ! 
+Question: reserves?
+Answer: 72
+
+Context: reserves : 72 ! total : 19776786 ! 
+Question: total?
+Answer: 19776786
+
+Context: reserves : 230550409 ! total : 48 ! 
+Question: reserves?
+Answer: 230550409
+
+Context: reserves : 230550409 ! total : 48 ! 
+Question: total?
+Answer: 48
+
+Context: total : 2271019337 ! reserves : 916069 ! 
+Question: total?
+Answer: 2271019337
+
+Context: total : 2271019337 ! reserves : 916069 ! 
+Question: reserves?
+Answer: 916069
+
+Context: reserves : 123788322 ! total : 2 ! 
+Question: reserves?
+Answer: 123788322
+
+Context: reserves : 123788322 ! total : 2 ! 
+Question: total?
+Answer: 2
+
+Context: total : 37 ! reserves : 3435162039 ! 
+Question: total?
+Answer: 37
+
+Context: total : 37 ! reserves : 3435162039 ! 
+Question: reserves?
+Answer: 3435162039
+
+Context: reserves : 4510869409 ! total : 6095247427 ! 
+Question: reserves?
+Answer: 4510869409
+
+Context: reserves : 4510869409 ! total : 6095247427 ! 
+Question: total?
+Answer: 6095247427
+
+Context: total : 302 ! reserves : 935942196 ! 
+Question: total?
+Answer: 302
+
+Context: total : 302 ! reserves : 935942196 ! 
+Question: reserves?
+Answer: 935942196
+
+Context: total : 97666 ! reserves : 132508439 ! 
+Question: total?
+Answer: 97666
+
+Context: total : 97666 ! reserves : 132508439 ! 
+Question: reserves?
+Answer: 132508439
+
+Context: reserves : 4505 ! total : 2 ! 
+Question: reserves?
+Answer: 4505
+
+Context: reserves : 4505 ! total : 2 ! 
+Question: total?
+Answer: 2
+
+Context: total : 7399570487 ! reserves : 0448565 ! 
+Question: total?
+Answer: 7399570487
+
+Context: total : 7399570487 ! reserves : 0448565 ! 
+Question: reserves?
+Answer: 0448565
+
+Context: total : 342 ! reserves : 525 ! 
+Question: total?
+Answer: 342
+
+Context: total : 342 ! reserves : 525 ! 
+Question: reserves?
+Answer: 525
+
+Context: total : 418 ! reserves : 3279399661 ! 
+Question: total?
+Answer: 418
+
+Context: total : 418 ! reserves : 3279399661 ! 
+Question: reserves?
+Answer: 3279399661
+
+Context: reserves : 56536 ! total : 042611 ! 
+Question: reserves?
+Answer: 56536
+
+Context: reserves : 56536 ! total : 042611 ! 
+Question: total?
+Answer: 042611
+
+Context: total : 3567 ! reserves : 99 ! 
+Question: total?
+Answer: 3567
+
+Context: total : 3567 ! reserves : 99 ! 
+Question: reserves?
+Answer: 99
+
+Context: total : 22487125 ! reserves : 4 ! 
+Question: total?
+Answer: 22487125
+
+Context: total : 22487125 ! reserves : 4 ! 
+Question: reserves?
+Answer: 4
+
+Context: reserves : 959539 ! total : 59 ! 
+Question: reserves?
+Answer: 959539
+
+Context: reserves : 959539 ! total : 59 ! 
+Question: total?
+Answer: 59
+
+Context: reserves : 2531487 ! total : 69025 ! 
+Question: reserves?
+Answer: 2531487
+
+Context: reserves : 2531487 ! total : 69025 ! 
+Question: total?
+Answer: 69025
+
+Context: reserves : 2872702149 ! total : 368712327 ! 
+Question: reserves?
+Answer: 2872702149
+
+Context: reserves : 2872702149 ! total : 368712327 ! 
+Question: total?
+Answer: 368712327
+
+Context: total : 181 ! reserves : 3726245630 ! 
+Question: total?
+Answer: 181
+
+Context: total : 181 ! reserves : 3726245630 ! 
+Question: reserves?
+Answer: 3726245630
+
+Context: total : 73 ! reserves : 152 ! 
+Question: total?
+Answer: 73
+
+Context: total : 73 ! reserves : 152 ! 
+Question: reserves?
+Answer: 152
+
+Context: total : 70 ! reserves : 9948386144 ! 
+Question: total?
+Answer: 70
+
+Context: total : 70 ! reserves : 9948386144 ! 
+Question: reserves?
+Answer: 9948386144
+
+Context: total reserves : 1 7487 ! 
+Question: total?
+Answer: 1
+
+Context: total reserves : 1 7487 ! 
+Question: reserves?
+Answer: 7487
+
+Context: total reserves : 7599438572 6 ! 
+Question: total?
+Answer: 7599438572
+
+Context: total reserves : 7599438572 6 ! 
+Question: reserves?
+Answer: 6
+
+Context: total reserves : 9755877574 735234904 ! 
+Question: total?
+Answer: 9755877574
+
+Context: total reserves : 9755877574 735234904 ! 
+Question: reserves?
+Answer: 735234904
+
+Context: total reserves : 5 4 ! 
+Question: total?
+Answer: 5
+
+Context: total reserves : 5 4 ! 
+Question: reserves?
+Answer: 4
+
+Context: total reserves : 19736437 447 ! 
+Question: total?
+Answer: 19736437
+
+Context: total reserves : 19736437 447 ! 
+Question: reserves?
+Answer: 447
+
+Context: total reserves : 2400 18518895 ! 
+Question: total?
+Answer: 2400
+
+Context: total reserves : 2400 18518895 ! 
+Question: reserves?
+Answer: 18518895
+
+Context: total reserves : 71 68415 ! 
+Question: total?
+Answer: 71
+
+Context: total reserves : 71 68415 ! 
+Question: reserves?
+Answer: 68415
+
+Context: total reserves : 99277 698154886 ! 
+Question: total?
+Answer: 99277
+
+Context: total reserves : 99277 698154886 ! 
+Question: reserves?
+Answer: 698154886
+
+Context: total reserves : 3779 675537 ! 
+Question: total?
+Answer: 3779
+
+Context: total reserves : 3779 675537 ! 
+Question: reserves?
+Answer: 675537
+
+Context: total reserves : 972 9632738519 ! 
+Question: total?
+Answer: 972
+
+Context: total reserves : 972 9632738519 ! 
+Question: reserves?
+Answer: 9632738519
+
+Context: total reserves : 47601 0 ! 
+Question: total?
+Answer: 47601
+
+Context: total reserves : 47601 0 ! 
+Question: reserves?
+Answer: 0
+
+Context: total reserves : 60042207 4531690632 ! 
+Question: total?
+Answer: 60042207
+
+Context: total reserves : 60042207 4531690632 ! 
+Question: reserves?
+Answer: 4531690632
+
+Context: total reserves : 4 3484647 ! 
+Question: total?
+Answer: 4
+
+Context: total reserves : 4 3484647 ! 
+Question: reserves?
+Answer: 3484647
+
+Context: total reserves : 02797 5969398 ! 
+Question: total?
+Answer: 02797
+
+Context: total reserves : 02797 5969398 ! 
+Question: reserves?
+Answer: 5969398
+
+Context: total reserves : 11229246 937277655 ! 
+Question: total?
+Answer: 11229246
+
+Context: total reserves : 11229246 937277655 ! 
+Question: reserves?
+Answer: 937277655
+
+Context: total reserves : 433 46875 ! 
+Question: total?
+Answer: 433
+
+Context: total reserves : 433 46875 ! 
+Question: reserves?
+Answer: 46875
+
+Context: total reserves : 5000 6257669 ! 
+Question: total?
+Answer: 5000
+
+Context: total reserves : 5000 6257669 ! 
+Question: reserves?
+Answer: 6257669
+
+Context: total reserves : 66 2319274391 ! 
+Question: total?
+Answer: 66
+
+Context: total reserves : 66 2319274391 ! 
+Question: reserves?
+Answer: 2319274391
+
+Context: total reserves : 16093874 077035224 ! 
+Question: total?
+Answer: 16093874
+
+Context: total reserves : 16093874 077035224 ! 
+Question: reserves?
+Answer: 077035224
+
+Context: total reserves : 4440556 9516575 ! 
+Question: total?
+Answer: 4440556
+
+Context: total reserves : 4440556 9516575 ! 
+Question: reserves?
+Answer: 9516575
+
+Context: total reserves : 115557721 2139840 ! 
+Question: total?
+Answer: 115557721
+
+Context: total reserves : 115557721 2139840 ! 
+Question: reserves?
+Answer: 2139840
+
+Context: total reserves : 4781331988 214799 ! 
+Question: total?
+Answer: 4781331988
+
+Context: total reserves : 4781331988 214799 ! 
+Question: reserves?
+Answer: 214799
+
+Context: total reserves : 5437 261566 ! 
+Question: total?
+Answer: 5437
+
+Context: total reserves : 5437 261566 ! 
+Question: reserves?
+Answer: 261566
+
+Context: total reserves : 6900893 2 ! 
+Question: total?
+Answer: 6900893
+
+Context: total reserves : 6900893 2 ! 
+Question: reserves?
+Answer: 2
+
+Context: total reserves : 621 2905808776 ! 
+Question: total?
+Answer: 621
+
+Context: total reserves : 621 2905808776 ! 
+Question: reserves?
+Answer: 2905808776
+
+Context: reserves total : 603375 28922 ! 
+Question: reserves?
+Answer: 603375
+
+Context: reserves total : 603375 28922 ! 
+Question: total?
+Answer: 28922
+
+Context: reserves total : 29725299 9846043 ! 
+Question: reserves?
+Answer: 29725299
+
+Context: reserves total : 29725299 9846043 ! 
+Question: total?
+Answer: 9846043
+
+Context: reserves total : 8247483569 4518050073 ! 
+Question: reserves?
+Answer: 8247483569
+
+Context: reserves total : 8247483569 4518050073 ! 
+Question: total?
+Answer: 4518050073
+
+Context: reserves total : 990723 73302 ! 
+Question: reserves?
+Answer: 990723
+
+Context: reserves total : 990723 73302 ! 
+Question: total?
+Answer: 73302
+
+Context: reserves total : 16 574066 ! 
+Question: reserves?
+Answer: 16
+
+Context: reserves total : 16 574066 ! 
+Question: total?
+Answer: 574066
+
+Context: reserves total : 24658805 319798 ! 
+Question: reserves?
+Answer: 24658805
+
+Context: reserves total : 24658805 319798 ! 
+Question: total?
+Answer: 319798
+
+Context: reserves total : 32151307 62 ! 
+Question: reserves?
+Answer: 32151307
+
+Context: reserves total : 32151307 62 ! 
+Question: total?
+Answer: 62
+
+Context: reserves total : 8223450947 5095160710 ! 
+Question: reserves?
+Answer: 8223450947
+
+Context: reserves total : 8223450947 5095160710 ! 
+Question: total?
+Answer: 5095160710
+
+Context: reserves total : 616245220 797956915 ! 
+Question: reserves?
+Answer: 616245220
+
+Context: reserves total : 616245220 797956915 ! 
+Question: total?
+Answer: 797956915
+
+Context: reserves total : 733 9629949 ! 
+Question: reserves?
+Answer: 733
+
+Context: reserves total : 733 9629949 ! 
+Question: total?
+Answer: 9629949
+
+Context: reserves total : 233194 09 ! 
+Question: reserves?
+Answer: 233194
+
+Context: reserves total : 233194 09 ! 
+Question: total?
+Answer: 09
+
+Context: reserves total : 853503213 6716 ! 
+Question: reserves?
+Answer: 853503213
+
+Context: reserves total : 853503213 6716 ! 
+Question: total?
+Answer: 6716
+
+Context: reserves total : 58 7682850 ! 
+Question: reserves?
+Answer: 58
+
+Context: reserves total : 58 7682850 ! 
+Question: total?
+Answer: 7682850
+
+Context: reserves total : 68504 39 ! 
+Question: reserves?
+Answer: 68504
+
+Context: reserves total : 68504 39 ! 
+Question: total?
+Answer: 39
+
+Context: reserves total : 406056 035828 ! 
+Question: reserves?
+Answer: 406056
+
+Context: reserves total : 406056 035828 ! 
+Question: total?
+Answer: 035828
+
+Context: reserves total : 1440902265 678004776 ! 
+Question: reserves?
+Answer: 1440902265
+
+Context: reserves total : 1440902265 678004776 ! 
+Question: total?
+Answer: 678004776
+
+Context: reserves total : 253043933 34779351 ! 
+Question: reserves?
+Answer: 253043933
+
+Context: reserves total : 253043933 34779351 ! 
+Question: total?
+Answer: 34779351
+
+Context: reserves total : 1028671 2770020397 ! 
+Question: reserves?
+Answer: 1028671
+
+Context: reserves total : 1028671 2770020397 ! 
+Question: total?
+Answer: 2770020397
+
+Context: reserves total : 050082 9309560364 ! 
+Question: reserves?
+Answer: 050082
+
+Context: reserves total : 050082 9309560364 ! 
+Question: total?
+Answer: 9309560364
+
+Context: reserves total : 61542252 693 ! 
+Question: reserves?
+Answer: 61542252
+
+Context: reserves total : 61542252 693 ! 
+Question: total?
+Answer: 693
+
+Context: reserves total : 87 897 ! 
+Question: reserves?
+Answer: 87
+
+Context: reserves total : 87 897 ! 
+Question: total?
+Answer: 897
+
+Context: reserves total : 76278046 7675973 ! 
+Question: reserves?
+Answer: 76278046
+
+Context: reserves total : 76278046 7675973 ! 
+Question: total?
+Answer: 7675973
+
+Context: reserves total : 5401901 2 ! 
+Question: reserves?
+Answer: 5401901
+
+Context: reserves total : 5401901 2 ! 
+Question: total?
+Answer: 2
+
+Context: reserves total : 320282 9909 ! 
+Question: reserves?
+Answer: 320282
+
+Context: reserves total : 320282 9909 ! 
+Question: total?
+Answer: 9909
+
+Context: reserves total : 12 82749398 ! 
+Question: reserves?
+Answer: 12
+
+Context: reserves total : 12 82749398 ! 
+Question: total?
+Answer: 82749398
+
+----------------------------------------------------------------------------------------------
+
+ f1 score: 100.0

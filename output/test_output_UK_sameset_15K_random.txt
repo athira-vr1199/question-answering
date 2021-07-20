@@ -1,0 +1,2403 @@
+Context: battle K : 8526 A : 42369694 AUJ : 700114348 ! edge K : 540 A : 8 AUJ : 11 ! 
+Question: battle K?
+Answer: 8526
+
+Context: battle K : 8526 A : 42369694 AUJ : 700114348 ! edge K : 540 A : 8 AUJ : 11 ! 
+Question: battle A?
+Answer: 42369694
+
+Context: battle K : 8526 A : 42369694 AUJ : 700114348 ! edge K : 540 A : 8 AUJ : 11 ! 
+Question: battle AUJ?
+Answer: 700114348
+
+Context: battle K : 8526 A : 42369694 AUJ : 700114348 ! edge K : 540 A : 8 AUJ : 11 ! 
+Question: edge K?
+Answer: 540
+
+Context: battle K : 8526 A : 42369694 AUJ : 700114348 ! edge K : 540 A : 8 AUJ : 11 ! 
+Question: edge A?
+Answer: 42369694
+
+Context: battle K : 8526 A : 42369694 AUJ : 700114348 ! edge K : 540 A : 8 AUJ : 11 ! 
+Question: edge AUJ?
+Answer: 700114348
+
+Context: employ I : 30214286 J : 394127 XA : 693 ! percentage I : 60 J : 3361155 XA : 035057 ! 
+Question: employ I?
+Answer: 60
+
+Context: employ I : 30214286 J : 394127 XA : 693 ! percentage I : 60 J : 3361155 XA : 035057 ! 
+Question: employ J?
+Answer: 3361155
+
+Context: employ I : 30214286 J : 394127 XA : 693 ! percentage I : 60 J : 3361155 XA : 035057 ! 
+Question: employ XA?
+Answer: 693
+
+Context: employ I : 30214286 J : 394127 XA : 693 ! percentage I : 60 J : 3361155 XA : 035057 ! 
+Question: percentage I?
+Answer: 60
+
+Context: employ I : 30214286 J : 394127 XA : 693 ! percentage I : 60 J : 3361155 XA : 035057 ! 
+Question: percentage J?
+Answer: 3361155
+
+Context: employ I : 30214286 J : 394127 XA : 693 ! percentage I : 60 J : 3361155 XA : 035057 ! 
+Question: percentage XA?
+Answer: 693
+
+Context: atmosphere R : 0 C : 60187581 VVFF : 57926299 ! seat R : 68901 C : 5138500 VVFF : 150 ! 
+Question: atmosphere R?
+Answer: 68901
+
+Context: atmosphere R : 0 C : 60187581 VVFF : 57926299 ! seat R : 68901 C : 5138500 VVFF : 150 ! 
+Question: atmosphere C?
+Answer: 60187581
+
+Context: atmosphere R : 0 C : 60187581 VVFF : 57926299 ! seat R : 68901 C : 5138500 VVFF : 150 ! 
+Question: atmosphere VVFF?
+Answer: 0 c : 60187581
+
+Context: atmosphere R : 0 C : 60187581 VVFF : 57926299 ! seat R : 68901 C : 5138500 VVFF : 150 ! 
+Question: seat R?
+Answer: 68901
+
+Context: atmosphere R : 0 C : 60187581 VVFF : 57926299 ! seat R : 68901 C : 5138500 VVFF : 150 ! 
+Question: seat C?
+Answer: 60187581
+
+Context: atmosphere R : 0 C : 60187581 VVFF : 57926299 ! seat R : 68901 C : 5138500 VVFF : 150 ! 
+Question: seat VVFF?
+Answer: 57926299
+
+Context: credit HEPV : 5 LO : 0 AEM : 5753803339 ! village HEPV : 41368 LO : 738853347 AEM : 383258947 ! 
+Question: credit HEPV?
+Answer: 41368
+
+Context: credit HEPV : 5 LO : 0 AEM : 5753803339 ! village HEPV : 41368 LO : 738853347 AEM : 383258947 ! 
+Question: credit LO?
+Answer: 0
+
+Context: credit HEPV : 5 LO : 0 AEM : 5753803339 ! village HEPV : 41368 LO : 738853347 AEM : 383258947 ! 
+Question: credit AEM?
+Answer: 5753803339
+
+Context: credit HEPV : 5 LO : 0 AEM : 5753803339 ! village HEPV : 41368 LO : 738853347 AEM : 383258947 ! 
+Question: village HEPV?
+Answer: 41368
+
+Context: credit HEPV : 5 LO : 0 AEM : 5753803339 ! village HEPV : 41368 LO : 738853347 AEM : 383258947 ! 
+Question: village LO?
+Answer: 738853347
+
+Context: credit HEPV : 5 LO : 0 AEM : 5753803339 ! village HEPV : 41368 LO : 738853347 AEM : 383258947 ! 
+Question: village AEM?
+Answer: 5753803339
+
+Context: kiss WO : 406226002 CIJ : 746 YB : 6 ! teacher WO : 0170 CIJ : 1719896987 YB : 3734360 ! 
+Question: kiss WO?
+Answer: 0170
+
+Context: kiss WO : 406226002 CIJ : 746 YB : 6 ! teacher WO : 0170 CIJ : 1719896987 YB : 3734360 ! 
+Question: kiss CIJ?
+Answer: 746
+
+Context: kiss WO : 406226002 CIJ : 746 YB : 6 ! teacher WO : 0170 CIJ : 1719896987 YB : 3734360 ! 
+Question: kiss YB?
+Answer: empty
+
+Context: kiss WO : 406226002 CIJ : 746 YB : 6 ! teacher WO : 0170 CIJ : 1719896987 YB : 3734360 ! 
+Question: teacher WO?
+Answer: 0170
+
+Context: kiss WO : 406226002 CIJ : 746 YB : 6 ! teacher WO : 0170 CIJ : 1719896987 YB : 3734360 ! 
+Question: teacher CIJ?
+Answer: 1719896987
+
+Context: kiss WO : 406226002 CIJ : 746 YB : 6 ! teacher WO : 0170 CIJ : 1719896987 YB : 3734360 ! 
+Question: teacher YB?
+Answer: 3734360
+
+Context: bonus UXY : 003 WHKK : 0289851 EHS : 4612142893 ! software UXY : 02936994 WHKK : 069565136 EHS : 76693 ! 
+Question: bonus UXY?
+Answer: empty
+
+Context: bonus UXY : 003 WHKK : 0289851 EHS : 4612142893 ! software UXY : 02936994 WHKK : 069565136 EHS : 76693 ! 
+Question: bonus WHKK?
+Answer: 0289851
+
+Context: bonus UXY : 003 WHKK : 0289851 EHS : 4612142893 ! software UXY : 02936994 WHKK : 069565136 EHS : 76693 ! 
+Question: bonus EHS?
+Answer: 4612142893
+
+Context: bonus UXY : 003 WHKK : 0289851 EHS : 4612142893 ! software UXY : 02936994 WHKK : 069565136 EHS : 76693 ! 
+Question: software UXY?
+Answer: empty
+
+Context: bonus UXY : 003 WHKK : 0289851 EHS : 4612142893 ! software UXY : 02936994 WHKK : 069565136 EHS : 76693 ! 
+Question: software WHKK?
+Answer: 0289851
+
+Context: bonus UXY : 003 WHKK : 0289851 EHS : 4612142893 ! software UXY : 02936994 WHKK : 069565136 EHS : 76693 ! 
+Question: software EHS?
+Answer: 4612142893
+
+Context: personality PAFD : 014 SUS : 73293 OXT : 285541 ! vast PAFD : 5 SUS : 5031 OXT : 9622162 ! 
+Question: personality PAFD?
+Answer: 014 sus : 73293
+
+Context: personality PAFD : 014 SUS : 73293 OXT : 285541 ! vast PAFD : 5 SUS : 5031 OXT : 9622162 ! 
+Question: personality SUS?
+Answer: 73293
+
+Context: personality PAFD : 014 SUS : 73293 OXT : 285541 ! vast PAFD : 5 SUS : 5031 OXT : 9622162 ! 
+Question: personality OXT?
+Answer: 285541
+
+Context: personality PAFD : 014 SUS : 73293 OXT : 285541 ! vast PAFD : 5 SUS : 5031 OXT : 9622162 ! 
+Question: vast PAFD?
+Answer: 73293
+
+Context: personality PAFD : 014 SUS : 73293 OXT : 285541 ! vast PAFD : 5 SUS : 5031 OXT : 9622162 ! 
+Question: vast SUS?
+Answer: 73293
+
+Context: personality PAFD : 014 SUS : 73293 OXT : 285541 ! vast PAFD : 5 SUS : 5031 OXT : 9622162 ! 
+Question: vast OXT?
+Answer: 285541
+
+Context: disk FNN : 801 A : 035343 SR : 96713380 ! carpet FNN : 966825 A : 107474825 SR : 482 ! 
+Question: disk FNN?
+Answer: empty
+
+Context: disk FNN : 801 A : 035343 SR : 96713380 ! carpet FNN : 966825 A : 107474825 SR : 482 ! 
+Question: disk A?
+Answer: 035343
+
+Context: disk FNN : 801 A : 035343 SR : 96713380 ! carpet FNN : 966825 A : 107474825 SR : 482 ! 
+Question: disk SR?
+Answer: 96713380
+
+Context: disk FNN : 801 A : 035343 SR : 96713380 ! carpet FNN : 966825 A : 107474825 SR : 482 ! 
+Question: carpet FNN?
+Answer: 966825
+
+Context: disk FNN : 801 A : 035343 SR : 96713380 ! carpet FNN : 966825 A : 107474825 SR : 482 ! 
+Question: carpet A?
+Answer: 035343
+
+Context: disk FNN : 801 A : 035343 SR : 96713380 ! carpet FNN : 966825 A : 107474825 SR : 482 ! 
+Question: carpet SR?
+Answer: empty
+
+Context: woman CJA : 90104 C : 40513 ZK : 333542623 ! dream CJA : 2 C : 000230 ZK : 2624406 ! 
+Question: woman CJA?
+Answer: 90104
+
+Context: woman CJA : 90104 C : 40513 ZK : 333542623 ! dream CJA : 2 C : 000230 ZK : 2624406 ! 
+Question: woman C?
+Answer: 40513 zk : 333542623 ! dream cja : 2 c : 000230
+
+Context: woman CJA : 90104 C : 40513 ZK : 333542623 ! dream CJA : 2 C : 000230 ZK : 2624406 ! 
+Question: woman ZK?
+Answer: 333542623
+
+Context: woman CJA : 90104 C : 40513 ZK : 333542623 ! dream CJA : 2 C : 000230 ZK : 2624406 ! 
+Question: dream CJA?
+Answer: 90104
+
+Context: woman CJA : 90104 C : 40513 ZK : 333542623 ! dream CJA : 2 C : 000230 ZK : 2624406 ! 
+Question: dream C?
+Answer: 000230
+
+Context: woman CJA : 90104 C : 40513 ZK : 333542623 ! dream CJA : 2 C : 000230 ZK : 2624406 ! 
+Question: dream ZK?
+Answer: 333542623
+
+Context: routine XQJI : 54 PGX : 77949 SVJX : 48 ! childhood XQJI : 65197 PGX : 284 SVJX : 2 ! 
+Question: routine XQJI?
+Answer: 65197
+
+Context: routine XQJI : 54 PGX : 77949 SVJX : 48 ! childhood XQJI : 65197 PGX : 284 SVJX : 2 ! 
+Question: routine PGX?
+Answer: empty
+
+Context: routine XQJI : 54 PGX : 77949 SVJX : 48 ! childhood XQJI : 65197 PGX : 284 SVJX : 2 ! 
+Question: routine SVJX?
+Answer: empty
+
+Context: routine XQJI : 54 PGX : 77949 SVJX : 48 ! childhood XQJI : 65197 PGX : 284 SVJX : 2 ! 
+Question: childhood XQJI?
+Answer: 65197
+
+Context: routine XQJI : 54 PGX : 77949 SVJX : 48 ! childhood XQJI : 65197 PGX : 284 SVJX : 2 ! 
+Question: childhood PGX?
+Answer: empty
+
+Context: routine XQJI : 54 PGX : 77949 SVJX : 48 ! childhood XQJI : 65197 PGX : 284 SVJX : 2 ! 
+Question: childhood SVJX?
+Answer: empty
+
+Context: feedback QB : 806752124 PU : 884 GF : 5395 ! government QB : 69 PU : 5270553 GF : 067 ! 
+Question: feedback QB?
+Answer: 69
+
+Context: feedback QB : 806752124 PU : 884 GF : 5395 ! government QB : 69 PU : 5270553 GF : 067 ! 
+Question: feedback PU?
+Answer: 5270553
+
+Context: feedback QB : 806752124 PU : 884 GF : 5395 ! government QB : 69 PU : 5270553 GF : 067 ! 
+Question: feedback GF?
+Answer: 5395
+
+Context: feedback QB : 806752124 PU : 884 GF : 5395 ! government QB : 69 PU : 5270553 GF : 067 ! 
+Question: government QB?
+Answer: 69
+
+Context: feedback QB : 806752124 PU : 884 GF : 5395 ! government QB : 69 PU : 5270553 GF : 067 ! 
+Question: government PU?
+Answer: 5270553
+
+Context: feedback QB : 806752124 PU : 884 GF : 5395 ! government QB : 69 PU : 5270553 GF : 067 ! 
+Question: government GF?
+Answer: 5395
+
+Context: combination PWOJ : 4581657 DFLZ : 842377 VSJ : 50462699 ! brown PWOJ : 4799504612 DFLZ : 6166 VSJ : 0547 ! 
+Question: combination PWOJ?
+Answer: 50462699
+
+Context: combination PWOJ : 4581657 DFLZ : 842377 VSJ : 50462699 ! brown PWOJ : 4799504612 DFLZ : 6166 VSJ : 0547 ! 
+Question: combination DFLZ?
+Answer: 842377
+
+Context: combination PWOJ : 4581657 DFLZ : 842377 VSJ : 50462699 ! brown PWOJ : 4799504612 DFLZ : 6166 VSJ : 0547 ! 
+Question: combination VSJ?
+Answer: 50462699
+
+Context: combination PWOJ : 4581657 DFLZ : 842377 VSJ : 50462699 ! brown PWOJ : 4799504612 DFLZ : 6166 VSJ : 0547 ! 
+Question: brown PWOJ?
+Answer: empty
+
+Context: combination PWOJ : 4581657 DFLZ : 842377 VSJ : 50462699 ! brown PWOJ : 4799504612 DFLZ : 6166 VSJ : 0547 ! 
+Question: brown DFLZ?
+Answer: 842377
+
+Context: combination PWOJ : 4581657 DFLZ : 842377 VSJ : 50462699 ! brown PWOJ : 4799504612 DFLZ : 6166 VSJ : 0547 ! 
+Question: brown VSJ?
+Answer: 50462699
+
+Context: advertising ECA : 453502316 FLB : 18454 AZ : 5400216668 ! judgment ECA : 994544 FLB : 856776 AZ : 37223 ! 
+Question: advertising ECA?
+Answer: 453502316
+
+Context: advertising ECA : 453502316 FLB : 18454 AZ : 5400216668 ! judgment ECA : 994544 FLB : 856776 AZ : 37223 ! 
+Question: advertising FLB?
+Answer: 856776
+
+Context: advertising ECA : 453502316 FLB : 18454 AZ : 5400216668 ! judgment ECA : 994544 FLB : 856776 AZ : 37223 ! 
+Question: advertising AZ?
+Answer: 5400216668
+
+Context: advertising ECA : 453502316 FLB : 18454 AZ : 5400216668 ! judgment ECA : 994544 FLB : 856776 AZ : 37223 ! 
+Question: judgment ECA?
+Answer: empty
+
+Context: advertising ECA : 453502316 FLB : 18454 AZ : 5400216668 ! judgment ECA : 994544 FLB : 856776 AZ : 37223 ! 
+Question: judgment FLB?
+Answer: 856776
+
+Context: advertising ECA : 453502316 FLB : 18454 AZ : 5400216668 ! judgment ECA : 994544 FLB : 856776 AZ : 37223 ! 
+Question: judgment AZ?
+Answer: 5400216668
+
+Context: silver KA : 7 TSW : 31 WSVX : 11972115 ! hate KA : 101 TSW : 9759153 WSVX : 045733631 ! 
+Question: silver KA?
+Answer: 101
+
+Context: silver KA : 7 TSW : 31 WSVX : 11972115 ! hate KA : 101 TSW : 9759153 WSVX : 045733631 ! 
+Question: silver TSW?
+Answer: 31
+
+Context: silver KA : 7 TSW : 31 WSVX : 11972115 ! hate KA : 101 TSW : 9759153 WSVX : 045733631 ! 
+Question: silver WSVX?
+Answer: 11972115
+
+Context: silver KA : 7 TSW : 31 WSVX : 11972115 ! hate KA : 101 TSW : 9759153 WSVX : 045733631 ! 
+Question: hate KA?
+Answer: 101
+
+Context: silver KA : 7 TSW : 31 WSVX : 11972115 ! hate KA : 101 TSW : 9759153 WSVX : 045733631 ! 
+Question: hate TSW?
+Answer: 31
+
+Context: silver KA : 7 TSW : 31 WSVX : 11972115 ! hate KA : 101 TSW : 9759153 WSVX : 045733631 ! 
+Question: hate WSVX?
+Answer: 11972115
+
+Context: bake BVS : 6096400 KY : 443 W : 7111 ! signal BVS : 5 KY : 92513450 W : 4 ! 
+Question: bake BVS?
+Answer: 6096400
+
+Context: bake BVS : 6096400 KY : 443 W : 7111 ! signal BVS : 5 KY : 92513450 W : 4 ! 
+Question: bake KY?
+Answer: 443
+
+Context: bake BVS : 6096400 KY : 443 W : 7111 ! signal BVS : 5 KY : 92513450 W : 4 ! 
+Question: bake W?
+Answer: 7111
+
+Context: bake BVS : 6096400 KY : 443 W : 7111 ! signal BVS : 5 KY : 92513450 W : 4 ! 
+Question: signal BVS?
+Answer: 5
+
+Context: bake BVS : 6096400 KY : 443 W : 7111 ! signal BVS : 5 KY : 92513450 W : 4 ! 
+Question: signal KY?
+Answer: 92513450
+
+Context: bake BVS : 6096400 KY : 443 W : 7111 ! signal BVS : 5 KY : 92513450 W : 4 ! 
+Question: signal W?
+Answer: 7111
+
+Context: coach J : 8543 YBT : 187 FA : 35275513 ! food J : 46752914 YBT : 043 FA : 22973626 ! 
+Question: coach J?
+Answer: 8543 ybt : 187 fa : 35275513 ! food j : 46752914
+
+Context: coach J : 8543 YBT : 187 FA : 35275513 ! food J : 46752914 YBT : 043 FA : 22973626 ! 
+Question: coach YBT?
+Answer: 187
+
+Context: coach J : 8543 YBT : 187 FA : 35275513 ! food J : 46752914 YBT : 043 FA : 22973626 ! 
+Question: coach FA?
+Answer: 35275513
+
+Context: coach J : 8543 YBT : 187 FA : 35275513 ! food J : 46752914 YBT : 043 FA : 22973626 ! 
+Question: food J?
+Answer: 46752914
+
+Context: coach J : 8543 YBT : 187 FA : 35275513 ! food J : 46752914 YBT : 043 FA : 22973626 ! 
+Question: food YBT?
+Answer: 187 fa : 35275513 ! food j : 46752914 ybt : 043
+
+Context: coach J : 8543 YBT : 187 FA : 35275513 ! food J : 46752914 YBT : 043 FA : 22973626 ! 
+Question: food FA?
+Answer: 22973626
+
+Context: speech EHJ : 476542 HVKP : 89 MZX : 260185506 ! panic EHJ : 0533479 HVKP : 8474 MZX : 16559 ! 
+Question: speech EHJ?
+Answer: empty
+
+Context: speech EHJ : 476542 HVKP : 89 MZX : 260185506 ! panic EHJ : 0533479 HVKP : 8474 MZX : 16559 ! 
+Question: speech HVKP?
+Answer: 8474
+
+Context: speech EHJ : 476542 HVKP : 89 MZX : 260185506 ! panic EHJ : 0533479 HVKP : 8474 MZX : 16559 ! 
+Question: speech MZX?
+Answer: 260185506
+
+Context: speech EHJ : 476542 HVKP : 89 MZX : 260185506 ! panic EHJ : 0533479 HVKP : 8474 MZX : 16559 ! 
+Question: panic EHJ?
+Answer: 0533479
+
+Context: speech EHJ : 476542 HVKP : 89 MZX : 260185506 ! panic EHJ : 0533479 HVKP : 8474 MZX : 16559 ! 
+Question: panic HVKP?
+Answer: 8474
+
+Context: speech EHJ : 476542 HVKP : 89 MZX : 260185506 ! panic EHJ : 0533479 HVKP : 8474 MZX : 16559 ! 
+Question: panic MZX?
+Answer: 260185506
+
+Context: sex XCK : 80696 T : 49092919 I : 124458 ! excuse XCK : 685 T : 4 I : 121355392 ! 
+Question: sex XCK?
+Answer: 80696
+
+Context: sex XCK : 80696 T : 49092919 I : 124458 ! excuse XCK : 685 T : 4 I : 121355392 ! 
+Question: sex T?
+Answer: empty
+
+Context: sex XCK : 80696 T : 49092919 I : 124458 ! excuse XCK : 685 T : 4 I : 121355392 ! 
+Question: sex I?
+Answer: 124458
+
+Context: sex XCK : 80696 T : 49092919 I : 124458 ! excuse XCK : 685 T : 4 I : 121355392 ! 
+Question: excuse XCK?
+Answer: 80696
+
+Context: sex XCK : 80696 T : 49092919 I : 124458 ! excuse XCK : 685 T : 4 I : 121355392 ! 
+Question: excuse T?
+Answer: 4
+
+Context: sex XCK : 80696 T : 49092919 I : 124458 ! excuse XCK : 685 T : 4 I : 121355392 ! 
+Question: excuse I?
+Answer: 124458
+
+Context: secretary SKOL : 4706239808 GCVF : 92602 YP : 85763 ! concentrate SKOL : 04544125 GCVF : 8176 YP : 8697828913 ! 
+Question: secretary SKOL?
+Answer: 04544125
+
+Context: secretary SKOL : 4706239808 GCVF : 92602 YP : 85763 ! concentrate SKOL : 04544125 GCVF : 8176 YP : 8697828913 ! 
+Question: secretary GCVF?
+Answer: 92602
+
+Context: secretary SKOL : 4706239808 GCVF : 92602 YP : 85763 ! concentrate SKOL : 04544125 GCVF : 8176 YP : 8697828913 ! 
+Question: secretary YP?
+Answer: 85763
+
+Context: secretary SKOL : 4706239808 GCVF : 92602 YP : 85763 ! concentrate SKOL : 04544125 GCVF : 8176 YP : 8697828913 ! 
+Question: concentrate SKOL?
+Answer: 04544125
+
+Context: secretary SKOL : 4706239808 GCVF : 92602 YP : 85763 ! concentrate SKOL : 04544125 GCVF : 8176 YP : 8697828913 ! 
+Question: concentrate GCVF?
+Answer: 92602
+
+Context: secretary SKOL : 4706239808 GCVF : 92602 YP : 85763 ! concentrate SKOL : 04544125 GCVF : 8176 YP : 8697828913 ! 
+Question: concentrate YP?
+Answer: 85763
+
+Context: complaint Z : 8315014035 JVP : 340740 Q : 32 ! vegetable Z : 90384 JVP : 01469368 Q : 10 ! 
+Question: complaint Z?
+Answer: 90384
+
+Context: complaint Z : 8315014035 JVP : 340740 Q : 32 ! vegetable Z : 90384 JVP : 01469368 Q : 10 ! 
+Question: complaint JVP?
+Answer: 340740
+
+Context: complaint Z : 8315014035 JVP : 340740 Q : 32 ! vegetable Z : 90384 JVP : 01469368 Q : 10 ! 
+Question: complaint Q?
+Answer: 32
+
+Context: complaint Z : 8315014035 JVP : 340740 Q : 32 ! vegetable Z : 90384 JVP : 01469368 Q : 10 ! 
+Question: vegetable Z?
+Answer: 90384
+
+Context: complaint Z : 8315014035 JVP : 340740 Q : 32 ! vegetable Z : 90384 JVP : 01469368 Q : 10 ! 
+Question: vegetable JVP?
+Answer: 340740
+
+Context: complaint Z : 8315014035 JVP : 340740 Q : 32 ! vegetable Z : 90384 JVP : 01469368 Q : 10 ! 
+Question: vegetable Q?
+Answer: 32
+
+Context: afternoon MDV : 5999305550 I : 5149815 L : 8753 ! leather MDV : 982 I : 080492 L : 581256895 ! 
+Question: afternoon MDV?
+Answer: 982
+
+Context: afternoon MDV : 5999305550 I : 5149815 L : 8753 ! leather MDV : 982 I : 080492 L : 581256895 ! 
+Question: afternoon I?
+Answer: 5149815
+
+Context: afternoon MDV : 5999305550 I : 5149815 L : 8753 ! leather MDV : 982 I : 080492 L : 581256895 ! 
+Question: afternoon L?
+Answer: 8753
+
+Context: afternoon MDV : 5999305550 I : 5149815 L : 8753 ! leather MDV : 982 I : 080492 L : 581256895 ! 
+Question: leather MDV?
+Answer: 982
+
+Context: afternoon MDV : 5999305550 I : 5149815 L : 8753 ! leather MDV : 982 I : 080492 L : 581256895 ! 
+Question: leather I?
+Answer: 5149815
+
+Context: afternoon MDV : 5999305550 I : 5149815 L : 8753 ! leather MDV : 982 I : 080492 L : 581256895 ! 
+Question: leather L?
+Answer: 8753
+
+Context: appointment V : 59380 HMJD : 7922 QHUV : 94 ! convert V : 070528836 HMJD : 8318382649 QHUV : 817080571 ! 
+Question: appointment V?
+Answer: 070528836
+
+Context: appointment V : 59380 HMJD : 7922 QHUV : 94 ! convert V : 070528836 HMJD : 8318382649 QHUV : 817080571 ! 
+Question: appointment HMJD?
+Answer: 070528836
+
+Context: appointment V : 59380 HMJD : 7922 QHUV : 94 ! convert V : 070528836 HMJD : 8318382649 QHUV : 817080571 ! 
+Question: appointment QHUV?
+Answer: 94
+
+Context: appointment V : 59380 HMJD : 7922 QHUV : 94 ! convert V : 070528836 HMJD : 8318382649 QHUV : 817080571 ! 
+Question: convert V?
+Answer: 070528836
+
+Context: appointment V : 59380 HMJD : 7922 QHUV : 94 ! convert V : 070528836 HMJD : 8318382649 QHUV : 817080571 ! 
+Question: convert HMJD?
+Answer: 070528836
+
+Context: appointment V : 59380 HMJD : 7922 QHUV : 94 ! convert V : 070528836 HMJD : 8318382649 QHUV : 817080571 ! 
+Question: convert QHUV?
+Answer: 94
+
+Context: help L : 2 NAN : 2894260 UQEC : 288996064 ! investment L : 54890465 NAN : 3521469 UQEC : 69707496 ! 
+Question: help L?
+Answer: 54890465
+
+Context: help L : 2 NAN : 2894260 UQEC : 288996064 ! investment L : 54890465 NAN : 3521469 UQEC : 69707496 ! 
+Question: help NAN?
+Answer: 2894260
+
+Context: help L : 2 NAN : 2894260 UQEC : 288996064 ! investment L : 54890465 NAN : 3521469 UQEC : 69707496 ! 
+Question: help UQEC?
+Answer: 288996064
+
+Context: help L : 2 NAN : 2894260 UQEC : 288996064 ! investment L : 54890465 NAN : 3521469 UQEC : 69707496 ! 
+Question: investment L?
+Answer: 54890465
+
+Context: help L : 2 NAN : 2894260 UQEC : 288996064 ! investment L : 54890465 NAN : 3521469 UQEC : 69707496 ! 
+Question: investment NAN?
+Answer: 3521469
+
+Context: help L : 2 NAN : 2894260 UQEC : 288996064 ! investment L : 54890465 NAN : 3521469 UQEC : 69707496 ! 
+Question: investment UQEC?
+Answer: 288996064
+
+Context: box OF : 528633 VE : 9 LB : 1707621994 ! degree OF : 3 VE : 20909459 LB : 685535 ! 
+Question: box OF?
+Answer: empty
+
+Context: box OF : 528633 VE : 9 LB : 1707621994 ! degree OF : 3 VE : 20909459 LB : 685535 ! 
+Question: box VE?
+Answer: 20909459
+
+Context: box OF : 528633 VE : 9 LB : 1707621994 ! degree OF : 3 VE : 20909459 LB : 685535 ! 
+Question: box LB?
+Answer: 1707621994
+
+Context: box OF : 528633 VE : 9 LB : 1707621994 ! degree OF : 3 VE : 20909459 LB : 685535 ! 
+Question: degree OF?
+Answer: 3
+
+Context: box OF : 528633 VE : 9 LB : 1707621994 ! degree OF : 3 VE : 20909459 LB : 685535 ! 
+Question: degree VE?
+Answer: 20909459
+
+Context: box OF : 528633 VE : 9 LB : 1707621994 ! degree OF : 3 VE : 20909459 LB : 685535 ! 
+Question: degree LB?
+Answer: 1707621994
+
+Context: cancel L : 1628449487 ONAP : 94428 JI : 650 ! face L : 03 ONAP : 4 JI : 16325 ! 
+Question: cancel L?
+Answer: 03
+
+Context: cancel L : 1628449487 ONAP : 94428 JI : 650 ! face L : 03 ONAP : 4 JI : 16325 ! 
+Question: cancel ONAP?
+Answer: 94428
+
+Context: cancel L : 1628449487 ONAP : 94428 JI : 650 ! face L : 03 ONAP : 4 JI : 16325 ! 
+Question: cancel JI?
+Answer: empty
+
+Context: cancel L : 1628449487 ONAP : 94428 JI : 650 ! face L : 03 ONAP : 4 JI : 16325 ! 
+Question: face L?
+Answer: 03
+
+Context: cancel L : 1628449487 ONAP : 94428 JI : 650 ! face L : 03 ONAP : 4 JI : 16325 ! 
+Question: face ONAP?
+Answer: empty
+
+Context: cancel L : 1628449487 ONAP : 94428 JI : 650 ! face L : 03 ONAP : 4 JI : 16325 ! 
+Question: face JI?
+Answer: empty
+
+Context: heart IKVW : 12 WGQ : 27 Y : 639119 ! table IKVW : 473938024 WGQ : 206225711 Y : 8898 ! 
+Question: heart IKVW?
+Answer: 473938024
+
+Context: heart IKVW : 12 WGQ : 27 Y : 639119 ! table IKVW : 473938024 WGQ : 206225711 Y : 8898 ! 
+Question: heart WGQ?
+Answer: 27
+
+Context: heart IKVW : 12 WGQ : 27 Y : 639119 ! table IKVW : 473938024 WGQ : 206225711 Y : 8898 ! 
+Question: heart Y?
+Answer: 639119
+
+Context: heart IKVW : 12 WGQ : 27 Y : 639119 ! table IKVW : 473938024 WGQ : 206225711 Y : 8898 ! 
+Question: table IKVW?
+Answer: 473938024
+
+Context: heart IKVW : 12 WGQ : 27 Y : 639119 ! table IKVW : 473938024 WGQ : 206225711 Y : 8898 ! 
+Question: table WGQ?
+Answer: 206225711
+
+Context: heart IKVW : 12 WGQ : 27 Y : 639119 ! table IKVW : 473938024 WGQ : 206225711 Y : 8898 ! 
+Question: table Y?
+Answer: 8898
+
+Context: neck JCAC : 53569 Z : 857991 ZPND : 85168739 ! look JCAC : 5269848606 Z : 76 ZPND : 8753694 ! 
+Question: neck JCAC?
+Answer: empty
+
+Context: neck JCAC : 53569 Z : 857991 ZPND : 85168739 ! look JCAC : 5269848606 Z : 76 ZPND : 8753694 ! 
+Question: neck Z?
+Answer: 76
+
+Context: neck JCAC : 53569 Z : 857991 ZPND : 85168739 ! look JCAC : 5269848606 Z : 76 ZPND : 8753694 ! 
+Question: neck ZPND?
+Answer: 85168739
+
+Context: neck JCAC : 53569 Z : 857991 ZPND : 85168739 ! look JCAC : 5269848606 Z : 76 ZPND : 8753694 ! 
+Question: look JCAC?
+Answer: empty
+
+Context: neck JCAC : 53569 Z : 857991 ZPND : 85168739 ! look JCAC : 5269848606 Z : 76 ZPND : 8753694 ! 
+Question: look Z?
+Answer: 76
+
+Context: neck JCAC : 53569 Z : 857991 ZPND : 85168739 ! look JCAC : 5269848606 Z : 76 ZPND : 8753694 ! 
+Question: look ZPND?
+Answer: 85168739
+
+Context: fold C : 852 IRUF : 852 QGWM : 4516374760 ! height C : 4 IRUF : 9765 QGWM : 95141 ! 
+Question: fold C?
+Answer: 4
+
+Context: fold C : 852 IRUF : 852 QGWM : 4516374760 ! height C : 4 IRUF : 9765 QGWM : 95141 ! 
+Question: fold IRUF?
+Answer: 852
+
+Context: fold C : 852 IRUF : 852 QGWM : 4516374760 ! height C : 4 IRUF : 9765 QGWM : 95141 ! 
+Question: fold QGWM?
+Answer: 852
+
+Context: fold C : 852 IRUF : 852 QGWM : 4516374760 ! height C : 4 IRUF : 9765 QGWM : 95141 ! 
+Question: height C?
+Answer: 4
+
+Context: fold C : 852 IRUF : 852 QGWM : 4516374760 ! height C : 4 IRUF : 9765 QGWM : 95141 ! 
+Question: height IRUF?
+Answer: 852
+
+Context: fold C : 852 IRUF : 852 QGWM : 4516374760 ! height C : 4 IRUF : 9765 QGWM : 95141 ! 
+Question: height QGWM?
+Answer: 852
+
+Context: rain QW : 5714 ZPT : 24339065 TTHX : 586 ! neck QW : 248 ZPT : 7 TTHX : 67234241 ! 
+Question: rain QW?
+Answer: 5714
+
+Context: rain QW : 5714 ZPT : 24339065 TTHX : 586 ! neck QW : 248 ZPT : 7 TTHX : 67234241 ! 
+Question: rain ZPT?
+Answer: 24339065
+
+Context: rain QW : 5714 ZPT : 24339065 TTHX : 586 ! neck QW : 248 ZPT : 7 TTHX : 67234241 ! 
+Question: rain TTHX?
+Answer: 586
+
+Context: rain QW : 5714 ZPT : 24339065 TTHX : 586 ! neck QW : 248 ZPT : 7 TTHX : 67234241 ! 
+Question: neck QW?
+Answer: 5714
+
+Context: rain QW : 5714 ZPT : 24339065 TTHX : 586 ! neck QW : 248 ZPT : 7 TTHX : 67234241 ! 
+Question: neck ZPT?
+Answer: 24339065
+
+Context: rain QW : 5714 ZPT : 24339065 TTHX : 586 ! neck QW : 248 ZPT : 7 TTHX : 67234241 ! 
+Question: neck TTHX?
+Answer: 586
+
+Context: obligation TZ : 642 SGVE : 696801088 C : 77 ! average TZ : 603 SGVE : 499 C : 9877785651 ! 
+Question: obligation TZ?
+Answer: 603
+
+Context: obligation TZ : 642 SGVE : 696801088 C : 77 ! average TZ : 603 SGVE : 499 C : 9877785651 ! 
+Question: obligation SGVE?
+Answer: 696801088
+
+Context: obligation TZ : 642 SGVE : 696801088 C : 77 ! average TZ : 603 SGVE : 499 C : 9877785651 ! 
+Question: obligation C?
+Answer: 9877785651
+
+Context: obligation TZ : 642 SGVE : 696801088 C : 77 ! average TZ : 603 SGVE : 499 C : 9877785651 ! 
+Question: average TZ?
+Answer: 603
+
+Context: obligation TZ : 642 SGVE : 696801088 C : 77 ! average TZ : 603 SGVE : 499 C : 9877785651 ! 
+Question: average SGVE?
+Answer: 696801088
+
+Context: obligation TZ : 642 SGVE : 696801088 C : 77 ! average TZ : 603 SGVE : 499 C : 9877785651 ! 
+Question: average C?
+Answer: 9877785651
+
+Context: ease TB : 7548386320 K : 0367237 NVAA : 9971082 ! original TB : 0 K : 35 NVAA : 0643244872 ! 
+Question: ease TB?
+Answer: 7548386320
+
+Context: ease TB : 7548386320 K : 0367237 NVAA : 9971082 ! original TB : 0 K : 35 NVAA : 0643244872 ! 
+Question: ease K?
+Answer: 0367237
+
+Context: ease TB : 7548386320 K : 0367237 NVAA : 9971082 ! original TB : 0 K : 35 NVAA : 0643244872 ! 
+Question: ease NVAA?
+Answer: 9971082
+
+Context: ease TB : 7548386320 K : 0367237 NVAA : 9971082 ! original TB : 0 K : 35 NVAA : 0643244872 ! 
+Question: original TB?
+Answer: 0
+
+Context: ease TB : 7548386320 K : 0367237 NVAA : 9971082 ! original TB : 0 K : 35 NVAA : 0643244872 ! 
+Question: original K?
+Answer: 35
+
+Context: ease TB : 7548386320 K : 0367237 NVAA : 9971082 ! original TB : 0 K : 35 NVAA : 0643244872 ! 
+Question: original NVAA?
+Answer: 9971082
+
+Context: diamond RC : 59 BS : 0 MM : 9 ! point RC : 001861735 BS : 343577539 MM : 48583007 ! 
+Question: diamond RC?
+Answer: 001861735
+
+Context: diamond RC : 59 BS : 0 MM : 9 ! point RC : 001861735 BS : 343577539 MM : 48583007 ! 
+Question: diamond BS?
+Answer: 343577539
+
+Context: diamond RC : 59 BS : 0 MM : 9 ! point RC : 001861735 BS : 343577539 MM : 48583007 ! 
+Question: diamond MM?
+Answer: 48583007
+
+Context: diamond RC : 59 BS : 0 MM : 9 ! point RC : 001861735 BS : 343577539 MM : 48583007 ! 
+Question: point RC?
+Answer: 001861735
+
+Context: diamond RC : 59 BS : 0 MM : 9 ! point RC : 001861735 BS : 343577539 MM : 48583007 ! 
+Question: point BS?
+Answer: 343577539
+
+Context: diamond RC : 59 BS : 0 MM : 9 ! point RC : 001861735 BS : 343577539 MM : 48583007 ! 
+Question: point MM?
+Answer: 48583007
+
+Context: big I : 3506977 K : 08488556 GDAA : 9853 ! board I : 2 K : 190489 GDAA : 192180 ! 
+Question: big I?
+Answer: empty
+
+Context: big I : 3506977 K : 08488556 GDAA : 9853 ! board I : 2 K : 190489 GDAA : 192180 ! 
+Question: big K?
+Answer: 190489
+
+Context: big I : 3506977 K : 08488556 GDAA : 9853 ! board I : 2 K : 190489 GDAA : 192180 ! 
+Question: big GDAA?
+Answer: 9853
+
+Context: big I : 3506977 K : 08488556 GDAA : 9853 ! board I : 2 K : 190489 GDAA : 192180 ! 
+Question: board I?
+Answer: 2
+
+Context: big I : 3506977 K : 08488556 GDAA : 9853 ! board I : 2 K : 190489 GDAA : 192180 ! 
+Question: board K?
+Answer: 190489
+
+Context: big I : 3506977 K : 08488556 GDAA : 9853 ! board I : 2 K : 190489 GDAA : 192180 ! 
+Question: board GDAA?
+Answer: 9853
+
+Context: debate NWJ : 86733 MUTZ : 68641 A : 3166 ! uncle NWJ : 975876215 MUTZ : 42283636 A : 9485704 ! 
+Question: debate NWJ?
+Answer: empty
+
+Context: debate NWJ : 86733 MUTZ : 68641 A : 3166 ! uncle NWJ : 975876215 MUTZ : 42283636 A : 9485704 ! 
+Question: debate MUTZ?
+Answer: 68641
+
+Context: debate NWJ : 86733 MUTZ : 68641 A : 3166 ! uncle NWJ : 975876215 MUTZ : 42283636 A : 9485704 ! 
+Question: debate A?
+Answer: 3166
+
+Context: debate NWJ : 86733 MUTZ : 68641 A : 3166 ! uncle NWJ : 975876215 MUTZ : 42283636 A : 9485704 ! 
+Question: uncle NWJ?
+Answer: 975876215
+
+Context: debate NWJ : 86733 MUTZ : 68641 A : 3166 ! uncle NWJ : 975876215 MUTZ : 42283636 A : 9485704 ! 
+Question: uncle MUTZ?
+Answer: empty
+
+Context: debate NWJ : 86733 MUTZ : 68641 A : 3166 ! uncle NWJ : 975876215 MUTZ : 42283636 A : 9485704 ! 
+Question: uncle A?
+Answer: 3166
+
+Context: breath W : 1471 GM : 165531 CG : 25 ! classic W : 2339 GM : 734 CG : 2 ! 
+Question: breath W?
+Answer: 1471 gm : 165531 cg : 25 ! classic w : 2339
+
+Context: breath W : 1471 GM : 165531 CG : 25 ! classic W : 2339 GM : 734 CG : 2 ! 
+Question: breath GM?
+Answer: 165531
+
+Context: breath W : 1471 GM : 165531 CG : 25 ! classic W : 2339 GM : 734 CG : 2 ! 
+Question: breath CG?
+Answer: 25
+
+Context: breath W : 1471 GM : 165531 CG : 25 ! classic W : 2339 GM : 734 CG : 2 ! 
+Question: classic W?
+Answer: 2339
+
+Context: breath W : 1471 GM : 165531 CG : 25 ! classic W : 2339 GM : 734 CG : 2 ! 
+Question: classic GM?
+Answer: 734
+
+Context: breath W : 1471 GM : 165531 CG : 25 ! classic W : 2339 GM : 734 CG : 2 ! 
+Question: classic CG?
+Answer: 25
+
+Context: satisfaction C : 203030 KJOI : 7 PA : 1 ! price C : 2907250 KJOI : 26377451 PA : 77570398 ! 
+Question: satisfaction C?
+Answer: 2907250
+
+Context: satisfaction C : 203030 KJOI : 7 PA : 1 ! price C : 2907250 KJOI : 26377451 PA : 77570398 ! 
+Question: satisfaction KJOI?
+Answer: 7
+
+Context: satisfaction C : 203030 KJOI : 7 PA : 1 ! price C : 2907250 KJOI : 26377451 PA : 77570398 ! 
+Question: satisfaction PA?
+Answer: 77570398
+
+Context: satisfaction C : 203030 KJOI : 7 PA : 1 ! price C : 2907250 KJOI : 26377451 PA : 77570398 ! 
+Question: price C?
+Answer: 2907250
+
+Context: satisfaction C : 203030 KJOI : 7 PA : 1 ! price C : 2907250 KJOI : 26377451 PA : 77570398 ! 
+Question: price KJOI?
+Answer: 26377451
+
+Context: satisfaction C : 203030 KJOI : 7 PA : 1 ! price C : 2907250 KJOI : 26377451 PA : 77570398 ! 
+Question: price PA?
+Answer: 77570398
+
+Context: breast DXZO : 50527 QXW : 8470458465 EKD : 6824252 ! blank DXZO : 586 QXW : 22 EKD : 568213172 ! 
+Question: breast DXZO?
+Answer: empty
+
+Context: breast DXZO : 50527 QXW : 8470458465 EKD : 6824252 ! blank DXZO : 586 QXW : 22 EKD : 568213172 ! 
+Question: breast QXW?
+Answer: 8470458465
+
+Context: breast DXZO : 50527 QXW : 8470458465 EKD : 6824252 ! blank DXZO : 586 QXW : 22 EKD : 568213172 ! 
+Question: breast EKD?
+Answer: 6824252
+
+Context: breast DXZO : 50527 QXW : 8470458465 EKD : 6824252 ! blank DXZO : 586 QXW : 22 EKD : 568213172 ! 
+Question: blank DXZO?
+Answer: 586
+
+Context: breast DXZO : 50527 QXW : 8470458465 EKD : 6824252 ! blank DXZO : 586 QXW : 22 EKD : 568213172 ! 
+Question: blank QXW?
+Answer: 8470458465
+
+Context: breast DXZO : 50527 QXW : 8470458465 EKD : 6824252 ! blank DXZO : 586 QXW : 22 EKD : 568213172 ! 
+Question: blank EKD?
+Answer: 6824252
+
+Context: budget CH : 6713595979 CBXP : 1017 RP : 2176 ! vacation CH : 927743 CBXP : 0233 RP : 241 ! 
+Question: budget CH?
+Answer: empty
+
+Context: budget CH : 6713595979 CBXP : 1017 RP : 2176 ! vacation CH : 927743 CBXP : 0233 RP : 241 ! 
+Question: budget CBXP?
+Answer: 2176
+
+Context: budget CH : 6713595979 CBXP : 1017 RP : 2176 ! vacation CH : 927743 CBXP : 0233 RP : 241 ! 
+Question: budget RP?
+Answer: 2176
+
+Context: budget CH : 6713595979 CBXP : 1017 RP : 2176 ! vacation CH : 927743 CBXP : 0233 RP : 241 ! 
+Question: vacation CH?
+Answer: 927743
+
+Context: budget CH : 6713595979 CBXP : 1017 RP : 2176 ! vacation CH : 927743 CBXP : 0233 RP : 241 ! 
+Question: vacation CBXP?
+Answer: 2176
+
+Context: budget CH : 6713595979 CBXP : 1017 RP : 2176 ! vacation CH : 927743 CBXP : 0233 RP : 241 ! 
+Question: vacation RP?
+Answer: 2176
+
+Context: childhood QIPZ : 7674 ABA : 547299 ZF : 66194532 ! paper QIPZ : 453 ABA : 6730 ZF : 8685195 ! 
+Question: childhood QIPZ?
+Answer: 7674
+
+Context: childhood QIPZ : 7674 ABA : 547299 ZF : 66194532 ! paper QIPZ : 453 ABA : 6730 ZF : 8685195 ! 
+Question: childhood ABA?
+Answer: 547299
+
+Context: childhood QIPZ : 7674 ABA : 547299 ZF : 66194532 ! paper QIPZ : 453 ABA : 6730 ZF : 8685195 ! 
+Question: childhood ZF?
+Answer: 66194532
+
+Context: childhood QIPZ : 7674 ABA : 547299 ZF : 66194532 ! paper QIPZ : 453 ABA : 6730 ZF : 8685195 ! 
+Question: paper QIPZ?
+Answer: empty
+
+Context: childhood QIPZ : 7674 ABA : 547299 ZF : 66194532 ! paper QIPZ : 453 ABA : 6730 ZF : 8685195 ! 
+Question: paper ABA?
+Answer: 6730
+
+Context: childhood QIPZ : 7674 ABA : 547299 ZF : 66194532 ! paper QIPZ : 453 ABA : 6730 ZF : 8685195 ! 
+Question: paper ZF?
+Answer: empty
+
+Context: departure KVH : 162138 FHYE : 60953 B : 5320403975 ! profit KVH : 5908352529 FHYE : 517 B : 3782 ! 
+Question: departure KVH?
+Answer: empty
+
+Context: departure KVH : 162138 FHYE : 60953 B : 5320403975 ! profit KVH : 5908352529 FHYE : 517 B : 3782 ! 
+Question: departure FHYE?
+Answer: 60953
+
+Context: departure KVH : 162138 FHYE : 60953 B : 5320403975 ! profit KVH : 5908352529 FHYE : 517 B : 3782 ! 
+Question: departure B?
+Answer: 5320403975
+
+Context: departure KVH : 162138 FHYE : 60953 B : 5320403975 ! profit KVH : 5908352529 FHYE : 517 B : 3782 ! 
+Question: profit KVH?
+Answer: 5908352529
+
+Context: departure KVH : 162138 FHYE : 60953 B : 5320403975 ! profit KVH : 5908352529 FHYE : 517 B : 3782 ! 
+Question: profit FHYE?
+Answer: 60953
+
+Context: departure KVH : 162138 FHYE : 60953 B : 5320403975 ! profit KVH : 5908352529 FHYE : 517 B : 3782 ! 
+Question: profit B?
+Answer: empty
+
+Context: cycle J : 6518 QZH : 034557 M : 61 ! tower J : 773171915 QZH : 4 M : 9751338 ! 
+Question: cycle J?
+Answer: 773171915
+
+Context: cycle J : 6518 QZH : 034557 M : 61 ! tower J : 773171915 QZH : 4 M : 9751338 ! 
+Question: cycle QZH?
+Answer: 034557
+
+Context: cycle J : 6518 QZH : 034557 M : 61 ! tower J : 773171915 QZH : 4 M : 9751338 ! 
+Question: cycle M?
+Answer: empty
+
+Context: cycle J : 6518 QZH : 034557 M : 61 ! tower J : 773171915 QZH : 4 M : 9751338 ! 
+Question: tower J?
+Answer: 773171915
+
+Context: cycle J : 6518 QZH : 034557 M : 61 ! tower J : 773171915 QZH : 4 M : 9751338 ! 
+Question: tower QZH?
+Answer: 034557
+
+Context: cycle J : 6518 QZH : 034557 M : 61 ! tower J : 773171915 QZH : 4 M : 9751338 ! 
+Question: tower M?
+Answer: 9751338
+
+Context: suggestion IUQ : 3570638 BD : 8355746 F : 02 ! worth IUQ : 2676025801 BD : 92756 F : 7045682391 ! 
+Question: suggestion IUQ?
+Answer: 3570638
+
+Context: suggestion IUQ : 3570638 BD : 8355746 F : 02 ! worth IUQ : 2676025801 BD : 92756 F : 7045682391 ! 
+Question: suggestion BD?
+Answer: 8355746
+
+Context: suggestion IUQ : 3570638 BD : 8355746 F : 02 ! worth IUQ : 2676025801 BD : 92756 F : 7045682391 ! 
+Question: suggestion F?
+Answer: empty
+
+Context: suggestion IUQ : 3570638 BD : 8355746 F : 02 ! worth IUQ : 2676025801 BD : 92756 F : 7045682391 ! 
+Question: worth IUQ?
+Answer: 2676025801
+
+Context: suggestion IUQ : 3570638 BD : 8355746 F : 02 ! worth IUQ : 2676025801 BD : 92756 F : 7045682391 ! 
+Question: worth BD?
+Answer: 8355746
+
+Context: suggestion IUQ : 3570638 BD : 8355746 F : 02 ! worth IUQ : 2676025801 BD : 92756 F : 7045682391 ! 
+Question: worth F?
+Answer: empty
+
+Context: fill KW : 1100 ZEPL : 4842986793 ZCH : 0 ! desk KW : 1425214030 ZEPL : 3317 ZCH : 240330192 ! 
+Question: fill KW?
+Answer: 1425214030
+
+Context: fill KW : 1100 ZEPL : 4842986793 ZCH : 0 ! desk KW : 1425214030 ZEPL : 3317 ZCH : 240330192 ! 
+Question: fill ZEPL?
+Answer: 4842986793
+
+Context: fill KW : 1100 ZEPL : 4842986793 ZCH : 0 ! desk KW : 1425214030 ZEPL : 3317 ZCH : 240330192 ! 
+Question: fill ZCH?
+Answer: 0
+
+Context: fill KW : 1100 ZEPL : 4842986793 ZCH : 0 ! desk KW : 1425214030 ZEPL : 3317 ZCH : 240330192 ! 
+Question: desk KW?
+Answer: 1425214030
+
+Context: fill KW : 1100 ZEPL : 4842986793 ZCH : 0 ! desk KW : 1425214030 ZEPL : 3317 ZCH : 240330192 ! 
+Question: desk ZEPL?
+Answer: 4842986793
+
+Context: fill KW : 1100 ZEPL : 4842986793 ZCH : 0 ! desk KW : 1425214030 ZEPL : 3317 ZCH : 240330192 ! 
+Question: desk ZCH?
+Answer: 0
+
+Context: pause T : 630464 VOWV : 9321609 S : 8238359077 ! leave T : 159271 VOWV : 35693107 S : 2608 ! 
+Question: pause T?
+Answer: 159271
+
+Context: pause T : 630464 VOWV : 9321609 S : 8238359077 ! leave T : 159271 VOWV : 35693107 S : 2608 ! 
+Question: pause VOWV?
+Answer: empty
+
+Context: pause T : 630464 VOWV : 9321609 S : 8238359077 ! leave T : 159271 VOWV : 35693107 S : 2608 ! 
+Question: pause S?
+Answer: 8238359077
+
+Context: pause T : 630464 VOWV : 9321609 S : 8238359077 ! leave T : 159271 VOWV : 35693107 S : 2608 ! 
+Question: leave T?
+Answer: 159271
+
+Context: pause T : 630464 VOWV : 9321609 S : 8238359077 ! leave T : 159271 VOWV : 35693107 S : 2608 ! 
+Question: leave VOWV?
+Answer: 35693107
+
+Context: pause T : 630464 VOWV : 9321609 S : 8238359077 ! leave T : 159271 VOWV : 35693107 S : 2608 ! 
+Question: leave S?
+Answer: empty
+
+Context: responsibility KC : 6093893628 HH : 7985873 RP : 3867012 ! response KC : 4839096945 HH : 75292122 RP : 6413 ! 
+Question: responsibility KC?
+Answer: 4839096945
+
+Context: responsibility KC : 6093893628 HH : 7985873 RP : 3867012 ! response KC : 4839096945 HH : 75292122 RP : 6413 ! 
+Question: responsibility HH?
+Answer: 7985873
+
+Context: responsibility KC : 6093893628 HH : 7985873 RP : 3867012 ! response KC : 4839096945 HH : 75292122 RP : 6413 ! 
+Question: responsibility RP?
+Answer: 3867012
+
+Context: responsibility KC : 6093893628 HH : 7985873 RP : 3867012 ! response KC : 4839096945 HH : 75292122 RP : 6413 ! 
+Question: response KC?
+Answer: 4839096945
+
+Context: responsibility KC : 6093893628 HH : 7985873 RP : 3867012 ! response KC : 4839096945 HH : 75292122 RP : 6413 ! 
+Question: response HH?
+Answer: 7985873
+
+Context: responsibility KC : 6093893628 HH : 7985873 RP : 3867012 ! response KC : 4839096945 HH : 75292122 RP : 6413 ! 
+Question: response RP?
+Answer: 3867012
+
+Context: studio CZ : 33928950 CNY : 824700 PCP : 4921268 ! name CZ : 558 CNY : 5690659169 PCP : 532 ! 
+Question: studio CZ?
+Answer: 33928950
+
+Context: studio CZ : 33928950 CNY : 824700 PCP : 4921268 ! name CZ : 558 CNY : 5690659169 PCP : 532 ! 
+Question: studio CNY?
+Answer: 824700
+
+Context: studio CZ : 33928950 CNY : 824700 PCP : 4921268 ! name CZ : 558 CNY : 5690659169 PCP : 532 ! 
+Question: studio PCP?
+Answer: 4921268
+
+Context: studio CZ : 33928950 CNY : 824700 PCP : 4921268 ! name CZ : 558 CNY : 5690659169 PCP : 532 ! 
+Question: name CZ?
+Answer: empty
+
+Context: studio CZ : 33928950 CNY : 824700 PCP : 4921268 ! name CZ : 558 CNY : 5690659169 PCP : 532 ! 
+Question: name CNY?
+Answer: 824700
+
+Context: studio CZ : 33928950 CNY : 824700 PCP : 4921268 ! name CZ : 558 CNY : 5690659169 PCP : 532 ! 
+Question: name PCP?
+Answer: 4921268
+
+Context: guidance M : 42537000 P : 7804775 WY : 67767 ! effective M : 8 P : 3 WY : 1 ! 
+Question: guidance M?
+Answer: 8
+
+Context: guidance M : 42537000 P : 7804775 WY : 67767 ! effective M : 8 P : 3 WY : 1 ! 
+Question: guidance P?
+Answer: 3
+
+Context: guidance M : 42537000 P : 7804775 WY : 67767 ! effective M : 8 P : 3 WY : 1 ! 
+Question: guidance WY?
+Answer: empty
+
+Context: guidance M : 42537000 P : 7804775 WY : 67767 ! effective M : 8 P : 3 WY : 1 ! 
+Question: effective M?
+Answer: 8
+
+Context: guidance M : 42537000 P : 7804775 WY : 67767 ! effective M : 8 P : 3 WY : 1 ! 
+Question: effective P?
+Answer: 3
+
+Context: guidance M : 42537000 P : 7804775 WY : 67767 ! effective M : 8 P : 3 WY : 1 ! 
+Question: effective WY?
+Answer: 67767
+
+Context: charge YY : 586282 AG : 2246 SI : 1 ! branch YY : 95579 AG : 0 SI : 4 ! 
+Question: charge YY?
+Answer: 95579
+
+Context: charge YY : 586282 AG : 2246 SI : 1 ! branch YY : 95579 AG : 0 SI : 4 ! 
+Question: charge AG?
+Answer: empty
+
+Context: charge YY : 586282 AG : 2246 SI : 1 ! branch YY : 95579 AG : 0 SI : 4 ! 
+Question: charge SI?
+Answer: 4
+
+Context: charge YY : 586282 AG : 2246 SI : 1 ! branch YY : 95579 AG : 0 SI : 4 ! 
+Question: branch YY?
+Answer: 95579
+
+Context: charge YY : 586282 AG : 2246 SI : 1 ! branch YY : 95579 AG : 0 SI : 4 ! 
+Question: branch AG?
+Answer: 0
+
+Context: charge YY : 586282 AG : 2246 SI : 1 ! branch YY : 95579 AG : 0 SI : 4 ! 
+Question: branch SI?
+Answer: 4
+
+Context: question YJ : 867331 P : 6 B : 3458464 ! police YJ : 24 P : 79 B : 97 ! 
+Question: question YJ?
+Answer: 24
+
+Context: question YJ : 867331 P : 6 B : 3458464 ! police YJ : 24 P : 79 B : 97 ! 
+Question: question P?
+Answer: 79
+
+Context: question YJ : 867331 P : 6 B : 3458464 ! police YJ : 24 P : 79 B : 97 ! 
+Question: question B?
+Answer: 3458464
+
+Context: question YJ : 867331 P : 6 B : 3458464 ! police YJ : 24 P : 79 B : 97 ! 
+Question: police YJ?
+Answer: 24
+
+Context: question YJ : 867331 P : 6 B : 3458464 ! police YJ : 24 P : 79 B : 97 ! 
+Question: police P?
+Answer: 79
+
+Context: question YJ : 867331 P : 6 B : 3458464 ! police YJ : 24 P : 79 B : 97 ! 
+Question: police B?
+Answer: empty
+
+Context: design CNJ : 294 IHGS : 33896286 W : 28971 ! youth CNJ : 3412 IHGS : 129836133 W : 137812 ! 
+Question: design CNJ?
+Answer: empty
+
+Context: design CNJ : 294 IHGS : 33896286 W : 28971 ! youth CNJ : 3412 IHGS : 129836133 W : 137812 ! 
+Question: design IHGS?
+Answer: 33896286
+
+Context: design CNJ : 294 IHGS : 33896286 W : 28971 ! youth CNJ : 3412 IHGS : 129836133 W : 137812 ! 
+Question: design W?
+Answer: 28971
+
+Context: design CNJ : 294 IHGS : 33896286 W : 28971 ! youth CNJ : 3412 IHGS : 129836133 W : 137812 ! 
+Question: youth CNJ?
+Answer: 3412
+
+Context: design CNJ : 294 IHGS : 33896286 W : 28971 ! youth CNJ : 3412 IHGS : 129836133 W : 137812 ! 
+Question: youth IHGS?
+Answer: 33896286
+
+Context: design CNJ : 294 IHGS : 33896286 W : 28971 ! youth CNJ : 3412 IHGS : 129836133 W : 137812 ! 
+Question: youth W?
+Answer: 28971
+
+Context: night BOIZ : 582401 FS : 6038277967 TIP : 8176743 ! resist BOIZ : 5821820730 FS : 0038512 TIP : 208 ! 
+Question: night BOIZ?
+Answer: 582401
+
+Context: night BOIZ : 582401 FS : 6038277967 TIP : 8176743 ! resist BOIZ : 5821820730 FS : 0038512 TIP : 208 ! 
+Question: night FS?
+Answer: 6038277967
+
+Context: night BOIZ : 582401 FS : 6038277967 TIP : 8176743 ! resist BOIZ : 5821820730 FS : 0038512 TIP : 208 ! 
+Question: night TIP?
+Answer: 8176743
+
+Context: night BOIZ : 582401 FS : 6038277967 TIP : 8176743 ! resist BOIZ : 5821820730 FS : 0038512 TIP : 208 ! 
+Question: resist BOIZ?
+Answer: 582401
+
+Context: night BOIZ : 582401 FS : 6038277967 TIP : 8176743 ! resist BOIZ : 5821820730 FS : 0038512 TIP : 208 ! 
+Question: resist FS?
+Answer: 6038277967
+
+Context: night BOIZ : 582401 FS : 6038277967 TIP : 8176743 ! resist BOIZ : 5821820730 FS : 0038512 TIP : 208 ! 
+Question: resist TIP?
+Answer: 8176743
+
+Context: court QPL : 034285 ZEHL : 3 TDR : 942 ! pattern QPL : 6794994 ZEHL : 36685 TDR : 7212017753 ! 
+Question: court QPL?
+Answer: 6794994
+
+Context: court QPL : 034285 ZEHL : 3 TDR : 942 ! pattern QPL : 6794994 ZEHL : 36685 TDR : 7212017753 ! 
+Question: court ZEHL?
+Answer: empty
+
+Context: court QPL : 034285 ZEHL : 3 TDR : 942 ! pattern QPL : 6794994 ZEHL : 36685 TDR : 7212017753 ! 
+Question: court TDR?
+Answer: empty
+
+Context: court QPL : 034285 ZEHL : 3 TDR : 942 ! pattern QPL : 6794994 ZEHL : 36685 TDR : 7212017753 ! 
+Question: pattern QPL?
+Answer: 6794994
+
+Context: court QPL : 034285 ZEHL : 3 TDR : 942 ! pattern QPL : 6794994 ZEHL : 36685 TDR : 7212017753 ! 
+Question: pattern ZEHL?
+Answer: empty
+
+Context: court QPL : 034285 ZEHL : 3 TDR : 942 ! pattern QPL : 6794994 ZEHL : 36685 TDR : 7212017753 ! 
+Question: pattern TDR?
+Answer: empty
+
+Context: game OULE : 64294488 CYTM : 6 WQHR : 760 ! instruction OULE : 923221 CYTM : 4670 WQHR : 401510 ! 
+Question: game OULE?
+Answer: 923221
+
+Context: game OULE : 64294488 CYTM : 6 WQHR : 760 ! instruction OULE : 923221 CYTM : 4670 WQHR : 401510 ! 
+Question: game CYTM?
+Answer: 6
+
+Context: game OULE : 64294488 CYTM : 6 WQHR : 760 ! instruction OULE : 923221 CYTM : 4670 WQHR : 401510 ! 
+Question: game WQHR?
+Answer: 760
+
+Context: game OULE : 64294488 CYTM : 6 WQHR : 760 ! instruction OULE : 923221 CYTM : 4670 WQHR : 401510 ! 
+Question: instruction OULE?
+Answer: 923221
+
+Context: game OULE : 64294488 CYTM : 6 WQHR : 760 ! instruction OULE : 923221 CYTM : 4670 WQHR : 401510 ! 
+Question: instruction CYTM?
+Answer: 6
+
+Context: game OULE : 64294488 CYTM : 6 WQHR : 760 ! instruction OULE : 923221 CYTM : 4670 WQHR : 401510 ! 
+Question: instruction WQHR?
+Answer: 760
+
+Context: print UHD : 7 XS : 626796253 PVDY : 7317752075 ! rise UHD : 0969980 XS : 6402941 PVDY : 3818 ! 
+Question: print UHD?
+Answer: 7 xs : 626796253 pvdy : 7317752075
+
+Context: print UHD : 7 XS : 626796253 PVDY : 7317752075 ! rise UHD : 0969980 XS : 6402941 PVDY : 3818 ! 
+Question: print XS?
+Answer: 626796253
+
+Context: print UHD : 7 XS : 626796253 PVDY : 7317752075 ! rise UHD : 0969980 XS : 6402941 PVDY : 3818 ! 
+Question: print PVDY?
+Answer: 7317752075
+
+Context: print UHD : 7 XS : 626796253 PVDY : 7317752075 ! rise UHD : 0969980 XS : 6402941 PVDY : 3818 ! 
+Question: rise UHD?
+Answer: 7 xs : 626796253 pvdy : 7317752075
+
+Context: print UHD : 7 XS : 626796253 PVDY : 7317752075 ! rise UHD : 0969980 XS : 6402941 PVDY : 3818 ! 
+Question: rise XS?
+Answer: 626796253
+
+Context: print UHD : 7 XS : 626796253 PVDY : 7317752075 ! rise UHD : 0969980 XS : 6402941 PVDY : 3818 ! 
+Question: rise PVDY?
+Answer: 7317752075
+
+Context: guide WCO : 32439928 IB : 4 AG : 406564 ! room WCO : 99227299 IB : 463 AG : 1334894866 ! 
+Question: guide WCO?
+Answer: 99227299
+
+Context: guide WCO : 32439928 IB : 4 AG : 406564 ! room WCO : 99227299 IB : 463 AG : 1334894866 ! 
+Question: guide IB?
+Answer: 4
+
+Context: guide WCO : 32439928 IB : 4 AG : 406564 ! room WCO : 99227299 IB : 463 AG : 1334894866 ! 
+Question: guide AG?
+Answer: 406564
+
+Context: guide WCO : 32439928 IB : 4 AG : 406564 ! room WCO : 99227299 IB : 463 AG : 1334894866 ! 
+Question: room WCO?
+Answer: 99227299
+
+Context: guide WCO : 32439928 IB : 4 AG : 406564 ! room WCO : 99227299 IB : 463 AG : 1334894866 ! 
+Question: room IB?
+Answer: empty
+
+Context: guide WCO : 32439928 IB : 4 AG : 406564 ! room WCO : 99227299 IB : 463 AG : 1334894866 ! 
+Question: room AG?
+Answer: 406564
+
+Context: tackle EVC : 3259059529 GIDA : 8189099508 Z : 25257617 ! sympathy EVC : 9838 GIDA : 91966540 Z : 2957 ! 
+Question: tackle EVC?
+Answer: 3259059529
+
+Context: tackle EVC : 3259059529 GIDA : 8189099508 Z : 25257617 ! sympathy EVC : 9838 GIDA : 91966540 Z : 2957 ! 
+Question: tackle GIDA?
+Answer: 8189099508
+
+Context: tackle EVC : 3259059529 GIDA : 8189099508 Z : 25257617 ! sympathy EVC : 9838 GIDA : 91966540 Z : 2957 ! 
+Question: tackle Z?
+Answer: 25257617
+
+Context: tackle EVC : 3259059529 GIDA : 8189099508 Z : 25257617 ! sympathy EVC : 9838 GIDA : 91966540 Z : 2957 ! 
+Question: sympathy EVC?
+Answer: 3259059529
+
+Context: tackle EVC : 3259059529 GIDA : 8189099508 Z : 25257617 ! sympathy EVC : 9838 GIDA : 91966540 Z : 2957 ! 
+Question: sympathy GIDA?
+Answer: 8189099508
+
+Context: tackle EVC : 3259059529 GIDA : 8189099508 Z : 25257617 ! sympathy EVC : 9838 GIDA : 91966540 Z : 2957 ! 
+Question: sympathy Z?
+Answer: 25257617
+
+Context: beyond R : 17 KX : 2 RKGW : 5 ! foot R : 46798348 KX : 40126238 RKGW : 0508219918 ! 
+Question: beyond R?
+Answer: 46798348
+
+Context: beyond R : 17 KX : 2 RKGW : 5 ! foot R : 46798348 KX : 40126238 RKGW : 0508219918 ! 
+Question: beyond KX?
+Answer: 2
+
+Context: beyond R : 17 KX : 2 RKGW : 5 ! foot R : 46798348 KX : 40126238 RKGW : 0508219918 ! 
+Question: beyond RKGW?
+Answer: 0508219918
+
+Context: beyond R : 17 KX : 2 RKGW : 5 ! foot R : 46798348 KX : 40126238 RKGW : 0508219918 ! 
+Question: foot R?
+Answer: 46798348
+
+Context: beyond R : 17 KX : 2 RKGW : 5 ! foot R : 46798348 KX : 40126238 RKGW : 0508219918 ! 
+Question: foot KX?
+Answer: 40126238
+
+Context: beyond R : 17 KX : 2 RKGW : 5 ! foot R : 46798348 KX : 40126238 RKGW : 0508219918 ! 
+Question: foot RKGW?
+Answer: 0508219918
+
+Context: editor BCFZ : 9372 WI : 031 C : 3694338542 ! candidate BCFZ : 48 WI : 534 C : 086426117 ! 
+Question: editor BCFZ?
+Answer: 9372
+
+Context: editor BCFZ : 9372 WI : 031 C : 3694338542 ! candidate BCFZ : 48 WI : 534 C : 086426117 ! 
+Question: editor WI?
+Answer: empty
+
+Context: editor BCFZ : 9372 WI : 031 C : 3694338542 ! candidate BCFZ : 48 WI : 534 C : 086426117 ! 
+Question: editor C?
+Answer: empty
+
+Context: editor BCFZ : 9372 WI : 031 C : 3694338542 ! candidate BCFZ : 48 WI : 534 C : 086426117 ! 
+Question: candidate BCFZ?
+Answer: 9372
+
+Context: editor BCFZ : 9372 WI : 031 C : 3694338542 ! candidate BCFZ : 48 WI : 534 C : 086426117 ! 
+Question: candidate WI?
+Answer: 534
+
+Context: editor BCFZ : 9372 WI : 031 C : 3694338542 ! candidate BCFZ : 48 WI : 534 C : 086426117 ! 
+Question: candidate C?
+Answer: 086426117
+
+Context: carpet C : 070037938 XNZT : 9604 A : 0198 ! total C : 646 XNZT : 005368 A : 248831 ! 
+Question: carpet C?
+Answer: 646
+
+Context: carpet C : 070037938 XNZT : 9604 A : 0198 ! total C : 646 XNZT : 005368 A : 248831 ! 
+Question: carpet XNZT?
+Answer: empty
+
+Context: carpet C : 070037938 XNZT : 9604 A : 0198 ! total C : 646 XNZT : 005368 A : 248831 ! 
+Question: carpet A?
+Answer: 0198
+
+Context: carpet C : 070037938 XNZT : 9604 A : 0198 ! total C : 646 XNZT : 005368 A : 248831 ! 
+Question: total C?
+Answer: 646
+
+Context: carpet C : 070037938 XNZT : 9604 A : 0198 ! total C : 646 XNZT : 005368 A : 248831 ! 
+Question: total XNZT?
+Answer: empty
+
+Context: carpet C : 070037938 XNZT : 9604 A : 0198 ! total C : 646 XNZT : 005368 A : 248831 ! 
+Question: total A?
+Answer: 0198
+
+Context: flight IX : 406 SN : 4 OSUH : 4492 ! broad IX : 8755223561 SN : 04340 OSUH : 24353 ! 
+Question: flight IX?
+Answer: 8755223561
+
+Context: flight IX : 406 SN : 4 OSUH : 4492 ! broad IX : 8755223561 SN : 04340 OSUH : 24353 ! 
+Question: flight SN?
+Answer: 4
+
+Context: flight IX : 406 SN : 4 OSUH : 4492 ! broad IX : 8755223561 SN : 04340 OSUH : 24353 ! 
+Question: flight OSUH?
+Answer: 4492
+
+Context: flight IX : 406 SN : 4 OSUH : 4492 ! broad IX : 8755223561 SN : 04340 OSUH : 24353 ! 
+Question: broad IX?
+Answer: 8755223561
+
+Context: flight IX : 406 SN : 4 OSUH : 4492 ! broad IX : 8755223561 SN : 04340 OSUH : 24353 ! 
+Question: broad SN?
+Answer: 4
+
+Context: flight IX : 406 SN : 4 OSUH : 4492 ! broad IX : 8755223561 SN : 04340 OSUH : 24353 ! 
+Question: broad OSUH?
+Answer: 24353
+
+Context: version X : 1095751761 VCC : 230124541 E : 892 ! designer X : 8272914952 VCC : 831 E : 8 ! 
+Question: version X?
+Answer: 8272914952
+
+Context: version X : 1095751761 VCC : 230124541 E : 892 ! designer X : 8272914952 VCC : 831 E : 8 ! 
+Question: version VCC?
+Answer: 230124541
+
+Context: version X : 1095751761 VCC : 230124541 E : 892 ! designer X : 8272914952 VCC : 831 E : 8 ! 
+Question: version E?
+Answer: 892
+
+Context: version X : 1095751761 VCC : 230124541 E : 892 ! designer X : 8272914952 VCC : 831 E : 8 ! 
+Question: designer X?
+Answer: 8272914952
+
+Context: version X : 1095751761 VCC : 230124541 E : 892 ! designer X : 8272914952 VCC : 831 E : 8 ! 
+Question: designer VCC?
+Answer: 230124541
+
+Context: version X : 1095751761 VCC : 230124541 E : 892 ! designer X : 8272914952 VCC : 831 E : 8 ! 
+Question: designer E?
+Answer: 892
+
+Context: strategy KRAK : 6048 VUZ : 2 B : 861 ! birth KRAK : 032 VUZ : 82341695 B : 749645 ! 
+Question: strategy KRAK?
+Answer: 032
+
+Context: strategy KRAK : 6048 VUZ : 2 B : 861 ! birth KRAK : 032 VUZ : 82341695 B : 749645 ! 
+Question: strategy VUZ?
+Answer: 82341695
+
+Context: strategy KRAK : 6048 VUZ : 2 B : 861 ! birth KRAK : 032 VUZ : 82341695 B : 749645 ! 
+Question: strategy B?
+Answer: 749645
+
+Context: strategy KRAK : 6048 VUZ : 2 B : 861 ! birth KRAK : 032 VUZ : 82341695 B : 749645 ! 
+Question: birth KRAK?
+Answer: 032
+
+Context: strategy KRAK : 6048 VUZ : 2 B : 861 ! birth KRAK : 032 VUZ : 82341695 B : 749645 ! 
+Question: birth VUZ?
+Answer: 82341695
+
+Context: strategy KRAK : 6048 VUZ : 2 B : 861 ! birth KRAK : 032 VUZ : 82341695 B : 749645 ! 
+Question: birth B?
+Answer: 749645
+
+Context: equivalent AYBV : 59504797 UIO : 2481179 GU : 6041487 ! gene AYBV : 7384 UIO : 33 GU : 806577357 ! 
+Question: equivalent AYBV?
+Answer: 59504797
+
+Context: equivalent AYBV : 59504797 UIO : 2481179 GU : 6041487 ! gene AYBV : 7384 UIO : 33 GU : 806577357 ! 
+Question: equivalent UIO?
+Answer: 2481179
+
+Context: equivalent AYBV : 59504797 UIO : 2481179 GU : 6041487 ! gene AYBV : 7384 UIO : 33 GU : 806577357 ! 
+Question: equivalent GU?
+Answer: 6041487
+
+Context: equivalent AYBV : 59504797 UIO : 2481179 GU : 6041487 ! gene AYBV : 7384 UIO : 33 GU : 806577357 ! 
+Question: gene AYBV?
+Answer: 59504797
+
+Context: equivalent AYBV : 59504797 UIO : 2481179 GU : 6041487 ! gene AYBV : 7384 UIO : 33 GU : 806577357 ! 
+Question: gene UIO?
+Answer: 2481179
+
+Context: equivalent AYBV : 59504797 UIO : 2481179 GU : 6041487 ! gene AYBV : 7384 UIO : 33 GU : 806577357 ! 
+Question: gene GU?
+Answer: 6041487
+
+Context: pick PTY : 6361117 N : 486846882 HV : 4 ! measurement PTY : 4 N : 303 HV : 433 ! 
+Question: pick PTY?
+Answer: 486846882
+
+Context: pick PTY : 6361117 N : 486846882 HV : 4 ! measurement PTY : 4 N : 303 HV : 433 ! 
+Question: pick N?
+Answer: 486846882
+
+Context: pick PTY : 6361117 N : 486846882 HV : 4 ! measurement PTY : 4 N : 303 HV : 433 ! 
+Question: pick HV?
+Answer: 4 ! measurement pty : 4 n : 303 hv : 433
+
+Context: pick PTY : 6361117 N : 486846882 HV : 4 ! measurement PTY : 4 N : 303 HV : 433 ! 
+Question: measurement PTY?
+Answer: 486846882
+
+Context: pick PTY : 6361117 N : 486846882 HV : 4 ! measurement PTY : 4 N : 303 HV : 433 ! 
+Question: measurement N?
+Answer: 486846882
+
+Context: pick PTY : 6361117 N : 486846882 HV : 4 ! measurement PTY : 4 N : 303 HV : 433 ! 
+Question: measurement HV?
+Answer: 433
+
+Context: coast U : 047430963 POZ : 4260666 T : 3449146182 ! screw U : 710696 POZ : 888647180 T : 439 ! 
+Question: coast U?
+Answer: 710696
+
+Context: coast U : 047430963 POZ : 4260666 T : 3449146182 ! screw U : 710696 POZ : 888647180 T : 439 ! 
+Question: coast POZ?
+Answer: 4260666
+
+Context: coast U : 047430963 POZ : 4260666 T : 3449146182 ! screw U : 710696 POZ : 888647180 T : 439 ! 
+Question: coast T?
+Answer: 3449146182
+
+Context: coast U : 047430963 POZ : 4260666 T : 3449146182 ! screw U : 710696 POZ : 888647180 T : 439 ! 
+Question: screw U?
+Answer: 710696
+
+Context: coast U : 047430963 POZ : 4260666 T : 3449146182 ! screw U : 710696 POZ : 888647180 T : 439 ! 
+Question: screw POZ?
+Answer: 4260666
+
+Context: coast U : 047430963 POZ : 4260666 T : 3449146182 ! screw U : 710696 POZ : 888647180 T : 439 ! 
+Question: screw T?
+Answer: 3449146182
+
+Context: consideration R : 67336302 GKG : 619 YEP : 2714224 ! hell R : 2 GKG : 376066 YEP : 2 ! 
+Question: consideration R?
+Answer: 2
+
+Context: consideration R : 67336302 GKG : 619 YEP : 2714224 ! hell R : 2 GKG : 376066 YEP : 2 ! 
+Question: consideration GKG?
+Answer: 619
+
+Context: consideration R : 67336302 GKG : 619 YEP : 2714224 ! hell R : 2 GKG : 376066 YEP : 2 ! 
+Question: consideration YEP?
+Answer: 2714224
+
+Context: consideration R : 67336302 GKG : 619 YEP : 2714224 ! hell R : 2 GKG : 376066 YEP : 2 ! 
+Question: hell R?
+Answer: 2
+
+Context: consideration R : 67336302 GKG : 619 YEP : 2714224 ! hell R : 2 GKG : 376066 YEP : 2 ! 
+Question: hell GKG?
+Answer: 619
+
+Context: consideration R : 67336302 GKG : 619 YEP : 2714224 ! hell R : 2 GKG : 376066 YEP : 2 ! 
+Question: hell YEP?
+Answer: 2714224
+
+Context: movie WRW : 44471861 W : 0199 I : 86360 ! currency WRW : 264158195 W : 2 I : 9222900 ! 
+Question: movie WRW?
+Answer: 264158195
+
+Context: movie WRW : 44471861 W : 0199 I : 86360 ! currency WRW : 264158195 W : 2 I : 9222900 ! 
+Question: movie W?
+Answer: 0199
+
+Context: movie WRW : 44471861 W : 0199 I : 86360 ! currency WRW : 264158195 W : 2 I : 9222900 ! 
+Question: movie I?
+Answer: 86360
+
+Context: movie WRW : 44471861 W : 0199 I : 86360 ! currency WRW : 264158195 W : 2 I : 9222900 ! 
+Question: currency WRW?
+Answer: 264158195
+
+Context: movie WRW : 44471861 W : 0199 I : 86360 ! currency WRW : 264158195 W : 2 I : 9222900 ! 
+Question: currency W?
+Answer: 2
+
+Context: movie WRW : 44471861 W : 0199 I : 86360 ! currency WRW : 264158195 W : 2 I : 9222900 ! 
+Question: currency I?
+Answer: 86360
+
+Context: connection GUZ : 57 ZGLL : 134522105 GM : 08471476 ! temporary GUZ : 507837 ZGLL : 04697942 GM : 46758123 ! 
+Question: connection GUZ?
+Answer: 507837
+
+Context: connection GUZ : 57 ZGLL : 134522105 GM : 08471476 ! temporary GUZ : 507837 ZGLL : 04697942 GM : 46758123 ! 
+Question: connection ZGLL?
+Answer: 134522105
+
+Context: connection GUZ : 57 ZGLL : 134522105 GM : 08471476 ! temporary GUZ : 507837 ZGLL : 04697942 GM : 46758123 ! 
+Question: connection GM?
+Answer: 08471476
+
+Context: connection GUZ : 57 ZGLL : 134522105 GM : 08471476 ! temporary GUZ : 507837 ZGLL : 04697942 GM : 46758123 ! 
+Question: temporary GUZ?
+Answer: 507837
+
+Context: connection GUZ : 57 ZGLL : 134522105 GM : 08471476 ! temporary GUZ : 507837 ZGLL : 04697942 GM : 46758123 ! 
+Question: temporary ZGLL?
+Answer: 134522105
+
+Context: connection GUZ : 57 ZGLL : 134522105 GM : 08471476 ! temporary GUZ : 507837 ZGLL : 04697942 GM : 46758123 ! 
+Question: temporary GM?
+Answer: 08471476
+
+Context: leader S : 62344141 NS : 8980 YN : 18279631 ! policy S : 816543728 NS : 8 YN : 12770912 ! 
+Question: leader S?
+Answer: 816543728
+
+Context: leader S : 62344141 NS : 8980 YN : 18279631 ! policy S : 816543728 NS : 8 YN : 12770912 ! 
+Question: leader NS?
+Answer: 8980
+
+Context: leader S : 62344141 NS : 8980 YN : 18279631 ! policy S : 816543728 NS : 8 YN : 12770912 ! 
+Question: leader YN?
+Answer: empty
+
+Context: leader S : 62344141 NS : 8980 YN : 18279631 ! policy S : 816543728 NS : 8 YN : 12770912 ! 
+Question: policy S?
+Answer: 816543728
+
+Context: leader S : 62344141 NS : 8980 YN : 18279631 ! policy S : 816543728 NS : 8 YN : 12770912 ! 
+Question: policy NS?
+Answer: 8
+
+Context: leader S : 62344141 NS : 8980 YN : 18279631 ! policy S : 816543728 NS : 8 YN : 12770912 ! 
+Question: policy YN?
+Answer: 816543728
+
+Context: landscape X : 5077818784 N : 2564 PJ : 8 ! platform X : 598195635 N : 67711635 PJ : 9749687 ! 
+Question: landscape X?
+Answer: 598195635
+
+Context: landscape X : 5077818784 N : 2564 PJ : 8 ! platform X : 598195635 N : 67711635 PJ : 9749687 ! 
+Question: landscape N?
+Answer: 67711635
+
+Context: landscape X : 5077818784 N : 2564 PJ : 8 ! platform X : 598195635 N : 67711635 PJ : 9749687 ! 
+Question: landscape PJ?
+Answer: 8
+
+Context: landscape X : 5077818784 N : 2564 PJ : 8 ! platform X : 598195635 N : 67711635 PJ : 9749687 ! 
+Question: platform X?
+Answer: 598195635
+
+Context: landscape X : 5077818784 N : 2564 PJ : 8 ! platform X : 598195635 N : 67711635 PJ : 9749687 ! 
+Question: platform N?
+Answer: 67711635
+
+Context: landscape X : 5077818784 N : 2564 PJ : 8 ! platform X : 598195635 N : 67711635 PJ : 9749687 ! 
+Question: platform PJ?
+Answer: 8
+
+Context: commercial ETU : 4 VW : 9876 BBAR : 3 ! effective ETU : 4 VW : 571265 BBAR : 00524 ! 
+Question: commercial ETU?
+Answer: 4
+
+Context: commercial ETU : 4 VW : 9876 BBAR : 3 ! effective ETU : 4 VW : 571265 BBAR : 00524 ! 
+Question: commercial VW?
+Answer: 9876
+
+Context: commercial ETU : 4 VW : 9876 BBAR : 3 ! effective ETU : 4 VW : 571265 BBAR : 00524 ! 
+Question: commercial BBAR?
+Answer: 3
+
+Context: commercial ETU : 4 VW : 9876 BBAR : 3 ! effective ETU : 4 VW : 571265 BBAR : 00524 ! 
+Question: effective ETU?
+Answer: 4
+
+Context: commercial ETU : 4 VW : 9876 BBAR : 3 ! effective ETU : 4 VW : 571265 BBAR : 00524 ! 
+Question: effective VW?
+Answer: 9876
+
+Context: commercial ETU : 4 VW : 9876 BBAR : 3 ! effective ETU : 4 VW : 571265 BBAR : 00524 ! 
+Question: effective BBAR?
+Answer: 3 ! effective etu : 4 vw : 571265 bbar : 00524
+
+Context: touch MY : 98505 NV : 1503269 G : 5183071 ! plane MY : 74279536 NV : 472 G : 662271694 ! 
+Question: touch MY?
+Answer: 98505
+
+Context: touch MY : 98505 NV : 1503269 G : 5183071 ! plane MY : 74279536 NV : 472 G : 662271694 ! 
+Question: touch NV?
+Answer: empty
+
+Context: touch MY : 98505 NV : 1503269 G : 5183071 ! plane MY : 74279536 NV : 472 G : 662271694 ! 
+Question: touch G?
+Answer: 5183071
+
+Context: touch MY : 98505 NV : 1503269 G : 5183071 ! plane MY : 74279536 NV : 472 G : 662271694 ! 
+Question: plane MY?
+Answer: 74279536
+
+Context: touch MY : 98505 NV : 1503269 G : 5183071 ! plane MY : 74279536 NV : 472 G : 662271694 ! 
+Question: plane NV?
+Answer: empty
+
+Context: touch MY : 98505 NV : 1503269 G : 5183071 ! plane MY : 74279536 NV : 472 G : 662271694 ! 
+Question: plane G?
+Answer: empty
+
+Context: state LY : 489573278 KOC : 462 F : 5922122960 ! agreement LY : 930 KOC : 362 F : 986205046 ! 
+Question: state LY?
+Answer: 489573278 koc : 462
+
+Context: state LY : 489573278 KOC : 462 F : 5922122960 ! agreement LY : 930 KOC : 362 F : 986205046 ! 
+Question: state KOC?
+Answer: 462
+
+Context: state LY : 489573278 KOC : 462 F : 5922122960 ! agreement LY : 930 KOC : 362 F : 986205046 ! 
+Question: state F?
+Answer: 5922122960
+
+Context: state LY : 489573278 KOC : 462 F : 5922122960 ! agreement LY : 930 KOC : 362 F : 986205046 ! 
+Question: agreement LY?
+Answer: empty
+
+Context: state LY : 489573278 KOC : 462 F : 5922122960 ! agreement LY : 930 KOC : 362 F : 986205046 ! 
+Question: agreement KOC?
+Answer: 462
+
+Context: state LY : 489573278 KOC : 462 F : 5922122960 ! agreement LY : 930 KOC : 362 F : 986205046 ! 
+Question: agreement F?
+Answer: 5922122960
+
+Context: buyer OU : 1627268198 IIQ : 644 E : 82 ! beyond OU : 531706524 IIQ : 60 E : 9682 ! 
+Question: buyer OU?
+Answer: 531706524
+
+Context: buyer OU : 1627268198 IIQ : 644 E : 82 ! beyond OU : 531706524 IIQ : 60 E : 9682 ! 
+Question: buyer IIQ?
+Answer: 644
+
+Context: buyer OU : 1627268198 IIQ : 644 E : 82 ! beyond OU : 531706524 IIQ : 60 E : 9682 ! 
+Question: buyer E?
+Answer: empty
+
+Context: buyer OU : 1627268198 IIQ : 644 E : 82 ! beyond OU : 531706524 IIQ : 60 E : 9682 ! 
+Question: beyond OU?
+Answer: 531706524
+
+Context: buyer OU : 1627268198 IIQ : 644 E : 82 ! beyond OU : 531706524 IIQ : 60 E : 9682 ! 
+Question: beyond IIQ?
+Answer: 644
+
+Context: buyer OU : 1627268198 IIQ : 644 E : 82 ! beyond OU : 531706524 IIQ : 60 E : 9682 ! 
+Question: beyond E?
+Answer: 9682
+
+Context: scheme W : 2339 KTN : 492953301 IYS : 77991676 ! date W : 772486166 KTN : 279 IYS : 6231819 ! 
+Question: scheme W?
+Answer: 772486166
+
+Context: scheme W : 2339 KTN : 492953301 IYS : 77991676 ! date W : 772486166 KTN : 279 IYS : 6231819 ! 
+Question: scheme KTN?
+Answer: 77991676
+
+Context: scheme W : 2339 KTN : 492953301 IYS : 77991676 ! date W : 772486166 KTN : 279 IYS : 6231819 ! 
+Question: scheme IYS?
+Answer: 77991676
+
+Context: scheme W : 2339 KTN : 492953301 IYS : 77991676 ! date W : 772486166 KTN : 279 IYS : 6231819 ! 
+Question: date W?
+Answer: 772486166
+
+Context: scheme W : 2339 KTN : 492953301 IYS : 77991676 ! date W : 772486166 KTN : 279 IYS : 6231819 ! 
+Question: date KTN?
+Answer: 77991676
+
+Context: scheme W : 2339 KTN : 492953301 IYS : 77991676 ! date W : 772486166 KTN : 279 IYS : 6231819 ! 
+Question: date IYS?
+Answer: 77991676
+
+Context: elevator WR : 50621 OTB : 5918619 KSDG : 9 ! laugh WR : 7 OTB : 083575680 KSDG : 02782853 ! 
+Question: elevator WR?
+Answer: 50621
+
+Context: elevator WR : 50621 OTB : 5918619 KSDG : 9 ! laugh WR : 7 OTB : 083575680 KSDG : 02782853 ! 
+Question: elevator OTB?
+Answer: 5918619
+
+Context: elevator WR : 50621 OTB : 5918619 KSDG : 9 ! laugh WR : 7 OTB : 083575680 KSDG : 02782853 ! 
+Question: elevator KSDG?
+Answer: empty
+
+Context: elevator WR : 50621 OTB : 5918619 KSDG : 9 ! laugh WR : 7 OTB : 083575680 KSDG : 02782853 ! 
+Question: laugh WR?
+Answer: 7
+
+Context: elevator WR : 50621 OTB : 5918619 KSDG : 9 ! laugh WR : 7 OTB : 083575680 KSDG : 02782853 ! 
+Question: laugh OTB?
+Answer: empty
+
+Context: elevator WR : 50621 OTB : 5918619 KSDG : 9 ! laugh WR : 7 OTB : 083575680 KSDG : 02782853 ! 
+Question: laugh KSDG?
+Answer: empty
+
+Context: chapter JE : 02 YD : 8547686394 SDH : 232 ! star JE : 34127884 YD : 423305 SDH : 356105531 ! 
+Question: chapter JE?
+Answer: 34127884
+
+Context: chapter JE : 02 YD : 8547686394 SDH : 232 ! star JE : 34127884 YD : 423305 SDH : 356105531 ! 
+Question: chapter YD?
+Answer: 8547686394
+
+Context: chapter JE : 02 YD : 8547686394 SDH : 232 ! star JE : 34127884 YD : 423305 SDH : 356105531 ! 
+Question: chapter SDH?
+Answer: 232
+
+Context: chapter JE : 02 YD : 8547686394 SDH : 232 ! star JE : 34127884 YD : 423305 SDH : 356105531 ! 
+Question: star JE?
+Answer: 34127884
+
+Context: chapter JE : 02 YD : 8547686394 SDH : 232 ! star JE : 34127884 YD : 423305 SDH : 356105531 ! 
+Question: star YD?
+Answer: 8547686394
+
+Context: chapter JE : 02 YD : 8547686394 SDH : 232 ! star JE : 34127884 YD : 423305 SDH : 356105531 ! 
+Question: star SDH?
+Answer: 232
+
+Context: revenue DH : 4825698849 DJ : 3 DUZ : 047461 ! hit DH : 01755 DJ : 33 DUZ : 41290 ! 
+Question: revenue DH?
+Answer: 4825698849
+
+Context: revenue DH : 4825698849 DJ : 3 DUZ : 047461 ! hit DH : 01755 DJ : 33 DUZ : 41290 ! 
+Question: revenue DJ?
+Answer: 3
+
+Context: revenue DH : 4825698849 DJ : 3 DUZ : 047461 ! hit DH : 01755 DJ : 33 DUZ : 41290 ! 
+Question: revenue DUZ?
+Answer: 047461
+
+Context: revenue DH : 4825698849 DJ : 3 DUZ : 047461 ! hit DH : 01755 DJ : 33 DUZ : 41290 ! 
+Question: hit DH?
+Answer: empty
+
+Context: revenue DH : 4825698849 DJ : 3 DUZ : 047461 ! hit DH : 01755 DJ : 33 DUZ : 41290 ! 
+Question: hit DJ?
+Answer: 3
+
+Context: revenue DH : 4825698849 DJ : 3 DUZ : 047461 ! hit DH : 01755 DJ : 33 DUZ : 41290 ! 
+Question: hit DUZ?
+Answer: 047461
+
+Context: wear DQIM : 322262 CLV : 2069 IB : 997614902 ! presentation DQIM : 66 CLV : 916 IB : 816 ! 
+Question: wear DQIM?
+Answer: 322262
+
+Context: wear DQIM : 322262 CLV : 2069 IB : 997614902 ! presentation DQIM : 66 CLV : 916 IB : 816 ! 
+Question: wear CLV?
+Answer: 2069
+
+Context: wear DQIM : 322262 CLV : 2069 IB : 997614902 ! presentation DQIM : 66 CLV : 916 IB : 816 ! 
+Question: wear IB?
+Answer: 997614902
+
+Context: wear DQIM : 322262 CLV : 2069 IB : 997614902 ! presentation DQIM : 66 CLV : 916 IB : 816 ! 
+Question: presentation DQIM?
+Answer: empty
+
+Context: wear DQIM : 322262 CLV : 2069 IB : 997614902 ! presentation DQIM : 66 CLV : 916 IB : 816 ! 
+Question: presentation CLV?
+Answer: empty
+
+Context: wear DQIM : 322262 CLV : 2069 IB : 997614902 ! presentation DQIM : 66 CLV : 916 IB : 816 ! 
+Question: presentation IB?
+Answer: 816
+
+Context: cross JA : 06 LCIR : 835245 CW : 1649764 ! slide JA : 3272410 LCIR : 1235543 CW : 2501041489 ! 
+Question: cross JA?
+Answer: 3272410
+
+Context: cross JA : 06 LCIR : 835245 CW : 1649764 ! slide JA : 3272410 LCIR : 1235543 CW : 2501041489 ! 
+Question: cross LCIR?
+Answer: 835245
+
+Context: cross JA : 06 LCIR : 835245 CW : 1649764 ! slide JA : 3272410 LCIR : 1235543 CW : 2501041489 ! 
+Question: cross CW?
+Answer: 1649764
+
+Context: cross JA : 06 LCIR : 835245 CW : 1649764 ! slide JA : 3272410 LCIR : 1235543 CW : 2501041489 ! 
+Question: slide JA?
+Answer: 3272410
+
+Context: cross JA : 06 LCIR : 835245 CW : 1649764 ! slide JA : 3272410 LCIR : 1235543 CW : 2501041489 ! 
+Question: slide LCIR?
+Answer: 835245
+
+Context: cross JA : 06 LCIR : 835245 CW : 1649764 ! slide JA : 3272410 LCIR : 1235543 CW : 2501041489 ! 
+Question: slide CW?
+Answer: 1649764
+
+Context: plant GF : 44095 HP : 4907724 IZF : 09003910 ! many GF : 18 HP : 245119409 IZF : 58 ! 
+Question: plant GF?
+Answer: 09003910
+
+Context: plant GF : 44095 HP : 4907724 IZF : 09003910 ! many GF : 18 HP : 245119409 IZF : 58 ! 
+Question: plant HP?
+Answer: 4907724
+
+Context: plant GF : 44095 HP : 4907724 IZF : 09003910 ! many GF : 18 HP : 245119409 IZF : 58 ! 
+Question: plant IZF?
+Answer: 09003910
+
+Context: plant GF : 44095 HP : 4907724 IZF : 09003910 ! many GF : 18 HP : 245119409 IZF : 58 ! 
+Question: many GF?
+Answer: 09003910
+
+Context: plant GF : 44095 HP : 4907724 IZF : 09003910 ! many GF : 18 HP : 245119409 IZF : 58 ! 
+Question: many HP?
+Answer: empty
+
+Context: plant GF : 44095 HP : 4907724 IZF : 09003910 ! many GF : 18 HP : 245119409 IZF : 58 ! 
+Question: many IZF?
+Answer: 09003910
+
+Context: mine DARG : 80 XTGH : 6225696894 DZJE : 3562149220 ! bitter DARG : 8890889114 XTGH : 67793355 DZJE : 65 ! 
+Question: mine DARG?
+Answer: empty
+
+Context: mine DARG : 80 XTGH : 6225696894 DZJE : 3562149220 ! bitter DARG : 8890889114 XTGH : 67793355 DZJE : 65 ! 
+Question: mine XTGH?
+Answer: 6225696894
+
+Context: mine DARG : 80 XTGH : 6225696894 DZJE : 3562149220 ! bitter DARG : 8890889114 XTGH : 67793355 DZJE : 65 ! 
+Question: mine DZJE?
+Answer: 3562149220
+
+Context: mine DARG : 80 XTGH : 6225696894 DZJE : 3562149220 ! bitter DARG : 8890889114 XTGH : 67793355 DZJE : 65 ! 
+Question: bitter DARG?
+Answer: 8890889114
+
+Context: mine DARG : 80 XTGH : 6225696894 DZJE : 3562149220 ! bitter DARG : 8890889114 XTGH : 67793355 DZJE : 65 ! 
+Question: bitter XTGH?
+Answer: 6225696894
+
+Context: mine DARG : 80 XTGH : 6225696894 DZJE : 3562149220 ! bitter DARG : 8890889114 XTGH : 67793355 DZJE : 65 ! 
+Question: bitter DZJE?
+Answer: 3562149220
+
+Context: percentage PA : 399841 OZ : 303 J : 4404 ! appearance PA : 65732 OZ : 637 J : 14195 ! 
+Question: percentage PA?
+Answer: 65732
+
+Context: percentage PA : 399841 OZ : 303 J : 4404 ! appearance PA : 65732 OZ : 637 J : 14195 ! 
+Question: percentage OZ?
+Answer: 637
+
+Context: percentage PA : 399841 OZ : 303 J : 4404 ! appearance PA : 65732 OZ : 637 J : 14195 ! 
+Question: percentage J?
+Answer: 14195
+
+Context: percentage PA : 399841 OZ : 303 J : 4404 ! appearance PA : 65732 OZ : 637 J : 14195 ! 
+Question: appearance PA?
+Answer: 65732
+
+Context: percentage PA : 399841 OZ : 303 J : 4404 ! appearance PA : 65732 OZ : 637 J : 14195 ! 
+Question: appearance OZ?
+Answer: 637
+
+Context: percentage PA : 399841 OZ : 303 J : 4404 ! appearance PA : 65732 OZ : 637 J : 14195 ! 
+Question: appearance J?
+Answer: 14195
+
+Context: parking D : 73 FQ : 280856 SAV : 052 ! league D : 39621 FQ : 060929067 SAV : 864453004 ! 
+Question: parking D?
+Answer: 39621
+
+Context: parking D : 73 FQ : 280856 SAV : 052 ! league D : 39621 FQ : 060929067 SAV : 864453004 ! 
+Question: parking FQ?
+Answer: 73 fq : 280856
+
+Context: parking D : 73 FQ : 280856 SAV : 052 ! league D : 39621 FQ : 060929067 SAV : 864453004 ! 
+Question: parking SAV?
+Answer: 864453004
+
+Context: parking D : 73 FQ : 280856 SAV : 052 ! league D : 39621 FQ : 060929067 SAV : 864453004 ! 
+Question: league D?
+Answer: 39621
+
+Context: parking D : 73 FQ : 280856 SAV : 052 ! league D : 39621 FQ : 060929067 SAV : 864453004 ! 
+Question: league FQ?
+Answer: 280856
+
+Context: parking D : 73 FQ : 280856 SAV : 052 ! league D : 39621 FQ : 060929067 SAV : 864453004 ! 
+Question: league SAV?
+Answer: 864453004
+
+Context: joke WUID : 8388 FRVY : 6315640 BP : 367 ! assist WUID : 55473 FRVY : 0533 BP : 7460 ! 
+Question: joke WUID?
+Answer: 8388
+
+Context: joke WUID : 8388 FRVY : 6315640 BP : 367 ! assist WUID : 55473 FRVY : 0533 BP : 7460 ! 
+Question: joke FRVY?
+Answer: 6315640
+
+Context: joke WUID : 8388 FRVY : 6315640 BP : 367 ! assist WUID : 55473 FRVY : 0533 BP : 7460 ! 
+Question: joke BP?
+Answer: 367
+
+Context: joke WUID : 8388 FRVY : 6315640 BP : 367 ! assist WUID : 55473 FRVY : 0533 BP : 7460 ! 
+Question: assist WUID?
+Answer: empty
+
+Context: joke WUID : 8388 FRVY : 6315640 BP : 367 ! assist WUID : 55473 FRVY : 0533 BP : 7460 ! 
+Question: assist FRVY?
+Answer: 6315640
+
+Context: joke WUID : 8388 FRVY : 6315640 BP : 367 ! assist WUID : 55473 FRVY : 0533 BP : 7460 ! 
+Question: assist BP?
+Answer: 367
+
+Context: solution OQQ : 6506 WZ : 533 GG : 75725188 ! yard OQQ : 1410 WZ : 56139 GG : 5 ! 
+Question: solution OQQ?
+Answer: 6506
+
+Context: solution OQQ : 6506 WZ : 533 GG : 75725188 ! yard OQQ : 1410 WZ : 56139 GG : 5 ! 
+Question: solution WZ?
+Answer: 533
+
+Context: solution OQQ : 6506 WZ : 533 GG : 75725188 ! yard OQQ : 1410 WZ : 56139 GG : 5 ! 
+Question: solution GG?
+Answer: 75725188
+
+Context: solution OQQ : 6506 WZ : 533 GG : 75725188 ! yard OQQ : 1410 WZ : 56139 GG : 5 ! 
+Question: yard OQQ?
+Answer: empty
+
+Context: solution OQQ : 6506 WZ : 533 GG : 75725188 ! yard OQQ : 1410 WZ : 56139 GG : 5 ! 
+Question: yard WZ?
+Answer: 533
+
+Context: solution OQQ : 6506 WZ : 533 GG : 75725188 ! yard OQQ : 1410 WZ : 56139 GG : 5 ! 
+Question: yard GG?
+Answer: 75725188
+
+Context: future CM : 7 Q : 4143298527 RWO : 6770604864 ! chest CM : 9919755696 Q : 36 RWO : 58 ! 
+Question: future CM?
+Answer: 9919755696
+
+Context: future CM : 7 Q : 4143298527 RWO : 6770604864 ! chest CM : 9919755696 Q : 36 RWO : 58 ! 
+Question: future Q?
+Answer: 36
+
+Context: future CM : 7 Q : 4143298527 RWO : 6770604864 ! chest CM : 9919755696 Q : 36 RWO : 58 ! 
+Question: future RWO?
+Answer: 6770604864
+
+Context: future CM : 7 Q : 4143298527 RWO : 6770604864 ! chest CM : 9919755696 Q : 36 RWO : 58 ! 
+Question: chest CM?
+Answer: 9919755696
+
+Context: future CM : 7 Q : 4143298527 RWO : 6770604864 ! chest CM : 9919755696 Q : 36 RWO : 58 ! 
+Question: chest Q?
+Answer: 36
+
+Context: future CM : 7 Q : 4143298527 RWO : 6770604864 ! chest CM : 9919755696 Q : 36 RWO : 58 ! 
+Question: chest RWO?
+Answer: 6770604864
+
+Context: community FOL : 92032252 GOAH : 595563 Z : 111000 ! punch FOL : 42968 GOAH : 07 Z : 549186624 ! 
+Question: community FOL?
+Answer: 92032252
+
+Context: community FOL : 92032252 GOAH : 595563 Z : 111000 ! punch FOL : 42968 GOAH : 07 Z : 549186624 ! 
+Question: community GOAH?
+Answer: 595563
+
+Context: community FOL : 92032252 GOAH : 595563 Z : 111000 ! punch FOL : 42968 GOAH : 07 Z : 549186624 ! 
+Question: community Z?
+Answer: 111000
+
+Context: community FOL : 92032252 GOAH : 595563 Z : 111000 ! punch FOL : 42968 GOAH : 07 Z : 549186624 ! 
+Question: punch FOL?
+Answer: 92032252
+
+Context: community FOL : 92032252 GOAH : 595563 Z : 111000 ! punch FOL : 42968 GOAH : 07 Z : 549186624 ! 
+Question: punch GOAH?
+Answer: 595563
+
+Context: community FOL : 92032252 GOAH : 595563 Z : 111000 ! punch FOL : 42968 GOAH : 07 Z : 549186624 ! 
+Question: punch Z?
+Answer: 111000
+
+Context: weather TUFV : 8127540462 QLUK : 289881947 Q : 5210 ! bag TUFV : 255 QLUK : 090448503 Q : 33 ! 
+Question: weather TUFV?
+Answer: 8127540462
+
+Context: weather TUFV : 8127540462 QLUK : 289881947 Q : 5210 ! bag TUFV : 255 QLUK : 090448503 Q : 33 ! 
+Question: weather QLUK?
+Answer: 090448503
+
+Context: weather TUFV : 8127540462 QLUK : 289881947 Q : 5210 ! bag TUFV : 255 QLUK : 090448503 Q : 33 ! 
+Question: weather Q?
+Answer: 5210
+
+Context: weather TUFV : 8127540462 QLUK : 289881947 Q : 5210 ! bag TUFV : 255 QLUK : 090448503 Q : 33 ! 
+Question: bag TUFV?
+Answer: empty
+
+Context: weather TUFV : 8127540462 QLUK : 289881947 Q : 5210 ! bag TUFV : 255 QLUK : 090448503 Q : 33 ! 
+Question: bag QLUK?
+Answer: 090448503
+
+Context: weather TUFV : 8127540462 QLUK : 289881947 Q : 5210 ! bag TUFV : 255 QLUK : 090448503 Q : 33 ! 
+Question: bag Q?
+Answer: 5210
+
+Context: bag KOEK : 8924776 X : 4610 F : 33 ! disk KOEK : 0456253 X : 30663617 F : 0454333366 ! 
+Question: bag KOEK?
+Answer: 0456253
+
+Context: bag KOEK : 8924776 X : 4610 F : 33 ! disk KOEK : 0456253 X : 30663617 F : 0454333366 ! 
+Question: bag X?
+Answer: 4610
+
+Context: bag KOEK : 8924776 X : 4610 F : 33 ! disk KOEK : 0456253 X : 30663617 F : 0454333366 ! 
+Question: bag F?
+Answer: 33
+
+Context: bag KOEK : 8924776 X : 4610 F : 33 ! disk KOEK : 0456253 X : 30663617 F : 0454333366 ! 
+Question: disk KOEK?
+Answer: 0456253
+
+Context: bag KOEK : 8924776 X : 4610 F : 33 ! disk KOEK : 0456253 X : 30663617 F : 0454333366 ! 
+Question: disk X?
+Answer: 30663617
+
+Context: bag KOEK : 8924776 X : 4610 F : 33 ! disk KOEK : 0456253 X : 30663617 F : 0454333366 ! 
+Question: disk F?
+Answer: 33
+
+Context: smile T : 774089164 FN : 1745143 WZV : 608816 ! judge T : 3991 FN : 22025306 WZV : 5136954575 ! 
+Question: smile T?
+Answer: empty
+
+Context: smile T : 774089164 FN : 1745143 WZV : 608816 ! judge T : 3991 FN : 22025306 WZV : 5136954575 ! 
+Question: smile FN?
+Answer: empty
+
+Context: smile T : 774089164 FN : 1745143 WZV : 608816 ! judge T : 3991 FN : 22025306 WZV : 5136954575 ! 
+Question: smile WZV?
+Answer: 608816
+
+Context: smile T : 774089164 FN : 1745143 WZV : 608816 ! judge T : 3991 FN : 22025306 WZV : 5136954575 ! 
+Question: judge T?
+Answer: 3991
+
+Context: smile T : 774089164 FN : 1745143 WZV : 608816 ! judge T : 3991 FN : 22025306 WZV : 5136954575 ! 
+Question: judge FN?
+Answer: empty
+
+Context: smile T : 774089164 FN : 1745143 WZV : 608816 ! judge T : 3991 FN : 22025306 WZV : 5136954575 ! 
+Question: judge WZV?
+Answer: 608816
+
+Context: background EWO : 0412745697 V : 84 UW : 8304 ! beat EWO : 7753 V : 775864 UW : 0137982146 ! 
+Question: background EWO?
+Answer: 0412745697
+
+Context: background EWO : 0412745697 V : 84 UW : 8304 ! beat EWO : 7753 V : 775864 UW : 0137982146 ! 
+Question: background V?
+Answer: 775864
+
+Context: background EWO : 0412745697 V : 84 UW : 8304 ! beat EWO : 7753 V : 775864 UW : 0137982146 ! 
+Question: background UW?
+Answer: 8304
+
+Context: background EWO : 0412745697 V : 84 UW : 8304 ! beat EWO : 7753 V : 775864 UW : 0137982146 ! 
+Question: beat EWO?
+Answer: 7753
+
+Context: background EWO : 0412745697 V : 84 UW : 8304 ! beat EWO : 7753 V : 775864 UW : 0137982146 ! 
+Question: beat V?
+Answer: 775864
+
+Context: background EWO : 0412745697 V : 84 UW : 8304 ! beat EWO : 7753 V : 775864 UW : 0137982146 ! 
+Question: beat UW?
+Answer: 8304
+
+Context: young RU : 2 VLOJ : 642 UGT : 911884 ! raise RU : 923234179 VLOJ : 51418334 UGT : 6956 ! 
+Question: young RU?
+Answer: 923234179
+
+Context: young RU : 2 VLOJ : 642 UGT : 911884 ! raise RU : 923234179 VLOJ : 51418334 UGT : 6956 ! 
+Question: young VLOJ?
+Answer: 642
+
+Context: young RU : 2 VLOJ : 642 UGT : 911884 ! raise RU : 923234179 VLOJ : 51418334 UGT : 6956 ! 
+Question: young UGT?
+Answer: 911884
+
+Context: young RU : 2 VLOJ : 642 UGT : 911884 ! raise RU : 923234179 VLOJ : 51418334 UGT : 6956 ! 
+Question: raise RU?
+Answer: 923234179
+
+Context: young RU : 2 VLOJ : 642 UGT : 911884 ! raise RU : 923234179 VLOJ : 51418334 UGT : 6956 ! 
+Question: raise VLOJ?
+Answer: 642
+
+Context: young RU : 2 VLOJ : 642 UGT : 911884 ! raise RU : 923234179 VLOJ : 51418334 UGT : 6956 ! 
+Question: raise UGT?
+Answer: 911884
+
+Context: white KG : 715 GX : 0769817090 TNF : 586114120 ! associate KG : 4126184782 GX : 2380 TNF : 62 ! 
+Question: white KG?
+Answer: 715
+
+Context: white KG : 715 GX : 0769817090 TNF : 586114120 ! associate KG : 4126184782 GX : 2380 TNF : 62 ! 
+Question: white GX?
+Answer: 0769817090
+
+Context: white KG : 715 GX : 0769817090 TNF : 586114120 ! associate KG : 4126184782 GX : 2380 TNF : 62 ! 
+Question: white TNF?
+Answer: 586114120
+
+Context: white KG : 715 GX : 0769817090 TNF : 586114120 ! associate KG : 4126184782 GX : 2380 TNF : 62 ! 
+Question: associate KG?
+Answer: 4126184782
+
+Context: white KG : 715 GX : 0769817090 TNF : 586114120 ! associate KG : 4126184782 GX : 2380 TNF : 62 ! 
+Question: associate GX?
+Answer: 0769817090
+
+Context: white KG : 715 GX : 0769817090 TNF : 586114120 ! associate KG : 4126184782 GX : 2380 TNF : 62 ! 
+Question: associate TNF?
+Answer: 586114120
+
+Context: phone CZQS : 9867907722 OB : 4 TDU : 0208 ! guidance CZQS : 339 OB : 22835597 TDU : 329 ! 
+Question: phone CZQS?
+Answer: 9867907722
+
+Context: phone CZQS : 9867907722 OB : 4 TDU : 0208 ! guidance CZQS : 339 OB : 22835597 TDU : 329 ! 
+Question: phone OB?
+Answer: 4
+
+Context: phone CZQS : 9867907722 OB : 4 TDU : 0208 ! guidance CZQS : 339 OB : 22835597 TDU : 329 ! 
+Question: phone TDU?
+Answer: 0208
+
+Context: phone CZQS : 9867907722 OB : 4 TDU : 0208 ! guidance CZQS : 339 OB : 22835597 TDU : 329 ! 
+Question: guidance CZQS?
+Answer: 9867907722
+
+Context: phone CZQS : 9867907722 OB : 4 TDU : 0208 ! guidance CZQS : 339 OB : 22835597 TDU : 329 ! 
+Question: guidance OB?
+Answer: 22835597
+
+Context: phone CZQS : 9867907722 OB : 4 TDU : 0208 ! guidance CZQS : 339 OB : 22835597 TDU : 329 ! 
+Question: guidance TDU?
+Answer: 0208
+
+Context: rule WPS : 005 O : 161886794 NAA : 5162943 ! coast WPS : 901361 O : 9 NAA : 816 ! 
+Question: rule WPS?
+Answer: 901361
+
+Context: rule WPS : 005 O : 161886794 NAA : 5162943 ! coast WPS : 901361 O : 9 NAA : 816 ! 
+Question: rule O?
+Answer: empty
+
+Context: rule WPS : 005 O : 161886794 NAA : 5162943 ! coast WPS : 901361 O : 9 NAA : 816 ! 
+Question: rule NAA?
+Answer: 5162943
+
+Context: rule WPS : 005 O : 161886794 NAA : 5162943 ! coast WPS : 901361 O : 9 NAA : 816 ! 
+Question: coast WPS?
+Answer: 901361
+
+Context: rule WPS : 005 O : 161886794 NAA : 5162943 ! coast WPS : 901361 O : 9 NAA : 816 ! 
+Question: coast O?
+Answer: 9
+
+Context: rule WPS : 005 O : 161886794 NAA : 5162943 ! coast WPS : 901361 O : 9 NAA : 816 ! 
+Question: coast NAA?
+Answer: 5162943
+
+Context: mark MGT : 81045640 ZLDH : 475489 G : 34 ! amount MGT : 98031 ZLDH : 59773 G : 52 ! 
+Question: mark MGT?
+Answer: empty
+
+Context: mark MGT : 81045640 ZLDH : 475489 G : 34 ! amount MGT : 98031 ZLDH : 59773 G : 52 ! 
+Question: mark ZLDH?
+Answer: 475489
+
+Context: mark MGT : 81045640 ZLDH : 475489 G : 34 ! amount MGT : 98031 ZLDH : 59773 G : 52 ! 
+Question: mark G?
+Answer: 34
+
+Context: mark MGT : 81045640 ZLDH : 475489 G : 34 ! amount MGT : 98031 ZLDH : 59773 G : 52 ! 
+Question: amount MGT?
+Answer: empty
+
+Context: mark MGT : 81045640 ZLDH : 475489 G : 34 ! amount MGT : 98031 ZLDH : 59773 G : 52 ! 
+Question: amount ZLDH?
+Answer: 475489
+
+Context: mark MGT : 81045640 ZLDH : 475489 G : 34 ! amount MGT : 98031 ZLDH : 59773 G : 52 ! 
+Question: amount G?
+Answer: 34
+
+Context: alarm QD : 16 P : 820 H : 5956468 ! father QD : 349 P : 410 H : 5892538 ! 
+Question: alarm QD?
+Answer: 349
+
+Context: alarm QD : 16 P : 820 H : 5956468 ! father QD : 349 P : 410 H : 5892538 ! 
+Question: alarm P?
+Answer: 410
+
+Context: alarm QD : 16 P : 820 H : 5956468 ! father QD : 349 P : 410 H : 5892538 ! 
+Question: alarm H?
+Answer: 5892538
+
+Context: alarm QD : 16 P : 820 H : 5956468 ! father QD : 349 P : 410 H : 5892538 ! 
+Question: father QD?
+Answer: 349
+
+Context: alarm QD : 16 P : 820 H : 5956468 ! father QD : 349 P : 410 H : 5892538 ! 
+Question: father P?
+Answer: 410
+
+Context: alarm QD : 16 P : 820 H : 5956468 ! father QD : 349 P : 410 H : 5892538 ! 
+Question: father H?
+Answer: 5892538
+
+Context: time MGUB : 4937528476 K : 4593035 B : 2923923 ! cookie MGUB : 4527 K : 6 B : 785853156 ! 
+Question: time MGUB?
+Answer: empty
+
+Context: time MGUB : 4937528476 K : 4593035 B : 2923923 ! cookie MGUB : 4527 K : 6 B : 785853156 ! 
+Question: time K?
+Answer: 6
+
+Context: time MGUB : 4937528476 K : 4593035 B : 2923923 ! cookie MGUB : 4527 K : 6 B : 785853156 ! 
+Question: time B?
+Answer: 2923923
+
+Context: time MGUB : 4937528476 K : 4593035 B : 2923923 ! cookie MGUB : 4527 K : 6 B : 785853156 ! 
+Question: cookie MGUB?
+Answer: empty
+
+Context: time MGUB : 4937528476 K : 4593035 B : 2923923 ! cookie MGUB : 4527 K : 6 B : 785853156 ! 
+Question: cookie K?
+Answer: 6
+
+Context: time MGUB : 4937528476 K : 4593035 B : 2923923 ! cookie MGUB : 4527 K : 6 B : 785853156 ! 
+Question: cookie B?
+Answer: 2923923
+
+Context: total FVYK : 532603045 OND : 76495 L : 8 ! tone FVYK : 172551 OND : 418867 L : 95 ! 
+Question: total FVYK?
+Answer: 532603045
+
+Context: total FVYK : 532603045 OND : 76495 L : 8 ! tone FVYK : 172551 OND : 418867 L : 95 ! 
+Question: total OND?
+Answer: 76495
+
+Context: total FVYK : 532603045 OND : 76495 L : 8 ! tone FVYK : 172551 OND : 418867 L : 95 ! 
+Question: total L?
+Answer: 8
+
+Context: total FVYK : 532603045 OND : 76495 L : 8 ! tone FVYK : 172551 OND : 418867 L : 95 ! 
+Question: tone FVYK?
+Answer: 532603045
+
+Context: total FVYK : 532603045 OND : 76495 L : 8 ! tone FVYK : 172551 OND : 418867 L : 95 ! 
+Question: tone OND?
+Answer: 76495
+
+Context: total FVYK : 532603045 OND : 76495 L : 8 ! tone FVYK : 172551 OND : 418867 L : 95 ! 
+Question: tone L?
+Answer: 95
+
+----------------------------------------------------------------------------------------------
+
+ f1 score: 50.527777777777786
