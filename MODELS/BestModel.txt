@@ -1,0 +1,36 @@
+UK_2word_frst_word_same_50k_transfer_learned_10k_claims_lowercase_batchsize8_lr5
+
+UK_2word_frst_word_same_50k_transfer_learned_10k_claims_lowercase_batchsize8_lr5-20210719T062645Z-001
+
+--------------------------------------------------------------
+Random data
+--------------------------------------------------------------
+training samples - 500000
+val samples      - 100000
+data with symbols - "& / . + and"  --- without symbols
+epoch - 4
+batch size - 8
+learning rate - 2e-5
+
+f1 score on 600 test data - 78.79
+
+-------------------------------------------------------------
+
+User defined data
+--------------------------------------------------------------
+transfer learned on model build using randomdata
+
+training samples - 10000
+val samples      - 2000
+data with symbols - "AD","FT","TP"
+				  - "ADFT&W/S","F+T","T.P."
+				  - "AD","F&T","T and P"
+
+epoch - 10
+batch size - 8
+learning rate - 2e-5
+
+f1 score on 600 test data with symbols - 86.66
+f1 score on 600 test data without symbols - 100
+
+--------------------------------------------------------------
